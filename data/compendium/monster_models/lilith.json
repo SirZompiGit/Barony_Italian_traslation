@@ -1,0 +1,144 @@
+{
+    "version": 1,
+    "camera": {
+        "ang_degrees": -35,
+        "vang_degrees": -20,
+        "zoom": 0.2,
+        "height": 8.0,
+        "rotate_limit_degrees_min": -15,
+        "rotate_limit_degrees_max": 15,
+        "rotate_speed": 0.2
+    },
+	"map_tiles": 
+	{
+		"ceiling": 119,
+		"width": 4,
+		"height": 4,
+		"floor": [
+			35, 35, 35, 35,
+			35, 35, 35, 35,
+			35, 35, 35, 35,
+			35, 35, 35, 35
+
+		],
+		"mid": [
+			18, 319, 18, 18,
+			18, 0, 0, 0,
+			18, 0, 0, 0,			
+			18, 319, 18, 18
+		],
+		"top": [
+			72, 72, 72, 72,
+			72, 0, 0, 0,			
+			72, 0, 0, 0,
+			72, 72, 72, 72
+		]
+	},		
+    "limbs": [
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0.0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 0,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },	
+        {
+            "x": 0,
+            "y": 0,
+            "z": -1.0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+            "focalx": 1.0,
+            "focaly": 0.0,
+            "focalz": -3.0,
+            "sprite": 1126,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },
+        {
+            "x": 0.5,
+            "y": 0.0,
+            "z": 1.5,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 1129,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },
+        {
+            "x": 0.75,
+            "y": -1.0,
+            "z": 4.0,
+            "pitch": 0.06460183660255187,
+            "roll": 0.0,
+            "yaw": 0.0,
+            "focalx": 0.25,
+            "focaly": 0.0,
+            "focalz": 2.0,
+            "sprite": 1128,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },
+        {
+            "x": 0.75,
+            "y": 1.01,
+            "z": 4.0,
+            "pitch": -0.06460183660255187,
+            "roll": 0.0,
+            "yaw": 0.0,
+            "focalx": 0.25,
+            "focaly": 0.0,
+            "focalz": 2.0,
+            "sprite": 1127,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },
+        {
+            "x": 0.20000000000000019,
+            "y": -2.5,
+            "z": -0.5,
+            "pitch": 5.283185307179586,
+            "roll": -0.09817477042468104,
+            "yaw": 0.0,
+            "focalx": 0.25,
+            "focaly": 0.0,
+            "focalz": 2.5,
+            "sprite": 1125,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },
+        {
+            "x": 0.20000000000000019,
+            "y": 2.5,
+            "z": -0.5,
+            "pitch": 0.15,
+            "roll": 0.19634954084936208,
+            "yaw": 0.0,
+            "focalx": 0.0,
+            "focaly": 0.25,
+            "focalz": 2.5,
+            "sprite": 1122,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        }
+    ]
+}

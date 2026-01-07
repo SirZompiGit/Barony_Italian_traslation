@@ -1,0 +1,303 @@
+{
+	"version": 1,
+	"items": {
+		"enchanted rings": {
+			"lore_points": 5,
+			"items": [
+				{"ring_strength": {"rotation": 45}}       ,
+				{"ring_constitution": {"rotation": 45}}   ,
+				{"ring_adornment": {"rotation": 45}}      ,
+				{"ring_protection": {"rotation": 45}}     ,
+				{"ring_warning": {"rotation": 45}}        ,
+				{"ring_teleportation": {"rotation": 45}},
+				{"ring_magicresistance": {"rotation": 45}},
+				{"ring_slowdigestion": {"rotation": 45}}  ,
+				{"ring_conflict": {"rotation": 45}}       ,
+				{"ring_invisibility": {"rotation": 45}}   ,
+				{"ring_levitation": {"rotation": 45}}    ,
+				{"ring_regeneration": {"rotation": 45}}   
+		  ],
+		  "events": ["BLESSED_MAX", "BLESSED_TOTAL", "TIME_WORN"],
+		  "events_display": [ "RUNS_COLLECTED", "BLESSED_MAX", "BLESSED_TOTAL", "TIME_WORN"]
+		},
+		"enchanted amulets": {
+			"lore_points": 3,
+			"items": [
+				{"amulet_poisonresistance": {"rotation": 45}},
+				{"amulet_strangulation": {"rotation": 45}}   ,
+				{"amulet_waterbreathing": {"rotation": 45}}  ,
+				{"amulet_sexchange": {"rotation": 45}}       ,
+				{"amulet_magicreflection": {"rotation": 45}} ,
+				{"amulet_lifesaving": {"rotation": 45}}      
+			],
+			"events": ["BLESSED_MAX", "BLESSED_TOTAL", "BROKEN"],
+			"events_display": [ "RUNS_COLLECTED", "BLESSED_MAX", "BLESSED_TOTAL", "BROKEN"]
+		},
+		"magicstaffs": {
+			"lore_points": 5,
+			"items": [
+				{"magicstaff_opening": {"rotation": 45}}     ,
+				{"magicstaff_locking": {"rotation": 45}}     ,
+				{"magicstaff_light": {"rotation": 45}}       ,
+				{"magicstaff_slow": {"rotation": 45}}        ,
+				{"magicstaff_sleep": {"rotation": 45}}       ,
+				{"magicstaff_digging": {"rotation": 45}}     ,
+				{"magicstaff_cold": {"rotation": 45}}        ,
+				{"magicstaff_poison": {"rotation": 45}},
+				{"magicstaff_fire": {"rotation": 45}}        ,
+				{"magicstaff_lightning": {"rotation": 45}}   ,
+				{"magicstaff_charm": {"rotation": 45}}       ,
+				{"magicstaff_magicmissile": {"rotation": 45}},
+				{"magicstaff_bleed": {"rotation": 45}}       ,
+				{"magicstaff_stoneblood": {"rotation": 45}}  
+			],
+			"events": ["MAGICSTAFF_CASTS", "SPELL_DMG", "MAGICSTAFF_RECHARGED"],
+			"events_display": [ "RUNS_COLLECTED", "SPELL_DMG", "MAGICSTAFF_CASTS", "BROKEN", "MAGICSTAFF_RECHARGED"]
+		},
+		"scrolls": {
+			"lore_points": 5,
+			"items": [
+				{"scroll_blank": {"rotation": 90}}        ,
+				{"scroll_fire": {"rotation": 90}}         ,
+				{"scroll_removecurse": {"rotation": 90}}  ,
+				{"scroll_light": {"rotation": 90}}        ,
+				{"scroll_identify": {"rotation": 90}}     ,
+				{"scroll_repair": {"rotation": 90}}       ,
+				{"scroll_destroyarmor": {"rotation": 90}} ,
+				{"scroll_magicmapping": {"rotation": 90}} ,
+				{"scroll_charging": {"rotation": 90}}     ,
+				{"scroll_conjurearrow": {"rotation": 90}},
+				{"scroll_food": {"rotation": 90}}         ,
+				{"scroll_teleportation": {"rotation": 90}},
+				{"scroll_summon": {"rotation": 90}}       ,
+				{"scroll_enchantweapon": {"rotation": 90}},
+				{"scroll_enchantarmor": {"rotation": 90}} 
+			],
+			"events": [
+				"CONSUMED_UNIDENTIFIED", "CONSUMED"
+			],
+			"events_display": [ "RUNS_COLLECTED", "CONSUMED", "CONSUMED_UNIDENTIFIED" ]
+		},
+		"enchanted feather": {
+			"lore_points": 1,
+			"items": [
+				{"enchanted_feather": {}}
+			],
+			"events": [
+				"FEATHER_ENSCRIBED", "FEATHER_CHARGE_USED","FEATHER_SPELLBOOKS"
+			],
+			"events_display": [ "RUNS_COLLECTED", "FEATHER_ENSCRIBED", "FEATHER_SPELLBOOKS", "FEATHER_CHARGE_USED" ]
+		},
+		"blessings": {
+			"lore_points": 3,
+			"spell_category": true,
+			"items": [
+				{"spell_healing": {}},				
+				{"spellbook_healing": {}},
+				{"spell_cureailment": {}},				
+				{"spellbook_cureailment": {}},	
+				{"spell_trolls_blood": {}},
+				{"spellbook_trolls_blood": {}},
+				{"spell_speed": {}},
+				{"spellbook_speed": {}},				
+				{"spell_extrahealing": {}},				
+				{"spellbook_extrahealing": {}}
+			],
+			"events": [
+				"SPELL_CASTS", "SPELL_FAILURES", "SPELLBOOK_CASTS", "SPELLBOOK_LEARNT", "SPELLBOOK_CAST_DEGRADES", "SPELL_DMG", "SPELL_HEAL", "SPELL_TARGETS"
+			],
+			"events_display": [ "RUNS_COLLECTED" ]
+		},
+		"divinations": {
+			"lore_points": 3,
+			"spell_category": true,
+			"items": [
+				{"spell_detect_food": {}},
+				{"spellbook_detect_food": {}},
+				{"spell_identify": {}},
+				{"spellbook_identify": {}},
+				{"spell_magicmapping": {}},				
+				{"spellbook_magicmapping": {}}				
+			],
+			"events": [
+				"SPELL_CASTS", "SPELL_FAILURES", "SPELLBOOK_CASTS", "SPELLBOOK_LEARNT", "SPELLBOOK_CAST_DEGRADES", "SPELL_DMG", "SPELL_TARGETS"
+			],
+			"events_display": [ "RUNS_COLLECTED" ]
+		},
+		"meditations": {
+			"lore_points": 3,
+			"spell_category": true,
+			"items": [
+				{"spell_light": {}},
+				{"spellbook_light": {}},
+				{"spell_reflect_magic": {}},
+				{"spellbook_reflect_magic": {}}				
+			],
+			"events": [
+				"SPELL_CASTS", "SPELL_FAILURES", "SPELLBOOK_CASTS", "SPELLBOOK_LEARNT", "SPELLBOOK_CAST_DEGRADES", "SPELL_DMG", "SPELL_TARGETS"
+			],
+			"events_display": [ "RUNS_COLLECTED" ]
+		},
+		"miraculous feats": {
+			"lore_points": 3,
+			"spell_category": true,
+			"items": [
+				{"spell_dash": {}},		
+				{"spellbook_dash": {}},
+				{"spell_flutter": {}},
+				{"spellbook_flutter": {}},
+				{"spell_removecurse": {}},
+				{"spellbook_removecurse": {}},
+				{"spell_strike": {}}
+			],
+			"events": [
+				"SPELL_CASTS", "SPELL_FAILURES", "SPELLBOOK_CASTS", "SPELLBOOK_LEARNT", "SPELLBOOK_CAST_DEGRADES", "SPELL_DMG", "SPELL_TARGETS"
+			],
+			"events_display": [ "RUNS_COLLECTED" ]
+		},
+		"psianimus": {
+			"lore_points": 3,
+			"spell_category": true,
+			"items": [
+				{"spell_confuse": {}},
+				{"spellbook_confuse": {}},
+				{"spell_sleep": {}},
+				{"spellbook_sleep": {}},
+				{"spell_fear": {}},
+				{"spellbook_fear": {}},
+				{"spell_charm": {}},
+				{"spellbook_charm": {}},
+				{"spell_dominate": {}}
+			],
+			"events": [
+				"SPELL_CASTS", "SPELL_FAILURES", "SPELLBOOK_CASTS", "SPELLBOOK_LEARNT", "SPELLBOOK_CAST_DEGRADES", "SPELL_DMG", "SPELL_TARGETS"
+			],
+			"events_display": [ "RUNS_COLLECTED" ]
+		},
+		"daimonia": {
+			"lore_points": 3,
+			"spell_category": true,
+			"items": [
+				{"spell_rat_form": {}},
+				{"spell_revert_form": {}},
+				{"spellbook_revert_form": {}},
+				{"spell_summon": {}},				
+				{"spell_spider_form": {}},
+				{"spellbook_spider_form": {}},
+				{"spell_self_polymorph": {}},				
+				{"spellbook_self_polymorph": {}},
+				{"spell_troll_form": {}},
+				{"spell_imp_form": {}},
+				{"spell_demon_illu": {}}
+			],
+			"events": [
+				"SPELL_CASTS", "SPELL_FAILURES", "SPELLBOOK_CASTS", "SPELLBOOK_LEARNT", "SPELLBOOK_CAST_DEGRADES", "SPELL_DMG", "SPELL_TARGETS"
+			],
+			"events_display": [ "RUNS_COLLECTED" ]
+		},
+		"sarkomancy": {
+			"lore_points": 3,
+			"spell_category": true,
+			"items": [
+				{"spell_slow": {}},
+				{"spellbook_slow": {}},
+				{"spell_shadow_tag": {}},
+				{"spellbook_shadow_tag": {}},
+				{"spell_poison": {}},
+				{"spellbook_poison": {}},
+				{"spell_bleed": {}},
+				{"spellbook_bleed": {}},
+				{"spell_stoneblood": {}},
+				{"spellbook_stoneblood": {}},				
+				{"spell_vampiric_aura": {}},
+				{"spellbook_vampiric_aura": {}}
+			],
+			"events": [
+				"SPELL_CASTS", "SPELL_FAILURES", "SPELLBOOK_CASTS", "SPELLBOOK_LEARNT", "SPELLBOOK_CAST_DEGRADES", "SPELL_DMG", "SPELL_TARGETS"
+			],
+			"events_display": [ "RUNS_COLLECTED" ]
+		},
+		"impeturia": {
+			"lore_points": 3,
+			"spell_category": true,
+			"items": [
+				{"spell_locking": {}},
+				{"spellbook_locking": {}},
+				{"spell_opening": {}},
+				{"spellbook_opening": {}}				
+			],
+			"events": [
+				"SPELL_CASTS", "SPELL_FAILURES", "SPELLBOOK_CASTS", "SPELLBOOK_LEARNT", "SPELLBOOK_CAST_DEGRADES", "SPELL_DMG", "SPELL_TARGETS"
+			],
+			"events_display": [ "RUNS_COLLECTED" ]
+		},
+		"kinesis": {
+			"lore_points": 3,
+			"spell_category": true,
+			"items": [
+				{"spell_telepull": {}},
+				{"spellbook_telepull": {}},
+				{"spell_teleportation": {}},
+				{"spellbook_teleportation": {}}
+			],
+			"events": [
+				"SPELL_CASTS", "SPELL_FAILURES", "SPELLBOOK_CASTS", "SPELLBOOK_LEARNT", "SPELLBOOK_CAST_DEGRADES", "SPELL_DMG", "SPELL_TARGETS"
+			],
+			"events_display": [ "RUNS_COLLECTED" ]
+		},
+		"temulturgy": {
+			"lore_points": 3,
+			"spell_category": true,
+			"items": [
+				{"spell_salvage": {}},
+				{"spellbook_salvage": {}},
+				{"spell_dig": {}},
+				{"spellbook_dig": {}}
+			],
+			"events": [
+				"SPELL_CASTS", "SPELL_FAILURES", "SPELLBOOK_CASTS", "SPELLBOOK_LEARNT", "SPELLBOOK_CAST_DEGRADES", "SPELL_DMG", "SPELL_TARGETS"
+			],
+			"events_display": [ "RUNS_COLLECTED" ]
+		},
+		"evocation": {
+			"lore_points": 3,
+			"spell_category": true,
+			"items": [
+				{"spell_forcebolt": {}},
+				{"spellbook_forcebolt": {}},
+				{"spell_spray_web": {}},
+				{"spellbook_spray_web": {}},
+				{"spell_fireball": {}},
+				{"spellbook_fireball": {}},
+				{"spell_cold": {}},
+				{"spellbook_cold": {}},
+				{"spell_lightning": {}},
+				{"spellbook_lightning": {}},
+				{"spell_magicmissile": {}},
+				{"spellbook_magicmissile": {}},				
+				{"spell_acid_spray": {}},
+				{"spellbook_acid_spray": {}}
+			],
+			"events": [
+				"SPELL_CASTS", "SPELL_FAILURES", "SPELLBOOK_CASTS", "SPELLBOOK_LEARNT", "SPELLBOOK_CAST_DEGRADES", "SPELL_DMG", "SPELL_TARGETS"
+			],
+			"events_display": [ "RUNS_COLLECTED" ]
+		},		
+		"contravention": {
+			"lore_points": 3,
+			"spell_category": true,
+			"items": [
+				{"spell_levitation": {}},
+				{"spellbook_levitation": {}},
+				{"spell_invisibility": {}},
+				{"spellbook_invisibility": {}},
+				{"spell_amplify_magic": {}},
+				{"spellbook_amplify_magic": {}}					
+			],
+			"events": [
+				"SPELL_CASTS", "SPELL_FAILURES", "SPELLBOOK_CASTS", "SPELLBOOK_LEARNT", "SPELLBOOK_CAST_DEGRADES", "SPELL_DMG", "SPELL_TARGETS"
+			],
+			"events_display": [ "RUNS_COLLECTED" ]
+		}				
+	}
+}

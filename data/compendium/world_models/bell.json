@@ -1,0 +1,105 @@
+{
+    "version": 1,
+    "camera": {
+		"ang_degrees": 45,
+		"vang_degrees": -20,
+		"zoom": 1.5,
+		"height": -5,
+		"rotate_speed": 2.0
+	},	
+    "height_offset": 0,
+	"map_tiles": 
+	{
+		"ceiling": 120,
+		"width": 5,
+		"height": 5,
+		"floor": [
+			4, 364, 4, 4, 4,
+			4, 8, 8, 8, 365,
+			4, 8, 8, 8, 4,
+			365, 8, 8, 8, 364,
+			4, 4, 4, 366, 4
+		],
+		"mid": [
+			0, 0, 0, 0, 0,
+			0, 0, 0, 0, 0,			
+			0, 0, 0, 0, 0,
+			0, 0, 0, 0, 0,			
+			0, 0, 0, 0, 0
+		],
+		"top": [
+			0, 0, 0, 0, 0,
+			0, 0, 0, 0, 0,			
+			0, 0, 0, 0, 0,
+			0, 0, 0, 0, 0,			
+			0, 0, 0, 0, 0
+		]
+	},
+    "limbs": [
+		{
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 0
+		},
+		{
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 4.0,
+            "focaly": -6.0,
+            "focalz": -10.75,
+            "sprite": 1478
+		},
+		{
+            "x": 2,
+            "y": 0,
+            "z": -22.25,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 6.0,
+            "sprite": 1475
+		},
+		{
+            "x": 2,
+            "y": 0,
+            "z": -20,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 10.0,
+            "sprite": 1476
+		},
+		{
+            "x": 0,
+            "y": 0,
+            "z": -21.75,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 1477
+		}
+    ]
+}

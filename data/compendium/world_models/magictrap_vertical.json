@@ -1,0 +1,112 @@
+{
+    "version": 1,
+    "camera": {
+		"ang_degrees": 45,
+		"vang_degrees": -10,
+		"zoom": 2,
+		"height": -13,
+		"rotate_speed": 3.0
+	},		
+    "height_offset": 0,
+	"map_tiles": 
+	{
+		"ceiling": 154,
+		"width": 3,
+		"height": 3,
+		"floor": [
+			183, 183, 183,
+			183, 184, 183,
+			183, 183, 183
+		],
+		"mid": [
+			0, 0, 0,
+			0, 0, 0,
+			0, 0, 0
+		],
+		"top": [
+			0, 0, 0,
+			0, 0, 0,
+			0, 0, 0
+		]
+	},
+    "limbs": [
+		{
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 0
+		},
+		{
+            "x": 15,
+            "y": 15,
+            "z": -7.5,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 580
+		},
+		{
+            "x": -15,
+            "y": 15,
+            "z": -18,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 583
+		},
+		{
+            "x": -15,
+            "y": -15,
+            "z": -15,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 584
+		},		
+		{
+            "x": 0,
+            "y": 0,
+            "z": -22.99,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 644
+		},
+		{
+            "x": 0,
+            "y": 0,
+            "z": 8.24,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 645
+		}
+    ]
+}

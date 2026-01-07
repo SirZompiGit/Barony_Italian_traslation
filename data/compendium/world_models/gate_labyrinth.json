@@ -1,0 +1,76 @@
+{
+    "version": 1,
+    "camera": {
+        "ang_degrees": 0,
+        "vang_degrees": -10,
+        "zoom": 1.2,
+        "height": 0.0,
+        "rotate_limit_degrees_min": -5,
+        "rotate_limit_degrees_max": 5,
+        "rotate_speed": 0.2
+	},
+	"map_tiles": 
+	{
+		"ceiling": 0,
+		"width": 4,
+		"height": 3,
+		"floor": [
+			6, 6, 6, 338,
+			6, 340, 339, 338,
+			6, 6, 6, 338
+
+		],
+		"mid": [
+			18, 18, 319, 0,
+			325, 0, 0, 0,
+			18, 18, 319, 0
+		],
+		"top": [
+			72, 72, 72, 0,
+			72, 72, 72, 0,
+			72, 72, 72, 0
+		]
+	},		
+    "height_offset": 0,
+    "limbs": [
+        {
+            "x": 11,
+            "y": 0,
+            "z": 0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 0
+        },		
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 186
+        },
+		{
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 1166
+        }
+    ]
+}

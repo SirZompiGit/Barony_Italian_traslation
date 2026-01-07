@@ -1,0 +1,910 @@
+{
+	"version": 1,
+	"default_attributes": {
+		"font_color": {
+			"r": 239,
+			"g": 237,
+			"b": 235,
+			"a": 255
+		},
+		"font_outline_color": {
+			"r": 50,
+			"g": 29,
+			"b": 25,
+			"a": 255
+		},
+		"font_highlight_color": {
+			"r": 18,
+			"g": 196,
+			"b": 131,
+			"a": 255
+		},
+		"font_highlight2_color": {
+			"r": 64,
+			"g": 192,
+			"b": 255,
+			"a": 255
+		}
+	},
+	"script_entries": {
+		"tutorial6a": {
+			"sign": [
+				"Mentre sei invisibile,",
+				"i nemici possono ancora",
+				"il rilevarti se sei",
+				"molto vicino, specialmente",
+				"se attacchi.",
+				"",
+				"$ "
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[
+						0,
+						1
+					],
+					[],
+					[
+						2
+					]
+				],
+				"word_highlights2": [
+					[
+						1
+					]
+				]
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#items/images/spells/invisible.png",
+					"sizex": 0,
+					"sizey": 0
+				}
+			]
+		},
+		"tutorial6b": {
+			"sign": [
+				"Distruggi gli scheletri",
+				"nel cortile",
+				"alla tua destra.",
+				"",
+				"Il cancello alla tua",
+				"sinistra sara' quindi",
+				"aperto."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[],
+					[
+						2
+					],
+					[],
+					[],
+					[
+						0
+					],
+					[]
+				]
+			},
+			"variables": []
+		},
+		"tutorial6c": {
+			"sign": [
+				"Ricorda le debolezze",
+				"delle armi quando",
+				"attacchi di nascosto.",
+				"$",
+				"Sii pronto a colpire ancora",
+				"dopo aver fatto il tuo",
+				"colpo di apertura!"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[],
+					[
+						0,
+						1,
+						2
+					],
+					[],
+					[
+						3,
+						4
+					],
+					[],
+					[
+						0,
+						1
+					]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial6/swordmace.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial6/sign_ironmace.png",
+					"sizex": 0,
+					"sizey": 0
+				}
+			]
+		},
+		"tutorial6d": {
+			"sign": [
+				"Osserva la direzione",
+				"in cui guardano i nemici e",
+				"tempestiva il tuo attacco per",
+				"garantire una pugnalata.",
+				"",
+				"Non hai bisogno di",
+				"furtivita' quando la schiena",
+				"del tuo nemico e' girata!"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[
+						2
+					],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[
+						0,
+						1,
+						2
+					]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial6/backturned.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": []
+		},
+		"tutorial6do": {
+			"sign": [
+				"I frammenti di cristallo",
+				"sono torce fioche",
+				"che non si bruciano mai,",
+				"ma sono molto fragili.",
+				"",
+				"La penalita' di visibilita'",
+				"dalle torce di cristallo",
+				"e' meta' di quella delle",
+				"torce normali."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[
+						2,
+						3
+					],
+					[],
+					[
+						1,
+						2
+					]
+				],
+				"word_highlights2": [
+					[
+						0,
+						1
+					],
+					[
+						1
+					],
+					[
+						2,
+						3
+					],
+					[],
+					[],
+					[],
+					[],
+					[
+						1
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial6e": {
+			"sign": [
+				"Gli avventurieri potrebbero",
+				"dover usare la furtivita'",
+				"a loro vantaggio per",
+				"sopravvivere nel dungeon."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[
+						3
+					],
+					[
+						2
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial6f": {
+			"sign": [
+				"Quando un nemico e' occupato",
+				"con un altro nemico puoi",
+				"aumentare i danni",
+				"con attacchi laterali.",
+				"",
+				"Non avvicinarti troppo o",
+				"rivolgeranno la loro",
+				"attenzione su di te!"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[
+						2,
+						3
+					],
+					[],
+					[
+						0,
+						1,
+						2
+					]
+				],
+				"word_highlights2": [
+					[
+						4
+					],
+					[],
+					[
+						1,
+						2
+					],
+					[
+						1,
+						2
+					]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial6/flanking.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": []
+		},
+		"tutorial6g": {
+			"sign": [
+				"Sapere come combattere",
+				"e' bene, ma approcciare",
+				"uno scontro con un vantaggio",
+				"puo' garantire la vittoria."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[],
+					[],
+					[
+						1,
+						2
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial6h": {
+			"sign": [
+				"$",
+				"I nemici hanno piu'",
+				"difficolta' a trovarti",
+				"al buio.",
+				"Tenere una torcia ti rende",
+				"molto piu' facile da vedere."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[
+						1,
+						2,
+						3,
+						4
+					]
+				],
+				"word_highlights2": [
+					[],
+					[],
+					[
+						2
+					],
+					[],
+					[
+						2
+					]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial6/sneaklight.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial1/sign_torch.png",
+					"sizex": 0,
+					"sizey": 0
+				}
+			]
+		},
+		"tutorial6i": {
+			"sign": [
+				"$",
+				"",
+				"Senza oggetti nella",
+				"tua mano secondaria,",
+				"tieni premuto$ per",
+				"muoverti furtivamente."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[
+						0,
+						2
+					]
+				],
+				"word_highlights2": [
+					[],
+					[],
+					[
+						1,
+						2
+					],
+					[]
+				]
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Stealth02_32.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "Defend"
+				}
+			]
+		},
+		"tutorial6j": {
+			"sign": [
+				"Come difendersi,",
+				"muoversi furtivamente ti",
+				"fa muovere piu' lentamente.",
+				"",
+				"Ti rende anche piu'",
+				"difficile da rilevare, e",
+				"ti permette di vedere meglio",
+				"al buio."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[
+						0
+					],
+					[
+						2
+					],
+					[],
+					[],
+					[
+						0,
+						1,
+						2
+					],
+					[
+						3,
+						4
+					],
+					[
+						2
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial6k": {
+			"sign": [
+				"Nemici che non sono",
+				"consapevoli di te",
+				"subiscono danni bonus",
+				"da pugnalata alle spalle",
+				"quando attaccati da dietro."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[],
+					[
+						1,
+						2
+					],
+					[],
+					[
+						0,
+						1
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial6l": {
+			"sign": [
+				"Tieni premuto$ per caricare",
+				"un colpo critico per",
+				"massimizzare il danno",
+				"del tuo attacco di apertura",
+				"quando pugnalati i nemici."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[
+						0
+					],
+					[
+						2,
+						3
+					],
+					[],
+					[],
+					[],
+					[],
+					[
+						3
+					]
+				],
+				"word_highlights2": [
+					[],
+					[],
+					[],
+					[
+						0,
+						1
+					],
+					[],
+					[],
+					[],
+					[
+						1,
+						2,
+						3
+					]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial6/followstrike.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": [
+				{
+					"type": "input_glyph",
+					"value": "Attack"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Attack"
+				}
+			]
+		},
+		"tutorial6m": {
+			"sign": [
+				"La tua abilita' furtiva",
+				"sara' ora messa alla prova.",
+				"",
+				"Uccidi il capo goblin",
+				"e scappa con la tua vita.",
+				"Evita o uccidi il resto!"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[],
+					[],
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial6n": {
+			"sign": [
+				"Aggirare, furtivita',",
+				"pugnalate alle spalle e",
+				"gestire la luce aiuteranno",
+				"gli avventurieri a sopravvivere",
+				"nel dungeon."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": []
+			},
+			"variables": []
+		},
+		"tutorial6no": {
+			"sign": [
+				"Congratulazioni!",
+				"Questa e' l'ultima delle",
+				"sei prove base.",
+				"Gli eroi compiono grandi",
+				"gesta con queste lezioni.",
+				"",
+				"Le prove 7 - 10 danno",
+				"lezioni specializzate.",
+				"Padroneggiale se",
+				"desideri piu' abilita'."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[
+						0,
+						1
+					]
+				],
+				"word_highlights2": [
+					[],
+					[],
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[
+						1,
+						2
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial6o": {
+			"sign": [
+				"Questo cancello si apre solo",
+				"quando il capo goblin",
+				"e' stato ucciso."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[
+						2,
+						3
+					],
+					[]
+				]
+			},
+			"variables": []
+		},
+		"tutorial6p": {
+			"sign": [
+				"Raccogli torce per",
+				"oscurare aree e rendere",
+				"la furtivita' piu' facile."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[
+						0
+					],
+					[]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial6/darken.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": []
+		},
+		"tutorial6pa": {
+			"sign": [
+				"Dopo essere stati scoperti,",
+				"gli avventurieri furtivi",
+				"possono fuggire e tentare",
+				"di avvicinarsi furtivamente",
+				"a un bersaglio ancora una volta."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[
+						1,
+						2
+					]
+				],
+				"word_highlights2": [
+					[],
+					[],
+					[
+						0
+					],
+					[],
+					[]
+				]
+			},
+			"variables": []
+		},
+		"tutorial6q": {
+			"sign": [
+				"I Troll sono quasi ciechi.",
+				"Nemici piu' percettivi",
+				"possono rilevarti da",
+				"piu' lontano.",
+				"",
+				"$"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[
+						0
+					],
+					[
+						1
+					],
+					[
+						1
+					],
+					[]
+				]
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#images/ui/CharSheet/HUD_CharSheet_PER_00.png",
+					"sizex": 48,
+					"sizey": 48
+				}
+			]
+		}
+	}
+}

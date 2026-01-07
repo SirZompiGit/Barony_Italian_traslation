@@ -1,0 +1,683 @@
+{
+	"version": 1,
+	"codex": {
+	  "races": {
+		"lore_points": 1,
+		"event_lookup": 0,
+		"img": "",
+		"models": ["races_m", "races_f"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/HUD/allies/icons/humans/Icon_WarbloodM_00.png",
+			"*images/ui/HUD/allies/icons/humans/Icon_WindclanF_00.png",
+			"*images/ui/HUD/allies/icons/basic/Icon_SkeletonM_00.png",
+			"*images/ui/HUD/allies/icons/basic/Icon_SkeletonF_00.png",
+			"*images/ui/HUD/allies/icons/basic/Icon_VampireM_00.png",			
+			"*images/ui/HUD/allies/icons/basic/Icon_VampireF_00.png",
+			"*images/ui/HUD/allies/icons/basic/Icon_Succubus_00.png",
+			"*images/ui/HUD/allies/icons/basic/Icon_GoatmanM_00.png",
+			"*images/ui/HUD/allies/icons/basic/Icon_GoatmanF_00.png",			
+			"*images/ui/HUD/allies/icons/basic/Icon_AutomatonF_00.png",			
+			"*images/ui/HUD/allies/icons/basic/Icon_AutomatonM_00.png",
+			"*images/ui/HUD/allies/icons/basic/Icon_Incubus_00.png",
+			"*images/ui/HUD/allies/icons/basic/Icon_GoblinM_00.png",			
+			"*images/ui/HUD/allies/icons/basic/Icon_GoblinF_00.png",
+			"*images/ui/HUD/allies/icons/basic/Icon_InsectoidM_00.png",
+			"*images/ui/HUD/allies/icons/basic/Icon_InsectoidF_00.png"			
+		],
+		"events": ["RACE_GAMES_STARTED", "RACE_RECRUITS", "RACE_GAMES_WON", "RACE_GAMES_WON_CLASSIC", "RACE_GAMES_WON_HELL"],
+		"events_display": ["RACE_GAMES_STARTED", "RACE_RECRUITS", "RACE_GAMES_WON", "CUSTOM_RACE_LEAST_GAMES_WON"],
+		"custom_events_display": ["RACE_GAMES_STARTED", "RACE_RECRUITS", "RACE_GAMES_WON", "CUSTOM_RACE_LEAST_GAMES_WON"]
+	  },
+	  "strafing": {
+		"lore_points": 1,
+		"event_lookup": 1,
+		"img": "*images/ui/Main Menus/AdventureArchives/Subjects/C_Subject_CBackpedal_00.png",
+		"enable_tutorial": true,
+		"events": ["DISTANCE_TRAVELLED", "DISTANCE_MAX_RUN",  "DISTANCE_MAX_FLOOR", "CLASS_IDLING_TIME", "CLASS_MOVING_TIME"],
+		"events_display": ["DISTANCE_TRAVELLED", "DISTANCE_MAX_RUN", "DISTANCE_MAX_FLOOR"]
+	  },
+	  "xp": {
+		"lore_points": 1,
+		"event_lookup": 2,
+		"img": "",
+		"models": ["xp"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/Main Menus/AdventureArchives/Subjects/Subject_XP.png"
+		],
+		"events": ["XP_KILLS", "XP_SKILLS",  "XP_MAX_IN_FLOOR", "XP_MAX_INSTANCE"],
+		"events_display": ["XP_KILLS", "XP_SKILLS",  "XP_MAX_IN_FLOOR", "XP_MAX_INSTANCE"]
+	  },
+	  "leveling up": {
+		"lore_points": 1,
+		"event_lookup": 3,
+		"img": "",
+		"models": ["lvlups"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/HUD/lvluptext.png",
+			"*images/ui/HUD/HUD_StatUp_STR_00.png",
+			"*images/ui/HUD/HUD_StatUp_DEX_00.png",
+			"*images/ui/HUD/HUD_StatUp_CON_00.png",
+			"*images/ui/HUD/HUD_StatUp_INT_00.png",
+			"*images/ui/HUD/HUD_StatUp_PER_00.png",
+			"*images/ui/HUD/HUD_StatUp_CHA_00.png"
+		],
+		"events": ["CLASS_LVL_MAX", "CLASS_LVL_GAINED", "CLASS_LVL_WON_MAX", "CLASS_LVL_WON_MIN", "CLASS_LVL_WON_CLASSIC_MAX", "CLASS_LVL_WON_CLASSIC_MIN", "CLASS_LVL_WON_HELL_MAX", "CLASS_LVL_WON_HELL_MIN"],
+		"events_display": ["CLASS_LVL_MAX", "CLASS_LVL_GAINED", "CLASS_LVL_WON_MAX", "CLASS_LVL_WON_MIN", "CLASS_LVL_WON_CLASSIC_MAX", "CLASS_LVL_WON_CLASSIC_MIN", "CLASS_LVL_WON_HELL_MAX", "CLASS_LVL_WON_HELL_MIN"]
+	  },
+	  "class": {
+		"lore_points": 1,
+		"event_lookup": 4,
+		"img": "",
+		"models": ["classes"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_BarbarianOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_WarriorOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_HealerOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_RogueOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_WandererOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_ClericOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_MerchantOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_WizardOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_ArcanistOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_JesterOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_SextonOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_NinjaOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_MonkOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_ConjurerOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_AccursedOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_MesmerOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_BrewerOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_MechanistOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_PunisherOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_ShamanOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_HunterOn_00.png"
+		],
+		"events": ["CLASS_GAMES_STARTED", "CLASS_GAMES_WON", "CLASS_GAMES_SOLO", "CLASS_GAMES_MULTI", "CLASS_GAMES_WON_CLASSIC", "CLASS_GAMES_WON_HELL"],
+		"events_display": ["CLASS_GAMES_STARTED", "CUSTOM_CLASS_LEAST_GAMES", "CLASS_GAMES_WON", "CUSTOM_CLASS_LEAST_GAMES_WON"],
+		"custom_events_display": ["CLASS_GAMES_STARTED", "CUSTOM_CLASS_LEAST_GAMES", "CLASS_GAMES_WON", "CUSTOM_CLASS_LEAST_GAMES_WON"]
+	  },
+	  "classes list": {
+		"lore_points": 1,
+		"event_lookup": 50,
+		"img": "",
+		"models": ["class_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_BarbarianOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_WarriorOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_HealerOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_RogueOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_WandererOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_ClericOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_MerchantOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_WizardOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_ArcanistOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_JesterOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_SextonOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_NinjaOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_MonkOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_ConjurerOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_AccursedOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_MesmerOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_BrewerOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_MechanistOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_PunisherOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_ShamanOn_00.png",
+			"*images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_HunterOn_00.png"
+		],
+		"events_display": ["CUSTOM_CLASS_GAMES_STARTED", "CUSTOM_CLASS_GAMES_WON", "CUSTOM_LVL_GAINED_FOR_CLASS", "CUSTOM_SKILLS_GAINED_FOR_CLASS"],
+		"custom_events_display": ["CUSTOM_CLASS_GAMES_STARTED", "CUSTOM_CLASS_GAMES_WON", "CUSTOM_LVL_GAINED_FOR_CLASS", "CUSTOM_SKILLS_GAINED_FOR_CLASS"]
+	  },
+	  "stats metastats": {
+		"lore_points": 1,
+		"event_lookup": 5,
+		"img": "",
+		"models": ["stats"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/CharSheet/HUD_CharSheet_STR_00.png",
+			"*images/ui/CharSheet/HUD_CharSheet_DEX_00.png",
+			"*images/ui/CharSheet/HUD_CharSheet_CON_00.png",
+			"*images/ui/CharSheet/HUD_CharSheet_INT_00.png",
+			"*images/ui/CharSheet/HUD_CharSheet_PER_00.png",
+			"*images/ui/CharSheet/HUD_CharSheet_CHA_00.png",
+			"*images/ui/CharSheet/HUD_CharSheet_ATT_00.png",
+			"*images/ui/CharSheet/HUD_CharSheet_AC_00.png",
+			"*images/ui/CharSheet/HUD_CharSheet_SPWR_00.png",
+			"*images/ui/CharSheet/HUD_CharSheet_RES_00.png",
+			"*images/ui/CharSheet/HUD_CharSheet_REGEN_00.png",
+			"*images/ui/CharSheet/HUD_CharSheet_WGT_00.png"
+		],
+		"events_display": ["CUSTOM_MOST_STAT_GAINS", "CUSTOM_LEAST_STAT_GAINS", "CUSTOM_HIGHEST_STAT", "CUSTOM_STAT_TOTAL_INCREASES"],
+		"custom_events_display": ["CUSTOM_MOST_STAT_GAINS", "CUSTOM_LEAST_STAT_GAINS", "CUSTOM_HIGHEST_STAT", "CUSTOM_STAT_TOTAL_INCREASES"]
+	  },
+	  "str": {
+		"lore_points": 1,
+		"event_lookup": 6,
+		"img": "",
+		"models": ["stats_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/CharSheet/HUD_CharSheet_STR_00.png"
+		],
+		"events": ["STAT_MAX", "CLASS_STAT_STR_MAX", "STAT_INCREASES", "STAT_DOUBLED"],
+		"events_display": ["CLASS_STAT_STR_MAX", "STAT_MAX", "STAT_INCREASES", "STAT_DOUBLED"]
+	  },
+	  "dex": {
+		"lore_points": 1,
+		"event_lookup": 7,
+		"img": "",
+		"models": ["stats_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/CharSheet/HUD_CharSheet_DEX_00.png"
+		],
+		"events": ["STAT_MAX", "CLASS_STAT_DEX_MAX", "STAT_INCREASES", "STAT_DOUBLED"],
+		"events_display": ["CLASS_STAT_DEX_MAX", "STAT_MAX", "STAT_INCREASES", "STAT_DOUBLED"]
+	  },
+	  "con": {
+		"lore_points": 1,
+		"event_lookup": 8,
+		"img": "",
+		"models": ["stats_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/CharSheet/HUD_CharSheet_CON_00.png"
+		],
+		"events": ["STAT_MAX", "CLASS_STAT_CON_MAX", "STAT_INCREASES", "STAT_DOUBLED"],
+		"events_display": ["CLASS_STAT_CON_MAX", "STAT_MAX", "STAT_INCREASES", "STAT_DOUBLED"]
+	  },
+	  "int": {
+		"lore_points": 1,
+		"event_lookup": 9,
+		"img": "",
+		"models": ["stats_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/CharSheet/HUD_CharSheet_INT_00.png"
+		],
+		"events": ["STAT_MAX", "CLASS_STAT_INT_MAX", "STAT_INCREASES", "STAT_DOUBLED"],
+		"events_display": ["CLASS_STAT_INT_MAX", "STAT_MAX", "STAT_INCREASES", "STAT_DOUBLED"]
+	  },
+	  "per": {
+		"lore_points": 1,
+		"event_lookup": 10,
+		"img": "",
+		"models": ["stats_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/CharSheet/HUD_CharSheet_PER_00.png"
+		],
+		"events": ["STAT_MAX", "CLASS_STAT_PER_MAX", "STAT_INCREASES", "STAT_DOUBLED"],
+		"events_display": ["CLASS_STAT_PER_MAX", "STAT_MAX", "STAT_INCREASES", "STAT_DOUBLED"]
+	  },
+	  "chr": {
+		"lore_points": 1,
+		"event_lookup": 11,
+		"img": "",
+		"models": ["stats_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/CharSheet/HUD_CharSheet_CHA_00.png"
+		],
+		"events": ["STAT_MAX", "CLASS_STAT_CHR_MAX", "STAT_INCREASES", "STAT_DOUBLED"],
+		"events_display": ["CLASS_STAT_CHR_MAX", "STAT_MAX", "STAT_INCREASES", "STAT_DOUBLED"]
+	  },
+	  "ac": {
+		"lore_points": 1,
+		"event_lookup": 12,
+		"img": "",
+		"models": ["stats_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/CharSheet/HUD_CharSheet_AC_00.png"
+		],
+		"events": ["CLASS_AC_MAX", "AC_MAX_FROM_BLESS", "AC_EFFECTIVENESS_MAX", "AC_EQUIPMENT_MAX"],
+		"events_display": ["CLASS_AC_MAX", "AC_EQUIPMENT_MAX", "AC_MAX_FROM_BLESS", "AC_EFFECTIVENESS_MAX"]
+	  },
+	  "hp": {
+		"lore_points": 1,
+		"event_lookup": 13,
+		"img": "",
+		"models": ["hp"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/Main Menus/AdventureArchives/Subjects/C_Subject_CHPBar.png"
+		],		
+		"events": ["HP_LOST_TOTAL", "CLASS_HP_MAX", "HP_LOST_RUN", "HP_MOST_DMG_LOST_ONE_HIT"],
+		"events_display": ["CLASS_HP_MAX", "HP_LOST_TOTAL", "HP_LOST_RUN", "HP_MOST_DMG_LOST_ONE_HIT"]
+	  },
+	  "mp": {
+		"lore_points": 1,
+		"event_lookup": 14,
+		"img": "",
+		"models": ["mp"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/Main Menus/AdventureArchives/Subjects/C_Subject_CMPBar.png"
+		],				
+		"events": ["CLASS_MP_MAX",  "MP_SPENT_RUN", "MP_SPENT_TOTAL"],
+		"events_display": ["CLASS_MP_MAX", "MP_SPENT_TOTAL", "MP_SPENT_RUN"]
+	  },
+	  "res": {
+		"lore_points": 1,
+		"event_lookup": 15,
+		"img": "",
+		"models": ["stats_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/CharSheet/HUD_CharSheet_RES_00.png"
+		],
+		"events": ["CLASS_RES_MAX", "RES_DMG_RESISTED", "RES_DMG_RESISTED_RUN", "RES_DMG_TAKEN", "RES_SPELLS_HIT"],
+		"events_display": ["CLASS_RES_MAX", "RES_DMG_TAKEN", "RES_DMG_RESISTED", "RES_SPELLS_HIT"]
+	  },
+	  "pwr": {
+		"lore_points": 1,
+		"event_lookup": 16,
+		"img": "",
+		"models": ["stats_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/CharSheet/HUD_CharSheet_SPWR_00.png"
+		],
+		"events": ["CLASS_PWR_MAX", "CLASS_PWR_MAX_CASTED", "PWR_MAX_EQUIP", "PWR_MAX_SPELLBOOK"],
+		"events_display": ["CLASS_PWR_MAX_CASTED", "CLASS_PWR_MAX", "PWR_MAX_EQUIP", "PWR_MAX_SPELLBOOK"]
+	  },
+	  "rgn": {
+		"lore_points": 1,
+		"event_lookup": 17,
+		"img": "",
+		"models": ["stats_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/CharSheet/HUD_CharSheet_REGEN_00.png"
+		],
+		"events": ["RGN_HP_SUM", "RGN_HP_RUN",  "RGN_MP_SUM", "RGN_MP_RUN", "RGN_HP_RATE_MAX", "RGN_MP_RATE_MAX"],
+		"events_display": ["CUSTOM_HP_MP_RGN", "CUSTOM_HP_MP_RGN_RUN", "RGN_HP_RATE_MAX", "RGN_MP_RATE_MAX"],
+		"custom_events_display": ["CUSTOM_HP_MP_RGN", "CUSTOM_HP_MP_RGN_RUN", "RGN_HP_RATE_MAX", "RGN_MP_RATE_MAX"]
+	  },
+	  "wgt": {
+		"lore_points": 1,
+		"event_lookup": 18,
+		"img": "",
+		"models": ["stats_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/CharSheet/HUD_CharSheet_WGT_00.png"
+		],
+		"events": ["CLASS_WGT_MAX", "CLASS_WGT_MAX_MOVE_100", "CLASS_WGT_EQUIPPED_MAX", "CLASS_WGT_SLOWEST"],
+		"events_display": ["CLASS_WGT_MAX", "CLASS_WGT_MAX_MOVE_100", "CLASS_WGT_EQUIPPED_MAX", "CLASS_WGT_SLOWEST"]
+	  },
+	  "melee": {
+		"lore_points": 1,
+		"event_lookup": 19,
+		"img": "*images/ui/Main Menus/AdventureArchives/Subjects/C_Subject_CMeleeAttack_00.png",
+		"enable_tutorial": true,
+		"events": ["MELEE_HITS", "MELEE_DMG_TOTAL", "CLASS_MELEE_HITS_RUN", "MELEE_KILLS"],
+		"events_display": ["MELEE_HITS", "MELEE_DMG_TOTAL", "CLASS_MELEE_HITS_RUN", "MELEE_KILLS"]
+	  },
+	  "crits": {
+		"lore_points": 1,
+		"event_lookup": 20,
+		"img": "*images/ui/Main Menus/AdventureArchives/Subjects/C_Subject_CCriticalStrikes_00.png",
+		"enable_tutorial": true,
+		"events": ["CRIT_HITS", "CRITS_DMG_TOTAL", "CLASS_CRITS_HITS_RUN", "CRIT_KILLS"],
+		"events_display": ["CRIT_HITS", "CRITS_DMG_TOTAL", "CLASS_CRITS_HITS_RUN", "CRIT_KILLS"]
+	  },
+	  "skills": {
+		"lore_points": 1,
+		"event_lookup": 21,
+		"img": "",
+		"models": ["skills"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/SkillSheet/Icons/Stealth02_32.png",
+			"*images/ui/SkillSheet/Icons/Blocking02_32.png",
+			"*images/ui/SkillSheet/Icons/Ranged02_32.png",
+			"*images/ui/SkillSheet/Icons/Unarmed02_32.png",
+			"*images/ui/SkillSheet/Icons/Swords02_32.png",
+			"*images/ui/SkillSheet/Icons/Polearms02_32.png",
+			"*images/ui/SkillSheet/Icons/Axes02_32.png",
+			"*images/ui/SkillSheet/Icons/Maces02_32.png",
+			"*images/ui/SkillSheet/Icons/Swimming02_32.png",
+			"*images/ui/SkillSheet/Icons/Leadership02_32.png",
+			"*images/ui/SkillSheet/Icons/Trading02_32.png",
+			"*images/ui/SkillSheet/Icons/Appraisal02_32.png",
+			"*images/ui/SkillSheet/Icons/Tinkering02_32.png",
+			"*images/ui/SkillSheet/Icons/Alchemy02_32.png",
+			"*images/ui/SkillSheet/Icons/Magic02_32.png",
+			"*images/ui/SkillSheet/Icons/Casting02_32.png"
+		],
+		"events_display": ["CUSTOM_MOST_SKILL_GAINS", "CUSTOM_LEAST_SKILL_GAINS", "CLASS_SKILL_UPS_ALL_RUN", "CUSTOM_LEGEND_SKILL_SUM"],
+		"custom_events_display": ["CUSTOM_MOST_SKILL_GAINS", "CUSTOM_LEAST_SKILL_GAINS", "CLASS_SKILL_UPS_ALL_RUN", "CUSTOM_LEGEND_SKILL_SUM"]
+	  },
+	  "legendary strikes": {
+		"lore_points": 1,
+		"event_lookup": 22,
+		"img": "",
+		"models": ["skills_legendarystrikes"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/SkillSheet/Icons/Swords02_32Gold.png",
+			"*images/ui/SkillSheet/Icons/Polearms02_32Gold.png",
+			"*images/ui/SkillSheet/Icons/Axes02_32Gold.png",
+			"*images/ui/SkillSheet/Icons/Maces02_32Gold.png",
+			"*images/ui/SkillSheet/Icons/Unarmed02_32Gold.png"
+		],
+		"enable_tutorial": true,
+		"events_display": ["CUSTOM_LEGEND_SKILL_MELEE_100", "CUSTOM_LEGEND_TOTAL_PROCS", "CUSTOM_LEGEND_MOST_SKILL_PROCS", "CUSTOM_CLASS_MOST_LEGEND_MELEES"],
+		"custom_events_display": ["CUSTOM_LEGEND_SKILL_MELEE_100", "CUSTOM_LEGEND_TOTAL_PROCS", "CUSTOM_LEGEND_MOST_SKILL_PROCS", "CUSTOM_CLASS_MOST_LEGEND_MELEES"]
+	  },
+	  "sword skill": {
+		"lore_points": 1,
+		"event_lookup": 23,
+		"img": "",
+		"models": ["skills_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/SkillSheet/Icons/Swords02_32.png"
+		],
+		"events": ["SKILL_NOVICES", "CLASS_SKILL_UPS", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS", "SKILL_LEGENDARY_PROCS"],
+		"events_display": ["CUSTOM_SKILL_TOTAL_LVLS_SWORD", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS", "SKILL_LEGENDARY_PROCS"],
+		"custom_events_display": ["CUSTOM_SKILL_TOTAL_LVLS_SWORD", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS", "SKILL_LEGENDARY_PROCS"]
+	  },
+	  "axe skill": {
+		"lore_points": 1,
+		"event_lookup": 24,
+		"img": "",
+		"models": ["skills_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/SkillSheet/Icons/Axes02_32.png"
+		],
+		"events": ["SKILL_NOVICES", "CLASS_SKILL_UPS", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS", "SKILL_LEGENDARY_PROCS"],
+		"events_display": ["CUSTOM_SKILL_TOTAL_LVLS_AXE", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS", "SKILL_LEGENDARY_PROCS"],
+		"custom_events_display": ["CUSTOM_SKILL_TOTAL_LVLS_AXE", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS", "SKILL_LEGENDARY_PROCS"]
+	  },
+	  "polearm skill": {
+		"lore_points": 1,
+		"event_lookup": 25,
+		"img": "",
+		"models": ["skills_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/SkillSheet/Icons/Polearms02_32.png"
+		],
+		"events": ["SKILL_NOVICES", "CLASS_SKILL_UPS", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS", "SKILL_LEGENDARY_PROCS"],
+		"events_display": ["CUSTOM_SKILL_TOTAL_LVLS_POLEARM", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS", "SKILL_LEGENDARY_PROCS"],
+		"custom_events_display": ["CUSTOM_SKILL_TOTAL_LVLS_POLEARM", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS", "SKILL_LEGENDARY_PROCS"]
+	  },
+	  "mace skill": {
+		"lore_points": 1,
+		"event_lookup": 26,
+		"img": "",
+		"models": ["skills_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/SkillSheet/Icons/Maces02_32.png"
+		],
+		"events": ["SKILL_NOVICES", "CLASS_SKILL_UPS", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS", "SKILL_LEGENDARY_PROCS"],
+		"events_display": ["CUSTOM_SKILL_TOTAL_LVLS_MACE", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS", "SKILL_LEGENDARY_PROCS"],
+		"custom_events_display": ["CUSTOM_SKILL_TOTAL_LVLS_MACE", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS", "SKILL_LEGENDARY_PROCS"]
+	  },
+	  "weapon quality": {
+		"lore_points": 1,
+		"event_lookup": 27,
+		"img": ""
+	  },
+	  "unarmed skill": {
+		"lore_points": 1,
+		"event_lookup": 28,
+		"img": "",
+		"models": ["skills_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/SkillSheet/Icons/Unarmed02_32.png"
+		],
+		"events": ["SKILL_NOVICES", "CLASS_SKILL_UPS", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS", "SKILL_LEGENDARY_PROCS"],
+		"events_display": ["CUSTOM_SKILL_TOTAL_LVLS_UNARMED", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS", "SKILL_LEGENDARY_PROCS"],
+		"custom_events_display": ["CUSTOM_SKILL_TOTAL_LVLS_UNARMED", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS", "SKILL_LEGENDARY_PROCS"]
+	  },
+	  "sneaking": {
+		"lore_points": 1,
+		"event_lookup": 29,
+		"img": "*images/ui/Main Menus/AdventureArchives/Subjects/C_Subject_CSneak_00.png",
+		"enable_tutorial": true,
+		"events": ["CLASS_SNEAK_TIME", "CLASS_SNEAK_SKILLUP_FLOOR"],
+		"events_display": ["CUSTOM_SNEAK_TOTAL_TIME", "CLASS_SNEAK_TIME", "CLASS_SNEAK_SKILLUP_FLOOR"],
+		"custom_events_display": ["CUSTOM_SNEAK_TOTAL_TIME", "CLASS_SNEAK_TIME", "CLASS_SNEAK_SKILLUP_FLOOR"]
+	  },
+	  "stealth skill": {
+		"lore_points": 1,
+		"event_lookup": 30,
+		"img": "",
+		"models": ["skills_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/SkillSheet/Icons/Stealth02_32.png"
+		],
+		"events": ["SKILL_NOVICES", "CLASS_SKILL_UPS", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"events_display": ["CUSTOM_SKILL_TOTAL_LVLS_STEALTH", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"custom_events_display": ["CUSTOM_SKILL_TOTAL_LVLS_STEALTH", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"]
+	  },
+	  "flanking": {
+		"lore_points": 1,
+		"event_lookup": 31,
+		"img": "*images/ui/Main Menus/AdventureArchives/Subjects/C_Subject_CFlanking_00.png",
+		"enable_tutorial": true,
+		"events": ["FLANK_HITS", "FLANK_DMG", "CLASS_FLANK_HITS_RUN", "CLASS_FLANK_DMG_RUN"],
+		"events_display": ["FLANK_HITS", "FLANK_DMG", "CLASS_FLANK_HITS_RUN", "CLASS_FLANK_DMG_RUN"]
+	  },
+	  "backstabs": {
+		"lore_points": 1,
+		"event_lookup": 32,
+		"img": "*images/ui/Main Menus/AdventureArchives/Subjects/C_Subject_CBackstab_00.png",
+		"enable_tutorial": true,
+		"events": ["BACKSTAB_HITS", "CLASS_BACKSTAB_KILLS_RUN",  "CLASS_BACKSTAB_HITS_RUN", "BACKSTAB_KILLS", "CLASS_BACKSTAB_DMG_RUN"],
+		"events_display": ["BACKSTAB_HITS", "BACKSTAB_KILLS", "CLASS_BACKSTAB_HITS_RUN", "CLASS_BACKSTAB_KILLS_RUN", "CLASS_BACKSTAB_DMG_RUN"]
+	  },
+	  "blocking": {
+		"lore_points": 1,
+		"event_lookup": 33,
+		"img": "*images/ui/Main Menus/AdventureArchives/Subjects/C_Subject_CBlocking_00.png",
+		"enable_tutorial": true,
+		"events": ["CLASS_BLOCK_DEFENDED", "CLASS_BLOCK_UNDEFENDED",  "CLASS_BLOCK_DEFENDED_RUN", "CLASS_BLOCK_UNDEFENDED_RUN"],
+		"events_display": ["CLASS_BLOCK_DEFENDED", "CLASS_BLOCK_UNDEFENDED",  "CLASS_BLOCK_DEFENDED_RUN", "CLASS_BLOCK_UNDEFENDED_RUN"]
+	  },
+	  "blocking skill": {
+		"lore_points": 1,
+		"event_lookup": 34,
+		"img": "",
+		"models": ["skills_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/SkillSheet/Icons/Blocking02_32.png"
+		],
+		"events": ["SKILL_NOVICES", "CLASS_SKILL_UPS", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"events_display": ["CUSTOM_SKILL_TOTAL_LVLS_BLOCKING", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"custom_events_display": ["CUSTOM_SKILL_TOTAL_LVLS_BLOCKING", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"]
+	  },
+	  "missiles": {
+		"lore_points": 1,
+		"event_lookup": 35,
+		"img": "*images/ui/Main Menus/AdventureArchives/Subjects/C_Subject_CMissiles_00.png",
+		"enable_tutorial": true,
+		"events": ["RANGED_HITS", "RANGED_DMG_TOTAL",  "CLASS_RANGED_HITS_RUN", "RANGED_KILLS"],
+		"events_display": ["RANGED_HITS", "RANGED_DMG_TOTAL",  "CLASS_RANGED_HITS_RUN", "RANGED_KILLS"]
+	  },
+	  "thrown": {
+		"lore_points": 1,
+		"event_lookup": 36,
+		"img": "*images/ui/Main Menus/AdventureArchives/Subjects/C_Subject_CThrowing_00.png",
+		"enable_tutorial": true,
+		"events": ["THROWN_TOTAL_HITS", "THROWN_DMG_TOTAL",  "CLASS_THROWN_HITS_RUN", "THROWN_KILLS"],
+		"events_display": ["THROWN_TOTAL_HITS", "THROWN_DMG_TOTAL",  "CLASS_THROWN_HITS_RUN", "THROWN_KILLS"]
+	  },
+	  "equipment degradation": {
+		"lore_points": 1,
+		"event_lookup": 37,
+		"img": "",
+		"models": ["durability"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/Main Menus/AdventureArchives/Subjects/C_Subject_CDurability.png"
+		],	
+		"enable_tutorial": true,
+		"events_display": ["CUSTOM_ITEMS_DEGRADED", "CUSTOM_ITEMS_REPAIRED", "CUSTOM_ITEMS_BROKEN", "CUSTOM_ITEMS_BROKEN_ARMOR"],
+		"custom_events_display": ["CUSTOM_ITEMS_DEGRADED", "CUSTOM_ITEMS_REPAIRED", "CUSTOM_ITEMS_BROKEN", "CUSTOM_ITEMS_BROKEN_ARMOR"]
+	  },
+	  "ranged skill": {
+		"lore_points": 1,
+		"event_lookup": 38,
+		"img": "",
+		"models": ["skills_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/SkillSheet/Icons/Ranged02_32.png"
+		],
+		"events": ["SKILL_NOVICES", "CLASS_SKILL_UPS", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"events_display": ["CUSTOM_SKILL_TOTAL_LVLS_RANGED", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"custom_events_display": ["CUSTOM_SKILL_TOTAL_LVLS_RANGED", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"]
+	  },
+	  "spellbook casting": {
+		"lore_points": 1,
+		"event_lookup": 49,
+		"img": "*images/ui/Main Menus/AdventureArchives/Subjects/C_Subject_CSpellbook_00.png",
+		"enable_tutorial": true,
+		"events": ["CLASS_SPELLBOOK_FIZZLES_RUN", "CLASS_SPELLBOOK_CASTS_RUN"],
+		"events_display": ["CUSTOM_SPELLBOOK_ITEM_CASTS", "CUSTOM_SPELLBOOK_CAST_DEGRADES", "CLASS_SPELLBOOK_CASTS_RUN", "CLASS_SPELLBOOK_FIZZLES_RUN"],
+		"custom_events_display": ["CUSTOM_SPELLBOOK_ITEM_CASTS", "CUSTOM_SPELLBOOK_CAST_DEGRADES", "CLASS_SPELLBOOK_CASTS_RUN", "CLASS_SPELLBOOK_FIZZLES_RUN"]
+	  },
+	  "memorized": {
+		"lore_points": 1,
+		"event_lookup": 39,
+		"img": "*images/ui/Main Menus/AdventureArchives/Subjects/C_Subject_CMemorized_00.png",
+		"enable_tutorial": true,
+		"events": ["CLASS_SPELL_FIZZLES_RUN", "CLASS_SPELL_CASTS_RUN"],
+		"events_display": ["CUSTOM_SPELL_ITEM_CASTS", "CUSTOM_SPELL_ITEM_FIZZLES", "CLASS_SPELL_CASTS_RUN", "CLASS_SPELL_FIZZLES_RUN"],
+		"custom_events_display": ["CUSTOM_SPELL_ITEM_CASTS", "CUSTOM_SPELL_ITEM_FIZZLES", "CLASS_SPELL_CASTS_RUN", "CLASS_SPELL_FIZZLES_RUN"]
+	  },
+	  "magic skill": {
+		"lore_points": 1,
+		"event_lookup": 40,
+		"img": "",
+		"models": ["skills_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/SkillSheet/Icons/Magic02_32.png"
+		],
+		"events": ["SKILL_NOVICES", "CLASS_SKILL_UPS", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"events_display": ["CUSTOM_SKILL_TOTAL_LVLS_MAGIC", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"custom_events_display": ["CUSTOM_SKILL_TOTAL_LVLS_MAGIC", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"]
+	  },
+	  "casting skill": {
+		"lore_points": 1,
+		"event_lookup": 41,
+		"img": "",
+		"models": ["skills_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/SkillSheet/Icons/Casting02_32.png"
+		],
+		"events": ["SKILL_NOVICES", "CLASS_SKILL_UPS", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"events_display": ["CUSTOM_SKILL_TOTAL_LVLS_CASTING", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"custom_events_display": ["CUSTOM_SKILL_TOTAL_LVLS_CASTING", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"]
+	  },
+	  "appraisal skill": {
+		"lore_points": 1,
+		"event_lookup": 42,
+		"img": "",
+		"models": ["skills_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/SkillSheet/Icons/Appraisal02_32.png"
+		],
+		"events": ["SKILL_NOVICES", "CLASS_SKILL_UPS", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"events_display": ["CUSTOM_SKILL_TOTAL_LVLS_APPRAISAL", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"custom_events_display": ["CUSTOM_SKILL_TOTAL_LVLS_APPRAISAL", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"]
+	  },
+	  "swimming skill": {
+		"lore_points": 1,
+		"event_lookup": 43,
+		"img": "",
+		"models": ["skills_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/SkillSheet/Icons/Swimming02_32.png"
+		],
+		"events": ["SKILL_NOVICES", "CLASS_SKILL_UPS", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"events_display": ["CUSTOM_SKILL_TOTAL_LVLS_SWIMMING", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"custom_events_display": ["CUSTOM_SKILL_TOTAL_LVLS_SWIMMING", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"]
+	  },
+	  "leadership skill": {
+		"lore_points": 1,
+		"event_lookup": 44,
+		"img": "",
+		"models": ["skills_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/SkillSheet/Icons/Leadership02_32.png"
+		],
+		"events": ["SKILL_NOVICES", "CLASS_SKILL_UPS", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"events_display": ["CUSTOM_SKILL_TOTAL_LVLS_LEADERSHIP", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"custom_events_display": ["CUSTOM_SKILL_TOTAL_LVLS_LEADERSHIP", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"]
+	  },
+	  "trading skill": {
+		"lore_points": 1,
+		"event_lookup": 45,
+		"img": "",
+		"models": ["skills_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/SkillSheet/Icons/Trading02_32.png"
+		],
+		"events": ["SKILL_NOVICES", "CLASS_SKILL_UPS", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"events_display": ["CUSTOM_SKILL_TOTAL_LVLS_TRADING", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"custom_events_display": ["CUSTOM_SKILL_TOTAL_LVLS_TRADING", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"]
+	  },
+	  "wanted": {
+		"lore_points": 1,
+		"event_lookup": 46,
+		"img": "",
+		"models": ["statusfx_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/HUD/statusfx/redhanded.png"
+		],
+		"enable_tutorial": false,
+		"events": ["WANTED_RUNS", "WANTED_TIMES_RUN",  "WANTED_INFLUENCE", "WANTED_CRIMES_RUN"],
+		"events_display": ["WANTED_RUNS", "WANTED_TIMES_RUN",  "WANTED_INFLUENCE", "WANTED_CRIMES_RUN"]
+	  },
+	  "alchemy skill": {
+		"lore_points": 1,
+		"event_lookup": 47,
+		"img": "",
+		"models": ["skills_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/SkillSheet/Icons/Alchemy02_32.png"
+		],
+		"feature_img": "*#images/ui/Main Menus/AdventureArchives/Subjects/recipedetails-text.png",
+		"events": ["SKILL_NOVICES", "CLASS_SKILL_UPS", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"events_display": ["CUSTOM_SKILL_TOTAL_LVLS_ALCHEMY", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"custom_events_display": ["CUSTOM_SKILL_TOTAL_LVLS_ALCHEMY", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"]
+	  },
+	  "tinkering skill": {
+		"lore_points": 1,
+		"event_lookup": 48,
+		"img": "",
+		"models": ["skills_single"],
+		"rendered_imgs": [
+			"",
+			"*images/ui/SkillSheet/Icons/Tinkering02_32.png"
+		],
+		"events": ["SKILL_NOVICES", "CLASS_SKILL_UPS", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"events_display": ["CUSTOM_SKILL_TOTAL_LVLS_TINKERING", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"],
+		"custom_events_display": ["CUSTOM_SKILL_TOTAL_LVLS_TINKERING", "CLASS_SKILL_MAX",  "CLASS_SKILL_UPS_RUN_MAX", "CLASS_SKILL_LEGENDS"]
+	  }
+	}
+}

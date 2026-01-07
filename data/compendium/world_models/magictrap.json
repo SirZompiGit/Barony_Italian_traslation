@@ -1,0 +1,66 @@
+{
+    "version": 1,
+    "camera": {
+		"ang_degrees": 45,
+		"vang_degrees": 0,
+		"zoom": 2,
+		"height": -14,
+		"rotate_speed": 3.0
+	},	
+    "height_offset": 0,
+	"map_tiles": 
+	{
+		"ceiling": 0,
+		"width": 5,
+		"height": 5,
+		"floor": [
+			4, 364, 4, 4, 4,
+			4, 8, 8, 8, 365,
+			4, 8, 8, 8, 4,
+			365, 8, 8, 8, 364,
+			4, 4, 4, 366, 4
+		],
+		"mid": [
+			0, 0, 0, 0, 0,
+			0, 0, 0, 0, 0,			
+			0, 0, 78, 0, 0,
+			0, 0, 0, 0, 0,			
+			0, 0, 0, 0, 0
+		],
+		"top": [
+			0, 0, 0, 0, 0,
+			0, 0, 0, 0, 0,			
+			0, 0, 53, 0, 0,
+			0, 0, 0, 0, 0,			
+			0, 0, 0, 0, 0
+		]
+	},
+    "limbs": [
+		{
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 0
+		},
+		{
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 168
+		}
+    ]
+}

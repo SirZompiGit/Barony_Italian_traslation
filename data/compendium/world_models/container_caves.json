@@ -1,0 +1,101 @@
+{
+    "version": 1,
+    "height_offset": 0,
+    "camera": {
+        "ang_degrees": 55,
+        "vang_degrees": 10,
+        "zoom": 2,
+        "height": -20,
+        "rotate_limit_degrees_min": -0,
+        "rotate_limit_degrees_max": 0,
+        "rotate_speed": -2.0
+    },
+	"map_tiles": 
+	{
+		"ceiling": 0,
+		"width": 3,
+		"height": 3,
+		"floor": [
+			183, 183, 184,
+			183, 184, 183,
+			184, 183, 183
+		],
+		"mid": [
+			0, 0, 0,
+			0, 0, 0,
+			0, 0, 0
+		],
+		"top": [
+			0, 0, 0,
+			0, 0, 0,
+			0, 0, 0
+		]
+	},	
+    "limbs": [
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": -1
+		},
+		{
+            "x": 0,
+            "y": -16,
+            "z": 0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 180,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 8.0,
+            "sprite": 1360
+		},
+		{
+            "x": 16,
+            "y": 0,
+            "z": 0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 8.0,
+            "sprite": 1370
+		},
+		{
+            "x": -16,
+            "y": 0,
+            "z": 0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 8.0,
+            "sprite": 1372
+		},
+		{
+            "x": 0,
+            "y": 16,
+            "z": 0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 8.0,
+            "sprite": 1373
+		}
+    ]
+}

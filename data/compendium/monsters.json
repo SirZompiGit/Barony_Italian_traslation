@@ -1,0 +1,939 @@
+{
+	"version": 1,
+	"unique_tags" : {
+		"algernon": 500,
+		"funny bones": 501,
+		"shelob": 502,
+		"bubbles": 502,
+		"potato king": 503,
+		"thumpus": 504,
+		"coral grimes": 506,
+		"skrabblag": 507,
+		"deudebreau": 508,
+		"lilith": 509,
+		"bram succubi": 510,
+		"xyggi": 511,
+		"bram kindly": 512,
+		"artemisia": 513,
+		"baratheon": 514,
+		"ghost": 515,
+		"gharbad": 516,
+		"mysterious shop": 517,
+		"enslaved ghoul": 518,
+		"gnome thief": 519
+	},
+	"monsters": {
+		"human": {
+			"lore_points": 1,
+			"stats": {
+				"hp": [30, 50],
+				"spd": [4, 7],
+				"ac": [0, 9],
+				"atk": [7, 14],
+				"rangeatk": [9, 16],
+				"pwr": [],
+				"lvl": [3],
+				"species": "humanoid"
+			},
+			"resistances": [0, 0, 0, 0, 0, 0, 0],
+			"models": ["human0", "human1", "human2", "human3", "human4", "human5", "human6", "human7", "human8", "human9"]
+		},
+		"rat": {
+			"lore_points": 1,
+			"stats": {
+				"hp": [30],
+				"spd": [2],
+				"ac": [1],
+				"atk": [8],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [1],
+				"species": "beast"
+			},
+			"resistances": [1, 1, -1, -1, 2, 0, 2],
+			"models": ["rat0"]
+		},
+		"algernon": {
+			"lore_points": 3,
+			"type": "rat",
+			"unique_npc": "algernon",
+			"stats": {
+				"hp": [60],
+				"spd": [20],
+				"ac": [2],
+				"atk": [7],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [10],
+				"str": [-1],
+				"species": "beast"
+			},
+			"resistances": [1, 1, -1, -1, 2, 0, 2],
+			"models": ["algernon"]			
+		},
+		"goblin": {
+			"lore_points": 2,
+			"stats": {
+				"hp": [60],
+				"spd": [1],
+				"ac": [3, 13],
+				"atk": [13, 19],
+				"rangeatk": [14, 19],
+				"pwr": [25],
+				"lvl": [6],
+				"species": "humanoid"
+			},
+			"resistances": [-1, 0, 1, 1, 1, 0, -2],
+			"models": ["goblin0","goblin1","goblin2","goblin3","goblin4","goblin5"]			
+		},
+		"potato king": {
+			"lore_points": 3,
+			"type": "goblin",
+			"unique_npc": "potato king",
+			"stats": {
+				"hp": [120],
+				"spd": [1],
+				"ac": [3, 13],
+				"atk": [17],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [6],
+				"str": [11],
+				"species": "humanoid"
+			},
+			"resistances": [-1, 0, 1, 1, 1, 0, -2],
+			"models": ["potatoking"]					
+		},
+		"slime": {
+			"lore_points": 1,
+			"stats": {
+				"hp": [60, 240],
+				"spd": [0, 4],
+				"ac": [3, 21],
+				"atk": [11, 29],
+				"rangeatk": [],
+				"pwr": [6, 12],
+				"lvl": [4, 22],
+				"species": "elemental"
+			},
+			"resistances": [2, -2, 2, -1, -2, 2, -2],
+			"models": ["slime0", "slime1", "slime2", "slime3", "slime4"]
+		},
+		"troll": {
+			"lore_points": 2,
+			"stats": {
+				"hp": [100, 120],
+				"spd": [0],
+				"ac": [5],
+				"atk": [23],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [12],
+				"species": "beast"
+			},
+			"resistances": [1, -2, 1, -2, -1, 0, -2],
+			"models": ["troll0"]			
+		},
+		"thumpus": {
+			"lore_points": 3,
+			"type": "troll",
+			"unique_npc": "thumpus",
+			"stats": {
+				"hp": [200, 240],
+				"spd": [0],
+				"ac": [5],
+				"atk": [23],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [22],
+				"species": "beast"
+			},
+			"resistances": [1, -2, 1, -2, -1, 0, -2],
+			"models": ["thumpus"]			
+		},
+		"spider": {
+			"lore_points": 2,
+			"stats": {
+				"hp": [50],
+				"spd": [8],
+				"ac": [4],
+				"atk": [11],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [5],
+				"species": "beast"
+			},
+			"resistances": [0, 1, 0, 2, 1, 0, 1],
+			"models": ["spider0"]		
+		},
+		"crab": {
+			"type": "spider",
+			"lore_points": 2,
+			"stats": {
+				"hp": [50],
+				"spd": [8],
+				"ac": [4],
+				"atk": [11],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [5],
+				"species": "beast"
+			},
+			"resistances": [0, 1, 0, 2, 1, 0, 1],
+			"models": ["spider_crab"]		
+		},
+		"shelob": {
+			"lore_points": 3,
+			"type": "spider",
+			"unique_npc": "shelob",
+			"stats": {
+				"hp": [150],
+				"spd": [10],
+				"ac": [8],
+				"atk": [18],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [15],
+				"str": [10],
+				"species": "beast"
+			},
+			"resistances": [0, 1, 0, 2, 1, 0, 1],
+			"models": ["shelob"]
+		},
+		"bubbles": {
+			"lore_points": 3,
+			"type": "spider",
+			"unique_npc": "bubbles",
+			"stats": {
+				"hp": [150],
+				"spd": [10],
+				"ac": [8],
+				"atk": [18],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [15],
+				"str": [10],
+				"species": "beast"
+			},
+			"resistances": [0, 1, 0, 2, 1, 0, 1],
+			"models": ["spider_crab"]
+		},
+		"ghoul": {
+			"lore_points": 2,
+			"stats": {
+				"hp": [90],
+				"spd": [0],
+				"ac": [-1],
+				"atk": [16],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [7],
+				"species": "undead"
+			},
+			"resistances": [0, 2, -1, 1, -2, -1, 1],
+			"models": ["ghoul0"]			
+		},
+		"coral grimes": {
+			"lore_points": 3,
+			"type": "ghoul",
+			"unique_npc": "coral grimes",
+			"stats": {
+				"hp": [270],
+				"spd": [2],
+				"ac": [-1],
+				"atk": [21],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [15],
+				"str": [13],
+				"species": "undead"
+			},
+			"resistances": [0, 2, -1, 1, -2, -1, 1],
+			"models": ["coralgrimes"]
+		},
+		"enslaved ghoul": {
+			"lore_points": 3,
+			"type": "ghoul",
+			"unique_npc": "enslaved ghoul",
+			"stats": {
+				"hp": [110],
+				"spd": [5],
+				"ac": [-1],
+				"atk": [21],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [10],
+				"str": [13],
+				"species": "undead"
+			},
+			"resistances": [0, 2, -1, 1, -2, -1, 1],
+			"models": ["ghoul1"]			
+		},
+		"skeleton": {
+			"lore_points": 1,
+			"stats": {
+				"hp": [40],
+				"spd": [1],
+				"ac": [1, 6],
+				"atk": [8, 12],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [2],
+				"species": "undead"
+			},
+			"resistances": [-2, 2, -1, 2, -2, -1, 1],
+			"models": ["skeleton0", "skeleton1", "skeleton2"]
+		},
+		"funny bones": {
+			"lore_points": 3,
+			"type": "skeleton",
+			"unique_npc": "funny bones",
+			"stats": {
+				"hp": [100],
+				"spd": [1],
+				"ac": [1, 6],
+				"atk": [14, 17],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [2],
+				"str": [6],
+				"species": "undead"
+			},
+			"resistances": [-2, 2, -1, 2, -2, -1, 1],
+			"models": ["funnybones"]			
+		},
+		"scorpion": {
+			"lore_points": 1,
+			"stats": {
+				"hp": [70],
+				"spd": [3],
+				"ac": [4],
+				"atk": [21],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [7],
+				"species": "beast"
+			},
+			"resistances": [-1, 1, 0, 2, -2, -1, 1],
+			"models": ["scorpion0"]				
+		},
+		"skrabblag": {
+			"lore_points": 3,
+			"type": "scorpion",
+			"unique_npc": "skrabblag",
+			"stats": {
+				"hp": [100],
+				"spd": [5],
+				"ac": [6],
+				"atk": [23],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [15],
+				"str": [15],
+				"species": "beast"
+			},
+			"resistances": [-1, 1, 0, 2, -2, -1, 1],
+			"models": ["skrabblagg"]				
+		},
+		"imp": {
+			"lore_points": 3,
+			"stats": {
+				"hp": [80],
+				"spd": [7],
+				"ac": [9],
+				"atk": [29],
+				"rangeatk": [],
+				"pwr": [25],
+				"lvl": [14],
+				"species": "demonoid"
+			},
+			"resistances": [1, 0, -1, 0, 0, 2, 0],
+			"models": ["imp0"]					
+		},
+		"gnome": {
+			"lore_points": 2,
+			"stats": {
+				"hp": [50],
+				"spd": [0],
+				"ac": [4, 7],
+				"atk": [9, 11],
+				"rangeatk": [],
+				"pwr": [25],
+				"lvl": [5],
+				"species": "humanoid"
+			},
+			"resistances": [-1, 0, 0, -1, 1, 1, 0],
+			"models": ["gnome0", "gnome1"]	
+		},
+		"gnome thief": {
+			"lore_points": 2,
+			"type": "gnome",
+			"unique_npc": "gnome thief",
+			"stats": {
+				"hp": [80],
+				"spd": [5],
+				"ac": [8, 11],
+				"atk": [13, 17],
+				"rangeatk": [15, 20],
+				"pwr": [],
+				"lvl": [10],
+				"species": "humanoid"
+			},
+			"resistances": [-1, 0, 0, -1, 1, 1, 0],
+			"models": ["gnome_thief0", "gnome_thief1", "gnome_thief2", "gnome_thief3"]	
+		},
+		"demon": {
+			"lore_points": 3,
+			"stats": {
+				"hp": [120],
+				"spd": [10],
+				"ac": [10],
+				"atk": [38],
+				"rangeatk": [],
+				"pwr": [25],
+				"lvl": [20],
+				"species": "demonoid"
+			},
+			"resistances": [-1, -2, 0, -2, -1, 1, -2],
+			"models": ["demon0"]	
+		},
+		"deudebreau": {
+			"lore_points": 4,
+			"type": "demon",
+			"unique_npc": "deudebreau",
+			"stats": {
+				"hp": [120],
+				"spd": [10],
+				"ac": [10],
+				"atk": [38],
+				"rangeatk": [],
+				"pwr": [25],
+				"lvl": [30],
+				"species": "demonoid"
+			},
+			"resistances": [-1, -2, 0, -2, -1, 1, -2],
+			"models": ["deudebreau"]			
+		},
+		"succubus": {
+			"lore_points": 2,
+			"stats": {
+				"hp": [60],
+				"spd": [3],
+				"ac": [3],
+				"atk": [15],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [10],
+				"species": "demonoid"
+			},
+			"resistances": [2, 0, 0, -1, 0, -2, 0],
+			"models": ["succubus0"]			
+		},
+		"lilith": {
+			"lore_points": 3,
+			"type": "succubus",
+			"unique_npc": "lilith",
+			"stats": {
+				"hp": [60],
+				"spd": [10],
+				"ac": [3],
+				"atk": [15],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [10],
+				"species": "demonoid"
+			},
+			"resistances": [2, 0, 0, -1, 0, -2, 0],
+			"models": ["lilith"]		
+		},
+		"bram succubi": {
+			"lore_points": 2,
+			"type": "succubus",
+			"unique_npc": "bram succubi",
+			"stats": {
+				"hp": [130, 170],
+				"spd": [12],
+				"ac": [12],
+				"atk": [23],
+				"rangeatk": [],
+				"pwr": [30],
+				"lvl": [20],
+				"species": "demonoid"
+			},
+			"resistances": [2, 0, 0, -1, 0, -2, 0],
+			"models": ["bramsuccubi"]			
+		},
+		"mimic": {
+			"lore_points": 4,
+			"stats": {
+				"hp": [90, 410],
+				"spd": [0, 6],
+				"ac": [3, 24],
+				"atk": [23, 41],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [10, 40],
+				"str": [15, 33],
+				"species": "elemental"
+			},
+			"resistances": [-2, -2, 1, -2, -2, 2, -2],
+			"models": ["mimic0"]
+		},
+		"lich": {
+			"lore_points": 5,
+			"stats": {
+				"hp": [1250],
+				"spd": [8],
+				"ac": [8],
+				"atk": [],
+				"rangeatk": [],
+				"pwr": [25],
+				"lvl": [25],
+				"species": "undead"
+			},
+			"resistances": [2, 2, 2, 2, 1, 0, 1],
+			"models": ["lich0"]			
+		},
+		"minotaur": {
+			"lore_points": 5,
+			"stats": {
+				"hp": [400],
+				"spd": [15],
+				"ac": [15],
+				"atk": [43],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [20],
+				"species": "beast"
+			},
+			"resistances": [0, 0, 0, 0, 0, 0, 0],
+			"models": ["minotaur0"]	
+		},
+		"devil": {
+			"lore_points": 5,
+			"stats": {
+				"hp": [1500],
+				"spd": [],
+				"ac": [10],
+				"atk": [],
+				"rangeatk": [],
+				"pwr": [25],
+				"lvl": [30],
+				"species": "demonoid"
+			},
+			"models": ["devil0"],
+			"resistances": [2, 2, 2, 2, 0, 0, 0],
+			"models": ["devil0"]				
+		},
+		"shopkeeper": {
+			"lore_points": 3,
+			"stats": {
+				"hp": [300],
+				"spd": [4],
+				"ac": [10],
+				"atk": [],
+				"rangeatk": [],
+				"pwr": [25],
+				"lvl": [10],
+				"species": "humanoid"
+			},
+			"resistances": [-2, -2, -2, -2, -2, -2, -2],
+			"models": ["shopkeeper0"]			
+		},
+		"mysterious shop": {
+			"lore_points": 5,
+			"type": "shopkeeper",
+			"unique_npc": "mysterious shop",
+			"stats": {
+				"hp": [600],
+				"spd": [4],
+				"ac": [20],
+				"atk": [],
+				"rangeatk": [],
+				"pwr": [25],
+				"lvl": [],
+				"species": "humanoid"
+			},
+			"resistances": [-2, -2, -2, -2, -2, -2, -2],
+			"models": ["secretmerchant"]
+		},
+		"kobold": {
+			"lore_points": 3,
+			"stats": {
+				"hp": [100, 120],
+				"spd": [5, 10],
+				"ac": [3, 11],
+				"atk": [33, 40],
+				"rangeatk": [33, 41],
+				"pwr": [],
+				"lvl": [15],
+				"species": "beastfolk"
+			},
+			"resistances": [-1, 2, 2, -1, 1, -2, -1],
+			"models": ["kobold0", "kobold1", "kobold2"]				
+		},
+		"scarab": {
+			"lore_points": 2,
+			"stats": {
+				"hp": [60],
+				"spd": [12],
+				"ac": [2],
+				"atk": [18],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [10, 15],
+				"species": "beast"
+			},
+			"resistances": [2, 1, 2, -1, 1, -2, 2],
+			"models": ["scarab0"]
+		},
+		"xyggi": {
+			"lore_points": 4,
+			"type": "scarab",
+			"unique_npc": "xyggi",
+			"stats": {
+				"hp": [70],
+				"spd": [20],
+				"ac": [2],
+				"atk": [7],
+				"rangeatk": [],
+				"pwr": [20],
+				"lvl": [10],
+				"str": [-1],
+				"species": "beast"
+			},
+			"resistances": [2, 1, 2, -1, 1, -2, 2],
+			"models": ["xyggi"]
+		},
+		"crystalgolem": {
+			"lore_points": 4,
+			"stats": {
+				"hp": [200, 250],
+				"spd": [2, 4],
+				"ac": [25],
+				"atk": [58, 63],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [30],
+				"species": "elemental"
+			},
+			"resistances": [0, 2, 1, -1, -2, -2, -2],
+			"models": ["crystalgolem0"]			
+		},
+		"incubus": {
+			"lore_points": 3,
+			"stats": {
+				"hp": [280, 305],
+				"spd": [8],
+				"ac": [3, 6],
+				"atk": [28, 44],
+				"rangeatk": [33, 41],
+				"pwr": [],
+				"lvl": [25],
+				"species": "demonoid"
+			},
+			"resistances": [1, 0, 0, -2, 2, -2, 0],
+			"models": ["incubus0", "incubus1", "incubus2"]		
+		},
+		"vampire": {
+			"lore_points": 4,
+			"stats": {
+				"hp": [400],
+				"spd": [8],
+				"ac": [0],
+				"atk": [48, 58],
+				"rangeatk": [],
+				"pwr": [30],
+				"lvl": [30],
+				"species": "undead"
+			},
+			"resistances": [-1, 2, -1, 1, -2, -1, 0],
+			"models": ["vampire0", "vampire1"]
+		},
+		"bram kindly": {
+			"lore_points": 5,
+			"type": "vampire",
+			"unique_npc": "bram kindly",
+			"stats": {
+				"hp": [650],
+				"spd": [10],
+				"ac": [10],
+				"atk": [48, 53],
+				"rangeatk": [],
+				"pwr": [30],
+				"lvl": [35],
+				"str": [40, 45],
+				"species": "undead"
+			},
+			"resistances": [-1, 2, -1, 1, -2, -1, 0],
+			"models": ["bram"]			
+		},
+		"shadow": {
+			"lore_points": 4,
+			"stats": {
+				"hp": [170],
+				"spd": [10, 15],
+				"ac": [2, 4],
+				"atk": [28, 33],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [25],
+				"species": "undead"
+			},
+			"resistances": [-2, -2, -2, -2, -2, 2, -2],
+			"models": ["shadow0"]	
+		},
+		"artemisia": {
+			"lore_points": 5,
+			"type": "shadow",
+			"unique_npc": "artemisia",
+			"stats": {
+				"hp": [170],
+				"spd": [10, 15],
+				"ac": [2, 4],
+				"atk": [],
+				"rangeatk": [37, 48],
+				"pwr": [],
+				"lvl": [25],
+				"species": "undead"
+			},
+			"resistances": [-2, -2, -2, -2, -2, 2, -2],
+			"models": ["artemisia"]		
+		},
+		"baratheon": {
+			"lore_points": 5,
+			"type": "shadow",
+			"unique_npc": "baratheon",
+			"stats": {
+				"hp": [170],
+				"spd": [10, 15],
+				"ac": [2, 4],
+				"atk": [28, 33],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [50],
+				"species": "undead"
+			},
+			"resistances": [-2, -2, -2, -2, -2, 2, -2],
+			"models": ["baratheon"]				
+		},
+		"cockatrice": {
+			"lore_points": 5,
+			"stats": {
+				"hp": [500, 600],
+				"spd": [8],
+				"ac": [20],
+				"atk": [73, 83],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [35],
+				"species": "beast"
+			},
+			"resistances": [2, 1, 1, 2, -2, -2, -1],
+			"models": ["cockatrice0"]				
+		},
+		"insectoid": {
+			"lore_points": 3,
+			"stats": {
+				"hp": [130, 155],
+				"spd": [9],
+				"ac": [15, 24],
+				"atk": [26, 40],
+				"rangeatk": [33, 40],
+				"pwr": [30],
+				"lvl": [25],
+				"species": "beastfolk"
+			},
+			"resistances": [0, -2, 2, 2, 1, 0, -1],
+			"models": ["insectoid0", "insectoid1"]			
+		},
+		"goatman": {
+			"lore_points": 3,
+			"stats": {
+				"hp": [220, 240],
+				"spd": [8],
+				"ac": [9, 18],
+				"atk": [29, 40],
+				"rangeatk": [],
+				"pwr": [25],
+				"lvl": [25],
+				"species": "beastfolk"
+			},
+			"resistances": [-1, 0, 1, 1, 1, 2, 0],
+			"models": ["goatman0", "goatman1", "goatman2", "goatman3"]			
+		},
+		"gharbad": {
+			"lore_points": 4,
+			"type": "goatman",
+			"unique_npc": "gharbad",
+			"stats": {
+				"hp": [295, 315],
+				"spd": [10],
+				"ac": [9, 18],
+				"atk": [39, 50],
+				"rangeatk": [],
+				"pwr": [25],
+				"lvl": [25],
+				"str": [31],
+				"species": "beastfolk"
+			},
+			"resistances": [-1, 0, 1, 1, 1, 2, 0],
+			"models": ["gharbad"]				
+		},
+		"automaton": {
+			"lore_points": 2,
+			"stats": {
+				"hp": [115, 135],
+				"spd": [5],
+				"ac": [8],
+				"atk": [28],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [20],
+				"species": "construct"
+			},
+			"resistances": [0, 2, 2, 0, -1, 1, -1],
+			"models": ["automaton0", "automaton1"]					
+		},
+		"lichice": {
+			"lore_points": 5,
+			"stats": {
+				"hp": [2000],
+				"spd": [13],
+				"ac": [20],
+				"atk": [],
+				"rangeatk": [],
+				"pwr": [25],
+				"lvl": [50],
+				"species": "undead"
+			},
+			"resistances": [2, 2, 2, 2, 2, -2, 1],
+			"models": ["lichice0"]			
+		},
+		"lichfire": {
+			"lore_points": 5,
+			"stats": {
+				"hp": [2000],
+				"spd": [13],
+				"ac": [30],
+				"atk": [64],
+				"rangeatk": [],
+				"pwr": [25],
+				"lvl": [50],
+				"species": "undead"
+			},
+			"resistances": [2, 2, 2, 2, 1, 0, 1],
+			"models": ["lichfire0"]				
+		},
+		"sentrybot": {
+			"lore_points": 1,
+			"stats": {
+				"hp": [50, 150],
+				"spd": [],
+				"ac": [0, 9],
+				"atk": [],
+				"rangeatk": [16, 28],
+				"pwr": [],
+				"lvl": [3, 15],
+				"species": "construct"
+			},
+			"resistances": [0, 0, 0, 0, -2, -2, 0],
+			"models": ["sentrybot0"]				
+		},
+		"spellbot": {
+			"lore_points": 1,
+			"stats": {
+				"hp": [50, 150],
+				"spd": [],
+				"ac": [0, 9],
+				"atk": [],
+				"rangeatk": [],
+				"pwr": [25],
+				"lvl": [3, 15],
+				"species": "construct"
+			},
+			"resistances": [0, 0, 0, 0, -2, -2, 0],
+			"models": ["spellbot0"]	
+		},
+		"gyrobot": {
+			"lore_points": 1,
+			"stats": {
+				"hp": [10, 85],
+				"spd": [5],
+				"ac": [0],
+				"atk": [],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [1, 15],
+				"species": "construct"
+			},
+			"resistances": [0, 0, 0, 0, 0, 0, 0],
+			"models": ["gyrobot0"]				
+		},
+		"dummybot": {
+			"lore_points": 1,
+			"stats": {
+				"hp": [50, 200],
+				"spd": [],
+				"ac": [5, 15],
+				"atk": [],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [3, 15],
+				"species": "construct"
+			},
+			"resistances": [0, 0, 0, 0, -2, 1, -2],
+			"inventory": [
+				""
+			],
+			"models": ["dummybot0"]				
+		},
+		"ghost": {
+			"lore_points": 1,
+			"unique_npc": "ghost",		 
+			"stats": {
+				"hp": [0],
+				"spd": [4],
+				"ac": [0],
+				"atk": [],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [],
+				"species": "undead"
+			},
+			"resistances": [0, 0, 0, 0, 0, 0, 0],
+			"models": ["ghost"]
+		},
+		"bugbear": {
+			"lore_points": 3,
+			"stats": {
+				"hp": [130, 150],
+				"spd": [3],
+				"ac": [8, 15],
+				"atk": [18, 28],
+				"rangeatk": [15, 22],
+				"pwr": [],
+				"lvl": [14],
+				"str": [12],
+				"species": "beastfolk"
+			},
+			"resistances": [2, 1, 1, -2, -1, 0, -2],
+			"models": ["bugbear2", "bugbear0", "bugbear1"]
+		},
+		"bat": {
+			"lore_points": 1,
+			"stats": {
+				"hp": [10, 40],
+				"spd": [0, 3],
+				"ac": [0],
+				"atk": [8, 13],
+				"rangeatk": [],
+				"pwr": [],
+				"lvl": [1],
+				"species": "beast"
+			},
+			"resistances": [0, 0, 0, 0, 0, 0, -2],
+			"models": ["bat0"]
+		}
+	}
+}

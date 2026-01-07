@@ -1,0 +1,31 @@
+{
+    "version": 1,
+    "height_offset": 0,
+	"camera": {
+		"ang_degrees": 0,
+		"vang_degrees": 10,
+		"zoom": -0.1,
+		"height": -7,
+		"rotate_limit_degrees_min": 0,
+		"rotate_limit_degrees_max": 0,
+		"rotate_speed": -3.0
+	},
+    "limbs": [
+		{
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+			"yaw_degrees": 0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 0,
+			"scalex": 1.0,
+			"scaley": 1.0,
+			"scalez": 1.0
+		}
+    ]
+}

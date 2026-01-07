@@ -1,0 +1,176 @@
+{
+    "version": 1,
+    "camera": {
+        "ang_degrees": -15,
+        "vang_degrees": -10,
+        "zoom": 0.7,
+        "height": -6.0,
+        "rotate_limit_degrees_min": -10,
+        "rotate_limit_degrees_max": 5,
+        "rotate_speed": 0.2
+    },
+	"map_tiles": 
+	{
+		"ceiling": 154,
+		"width": 5,
+		"height": 5,
+		"floor": [
+			183, 214, 22, 22, 22,
+			183, 214, 22, 22, 22,
+			183, 214, 22, 22, 22,
+			183, 214, 214, 214, 214,
+			183, 183, 183, 183, 183
+		],
+		"mid": [
+			185, 0, 0, 0, 0,
+			186, 0, 0, 0, 0,
+			170, 0, 0, 0, 0,
+			158, 0, 0, 0, 0,
+			185, 158, 156, 156, 156
+		],
+		"top": [
+			185, 0, 0, 0, 0,
+			170, 0, 0, 0, 0,
+			158, 0, 0, 0, 0,
+			156, 0, 0, 0, 0,
+			185, 168, 156, 156, 156
+		]
+	},	
+    "limbs": [
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+            "focalx": 0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 0,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },
+        {
+            "x": 20,
+            "y": -20,
+            "z": -8,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+            "focalx": 0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 629,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },		
+        {
+            "x": 0,
+            "y": 0,
+            "z": -1.2,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+            "focalx": -0.75,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 650,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },
+        {
+            "x": -8,
+            "y": -6,
+            "z": -4,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+            "focalx": -0.75,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 172,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },
+        {
+            "x": -1,
+            "y": -6,
+            "z": -3,
+            "pitch": 0.0,
+            "roll": 1.6,
+            "yaw": 0.0,
+            "focalx": -0.75,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 172,
+            "scalex": 0.8,
+            "scaley": 0.8,
+            "scalez": 0.8
+        },		
+        {
+            "x": 0.0,
+            "y": -2.75,
+            "z": -4.45,
+            "pitch": 4.726990816987242,
+            "roll": 0.0,
+            "yaw": 0.2,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 2.0,
+            "sprite": 653,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },
+        {
+            "x": 0.0,
+            "y": 2.75,
+            "z": -4.45,
+            "pitch": -1.0,
+            "roll": 0.0,
+            "yaw": 0.2,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 2.0,
+            "sprite": 652,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },
+        {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -5.35,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+            "focalx": 1.5,
+            "focaly": 0.0,
+            "focalz": -2.5,
+            "sprite": 651,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },
+        {
+            "x": 0.0,
+            "y": -2.75,
+            "z": -4.45,
+            "pitch": 7.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+            "focalx": 3.0,
+            "focaly": 0.0,
+            "focalz": -3.0,
+            "sprite": 61,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        }
+    ]
+}

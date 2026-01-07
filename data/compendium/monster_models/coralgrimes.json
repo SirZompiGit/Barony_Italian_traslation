@@ -1,0 +1,176 @@
+{
+    "version": 1,
+    "camera": {
+        "ang_degrees": -35,
+        "vang_degrees": 10,
+        "zoom": 0.1,
+        "height": -9.0,
+        "rotate_limit_degrees_min": -10,
+        "rotate_limit_degrees_max": 10,
+        "rotate_speed": 0.2
+    },
+	"map_tiles": 
+	{
+		"ceiling": 83,
+		"width": 5,
+		"height": 5,
+		"floor": [
+			58, 58, 58, 58, 58,
+			58, 58, 58, 58, 58,
+			58, 58, 58, 58, 58,
+			58, 58, 58, 58, 58,
+			58, 58, 58, 58, 58
+		],
+		"mid": [
+			15, 15, 115, 15, 115,
+			115, 0, 0, 0, 0,
+			15, 0, 0, 0, 0,
+			115, 0, 0, 0, 0,			
+			15, 0, 115, 15, 115
+		],
+		"top": [
+			40, 40, 40, 40, 40,
+			40, 0, 0, 0, 0,
+			40, 0, 0, 0, 0,			
+			40, 0, 0, 0, 0,		
+			40, 40, 40, 40, 40
+		]
+	},		
+    "limbs": [
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0,
+            "sprite": 0,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },
+		        {
+            "x": 15,
+            "y": 0,
+            "z": 0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 1.6,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0,
+            "sprite": 224,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },			
+		        {
+            "x": 15,
+            "y": -30,
+            "z": 0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 1.6,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0,
+            "sprite": 1168,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },	
+        {
+            "x": 0,
+            "y": 0,
+            "z": -0.25,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": -2.5,
+            "sprite": 1017,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },
+        {
+            "x": 0.5,
+            "y": 0.0,
+            "z": 1.25,
+            "pitch": 0.19634954084936208,
+            "roll": 0.0,
+            "yaw": 0.0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 1020,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },
+        {
+            "x": 1.5,
+            "y": -1.0,
+            "z": 3.75,
+            "pitch": -0.1,
+            "roll": 0.0,
+            "yaw": 0.19634954084936208,
+            "focalx": 1.0,
+            "focaly": -0.5,
+            "focalz": 1.5,
+            "sprite": 1019,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },
+        {
+            "x": 1.5,
+            "y": 1.0,
+            "z": 3.75,
+            "pitch": 0.05,
+            "roll": 0.39269908169872416,
+            "yaw": -0.7853981633974483,
+            "focalx": 1.0,
+            "focaly": 0.5,
+            "focalz": 1.5,
+            "sprite": 1018,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },
+        {
+            "x": 0.0,
+            "y": -2.0,
+            "z": -1.25,
+            "pitch": 5.533185307179586,
+            "roll": -0.0,
+            "yaw": 0.19634954084936208,
+            "focalx": -0.5,
+            "focaly": -0.25,
+            "focalz": 3.0,
+            "sprite": 1016,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },
+        {
+            "x": 0.0,
+            "y": 2.0,
+            "z": -1.25,
+            "pitch": 5.283185307179586,
+            "roll": 0.0,
+            "yaw": -0.19634954084936208,
+            "focalx": -0.5,
+            "focaly": 0.25,
+            "focalz": 3.0,
+            "sprite": 1015,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        }
+    ]
+}

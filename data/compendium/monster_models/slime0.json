@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "camera": {
+        "ang_degrees": 25,
+        "vang_degrees": 5,
+        "zoom": 0.0,
+        "height": -11.0,
+        "rotate_limit_degrees_min": 0,
+        "rotate_limit_degrees_max": 0,
+        "rotate_speed": -8.0
+    },
+    "limbs": [
+        {
+            "x": 0,
+            "y": 0,
+            "z": 6.0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": -1.5,
+            "sprite": 1114,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        }
+    ]
+}

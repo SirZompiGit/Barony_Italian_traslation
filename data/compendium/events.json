@@ -1,0 +1,1900 @@
+{
+  "version": 1,
+  "tags": [
+    { "BLOCKED_ATTACKS": {"type": "sum", "client": 0} }                     ,
+    { "BROKEN_BY_BLOCKING": {"type": "sum", "client": 0} }                  ,
+    { "BROKEN": {"type": "sum", "client": 2} }                              ,
+    { "BLESSED_MAX": {"type": "max", "client": 1} }                         ,
+    { "ATTACKS": {"type": "sum", "client": 0} }                             ,
+    { "THROWN": {"type": "sum", "client": 0} }                              ,
+    { "SHOTS_FIRED": {"type": "sum", "client": 0} }                         ,
+    { "AMMO_FIRED": {"type": "sum", "client": 1} }                          ,
+    { "CONSUMED": {"type": "sum", "client": 1} }                            ,
+    { "TOWEL_USES": {"type": "sum", "client": 0} }                          ,
+    { "PICKAXE_WALLS_DUG": {"type": "sum", "client": 0} }                   ,
+    { "SINKS_TAPPED": {"type": "sum", "client": 0} }                        ,
+    { "ALEMBIC_BREWED": {"type": "sum", "client": 0} }                      ,
+    { "TINKERKIT_CRAFTS": {"type": "sum", "client": 1} }                    ,
+    { "TORCH_WALLS": {"type": "sum", "client": 0} }                         ,
+    { "SHIELD_REFLECT": {"type": "sum", "client": 0} }                      ,
+    { "BLESSED_TOTAL": {"type": "sum", "client": 0} }                       ,
+    { "DMG_MAX": {"type": "max", "client": 0} }                             ,
+    { "TRADING_GOLD_EARNED": {"type": "sum", "client": 0} }                 ,
+    { "FOUNTAINS_TAPPED": {"type": "sum", "client": 0} }                    ,
+    { "ALEMBIC_DECANTED": {"type": "sum", "client": 0} }                    ,
+    { "TINKERKIT_REPAIRS": {"type": "sum", "client": 1} }                   ,
+    { "MIRROR_TELEPORTS": {"type": "sum", "client": 0} }                    ,
+    { "BLOCKED_HIGHEST_DMG": {"type": "max", "client": 0} }                 ,
+    { "TRADING_SOLD": {"type": "sum", "client": 0} }                        ,
+    { "DMG_0": {"type": "sum", "client": 0} }                               ,
+    { "BOTTLE_FROM_BREWING": {"type": "sum", "client": 1} }                 ,
+    { "ALEMBIC_DUPLICATED": {"type": "sum", "client": 0} }                  ,
+    { "TINKERKIT_METAL_SCRAPPED": {"type": "sum", "client": 2} }            ,
+    { "INSPIRATION_XP": {"type": "sum", "client": 0} }                      ,
+    { "CLOAK_BURNED": {"type": "sum", "client": 0} }                        ,
+    { "BOTTLES_FROM_CONSUME": {"type": "sum", "client": 1} }                ,
+    { "ALEMBIC_BROKEN": {"type": "sum", "client": 0} }                      ,
+    { "TINKERKIT_MAGIC_SCRAPPED": {"type": "sum", "client": 2} }            ,
+    { "TINKERKIT_SALVAGED": {"type": "sum", "client": 2} }                  ,
+    { "APPRAISED": {"type": "sum", "client": 1} }                           ,
+    { "TOWEL_BLEEDING": {"type": "sum", "client": 0} }                      ,
+    { "TOWEL_MESSY": {"type": "sum", "client": 0} }                         ,
+    { "TOWEL_GREASY": {"type": "sum", "client": 0} }                        ,
+    { "RUNS_COLLECTED": {"type": "sum", "client": 1, "once_per_run": true} },
+    { "ATTACKS_MISSES": {"type": "sum", "client": 0} }                      ,
+    { "THROWN_HITS": {"type": "sum", "client": 0} }                         ,
+    { "SHOTS_HIT": {"type": "sum", "client": 0} }                           ,
+    { "AMMO_HIT": {"type": "sum", "client": 0} }                            ,
+    { "MAGICSTAFF_RECHARGED": {"type": "sum", "client": 1} }                ,
+    { "MAGICSTAFF_CASTS": {"type": "sum", "client": 0} }                    ,
+    { "FEATHER_ENSCRIBED": {"type": "sum", "client": 1} }                   ,
+    { "FEATHER_CHARGE_USED": {"type": "sum", "client": 1} }                 ,
+    { "FEATHER_SPELLBOOKS": {"type": "sum", "client": 1} }                  ,
+    { "CONSUMED_UNIDENTIFIED": {"type": "sum", "client": 1} }               ,
+    { "SPELL_CASTS": {"type": "sum", "client": 0} }                         ,
+    { "SPELL_FAILURES": {"type": "sum", "client": 0} }                      ,
+    { "SPELLBOOK_CASTS": {"type": "sum", "client": 0} }                     ,
+    { "SPELLBOOK_LEARNT": {"type": "sum", "client": 0} },
+	{ "KILLED_SOLO": {"type": "sum", "client": 0} },
+	{ "KILLED_PARTY": {"type": "sum", "client": 0} },
+	{ "KILLED_BY": {"type": "sum", "client": 0} },
+	{ "GHOST_SPAWNED": {"type": "sum", "client": 0} },
+	{ "GHOST_TELEPORTS": {"type": "sum", "client": 0} },
+	{ "GHOST_PINGS": {"type": "sum", "client": 1} },
+	{ "GHOST_PUSHES": {"type": "sum", "client": 0} },
+	{"MINEHEAD_ENTER": { "type": "sum", "client": 1 } },
+	{"MINEHEAD_RETURN": { "type": "sum", "client": 1 } },
+	{"GATE_OPENED_SPELL": { "type": "sum", "client": 0 } },
+	{"GATE_MINOTAUR": { "type": "sum", "client": 0 } },
+	{"LEVER_PULLED": { "type": "sum", "client": 0 } },
+	{"LEVER_FOLLOWER_PULLED": { "type": "sum", "client": 0 } },
+	{"DOOR_BROKEN": { "type": "sum", "client": 0 } },
+	{"DOOR_OPENED": { "type": "sum", "client": 0 } },
+	{"DOOR_UNLOCKED": { "type": "sum", "client": 0 } },
+	{"LEVELS_ENTERED": { "type": "sum", "client": 1 } },
+	{"LEVELS_EXITED": { "type": "sum", "client": 1 } },
+	{"LEVELS_MAX_LVL": { "type": "max", "client": 1 } },
+	{"LEVELS_MAX_GOLD": { "type": "max", "client": 1 } },
+	{"SINKS_USED": { "type": "sum", "client": 0 } },
+	{"SINKS_RINGS": { "type": "sum", "client": 0 } },
+	{"SINKS_SLIMES": { "type": "sum", "client": 0 } },
+	{"FOUNTAIN_FOOCUBI": { "type": "sum", "client": 0 } },
+	{"FOUNTAIN_DRUNK": { "type": "sum", "client": 0 } },
+	{"FOUNTAIN_BLESS": { "type": "sum", "client": 0 } },
+	{"FOUNTAIN_BLESS_ALL": { "type": "sum", "client": 0 } },
+	{"CHESTS_OPENED": { "type": "sum", "client": 0 } },
+	{"CHESTS_MIMICS_AWAKENED": { "type": "sum", "client": 0 } },
+	{"CHESTS_UNLOCKED": { "type": "sum", "client": 0 } },
+	{"CHESTS_DESTROYED": { "type": "sum", "client": 0 } },
+	{"BARRIER_DESTROYED": { "type": "sum", "client": 0 } },
+	{"GRAVE_GHOULS": { "type": "sum", "client": 0 } },
+	{"GRAVE_EPITAPHS_READ": { "type": "sum", "client": 0 } },
+	{"GRAVE_EPITAPHS_PERCENT": { "type": "bit", "client": 0 } },
+	{"GRAVE_GHOULS_ENSLAVED": { "type": "sum", "client": 0 } },
+	{"SHOP_BOUGHT": { "type": "sum", "client": 1 } },
+	{"SHOP_SOLD": { "type": "sum", "client": 1 } },
+	{"SHOP_GOLD_EARNED": { "type": "sum", "client": 1 } },
+	{"TRAP_KILLED_BY": { "type": "sum", "client": 0 } },
+	{"TRAP_DAMAGE": { "type": "sum", "client": 0 } },
+	{"TRAP_FOLLOWERS_KILLED": { "type": "sum", "client": 0 } },
+	{"BOULDERS_PUSHED": { "type": "sum", "client": 0 } },
+	{"ARROWS_PILFERED": { "type": "sum", "client": 0 } },
+	{"SWIM_TIME": { "type": "sum", "client": 1 } },
+	{"SWIM_KILLED_WHILE": { "type": "sum", "client": 0 } },
+	{"SWIM_BURN_CURED": { "type": "sum", "client": 0 } },
+	{"LAVA_DAMAGE": { "type": "sum", "client": 0 } },
+	{"LAVA_ITEMS_BURNT": { "type": "sum", "client": 1 } },
+	{"SOKOBAN_SOLVES": { "type": "sum", "client": 0 } },
+	{"SOKOBAN_FASTEST_SOLVE": { "type": "min", "client": 0 } },
+	{"TRAP_MAGIC_STATUSED": { "type": "sum", "client": 0 } },
+	{"OBELISK_USES": { "type": "sum", "client": 0 } },
+	{"OBELISK_FOLLOWER_USES": { "type": "sum", "client": 0 } },
+	{"TRIALS_ATTEMPTS": { "type": "sum", "client": 1 } },
+	{"TRIALS_PASSED": { "type": "sum", "client": 1 } },
+	{"TRIALS_DEATHS": { "type": "sum", "client": 1 } },
+	{"LEVELS_BIOME_CLEAR": { "type": "sum", "client": 1 } },
+	{"DOOR_CLOSED": { "type": "sum", "client": 0 } },
+	{"SINKS_HEALTH_RESTORED": { "type": "sum", "client": 0 } },
+	{"FOUNTAIN_USED": { "type": "sum", "client": 0 } },
+	{"CHESTS_MIMICS_AWAKENED1ST": { "type": "sum", "client": 0 } },
+	{"SHOP_SPENT": { "type": "sum", "client": 1 } },
+	{"SOKOBAN_PERFECT_SOLVES": { "type": "sum", "client": 0 } },
+	{"PITS_ITEMS_LOST": { "type": "sum", "client": 0 } },
+	{"PITS_LEVITATED": { "type": "sum", "client": 1 } },
+	{"PITS_DEATHS": { "type": "sum", "client": 0 } },
+	{"PITS_ITEMS_VALUE_LOST": { "type": "sum", "client": 0 } },
+	{"KILLED_MULTIPLAYER": {"type": "sum", "client": 0} },
+	{"RECRUITED": {"type": "sum", "client": 0} },
+	{"RACE_GAMES_STARTED": { "type": "sum", "client": 1, "attributes": ["race"] } },
+	{"RACE_RECRUITS": { "type": "sum", "client": 0, "attributes": ["race"] } },
+	{"RACE_GAMES_WON": { "type": "sum", "client": 1, "attributes": ["race"] } },
+	{"DISTANCE_TRAVELLED": { "type": "sum", "client": 1 } },
+	{"DISTANCE_MAX_RUN": { "type": "max", "client": 1, "unique_per_run": true } },
+	{"XP_KILLS": { "type": "sum", "client": 0 } },
+	{"XP_SKILLS": { "type": "sum", "client": 0 } },
+	{"XP_MAX_IN_FLOOR": { "type": "max", "client": 0, "unique_per_floor": true } },
+	{"XP_MAX_INSTANCE": { "type": "max", "client": 0 } },
+	{"CLASS_LVL_MAX": { "type": "max", "client": 0, "attributes": ["class"] } },
+	{"CLASS_LVL_GAINED": { "type": "sum", "client": 0, "attributes": ["class"] } },
+	{"CLASS_GAMES_STARTED": { "type": "sum", "client": 1, "attributes": ["class"] } },
+	{"CLASS_GAMES_WON": { "type": "sum", "client": 1, "attributes": ["class"] } },
+	{"CLASS_GAMES_SOLO": { "type": "sum", "client": 1, "attributes": ["class"] } },
+	{"CLASS_GAMES_MULTI": { "type": "sum", "client": 1, "attributes": ["class"] } },
+	{"STAT_MAX": { "type": "max", "client": 0, "attributes": ["stats"] } },
+	{"CLASS_STAT_STR_MAX": { "type": "max", "client": 0, "attributes": ["class", "stats"] } },
+	{"STAT_INCREASES": { "type": "sum", "client": 0, "attributes": ["stats"] } },
+	{"STAT_DOUBLED": { "type": "sum", "client": 0, "attributes": ["stats"] } },
+	{"HP_MAX": { "type": "max", "client": 1 } },
+	{"CLASS_HP_MAX": { "type": "max", "client": 1, "attributes": ["class"] } },
+	{"MP_MAX": { "type": "max", "client": 1 } },
+	{"CLASS_MP_MAX": { "type": "max", "client": 1, "attributes": ["class"] } },
+	{"CLASS_SKILL_UPS": { "type": "sum", "client": 0, "attributes": ["class", "skills"] } },
+	{"CLASS_SKILL_MAX": { "type": "max", "client": 0, "attributes": ["class", "skills"] } },
+	{"CLASS_SKILL_UPS_RUN_MAX": { "type": "max", "client": 0, "attributes": ["class", "skills"], "unique_per_run": true } },
+	{"CLASS_STAT_DEX_MAX": { "type": "max", "client": 0, "attributes": ["class", "stats"] } },
+	{"CLASS_STAT_CON_MAX": { "type": "max", "client": 0, "attributes": ["class", "stats"] } },
+	{"CLASS_STAT_INT_MAX": { "type": "max", "client": 0, "attributes": ["class", "stats"] } },
+	{"CLASS_STAT_PER_MAX": { "type": "max", "client": 0, "attributes": ["class", "stats"] } },
+	{"CLASS_STAT_CHR_MAX": { "type": "max", "client": 0, "attributes": ["class", "stats"] } },
+	{"RES_MAX": { "type": "max", "client": 1 } },
+	{"CLASS_RES_MAX": { "type": "max", "client": 1, "attributes": ["class"] } },
+	{"RES_DMG_RESISTED": { "type": "sum", "client": 0 } },
+	{"RES_DMG_RESISTED_RUN": { "type": "max", "client": 0, "unique_per_run": true } },
+	{"AC_MAX": { "type": "max", "client": 1 } },
+	{"CLASS_AC_MAX": { "type": "max", "client": 1, "attributes": ["class"] } },
+	{"AC_MAX_FROM_BLESS": { "type": "max", "client": 1 } },
+	{"HP_LOST_RUN": { "type": "max", "client": 0, "unique_per_run": true } },
+	{"MP_SPENT_RUN": { "type": "max", "client": 0, "unique_per_run": true } },
+	{"MP_SPENT_TOTAL": { "type": "sum", "client": 0 } },
+	{"CLASS_LVL_WON_MAX": { "type": "max", "client": 1, "attributes": ["class"] } },
+	{"CLASS_LVL_WON_MIN": { "type": "min", "client": 1, "attributes": ["class"] } },
+	{"CLASS_GAMES_WON_CLASSIC": { "type": "sum", "client": 1, "attributes": ["class"] } },
+	{"CLASS_GAMES_WON_HELL": { "type": "sum", "client": 1, "attributes": ["class"]} },
+	{"CLASS_LVL_WON_CLASSIC_MAX": { "type": "max", "client": 1, "attributes": ["class"] } },
+	{"CLASS_LVL_WON_HELL_MIN": { "type": "min", "client": 1, "attributes": ["class"] } },
+	{"RACE_GAMES_WON_CLASSIC": { "type": "sum", "client": 1, "attributes": ["race"] } },
+	{"RACE_GAMES_WON_HELL": { "type": "sum", "client": 1, "attributes": ["race"] } },
+	{"CLASS_LVL_WON_CLASSIC_MIN": { "type": "min", "client": 1, "attributes": ["class"] } },
+	{"CLASS_LVL_WON_HELL_MAX": { "type": "max", "client": 1, "attributes": ["class"] } },
+	{"DISTANCE_MAX_FLOOR": { "type": "max", "client": 1, "unique_per_floor": true } },
+	{"PWR_MAX": { "type": "max", "client": 1 } },
+	{"CLASS_PWR_MAX": { "type": "max", "client": 1, "attributes": ["class"] } },
+	{"RGN_HP_SUM": { "type": "sum", "client": 0 } },
+	{"RGN_HP_RUN": { "type": "max", "client": 0, "unique_per_run": true } },
+	{"RGN_MP_SUM": { "type": "sum", "client": 0 } },
+	{"RGN_MP_RUN": { "type": "max", "client": 0, "unique_per_run": true } },
+	{"RGN_HP_RATE_MAX": { "type": "min", "client": 0 } },
+	{"RGN_MP_RATE_MAX": { "type": "min", "client": 0 } },
+	{"CLASS_WGT_MAX": { "type": "max", "client": 1, "attributes": ["class"] } },
+	{"CLASS_WGT_MAX_MOVE_100": { "type": "max", "client": 1, "attributes": ["class"] } },
+	{"MELEE_HITS": { "type": "sum", "client": 0 } },
+	{"MELEE_DMG_TOTAL": { "type": "sum", "client": 0 } },
+	{"CLASS_MELEE_HITS_RUN": { "type": "max", "client": 0, "attributes": ["class"], "unique_per_run": true } },
+	{"MELEE_KILLS": { "type": "sum", "client": 0 } },
+	{"CRIT_HITS": { "type": "sum", "client": 0 } },
+	{"CRITS_DMG_TOTAL": { "type": "sum", "client": 0 } },
+	{"CLASS_CRITS_HITS_RUN": { "type": "max", "client": 0, "attributes": ["class"], "unique_per_run": true } },
+	{"CRIT_KILLS": { "type": "sum", "client": 0 } },
+	{"CLASS_WGT_SLOWEST": { "type": "max", "client": 0, "attributes": ["class"] } },
+	{"CLASS_SKILL_LEGENDS": { "type": "sum", "client": 0, "attributes": ["class", "skills", "display_sum_classes"] } },
+	{"SKILL_LEGENDARY_PROCS": { "type": "sum", "client": 0, "attributes": ["skills"] } },
+	{"DEGRADED": { "type": "sum", "client": 0 } },
+	{"REPAIRS": { "type": "sum", "client": 1 } },
+	{"RANGED_HITS": { "type": "sum", "client": 0 } },
+	{"RANGED_DMG_TOTAL": { "type": "sum", "client": 0 } },
+	{"CLASS_RANGED_HITS_RUN": { "type": "max", "client": 0, "attributes": ["class"], "unique_per_run": true } },
+	{"RANGED_KILLS": { "type": "sum", "client": 0 } },
+	{"THROWN_TOTAL_HITS": { "type": "sum", "client": 0 } },
+	{"THROWN_DMG_TOTAL": { "type": "sum", "client": 0 } },
+	{"CLASS_THROWN_HITS_RUN": { "type": "max", "client": 0, "attributes": ["class"], "unique_per_run": true } },
+	{"THROWN_KILLS": { "type": "sum", "client": 0 } },
+	{"FLANK_HITS": { "type": "sum", "client": 0 } },
+	{"FLANK_DMG": { "type": "sum", "client": 0 } },
+	{"CLASS_FLANK_HITS_RUN": { "type": "max", "client": 0, "attributes": ["class"], "unique_per_run": true } },
+	{"CLASS_FLANK_DMG_RUN": { "type": "max", "client": 0, "attributes": ["class"], "unique_per_run": true } },
+	{"BACKSTAB_HITS": { "type": "sum", "client": 0 } },
+	{"CLASS_BACKSTAB_KILLS_RUN": { "type": "max", "client": 0, "attributes": ["class"], "unique_per_run": true } },
+	{"CLASS_BACKSTAB_HITS_RUN": { "type": "max", "client": 0, "attributes": ["class"], "unique_per_run": true } },
+	{"BACKSTAB_KILLS": { "type": "sum", "client": 0 } },
+	{"CLASS_BACKSTAB_DMG_RUN": { "type": "max", "client": 0, "attributes": ["class"], "unique_per_run": true } },
+	{"CLASS_BLOCK_DEFENDED": { "type": "sum", "client": 0, "attributes": ["class"] } },
+	{"CLASS_BLOCK_UNDEFENDED": { "type": "sum", "client": 0, "attributes": ["class"] } },
+	{"CLASS_BLOCK_DEFENDED_RUN": { "type": "max", "client": 0, "attributes": ["class"], "unique_per_run": true } },
+	{"CLASS_BLOCK_UNDEFENDED_RUN": { "type": "max", "client": 0, "attributes": ["class"], "unique_per_run": true } },
+	{"CLASS_SPELL_CASTS_RUN": { "type": "max", "client": 0, "attributes": ["class"], "unique_per_run": true } },
+	{"CLASS_SPELL_FIZZLES_RUN": { "type": "max", "client": 0, "attributes": ["class"], "unique_per_run": true } },
+	{"CLASS_SNEAK_TIME": { "type": "max", "client": 1, "attributes": ["class"] } },
+	{"CLASS_SNEAK_SKILLUP_FLOOR": { "type": "max", "client": 0, "attributes": ["class"], "unique_per_floor": true } },
+	{"WANTED_RUNS": { "type": "sum", "client": 0, "once_per_run": true } },
+	{"WANTED_TIMES_RUN": { "type": "max", "client": 0, "unique_per_run": true } },
+	{"WANTED_INFLUENCE": { "type": "sum", "client": 0 } },
+	{"WANTED_CRIMES_RUN": { "type": "max", "client": 0, "unique_per_run": true } },
+	{"CUSTOM_TAG": { "type": "max", "client": 1}},
+	{"SPELLBOOK_CAST_DEGRADES": { "type": "sum", "client": 0 } },
+	{"CLASS_SPELLBOOK_CASTS_RUN": { "type": "max", "client": 0, "attributes": ["class"], "unique_per_run": true } },
+	{"CLASS_SPELLBOOK_FIZZLES_RUN": { "type": "max", "client": 0, "attributes": ["class"], "unique_per_run": true } },
+	{"CLASS_MOVING_TIME": { "type": "sum", "client": 1, "attributes": ["class"]} },
+	{"CLASS_IDLING_TIME": { "type": "sum", "client": 1, "attributes": ["class"]} },
+	{"CLASS_SKILL_UPS_ALL_RUN": { "type": "max", "client": 0, "attributes": ["class"], "unique_per_run": true} },
+	{"CLASS_WGT_EQUIPPED_MAX": { "type": "max", "client": 1, "attributes": ["class"] } },
+	{"CLASS_PWR_MAX_CASTED": { "type": "max", "client": 0, "attributes": ["class"] } },
+	{"PWR_MAX_EQUIP": { "type": "max", "client": 1} },
+	{"PWR_MAX_SPELLBOOK": { "type": "max", "client": 0 } },
+	{"RES_DMG_TAKEN": { "type": "sum", "client": 0 } },
+	{"RES_SPELLS_HIT": { "type": "sum", "client": 0 } },
+	{"HP_MOST_DMG_LOST_ONE_HIT": { "type": "max", "client": 0 } },
+	{"HP_LOST_TOTAL": { "type": "sum", "client": 0 } },
+	{"AC_EFFECTIVENESS_MAX": { "type": "max", "client": 1 } },
+	{"AC_EQUIPMENT_MAX": { "type": "max", "client": 1 } },
+	{"LEVELS_MIN_COMPLETION": { "type": "min", "client": 1, "unique_per_run": true } },
+	{"LEVELS_MAX_COMPLETION": { "type": "max", "client": 1, "unique_per_run": true } },
+	{"LEVELS_DEATHS": { "type": "sum", "client": 1 } },
+	{"LEVELS_DEATHS_FASTEST": { "type": "min", "client": 1 } },
+	{"LEVELS_DEATHS_SLOWEST": { "type": "max", "client": 1 } },
+	{"LEVELS_MIN_LVL": { "type": "min", "client": 1 } },
+	{"BIOMES_MIN_COMPLETION": { "type": "min", "client": 1, "unique_per_run": true } },
+	{"BIOMES_MAX_COMPLETION": { "type": "max", "client": 1, "unique_per_run": true } },
+	{"LEVELS_TIME_SPENT": { "type": "sum", "client": 1} },
+	{"MINEHEAD_ENTER_SOLO": { "type": "sum", "client": 1} },
+	{"MINEHEAD_ENTER_ONLINE_MP": { "type": "sum", "client": 1} },
+	{"MINEHEAD_ENTER_LAN_MP": { "type": "sum", "client": 1} },
+	{"MINEHEAD_TOTAL_PLAYTIME": { "type": "sum", "client": 1} },
+	{"MINEHEAD_ENTER_SPLIT_MP": { "type": "sum", "client": 1} },
+	{"TOTAL_TIME_SPENT": { "type": "sum", "client": 1} },
+	{"TRAP_SUMMONED_MONSTERS": { "type": "sum", "client": 0} },
+	{"LORE_READ": { "type": "sum", "client": 1} },
+	{"LORE_BURNT": { "type": "sum", "client": 0} },
+	{"LORE_PERCENT_READ": { "type": "bit", "client": 1} },
+	{"LORE_PERCENT_READ_2": { "type": "bit", "client": 1} },
+	{"MERCHANT_ORBS": { "type": "sum", "client": 0} },
+	{"SPELL_DMG": { "type": "sum", "client": 0} },
+	{"SPELL_HEAL": { "type": "sum", "client": 0} },
+	{"TIME_WORN": { "type": "sum", "client": 1} },
+	{"LOCKPICK_DOOR_UNLOCK": { "type": "sum", "client": 0} },
+	{"LOCKPICK_DOOR_LOCK": { "type": "sum", "client": 0} },
+	{"LOCKPICK_ARROWTRAPS": { "type": "sum", "client": 0} },
+	{"LOCKPICK_TINKERTRAPS": { "type": "sum", "client": 0} },
+	{"LOCKPICK_CHESTS_UNLOCK": { "type": "sum", "client": 0} },
+	{"LOCKPICK_MIMICS_LOCKED": { "type": "sum", "client": 0} },
+	{"LOCKPICK_CHESTS_LOCK": { "type": "sum", "client": 0} },
+	{"ALEMBIC_DUPLICATION_FAIL": { "type": "sum", "client": 1} },
+	{"ALEMBIC_EXPLOSIONS": { "type": "sum", "client": 1} },
+	{"BEARTRAP_DEPLOYED": { "type": "sum", "client": 0} },
+	{"BEARTRAP_TRAPPED": { "type": "sum", "client": 0} },
+	{"BEARTRAP_DMG": { "type": "sum", "client": 0} },
+	{"GADGET_CRAFTED": { "type": "sum", "client": 1} },
+	{"GADGET_DEPLOYED": { "type": "sum", "client": 0} },
+	{"NOISEMAKER_LURED": { "type": "sum", "client": 0} },
+	{"NOISEMAKER_MOST_LURED": { "type": "max", "client": 0} },
+	{"DUMMY_HITS_TAKEN": { "type": "sum", "client": 0} },
+	{"DUMMY_DMG_TAKEN": { "type": "sum", "client": 0} },
+	{"SENTRY_DEPLOY_KILLS": { "type": "sum", "client": 0} },
+	{"SENTRY_DEPLOY_DMG": { "type": "sum", "client": 0} },
+	{"GYROBOT_BOULDERS": { "type": "sum", "client": 0} },
+	{"GYROBOT_TIME_SPENT": { "type": "sum", "client": 1} },
+	{"BOMB_DMG": { "type": "sum", "client": 0} },
+	{"BOMB_DETONATED": { "type": "sum", "client": 0} },
+	{"BOMB_DETONATED_ALLY": { "type": "sum", "client": 0} },
+	{"DETONATOR_SCRAPPED": { "type": "sum", "client": 2} },
+	{"DETONATOR_SCRAPPED_METAL": { "type": "sum", "client": 2} },
+	{"DETONATOR_SCRAPPED_MAGIC": { "type": "sum", "client": 2} },
+	{"DEATHBOX_OPEN_OWN": { "type": "sum", "client": 0} },
+	{"DEATHBOX_OPEN_OTHERS": { "type": "sum", "client": 0} },
+	{"DEATHBOX_TO_EXIT": { "type": "sum", "client": 1} },
+	{"DEATHBOX_MOST_CARRIED": { "type": "max", "client": 1} },
+	{"PICKAXE_BOULDERS_DUG": { "type": "sum", "client": 0} },
+	{"TIN_GREASY": { "type": "sum", "client": 0} },
+	{"TIN_REGEN_HP": { "type": "sum", "client": 0} },
+	{"TIN_REGEN_MP": { "type": "sum", "client": 0} },
+	{"SPELL_TARGETS": { "type": "sum", "client": 0} },
+	{"GYROBOT_FLIPS": { "type": "sum", "client": 0} },
+	{"KILL_XP": { "type": "sum", "client": 0} },
+	{"CONTAINER_BROKEN": { "type": "sum", "client": 0} },
+	{"CONTAINER_ITEMS": { "type": "sum", "client": 0} },
+	{"CONTAINER_GOLD": { "type": "sum", "client": 0} },
+	{"CONTAINER_MONSTERS": { "type": "sum", "client": 0} },
+	{"DAED_USES": { "type": "sum", "client": 0} },
+	{"DAED_EXIT_REVEALS": { "type": "sum", "client": 1} },
+	{"DAED_SPEED_BUFFS": { "type": "sum", "client": 0} },
+	{"DAED_KILLED_MINO": { "type": "sum", "client": 0} },
+	{"BELL_RUNG_TIMES": { "type": "sum", "client": 0} },
+	{"BELL_LOOT_ITEMS": { "type": "sum", "client": 0} },
+	{"BELL_BROKEN": { "type": "sum", "client": 0} },
+	{"BELL_BUFFS_AGILITY": { "type": "sum", "client": 0} },
+	{"BELL_BUFFS_STAMINA": { "type": "sum", "client": 0} },
+	{"BELL_BUFFS_STRENGTH": { "type": "sum", "client": 0} },
+	{"BELL_BUFFS_MENTALITY": { "type": "sum", "client": 0} },
+	{"BELL_BUFFS_HEALS": { "type": "sum", "client": 0} },
+	{"BELL_LOOT_GOLD": { "type": "sum", "client": 0} },
+	{"BELL_LOOT_BATS": { "type": "sum", "client": 0} },
+	{"BELL_CLAPPER_BROKEN": { "type": "sum", "client": 0} },
+	{"SKILL_NOVICES": { "type": "sum", "client": 0, "attributes": ["skills"] } },
+	{"FOLLOWER_KILLS": { "type": "sum", "client": 0} },
+	{"COMBAT_MASONRY_BOULDERS": { "type": "sum", "client": 0} },
+	{"MERLINS": { "type": "sum", "client": 0} },
+	{"RITUALS_COMPLETED": { "type": "sum", "client": 0} },
+	{"HUMANS_SAVED": { "type": "sum", "client": 2} },
+	{"SPELLS_LEARNED": { "type": "sum", "client": 1} },
+	{"ALLIES_FED": { "type": "sum", "client": 0} },
+	{"COMBAT_MASONRY_GEMS": { "type": "sum", "client": 0} },
+	{"COMBAT_MASONRY_ROCKS": { "type": "sum", "client": 0} },
+	{"GOLD_LEFT_BEHIND": { "type": "sum", "client": 0} },
+	{"MONSTERS_LEFT_BEHIND": { "type": "sum", "client": 0} },
+	{"ITEMS_LEFT_BEHIND": { "type": "sum", "client": 0} },
+	{"ITEM_VALUE_LEFT_BEHIND": { "type": "sum", "client": 0} }
+	],
+	"custom_tags": {
+	  "CUSTOM_MOST_STAT_GAINS": {
+		  "value": {
+			  "type": "max",
+			  "tags": [
+			  {
+				"name": "STAT_INCREASES",
+				"category": "str"
+			  },
+			  {
+				"name": "STAT_INCREASES",
+				"category": "dex"
+			  },
+			  {
+				"name": "STAT_INCREASES",
+				"category": "con"
+			  },
+			  {
+				"name": "STAT_INCREASES",
+				"category": "int"
+			  },
+			  {
+				"name": "STAT_INCREASES",
+				"category": "per"
+			  },
+			  {
+				"name": "STAT_INCREASES",
+				"category": "chr"
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_LEAST_STAT_GAINS": {
+		  "value": {
+			  "type": "min",
+			  "tags": [
+			  {
+				"name": "STAT_INCREASES",
+				"category": "str"
+			  },
+			  {
+				"name": "STAT_INCREASES",
+				"category": "dex"
+			  },
+			  {
+				"name": "STAT_INCREASES",
+				"category": "con"
+			  },
+			  {
+				"name": "STAT_INCREASES",
+				"category": "int"
+			  },
+			  {
+				"name": "STAT_INCREASES",
+				"category": "per"
+			  },
+			  {
+				"name": "STAT_INCREASES",
+				"category": "chr"
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_HIGHEST_STAT": {
+		  "value": {
+			  "type": "max_class",
+			  "tags": [
+			  {
+				"name": "CLASS_STAT_STR_MAX",
+				"category": "str"
+			  },
+			  {
+				"name": "CLASS_STAT_DEX_MAX",
+				"category": "dex"
+			  },
+			  {
+				"name": "CLASS_STAT_CON_MAX",
+				"category": "con"
+			  },
+			  {
+				"name": "CLASS_STAT_INT_MAX",
+				"category": "int"
+			  },
+			  {
+				"name": "CLASS_STAT_PER_MAX",
+				"category": "per"
+			  },
+			  {
+				"name": "CLASS_STAT_CHR_MAX",
+				"category": "chr"
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_STAT_TOTAL_INCREASES" : {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "STAT_INCREASES",
+				"category": "str"
+			  },
+			  {
+				"name": "STAT_INCREASES",
+				"category": "dex"
+			  },
+			  {
+				"name": "STAT_INCREASES",
+				"category": "con"
+			  },
+			  {
+				"name": "STAT_INCREASES",
+				"category": "int"
+			  },
+			  {
+				"name": "STAT_INCREASES",
+				"category": "per"
+			  },
+			  {
+				"name": "STAT_INCREASES",
+				"category": "chr"
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_CLASS_LEAST_GAMES": {
+		  "value": {
+			  "type": "min",
+			  "tags": [
+			  {
+				"name": "CLASS_GAMES_STARTED",
+				"category": "class"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_CLASS_LEAST_GAMES_WON": {
+		  "value": {
+			  "type": "min",
+			  "tags": [
+			  {
+				"name": "CLASS_GAMES_WON",
+				"category": "class"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_CLASS_LEAST_GAMES_WON_CLASSIC": {
+		  "value": {
+			  "type": "min",
+			  "tags": [
+			  {
+				"name": "CLASS_GAMES_WON_CLASSIC",
+				"category": "class"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_CLASS_LEAST_GAMES_WON_HELL": {
+		  "value": {
+			  "type": "min",
+			  "tags": [
+			  {
+				"name": "CLASS_GAMES_WON_HELL",
+				"category": "class"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_SWORD": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "CLASS_SKILL_UPS",
+				"category": "sword skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_AXE": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "CLASS_SKILL_UPS",
+				"category": "axe skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_POLEARM": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "CLASS_SKILL_UPS",
+				"category": "polearm skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_MACE": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "CLASS_SKILL_UPS",
+				"category": "mace skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_UNARMED": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "CLASS_SKILL_UPS",
+				"category": "unarmed skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_STEALTH": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "CLASS_SKILL_UPS",
+				"category": "stealth skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_BLOCKING": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "CLASS_SKILL_UPS",
+				"category": "blocking skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_RANGED": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "CLASS_SKILL_UPS",
+				"category": "ranged skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_MAGIC": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "CLASS_SKILL_UPS",
+				"category": "magic skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_CASTING": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "CLASS_SKILL_UPS",
+				"category": "casting skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_APPRAISAL": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "CLASS_SKILL_UPS",
+				"category": "appraisal skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_SWIMMING": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "CLASS_SKILL_UPS",
+				"category": "swimming skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_LEADERSHIP": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "CLASS_SKILL_UPS",
+				"category": "leadership skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_TRADING": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "CLASS_SKILL_UPS",
+				"category": "trading skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_ALCHEMY": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "CLASS_SKILL_UPS",
+				"category": "alchemy skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_SKILL_TOTAL_LVLS_TINKERING": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "CLASS_SKILL_UPS",
+				"category": "tinkering skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_LEGEND_SKILL_MELEE_100": {
+		   "value": {
+			  "type": "sum_category_max",
+			  "format": "skills",
+			  "tags": [
+			  {
+				"name": "CLASS_SKILL_LEGENDS",
+				"category": "sword skill"
+			  },
+			  {
+				"name": "CLASS_SKILL_LEGENDS",
+				"category": "mace skill"
+			  },
+			  {
+				"name": "CLASS_SKILL_LEGENDS",
+				"category": "axe skill"
+			  },
+			  {
+				"name": "CLASS_SKILL_LEGENDS",
+				"category": "polearm skill"
+			  },
+			  {
+				"name": "CLASS_SKILL_LEGENDS",
+				"category": "unarmed skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_LEGEND_MOST_SKILL_PROCS": {
+		  "value": {
+			  "type": "max",
+			  "format": "skills",
+			  "tags": [
+			  {
+				"name": "SKILL_LEGENDARY_PROCS",
+				"category": "sword skill"
+			  },
+			  {
+				"name": "SKILL_LEGENDARY_PROCS",
+				"category": "mace skill"
+			  },
+			  {
+				"name": "SKILL_LEGENDARY_PROCS",
+				"category": "axe skill"
+			  },
+			  {
+				"name": "SKILL_LEGENDARY_PROCS",
+				"category": "polearm skill"
+			  },
+			  {
+				"name": "SKILL_LEGENDARY_PROCS",
+				"category": "unarmed skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_LEGEND_TOTAL_PROCS": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "SKILL_LEGENDARY_PROCS",
+				"category": "sword skill"
+			  },
+			  {
+				"name": "SKILL_LEGENDARY_PROCS",
+				"category": "mace skill"
+			  },
+			  {
+				"name": "SKILL_LEGENDARY_PROCS",
+				"category": "axe skill"
+			  },
+			  {
+				"name": "SKILL_LEGENDARY_PROCS",
+				"category": "polearm skill"
+			  },
+			  {
+				"name": "SKILL_LEGENDARY_PROCS",
+				"category": "unarmed skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_CLASS_MOST_LEGEND_MELEES": {
+		  "value": {
+			  "type": "class_max_total",
+			  "format": "class",
+			  "tags": [
+			  {
+				"name": "CLASS_SKILL_LEGENDS",
+				"category": "sword skill"
+			  },
+			  {
+				"name": "CLASS_SKILL_LEGENDS",
+				"category": "mace skill"
+			  },
+			  {
+				"name": "CLASS_SKILL_LEGENDS",
+				"category": "axe skill"
+			  },
+			  {
+				"name": "CLASS_SKILL_LEGENDS",
+				"category": "polearm skill"
+			  },
+			  {
+				"name": "CLASS_SKILL_LEGENDS",
+				"category": "unarmed skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_SPELL_ITEM_CASTS": {
+		  "value": {
+			  "type": "sum_items",
+			  "tags": [
+			  {
+				  "name": "SPELL_CASTS",
+				  "category": "spells"
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_SPELL_ITEM_FIZZLES": {
+		  "value": {
+			  "type": "sum_items",
+			  "tags": [
+			  {
+				  "name": "SPELL_FAILURES",
+				  "category": "spells"
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_SPELLBOOK_ITEM_CASTS": {
+		  "value": {
+			  "type": "sum_items",
+			  "tags": [
+			  {
+				  "name": "SPELLBOOK_CASTS",
+				  "category": "spellbooks"
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_SPELLBOOK_ITEM_FIZZLES": {
+		  "value": {
+			  "type": "sum_items",
+			  "tags": [
+			  {
+				  "name": "SPELL_FAILURES",
+				  "category": "spellbooks"
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_SPELLBOOK_CAST_DEGRADES": {
+		  "value": {
+			  "type": "sum_items",
+			  "tags": [
+			  {
+				  "name": "SPELLBOOK_CAST_DEGRADES",
+				  "category": "spellbooks"
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_SNEAK_TOTAL_TIME": {
+		  "value": {
+			"type": "sum",
+			"tags": [
+			{
+				  "name": "CLASS_SNEAK_TIME",
+				  "category": "sneaking"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_LVL_GAINED_FOR_CLASS": {
+		  "value": {
+			"type": "class_sum",
+			"tags": [
+			{
+				  "name": "CLASS_LVL_GAINED",
+				  "category": "leveling up"
+		    }
+			]
+		  }
+	  },
+	  "CUSTOM_CLASS_GAMES_STARTED": {
+		  "value": {
+			"type": "class_sum",
+			"tags": [
+			{
+				  "name": "CLASS_GAMES_STARTED",
+				  "category": "class"
+		    }
+			]
+		  }
+	  },
+	  "CUSTOM_CLASS_GAMES_WON": {
+		  "value": {
+			"type": "class_sum",
+			"tags": [
+			{
+				  "name": "CLASS_GAMES_WON",
+				  "category": "class"
+		    }
+			]
+		  }
+	  },
+	  "CUSTOM_CLASS_GAMES_WON_CLASSIC": {
+		  "value": {
+			"type": "class_sum",
+			"tags": [
+			{
+				  "name": "CLASS_GAMES_WON_CLASSIC",
+				  "category": "class"
+		    }
+			]
+		  }
+	  },
+	  "CUSTOM_CLASS_GAMES_WON_HELL": {
+		  "value": {
+			"type": "class_sum",
+			"tags": [
+			{
+				  "name": "CLASS_GAMES_WON_HELL",
+				  "category": "class"
+		    }
+			]
+		  }
+	  },
+	  "CUSTOM_SKILLS_GAINED_FOR_CLASS": {
+		  "value": {
+			"type": "class_sum",
+			"tags": [
+			{
+				  "name": "CLASS_SKILL_UPS",
+				  "category": "sword skill"
+		    },
+			{
+				  "name": "CLASS_SKILL_UPS",
+				  "category": "axe skill"
+		    },
+			{
+				  "name": "CLASS_SKILL_UPS",
+				  "category": "polearm skill"
+		    },
+			{
+				  "name": "CLASS_SKILL_UPS",
+				  "category": "mace skill"
+		    },
+			{
+				  "name": "CLASS_SKILL_UPS",
+				  "category": "unarmed skill"
+		    },
+			{
+				  "name": "CLASS_SKILL_UPS",
+				  "category": "stealth skill"
+		    },
+			{
+				  "name": "CLASS_SKILL_UPS",
+				  "category": "blocking skill"
+		    },
+			{
+				  "name": "CLASS_SKILL_UPS",
+				  "category": "ranged skill"
+		    },
+			{
+				  "name": "CLASS_SKILL_UPS",
+				  "category": "magic skill"
+		    },
+			{
+				  "name": "CLASS_SKILL_UPS",
+				  "category": "casting skill"
+		    },
+			{
+				  "name": "CLASS_SKILL_UPS",
+				  "category": "appraisal skill"
+		    },
+			{
+				  "name": "CLASS_SKILL_UPS",
+				  "category": "swimming skill"
+		    },
+			{
+				  "name": "CLASS_SKILL_UPS",
+				  "category": "leadership skill"
+		    },
+			{
+				  "name": "CLASS_SKILL_UPS",
+				  "category": "trading skill"
+		    },
+			{
+				  "name": "CLASS_SKILL_UPS",
+				  "category": "alchemy skill"
+		    },
+			{
+				  "name": "CLASS_SKILL_UPS",
+				  "category": "tinkering skill"
+		    }
+			]
+		  }
+	  },
+	  "CUSTOM_CLASS_PLAYTIME": {
+		  "value": {
+			"type": "class_sum",
+			"tags": [
+			{
+				  "name": "CLASS_MOVING_TIME",
+				  "category": "strafing"
+		    },
+			{
+				  "name": "CLASS_IDLING_TIME",
+				  "category": "strafing"
+		    }
+			]
+		  }
+	  },
+	  "CUSTOM_ITEMS_DEGRADED": {
+		  "value": {
+			  "type": "sum_items",
+			  "tags": [
+			  {
+				  "name": "DEGRADED",
+				  "category": "equipment"
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_ITEMS_REPAIRED": {
+		  "value": {
+			  "type": "sum_items",
+			  "tags": [
+			  {
+				  "name": "REPAIRS",
+				  "category": "equipment"
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_ITEMS_BROKEN": {
+		  "value": {
+			  "type": "sum_items",
+			  "tags": [
+			  {
+				  "name": "BROKEN",
+				  "category": "weapons"
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_ITEMS_BROKEN_ARMOR": {
+		  "value": {
+			  "type": "sum_items",
+			  "tags": [
+			  {
+				  "name": "BROKEN",
+				  "category": "armor"
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_MOST_SKILL_GAINS": {
+		"value": {
+		"type": "sum_category_max",
+		"format": "skills",
+		"tags": [
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "sword skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "axe skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "polearm skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "mace skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "unarmed skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "stealth skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "blocking skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "ranged skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "magic skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "casting skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "appraisal skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "swimming skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "leadership skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "trading skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "alchemy skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "tinkering skill"
+		}
+		]
+	  }
+	 },
+	 "CUSTOM_LEAST_SKILL_GAINS": {
+		"value": {
+		"type": "sum_category_min",
+		"format": "skills",
+		"tags": [
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "sword skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "axe skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "polearm skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "mace skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "unarmed skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "stealth skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "blocking skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "ranged skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "magic skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "casting skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "appraisal skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "swimming skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "leadership skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "trading skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "alchemy skill"
+		},
+		{
+			  "name": "CLASS_SKILL_UPS",
+			  "category": "tinkering skill"
+		}
+		]
+	  }
+	 },
+	 "CUSTOM_LEGEND_SKILL_SUM": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+			  "name": "CLASS_SKILL_LEGENDS",
+			  "category": "sword skill"
+		},
+		{
+			  "name": "CLASS_SKILL_LEGENDS",
+			  "category": "axe skill"
+		},
+		{
+			  "name": "CLASS_SKILL_LEGENDS",
+			  "category": "polearm skill"
+		},
+		{
+			  "name": "CLASS_SKILL_LEGENDS",
+			  "category": "mace skill"
+		},
+		{
+			  "name": "CLASS_SKILL_LEGENDS",
+			  "category": "unarmed skill"
+		},
+		{
+			  "name": "CLASS_SKILL_LEGENDS",
+			  "category": "stealth skill"
+		},
+		{
+			  "name": "CLASS_SKILL_LEGENDS",
+			  "category": "blocking skill"
+		},
+		{
+			  "name": "CLASS_SKILL_LEGENDS",
+			  "category": "ranged skill"
+		},
+		{
+			  "name": "CLASS_SKILL_LEGENDS",
+			  "category": "magic skill"
+		},
+		{
+			  "name": "CLASS_SKILL_LEGENDS",
+			  "category": "casting skill"
+		},
+		{
+			  "name": "CLASS_SKILL_LEGENDS",
+			  "category": "appraisal skill"
+		},
+		{
+			  "name": "CLASS_SKILL_LEGENDS",
+			  "category": "swimming skill"
+		},
+		{
+			  "name": "CLASS_SKILL_LEGENDS",
+			  "category": "leadership skill"
+		},
+		{
+			  "name": "CLASS_SKILL_LEGENDS",
+			  "category": "trading skill"
+		},
+		{
+			  "name": "CLASS_SKILL_LEGENDS",
+			  "category": "alchemy skill"
+		},
+		{
+			  "name": "CLASS_SKILL_LEGENDS",
+			  "category": "tinkering skill"
+		}
+			]
+		  }
+	  },
+	  "CUSTOM_HP_MP_RGN": {
+		  "value": {
+			  "type": "list",
+			  "tags": [
+			  {
+				  "name": "RGN_HP_SUM",
+				  "category": "rgn"
+			  },
+			  {
+				  "name": "RGN_MP_SUM",
+				  "category": "rgn"
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_HP_MP_RGN_RUN": {
+		  "value": {
+			  "type": "list",
+			  "tags": [
+			  {
+				  "name": "RGN_HP_RUN",
+				  "category": "rgn"
+			  },
+			  {
+				  "name": "RGN_MP_RUN",
+				  "category": "rgn"
+			  }
+			  ]
+		  }
+	  },
+	   "CUSTOM_BIOME_COMPLETIONS": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				  "name": "LEVELS_BIOME_CLEAR",
+				  "category": ""
+			  },
+			  {
+				  "name": "BIOMES_MIN_COMPLETION",
+				  "category": ""
+			  },
+			  {
+				  "name": "BIOMES_MAX_COMPLETION",
+				  "category": ""
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_LEVEL_COMPLETIONS": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				  "name": "LEVELS_EXITED",
+				  "category": ""
+			  },
+			  {
+				  "name": "LEVELS_MIN_COMPLETION",
+				  "category": ""
+			  },
+			  {
+				  "name": "LEVELS_MAX_COMPLETION",
+				  "category": ""
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_MINEHEAD_COMPLETIONS": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				  "name": "LEVELS_MIN_COMPLETION",
+				  "category": ""
+			  },
+			  {
+				  "name": "LEVELS_MIN_COMPLETION",
+				  "category": ""
+			  },
+			  {
+				  "name": "LEVELS_MAX_COMPLETION",
+				  "category": ""
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_LEVEL_DEATHS": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				  "name": "LEVELS_DEATHS",
+				  "category": ""
+			  },
+			  {
+				  "name": "LEVELS_DEATHS_FASTEST",
+				  "category": ""
+			  },
+			  {
+				  "name": "LEVELS_DEATHS_SLOWEST",
+				  "category": ""
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_LEVEL_PLAYTIME": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				  "name": "LEVELS_ENTERED",
+				  "category": ""
+			  },
+			  {
+				  "name": "LEVELS_TIME_SPENT",
+				  "category": ""
+			  },
+			  {
+				  "name": "LEVELS_TIME_SPENT",
+				  "category": ""
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_BIOME_PLAYTIME": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				  "name": "LEVELS_ENTERED",
+				  "category": ""
+			  },
+			  {
+				  "name": "LEVELS_EXITED",
+				  "category": ""
+			  },
+			  {
+				  "name": "LEVELS_TIME_SPENT",
+				  "category": ""
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_MINEHEAD_PLAYTIME": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				  "name": "LEVELS_TIME_SPENT",
+				  "category": ""
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_LEVEL_STATS": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				  "name": "LEVELS_MAX_LVL",
+				  "category": ""
+			  },
+			  {
+				  "name": "LEVELS_MIN_LVL",
+				  "category": ""
+			  },
+			  {
+				  "name": "LEVELS_MAX_GOLD",
+				  "category": ""
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_SOKOBAN": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				  "name": "SOKOBAN_SOLVES",
+				  "category": ""
+			  },
+			  {
+				  "name": "SOKOBAN_FASTEST_SOLVE",
+				  "category": ""
+			  },
+			  {
+				  "name": "SOKOBAN_PERFECT_SOLVES",
+				  "category": ""
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_HALLOFTRIALS_TIME": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				  "name": "LEVELS_TIME_SPENT",
+				  "category": ""
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_MINEHEAD_GAMES": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				  "name": "MINEHEAD_ENTER",
+				  "category": ""
+			  },
+			  {
+				  "name": "TOTAL_TIME_SPENT",
+				  "category": ""
+			  },
+			  {
+				  "name": "MINEHEAD_ENTER_SOLO",
+				  "category": ""
+			  },
+			  {
+				  "name": "MINEHEAD_ENTER_ONLINE_MP",
+				  "category": ""
+			  },
+			  {
+				  "name": "MINEHEAD_ENTER_LAN_MP",
+				  "category": ""
+			  },
+			  {
+				  "name": "MINEHEAD_ENTER_SPLIT_MP",
+				  "category": ""
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_RACE_LEAST_GAMES_WON": {
+		  "value": {
+			  "type": "min",
+			  "tags": [
+			  {
+				"name": "RACE_GAMES_WON",
+				"category": "races"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_RACE_LEAST_GAMES_WON_CLASSIC": {
+		  "value": {
+			  "type": "min",
+			  "tags": [
+			  {
+				"name": "RACE_GAMES_WON_CLASSIC",
+				"category": "races"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_RACE_LEAST_GAMES_WON_HELL": {
+		  "value": {
+			  "type": "min",
+			  "tags": [
+			  {
+				"name": "RACE_GAMES_WON_HELL",
+				"category": "races"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_TINKERKIT_SCRAPS": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				"name": "TINKERKIT_METAL_SCRAPPED",
+				"category": "tool_tinkering_kit"
+			  },
+			  {
+				"name": "TINKERKIT_MAGIC_SCRAPPED",
+				"category": "tool_tinkering_kit"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_LOCKPICK_UNLOCKS": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				"name": "LOCKPICK_DOOR_UNLOCK",
+				"category": ""
+			  },
+			  {
+				"name": "LOCKPICK_CHESTS_UNLOCK",
+				"category": ""
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_LOCKPICK_LOCKS": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				"name": "LOCKPICK_DOOR_LOCK",
+				"category": ""
+			  },
+			  {
+				"name": "LOCKPICK_CHESTS_LOCK",
+				"category": ""
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_ALEMBIC_DUPLICATED": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				"name": "ALEMBIC_DUPLICATED",
+				"category": ""
+			  },
+			  {
+				"name": "ALEMBIC_DUPLICATION_FAIL",
+				"category": ""
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_ALEMBIC_BREWED": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				"name": "ALEMBIC_BREWED",
+				"category": ""
+			  },
+			  {
+				"name": "ALEMBIC_EXPLOSIONS",
+				"category": ""
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_BOTTLE_RECOVERY": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				"name": "BOTTLE_FROM_BREWING",
+				"category": ""
+			  },
+			  {
+				"name": "BOTTLES_FROM_CONSUME",
+				"category": ""
+			  }
+			]
+		  }
+	  },
+	   "CUSTOM_TIN_REGEN": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				"name": "TIN_REGEN_HP",
+				"category": ""
+			  },
+			  {
+				"name": "TIN_REGEN_MP",
+				"category": ""
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_TIN_REGEN": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				"name": "TIN_REGEN_HP",
+				"category": ""
+			  },
+			  {
+				"name": "TIN_REGEN_MP",
+				"category": ""
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_TIN_REGEN": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				"name": "TIN_REGEN_HP",
+				"category": ""
+			  },
+			  {
+				"name": "TIN_REGEN_MP",
+				"category": ""
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_BELL_LOOT": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				"name": "BELL_LOOT_ITEMS",
+				"category": ""
+			  },
+			  {
+				"name": "BELL_LOOT_GOLD",
+				"category": ""
+			  },
+			  {
+				"name": "BELL_LOOT_BATS",
+				"category": ""
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_BELL_BUFFS": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				"name": "BELL_BUFFS_AGILITY",
+				"category": ""
+			  },
+			  {
+				"name": "BELL_BUFFS_STAMINA",
+				"category": ""
+			  },
+			  {
+				"name": "BELL_BUFFS_STRENGTH",
+				"category": ""
+			  },
+			  {
+				"name": "BELL_BUFFS_MENTALITY",
+				"category": ""
+			  },
+			  {
+				"name": "BELL_BUFFS_HEALS",
+				"category": ""
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_BELL_BROKEN": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				"name": "BELL_BROKEN",
+				"category": ""
+			  },
+			  {
+				"name": "BELL_CLAPPER_BROKEN",
+				"category": ""
+			  }			  
+			  ]
+		  }
+	  },
+	  "CUSTOM_LEADER_NOVICES": {
+		  "value": {
+			  "type": "sum_category_cycle",
+			  "format": "skills",
+			  "compendium_section": "codex",
+			  "tags": [
+			  {
+				"name": "SKILL_NOVICES",
+				"category": "leadership skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_STEALTH_NOVICES": {
+		  "value": {
+			  "type": "sum_category_cycle",
+			  "format": "skills",
+			  "compendium_section": "codex",
+			  "tags": [
+			  {
+				"name": "SKILL_NOVICES",
+				"category": "stealth skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_RANGED_NOVICES": {
+		  "value": {
+			  "type": "sum_category_cycle",
+			  "format": "skills",
+			  "compendium_section": "codex",
+			  "tags": [
+			  {
+				"name": "SKILL_NOVICES",
+				"category": "ranged skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_COMBAT_NOVICES": {
+		  "value": {
+			  "type": "sum_category_cycle",
+			  "format": "skills",
+			  "compendium_section": "codex",
+			  "tags": [
+			  {
+				"name": "SKILL_NOVICES",
+				"category": "sword skill"
+			  },
+			  {
+				"name": "SKILL_NOVICES",
+				"category": "axe skill"
+			  },
+			  {
+				"name": "SKILL_NOVICES",
+				"category": "polearm skill"
+			  },
+			  {
+				"name": "SKILL_NOVICES",
+				"category": "mace skill"
+			  },
+			  {
+				"name": "SKILL_NOVICES",
+				"category": "unarmed skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_MAGIC_NOVICES": {
+		  "value": {
+			  "type": "sum_category_cycle",
+			  "format": "skills",
+			  "compendium_section": "codex",
+			  "tags": [
+			  {
+				"name": "SKILL_NOVICES",
+				"category": "magic skill"
+			  },
+			  {
+				"name": "SKILL_NOVICES",
+				"category": "casting skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_CRAFTSMEN_NOVICES": {
+		  "value": {
+			  "type": "sum_category_cycle",
+			  "format": "skills",
+			  "compendium_section": "codex",
+			  "tags": [
+			  {
+				"name": "SKILL_NOVICES",
+				"category": "tinkering skill"
+			  },
+			  {
+				"name": "SKILL_NOVICES",
+				"category": "alchemy skill"
+			  }
+			]
+		  }
+	  },
+	   "CUSTOM_SALESMEN_NOVICES": {
+		  "value": {
+			  "type": "sum_category_cycle",
+			  "format": "skills",
+			  "compendium_section": "codex",
+			  "tags": [
+			  {
+				"name": "SKILL_NOVICES",
+				"category": "trading skill"
+			  }
+			]
+		  }
+	  },
+	  "CUSTOM_COMBAT_MASONRY": {
+		  "value": {
+			  "type": "cycle",
+			  "tags": [
+			  {
+				"name": "COMBAT_MASONRY_BOULDERS",
+				"category": ""
+			  },
+			  {
+				"name": "COMBAT_MASONRY_GEMS",
+				"category": ""
+			  },
+			  {
+				"name": "COMBAT_MASONRY_ROCKS",
+				"category": ""
+			  }			  
+			  ]
+		  }
+	  },
+	  "CUSTOM_UNDEAD_KILLED": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "KILLED_SOLO",
+				"category": ""
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_BEASTS_KILLED": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "KILLED_SOLO",
+				"category": ""
+			  }
+			  ]
+		  }
+	  },
+	  "CUSTOM_DEMONS_KILLED": {
+		  "value": {
+			  "type": "sum",
+			  "tags": [
+			  {
+				"name": "KILLED_SOLO",
+				"category": ""
+			  }
+			  ]
+		  }
+	  }
+  }
+}

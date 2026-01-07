@@ -1,0 +1,715 @@
+{
+	"version": 1,
+	"items": {
+		"torch and lantern": {
+		  "lore_points": 1,
+		  "items": [
+			{"tool_torch": {"rotation": 45}},
+			{"tool_lantern":{}}
+		  ],
+		  "events": [ "BLOCKED_ATTACKS", "BROKEN_BY_BLOCKING", "TORCH_WALLS", "BLOCKED_HIGHEST_DMG" ],
+		  "events_display": [ "RUNS_COLLECTED", "BLOCKED_ATTACKS", "BROKEN_BY_BLOCKING", "TORCH_WALLS"]
+		},
+		"crystal shard": {
+			"lore_points": 1,
+		  "items": [
+			{"tool_crystalshard":{"rotation": 45}}
+		  ],
+		  "events": [ "BROKEN_BY_BLOCKING", "TORCH_WALLS" ],
+		  "events_display": [ "RUNS_COLLECTED", "TORCH_WALLS", "BROKEN_BY_BLOCKING"]
+		},
+		"mirrors": {
+			"lore_points": 1,
+		  "items": [
+			{"tool_mirror":{}},
+			{"mirror_shield":{}}
+		  ],
+		  "events": [ "SHIELD_REFLECT", "MIRROR_TELEPORTS" ],
+		  "events_display": [ "RUNS_COLLECTED", "BROKEN", "SHIELD_REFLECT", "MIRROR_TELEPORTS"]
+		},
+		"shields": {
+			"lore_points": 2,
+		  "items": [
+			{"wooden_shield":{}},
+			{"bronze_shield":{}},
+			{"iron_shield":{}},
+			{"steel_shield":{}},
+			{"steel_shield_resistance":{}},
+			{"crystal_shield":{}}
+		  ],
+		  "events": [ "BLOCKED_ATTACKS", "BROKEN_BY_BLOCKING", "BLOCKED_HIGHEST_DMG" ],
+		  "events_display": [ "RUNS_COLLECTED", "BLOCKED_ATTACKS","BROKEN_BY_BLOCKING", "BLOCKED_HIGHEST_DMG"]
+		},
+		"hats & hoods": {
+			"lore_points": 5,
+		  "items": [
+			{"hat_hood":{"rotation": 90}},		  
+			{"hat_phrygian":{"rotation": 90}},
+			{"hat_wizard":{"rotation": 90}},
+			{"hat_jester":{"rotation": 90}},
+			{"helm_mining":{"rotation": 90}},			
+			{"hat_tophat":{"rotation": 90}},
+			{"hat_bandana":{"rotation": 90}},
+			{"hat_chef":{"rotation": 90}},
+			{"hat_wolf_hood":{"rotation": 90}},
+			{"hat_bear_hood":{"rotation": 90}},
+			{"hat_stag_hood":{"rotation": 90}},
+			{"hat_bunny_hood":{"rotation": 90}},			
+			{"hat_silken_bow":{}},
+			{"hat_plumed_cap":{"rotation": 90}},
+			{"hat_bycocket":{"rotation": 90}},
+			{"hat_warm":{"rotation": 90}},
+			{"hat_bountyhunter":{"rotation": 90}},
+			{"hat_hood_apprentice":{"rotation": 90}},
+			{"hat_hood_assassin":{"rotation": 90}},
+			{"hat_hood_whispers":{"rotation": 90}},
+			{"hat_fez":{"rotation": 90}},			
+			{"punisher_hood":{"rotation": 90}}
+		  ],
+		  "events": [ "BLESSED_MAX", "BLESSED_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "BLESSED_MAX", "BLESSED_TOTAL", "BROKEN"]
+		},
+		"crowns & headdresses": {
+			"lore_points": 3,
+		  "items": [
+			{"hat_circlet":{"rotation": 90}},
+			{"hat_headdress":{"rotation": 90}},
+			{"hat_miter":{"rotation": 90}},			
+			{"hat_crown":{"rotation": 90}},
+			{"hat_circlet_wisdom":{"rotation": 90}},		
+			{"hat_laurels":{"rotation": 90}},
+			{"hat_turban":{"rotation": 90}},
+			{"hat_crowned_helm":{"rotation": 90}}
+		  ],
+		  "events": [ "BLESSED_MAX", "BLESSED_TOTAL", "INSPIRATION_XP" ],
+		  "events_display": [ "RUNS_COLLECTED", "BLESSED_MAX", "BLESSED_TOTAL", "BROKEN", "INSPIRATION_XP"]
+		},
+		"face accessories": {
+			"lore_points": 3,
+		  "items": [
+			{"mask_eyepatch":{}},
+			{"tool_blindfold":{"rotation": 90}},
+			{"tool_glasses":{"rotation": 90}},
+			{"mask_grass_sprig":{}},
+			{"mask_pipe":{}},
+			{"mask_mouthknife":{"rotation": 90}},
+			{"tool_blindfold_focus":{"rotation": 90}},
+			{"tool_blindfold_telepathy":{"rotation": 90}},
+			{"mask_mouth_rose":{"rotation": 90}},			
+			{"mask_hazard_goggles":{"rotation": 90}},
+			{"mask_tech_goggles":{"rotation": 90}},
+			{"monocle":{}}
+		  ],
+		  "events": [ "BLESSED_MAX", "BLESSED_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "BLESSED_MAX", "BLESSED_TOTAL", "BROKEN"]
+		},
+		"masks & visors": {
+			"lore_points": 3,
+		  "items": [
+			{"mask_bandit":{"rotation": 90}},		  
+			{"mask_steel_visor":{}},			
+			{"mask_spooky":{}},
+			{"mask_masquerade":{}},
+			{"mask_plague":{}},
+			{"mask_golden":{}},
+			{"mask_phantom":{}},
+			{"mask_crystal_visor":{}},
+			{"mask_shaman":{}},
+			{"mask_artifact_visor":{}}			
+		  ],
+		  "events": [ "BLESSED_MAX", "BLESSED_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "BLESSED_MAX", "BLESSED_TOTAL", "BROKEN"]
+		},
+		"cloaks & clothing": {
+			"lore_points": 3,
+		  "items": [
+			{"cloak":{}},
+			{"cloak_protection":{}},
+			{"cloak_magicreflection":{}},
+			{"cloak_invisibility":{}},
+			{"silver_doublet":{}},
+			{"vampire_doublet":{}},
+			{"machinist_apron":{}},
+			{"tunic":{}},
+			{"wizard_doublet":{}},
+			{"healer_doublet":{}},
+			{"suede_gloves":{}},
+			{"suede_boots":{"rotation": 90}}
+		  ],
+		  "events": [ "BLESSED_MAX", "BLESSED_TOTAL", "CLOAK_BURNED" ],
+		  "events_display": [ "RUNS_COLLECTED", "BLESSED_MAX", "BLESSED_TOTAL", "BROKEN", "CLOAK_BURNED" ]
+		},
+		"backpacks": {
+			"lore_points": 1,
+		  "items": [
+			{"cloak_backpack":{}}
+		  ],
+		  "events": [ "BLESSED_MAX", "BLESSED_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "BLESSED_MAX", "BLESSED_TOTAL", "BROKEN" ]
+		},
+		"leather armor": {
+			"lore_points": 1,
+		  "items": [
+			{"leather_helm":{}},
+			{"leather_breastpiece":{}},
+			{"gloves":{}},
+			{"leather_boots":{"rotation": 90}},
+			{"leather_boots_speed":{"rotation": 90}},
+			{"gloves_dexterity":{}}
+
+		  ],
+		  "events": [ "BLESSED_MAX", "BLESSED_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "BLESSED_MAX", "BLESSED_TOTAL", "BROKEN" ]
+		},
+		"iron armor": {
+			"lore_points": 2,
+		  "items": [
+			{"iron_helm":{}},
+			{"iron_boots":{"rotation": 90}},
+			{"iron_breastpiece":{}},
+			{"bracers":{}},
+			{"bracers_constitution":{}},
+			{"iron_boots_waterwalking":{"rotation": 90}}
+		  ],
+		  "events": [ "BLESSED_MAX", "BLESSED_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "BLESSED_MAX", "BLESSED_TOTAL", "BROKEN" ]
+		},
+		"steel armor": {
+			"lore_points": 2,
+		  "items": [
+			{"steel_helm":{}},
+			{"gauntlets":{}},
+			{"steel_boots":{}},
+			{"gauntlets_strength":{}},
+			{"steel_boots_levitation":{}},
+			{"steel_boots_feather":{}},
+			{"steel_breastpiece":{}}		
+		  ],
+		  "events": [ "BLESSED_MAX", "BLESSED_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "BLESSED_MAX", "BLESSED_TOTAL", "BROKEN" ]
+		},
+		"crystal armor": {
+			"lore_points": 2,
+		  "items": [
+			{"crystal_helm":{}},
+			{"crystal_gloves":{}},
+			{"crystal_boots":{}},
+			{"crystal_breastpiece":{}}			
+		  ],
+		  "events": [ "BLESSED_MAX", "BLESSED_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "BLESSED_MAX", "BLESSED_TOTAL", "BROKEN" ]
+		},
+		"sphinxs casque": {
+			"lore_points": 3,
+		  "items": [
+			{"artifact_helm":{}}
+		  ],
+		  "events": [ "BLESSED_MAX", "BLESSED_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "BLESSED_MAX", "BLESSED_TOTAL" ]
+		},
+		"oracles treads": {
+			"lore_points": 3,
+		  "items": [
+			{"artifact_boots":{}}
+		  ],
+		  "events": [ "BLESSED_MAX", "BLESSED_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "BLESSED_MAX", "BLESSED_TOTAL" ]
+		},
+		"djinnis brace": {
+			"lore_points": 3,
+		  "items": [
+			{"artifact_gloves":{}}
+		  ],
+		  "events": [ "BLESSED_MAX", "BLESSED_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "BLESSED_MAX", "BLESSED_TOTAL" ]
+		},
+		"dragons mail": {
+			"lore_points": 3,
+		  "items": [
+			{"artifact_breastpiece":{}}
+		  ],
+		  "events": [ "BLESSED_MAX", "BLESSED_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "BLESSED_MAX", "BLESSED_TOTAL" ]
+		},
+		"wraiths gown": {
+			"lore_points": 3,
+		  "items": [
+			{"artifact_cloak":{}}
+		  ],
+		  "events": [ "BLESSED_MAX", "BLESSED_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "BLESSED_MAX", "BLESSED_TOTAL" ]
+		},
+		"swords": {
+			"lore_points": 1,
+		  "items": [
+			{"bronze_sword":{"rotation": 45}},
+			{"iron_sword":{"rotation": 45}},
+			{"steel_sword":{"rotation": 45}},
+			{"crystal_sword":{"rotation": 45}}
+		  ],
+		  "events": [ "ATTACKS", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "ATTACKS_MISSES", "MELEE_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "ATTACKS", "MELEE_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"dyrnwyn": {
+			"lore_points": 3,
+		  "items": [
+			{"artifact_sword":{"rotation": 45}}
+		  ],
+		  "events": [ "ATTACKS", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "ATTACKS_MISSES", "MELEE_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "ATTACKS", "MELEE_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"axes": {
+			"lore_points": 1,
+		  "items": [
+			{"bronze_axe":{"rotation": 45}},
+			{"iron_axe":{"rotation": 45}},
+			{"steel_axe":{"rotation": 45}},
+			{"crystal_battleaxe":{"rotation": 45}}
+		  ],
+		  "events": [ "ATTACKS", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "ATTACKS_MISSES", "MELEE_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "ATTACKS", "MELEE_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"parashu": {
+			"lore_points": 3,
+		  "items": [
+			{"artifact_axe":{"rotation": 45}}
+		  ],
+		  "events": [ "ATTACKS", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "ATTACKS_MISSES", "MELEE_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "ATTACKS", "MELEE_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"maces": {
+			"lore_points": 1,
+		  "items": [
+			{"bronze_mace":{"rotation": 45}},
+			{"iron_mace":{"rotation": 45}},
+			{"steel_mace":{"rotation": 45}},
+			{"crystal_mace":{"rotation": 45}}
+		  ],
+		  "events": [ "ATTACKS", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "ATTACKS_MISSES", "MELEE_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "ATTACKS", "MELEE_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"sharur": {
+			"lore_points": 3,
+		  "items": [
+			{"artifact_mace":{"rotation": 45}}
+		  ],
+		  "events": [ "ATTACKS", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "ATTACKS_MISSES", "MELEE_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "ATTACKS", "MELEE_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"polearms": {
+			"lore_points": 1,
+		  "items": [
+			{"quarterstaff":{"rotation": 45}},
+			{"iron_spear":{"rotation": 45}},
+			{"steel_halberd":{"rotation": 45}},
+			{"crystal_spear":{"rotation": 45}}
+		  ],
+		  "events": [ "ATTACKS", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "ATTACKS_MISSES", "MELEE_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "ATTACKS", "MELEE_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"gungnir": {
+			"lore_points": 3,
+		  "items": [
+			{"artifact_spear":{"rotation": 45}}
+		  ],
+		  "events": [ "ATTACKS", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "ATTACKS_MISSES", "MELEE_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "ATTACKS", "MELEE_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"fist weapons": {
+			"lore_points": 1,
+		  "items": [
+			{"brass_knuckles":{"rotation": 45}},
+			{"iron_knuckles":{"rotation": 45}},
+			{"spiked_gauntlets":{"rotation": 45}}
+		  ],
+		  "events": [ "ATTACKS", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "ATTACKS_MISSES", "MELEE_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "ATTACKS", "MELEE_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"whip": {
+			"lore_points": 1,
+		  "items": [
+			{"tool_whip":{}}
+		  ],
+		  "events": [ "ATTACKS", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "ATTACKS_MISSES", "MELEE_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "ATTACKS", "MELEE_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"rocks & gems": {
+			"lore_points": 5,
+		  "items": [
+			{"gem_rock":{"rotation":270}},
+			{"gem_glass":{}},
+			{"gem_luck":{"rotation":270}},
+			{"gem_obsidian":{}},
+			{"gem_jade":{}},
+			{"gem_fluorite":{}},
+			{"gem_amethyst":{}},
+			{"gem_garnet":{}},
+			{"gem_citrine":{}},
+			{"gem_opal":{}},
+			{"gem_jetstone":{}},
+			{"gem_amber":{}},
+			{"gem_aquamarine":{}},
+			{"gem_emerald":{}},
+			{"gem_sapphire":{}},
+			{"gem_jacinth":{}},
+			{"gem_ruby":{}},
+			{"gem_diamond":{}}
+		  ],
+		  "events": [ "THROWN", "TRADING_GOLD_EARNED", "TRADING_SOLD", "APPRAISED", "THROWN_HITS", "THROWN_DMG_TOTAL", "DMG_MAX" ],
+		  "events_display": [ "RUNS_COLLECTED", "APPRAISED", "THROWN", "TRADING_GOLD_EARNED" ]
+		},
+		"tomahawks & daggers": {
+			"lore_points": 1,
+		  "items": [
+			{"bronze_tomahawk":{"rotation": 45}},
+			{"iron_dagger":{"rotation": 45}}
+		  ],
+		  "events": [ "THROWN", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "THROWN_HITS", "THROWN_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "THROWN_HITS", "THROWN_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"chakrams and shurikens": {
+			"lore_points": 1,
+		  "items": [
+			{"steel_chakram":{"rotation": 135}},
+			{"crystal_shuriken":{"rotation": 135}}
+		  ],
+		  "events": [ "THROWN", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "THROWN_HITS", "THROWN_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "THROWN_HITS", "THROWN_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"boomerang": {
+			"lore_points": 1,
+		  "items": [
+			{"boomerang":{"rotation": 135}}
+		  ],
+		  "events": [ "THROWN", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "THROWN_HITS", "THROWN_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "THROWN_HITS", "THROWN_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"slingshot": {
+			"lore_points": 1,
+		  "items": [
+			{"sling":{}}
+		  ],
+		  "events": [ "SHOTS_FIRED", "DMG_MAX", "DMG_0", "BLESSED_MAX", "BLESSED_TOTAL", "SHOTS_HIT", "RANGED_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "SHOTS_HIT", "RANGED_DMG_TOTAL", "DMG_0" ]
+		},
+		"bows": {
+			"lore_points": 1,
+		  "items": [
+			{"shortbow":{"rotation": 45}},
+			{"longbow":{"rotation": 45}},
+			{"compound_bow":{"rotation": 45}}
+		  ],
+		  "events": [ "SHOTS_FIRED", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "SHOTS_HIT", "RANGED_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "SHOTS_HIT", "RANGED_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"crossbow": {
+			"lore_points": 1,
+		  "items": [
+			{"crossbow":{}}
+		  ],
+		  "events": [ "SHOTS_FIRED", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "SHOTS_HIT", "RANGED_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "SHOTS_HIT", "RANGED_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"arbalest": {
+			"lore_points": 1,
+		  "items": [
+			{"heavy_crossbow":{}}
+		  ],
+		  "events": [ "SHOTS_FIRED", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "SHOTS_HIT", "RANGED_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "SHOTS_HIT", "RANGED_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"khryselakatos": {
+			"lore_points": 3,
+		  "items": [
+			{"artifact_bow":{"rotation": 45}}
+		  ],
+		  "events": [ "SHOTS_FIRED", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "SHOTS_HIT", "RANGED_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "SHOTS_HIT", "RANGED_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"swift and springshot ammo": {
+			"lore_points": 1,
+		  "items": [
+			{"quiver_lightweight":{}},
+			{"quiver_heavy":{}}
+		  ],
+		  "events": [ "AMMO_FIRED", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "AMMO_HIT", "RANGED_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "AMMO_HIT", "RANGED_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"silver and piercing ammo": {
+			"lore_points": 1,
+		  "items": [
+			{"quiver_silver":{}},
+			{"quiver_pierce":{}}
+		  ],
+		  "events": [ "AMMO_FIRED", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "AMMO_HIT", "RANGED_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "AMMO_HIT", "RANGED_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"fire and hunting ammo": {
+			"lore_points": 1,
+		  "items": [
+			{"quiver_fire":{}},
+			{"quiver_hunting":{}}
+		  ],
+		  "events": [ "AMMO_FIRED", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "AMMO_HIT", "RANGED_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "AMMO_HIT", "RANGED_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"crystal ammo": {
+			"lore_points": 1,
+		  "items": [
+			{"quiver_crystal":{}}
+		  ],
+		  "events": [ "AMMO_FIRED", "DMG_MAX", "BLESSED_MAX", "BLESSED_TOTAL", "AMMO_HIT", "RANGED_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "AMMO_HIT", "RANGED_DMG_TOTAL", "DMG_MAX" ]
+		},
+		"water": {
+			"lore_points": 1,
+		  "items": [
+			{"potion_water":{"rotation": 90}}
+		  ],
+		  "events": [ "CONSUMED", "THROWN", "THROWN_HITS" ],
+		  "events_display": [ "RUNS_COLLECTED", "CONSUMED", "THROWN", "THROWN_HITS" ]
+		},
+		"cheese and apples": {
+			"lore_points": 1,
+		  "items": [
+			{"food_cheese":{"rotation": 90}},
+			{"food_apple":{"rotation": 90}}
+		  ],
+		  "events": [ "CONSUMED" ],
+		  "events_display": [ "RUNS_COLLECTED", "CONSUMED" ]
+		},
+		"cream pie": {
+			"lore_points": 1,
+		  "items": [
+			{"food_creampie":{"rotation": 45}}
+		  ],
+		  "events": [ "CONSUMED", "THROWN", "THROWN_HITS" ],
+		  "events_display": [ "RUNS_COLLECTED", "CONSUMED", "THROWN", "THROWN_HITS" ]
+		},
+		"tomalley": {
+			"lore_points": 1,
+		  "items": [
+			{"food_tomalley":{"rotation": 90}}
+		  ],
+		  "events": [ "CONSUMED" ],
+		  "events_display": [ "RUNS_COLLECTED", "CONSUMED" ]
+		},
+		"meat, fish, and bread": {
+			"lore_points": 1,
+		  "items": [
+			{"food_meat":{"rotation": 0}},
+			{"food_fish":{"rotation": 45}},
+			{"food_bread":{"rotation": 45}}
+		  ],
+		  "events": [ "CONSUMED" ],
+		  "events_display": [ "RUNS_COLLECTED", "CONSUMED" ]
+		},
+		"tin and tin opener": {
+			"lore_points": 1,
+		  "items": [
+			{"food_tin":{"rotation": 90}},
+			{"tool_tinopener":{"rotation": 0}}
+		  ],
+		  "events": [ "CONSUMED", "TIN_GREASY", "TIN_REGEN_HP", "TIN_REGEN_MP"],
+		  "events_display": [ "RUNS_COLLECTED", "CONSUMED", "TIN_GREASY", "CUSTOM_TIN_REGEN" ],
+		  "custom_events_display": [ "RUNS_COLLECTED", "CONSUMED", "TIN_GREASY", "CUSTOM_TIN_REGEN" ]
+		},
+		"blood vials": {
+			"lore_points": 1,
+		  "items": [
+			{"food_blood":{"rotation": 90}}
+		  ],
+		  "events": [ "CONSUMED" ],
+		  "events_display": [ "RUNS_COLLECTED", "CONSUMED" ]
+		},
+		"towel": {
+			"lore_points": 1,
+		  "items": [
+			{"tool_towel":{"rotation": 45}}
+		  ],
+		  "events": [ "TOWEL_USES", "TOWEL_BLEEDING", "TOWEL_MESSY", "TOWEL_GREASY" ],
+		  "events_display": [ "RUNS_COLLECTED", "TOWEL_BLEEDING", "TOWEL_MESSY", "TOWEL_GREASY" ]
+		},
+		"mining pick": {
+			"lore_points": 1,
+		  "items": [
+			{"tool_pickaxe":{"rotation": 45}}
+		  ],
+		  "events": [ "PICKAXE_WALLS_DUG", "PICKAXE_BOULDERS_DUG" ],
+		  "events_display": [ "RUNS_COLLECTED", "PICKAXE_WALLS_DUG", "PICKAXE_BOULDERS_DUG", "BROKEN" ]
+		},
+		"booze": {
+			"lore_points": 1,
+		  "items": [
+		  ],
+		  "events": [ "CONSUMED", "THROWN", "THROWN_HITS" ],
+		  "events_display": [ "RUNS_COLLECTED", "CONSUMED", "THROWN", "THROWN_HITS" ]
+		},
+		"empty bottle": {
+			"lore_points": 1,
+		  "items": [
+			{"potion_empty":{"rotation": 90}}
+		  ],
+		  "events": [ "SINKS_TAPPED", "FOUNTAINS_TAPPED", "BOTTLE_FROM_BREWING", "BOTTLES_FROM_CONSUME" ],
+		  "events_display": [ "RUNS_COLLECTED", "SINKS_TAPPED", "FOUNTAINS_TAPPED", "CUSTOM_BOTTLE_RECOVERY" ],
+		  "custom_events_display": [ "RUNS_COLLECTED", "SINKS_TAPPED", "FOUNTAINS_TAPPED", "CUSTOM_BOTTLE_RECOVERY" ]
+		},
+		"defensive potions": {
+			"lore_points": 5,
+		  "items": [
+			{"potion_juice":{"rotation": 90}},
+			{"potion_booze":{"rotation": 90}},
+			{"potion_cureailment":{"rotation": 90}},			
+			{"potion_healing":{"rotation": 90}},
+			{"potion_restoremagic":{"rotation": 90}},
+			{"potion_speed":{"rotation": 90}},			
+			{"potion_polymorph":{"rotation": 90}},
+			{"potion_invisibility":{"rotation": 90}},
+			{"potion_levitation":{"rotation": 90}},
+			{"potion_extrahealing":{"rotation": 90}},			
+			{"potion_strength":{"rotation": 90}}
+		  ],
+		  "events": [ "CONSUMED", "THROWN", "THROWN_HITS" ],
+		  "events_display": [ "RUNS_COLLECTED", "CONSUMED", "THROWN", "THROWN_HITS" ]
+		},
+		"offensive potions": {
+			"lore_points": 5,
+		  "items": [
+			{"potion_sickness":{"rotation": 90}},
+			{"potion_confusion":{"rotation": 90}},
+			{"potion_acid":{"rotation": 90}},
+			{"potion_blindness":{"rotation": 90}},
+			{"potion_paralysis":{"rotation": 90}},
+			{"potion_polymorph":{"rotation": 90}},
+			{"potion_firestorm":{"rotation": 90}},
+			{"potion_icestorm":{"rotation": 90}},
+			{"potion_thunderstorm":{"rotation": 90}}
+		  ],
+		  "events": [ "CONSUMED", "THROWN", "DMG_MAX", "THROWN_HITS", "THROWN_DMG_TOTAL" ],
+		  "events_display": [ "RUNS_COLLECTED", "CONSUMED", "THROWN", "THROWN_DMG_TOTAL", "THROWN_HITS" ]
+		},
+		"alembic": {
+			"lore_points": 1,
+		  "items": [
+			{"tool_alembic":{}}
+		  ],
+		  "events": [ "ALEMBIC_BREWED", "ALEMBIC_EXPLOSIONS", "ALEMBIC_DECANTED", "ALEMBIC_DUPLICATED", "ALEMBIC_BROKEN", "ALEMBIC_DUPLICATION_FAIL" ],
+		  "events_display": [ "RUNS_COLLECTED", "CUSTOM_ALEMBIC_BREWED", "CUSTOM_ALEMBIC_DUPLICATED", "ALEMBIC_DECANTED" ],
+		  "custom_events_display": [ "RUNS_COLLECTED", "CUSTOM_ALEMBIC_BREWED", "CUSTOM_ALEMBIC_DUPLICATED", "ALEMBIC_DECANTED" ]
+		},
+		"tinkering kit": {
+			"lore_points": 1,
+		  "items": [
+			{"tool_tinkering_kit":{}}
+		  ],
+		  "events": [ "TINKERKIT_CRAFTS", "TINKERKIT_REPAIRS", "TINKERKIT_METAL_SCRAPPED", "TINKERKIT_MAGIC_SCRAPPED", "TINKERKIT_SALVAGED" ],
+		  "events_display": [ "RUNS_COLLECTED", "TINKERKIT_CRAFTS", "TINKERKIT_REPAIRS", "CUSTOM_TINKERKIT_SCRAPS" ],
+		  "custom_events_display": [ "RUNS_COLLECTED", "TINKERKIT_CRAFTS", "TINKERKIT_REPAIRS", "CUSTOM_TINKERKIT_SCRAPS" ]
+		},
+		"lockpick": {
+			"lore_points": 1,
+		  "items": [
+			{"tool_lockpick":{"rotation": 45}}
+		  ],
+		  "events": ["LOCKPICK_DOOR_UNLOCK", "LOCKPICK_CHESTS_UNLOCK", "LOCKPICK_ARROWTRAPS", "LOCKPICK_TINKERTRAPS"],
+		  "events_display": ["RUNS_COLLECTED", "CUSTOM_LOCKPICK_UNLOCKS", "LOCKPICK_ARROWTRAPS", "LOCKPICK_TINKERTRAPS"],
+		  "custom_events_display": ["RUNS_COLLECTED", "CUSTOM_LOCKPICK_UNLOCKS", "LOCKPICK_ARROWTRAPS", "LOCKPICK_TINKERTRAPS"]
+		},
+		"skeleton key": {
+			"lore_points": 1,
+		  "items": [
+			{"tool_skeletonkey":{"rotation": 45}}
+		  ],
+		  "events": [ "LOCKPICK_MIMICS_LOCKED", "LOCKPICK_CHESTS_UNLOCK", "LOCKPICK_CHESTS_LOCK", "LOCKPICK_ARROWTRAPS", "LOCKPICK_DOOR_LOCK", "LOCKPICK_DOOR_UNLOCK"],
+		  "events_display": ["RUNS_COLLECTED", "CUSTOM_LOCKPICK_UNLOCKS", "CUSTOM_LOCKPICK_LOCKS", "LOCKPICK_MIMICS_LOCKED"],
+		  "custom_events_display": ["RUNS_COLLECTED", "CUSTOM_LOCKPICK_UNLOCKS", "CUSTOM_LOCKPICK_LOCKS", "LOCKPICK_MIMICS_LOCKED"]
+		},
+		"beartrap": {
+			"lore_points": 1,
+		  "items": [
+			{"tool_beartrap":{"rotation": -45}}
+		  ],
+		  "events": ["BEARTRAP_DEPLOYED", "BEARTRAP_TRAPPED", "BEARTRAP_DMG"],
+		  "events_display": ["RUNS_COLLECTED", "BEARTRAP_DEPLOYED", "BEARTRAP_TRAPPED", "BEARTRAP_DMG"]
+		},
+		"noisemaker": {
+			"lore_points": 1,
+		  "items": [
+			{"tool_decoy":{"rotation": 45}}
+		  ],
+		  "events": ["GADGET_CRAFTED", "GADGET_DEPLOYED", "NOISEMAKER_LURED", "NOISEMAKER_MOST_LURED"],
+		  "events_display": ["GADGET_CRAFTED", "GADGET_DEPLOYED", "NOISEMAKER_LURED", "NOISEMAKER_MOST_LURED"]
+		},
+		"dummybot": {
+			"lore_points": 1,
+		  "items": [
+			{"tool_dummybot":{"rotation": 45}}
+		  ],
+		  "events": ["GADGET_CRAFTED", "GADGET_DEPLOYED", "DUMMY_HITS_TAKEN", "DUMMY_DMG_TAKEN"],
+		  "events_display": ["GADGET_CRAFTED", "GADGET_DEPLOYED", "DUMMY_HITS_TAKEN", "DUMMY_DMG_TAKEN"]
+		},
+		"sentrybot and magic sentry": {
+			"lore_points": 1,
+		  "items": [
+			{"tool_sentrybot":{"rotation": 45}},
+			{"tool_spellbot":{"rotation": 45}}
+		  ],
+		  "events": ["GADGET_CRAFTED", "GADGET_DEPLOYED", "SENTRY_DEPLOY_KILLS", "SENTRY_DEPLOY_DMG"],
+		  "events_display": ["GADGET_CRAFTED", "GADGET_DEPLOYED", "SENTRY_DEPLOY_KILLS", "SENTRY_DEPLOY_DMG"]
+		},
+		"gyrobot": {
+			"lore_points": 1,
+		  "items": [
+			{"tool_gyrobot":{}}
+		  ],
+		  "events": ["GADGET_CRAFTED", "GADGET_DEPLOYED", "GYROBOT_TIME_SPENT", "GYROBOT_BOULDERS"],
+		  "events_display": ["GADGET_CRAFTED", "GADGET_DEPLOYED", "GYROBOT_TIME_SPENT", "GYROBOT_BOULDERS"]
+		},
+		"tinkered traps": {
+			"lore_points": 1,
+		  "items": [
+			{"tool_fire_bomb":{"rotation": 225}},
+			{"tool_freeze_bomb":{"rotation": 225}},
+			{"tool_sleep_bomb":{"rotation": 225}},
+			{"tool_detonated_charge":{"rotation": 225}}
+		  ],
+		  "events": ["GADGET_CRAFTED", "GADGET_DEPLOYED", "BOMB_DETONATED", "BOMB_DMG", "DETONATOR_SCRAPPED", "DETONATOR_SCRAPPED_METAL", "DETONATOR_SCRAPPED_MAGIC"],
+		  "events_display": ["GADGET_CRAFTED", "GADGET_DEPLOYED", "BOMB_DETONATED", "BOMB_DMG"]
+		},
+		"teleportation trap": {
+			"lore_points": 1,
+		  "items": [
+			{"tool_teleport_bomb":{"rotation": 225}}
+		  ],
+		  "events": ["GADGET_CRAFTED", "GADGET_DEPLOYED", "BOMB_DETONATED", "BOMB_DETONATED_ALLY"],
+		  "events_display": ["GADGET_CRAFTED", "GADGET_DEPLOYED", "BOMB_DETONATED", "BOMB_DETONATED_ALLY"]
+		},
+		"mail & lore books": {
+			"lore_points": 1,
+		  "items": [
+			{"scroll_mail":{"rotation": 90}},
+			{"readable_book":{"rotation": 45}}
+		  ],
+		  "events": ["LORE_READ", "LORE_PERCENT_READ", "LORE_PERCENT_READ_2", "LORE_BURNT"],
+		  "events_display": ["RUNS_COLLECTED", "LORE_READ", "LORE_PERCENT_READ", "LORE_BURNT"]
+		},
+		"mystic orb": {
+			"lore_points": 3,
+		  "items": [
+			{"artifact_orb_green":{}},
+			{"artifact_orb_red":{}},
+			{"artifact_orb_blue":{}},
+			{"artifact_orb_purple":{}}
+		  ],
+		  "events_display": ["RUNS_COLLECTED"]
+		},
+		"death box": {
+			"lore_points": 1,
+		  "items": [
+		  {"tool_player_loot_bag":{"rotation": 45}}
+		  ],
+		  "events": ["DEATHBOX_OPEN_OWN", "DEATHBOX_OPEN_OTHERS", "DEATHBOX_TO_EXIT", "DEATHBOX_MOST_CARRIED"],
+		  "events_display": ["DEATHBOX_TO_EXIT", "DEATHBOX_MOST_CARRIED", "DEATHBOX_OPEN_OWN", "DEATHBOX_OPEN_OTHERS"]
+		}
+	}
+}

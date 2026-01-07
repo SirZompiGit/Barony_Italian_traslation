@@ -1,0 +1,66 @@
+{
+    "version": 1,
+    "camera": {
+        "ang_degrees": 30,
+        "vang_degrees": 5,
+        "zoom": -0.2,
+        "height": -1.0,
+        "rotate_limit_degrees_min": -5,
+        "rotate_limit_degrees_max": 5,
+        "rotate_speed": 0.2
+    },
+	"map_tiles": 
+	{
+		"ceiling": 0,
+		"width": 4,
+		"height": 3,
+		"floor": [
+			13, 56, 13, 13,
+			13, 13, 56, 13,
+			56, 13, 13, 13
+
+		],
+		"mid": [
+			10, 10, 10, 10,
+			10, 0, 0, 0,
+			10, 0, 0, 0
+		],
+		"top": [
+			12, 12, 12, 12,
+			12, 0, 0, 0,
+			12, 0, 0, 0
+		]
+	},	
+    "limbs": [
+        {
+            "x": 18,
+            "y": 13,
+            "z": 0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 0,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        },	
+        {
+            "x": 5,
+            "y": 1.5,
+            "z": 3.0,
+            "pitch": 0.0,
+            "roll": 0.0,
+            "yaw": 0.0,
+            "focalx": 0.0,
+            "focaly": 0.0,
+            "focalz": 0.0,
+            "sprite": 1074,
+            "scalex": 1.0,
+            "scaley": 1.0,
+            "scalez": 1.0
+        }
+    ]
+}
