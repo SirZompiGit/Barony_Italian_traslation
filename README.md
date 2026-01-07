@@ -8,6 +8,7 @@ Questa mod porta la **traduzione in italiano** di *Barony*.
 Al momento il progetto è in **stato base (v0.0.1)**: è stato tradotto **quasi tutto**, ma **alcune parti mancano ancora**. In questa fase non abbiamo dato priorità assoluta a **metrica e formattazione**, quindi in gioco possono capitare **testi sovrapposti, tagliati o che non rientrano correttamente nei riquadri**.
 
 ✅ **Compatibile con l’ultima versione del gioco: 4.3.1**
+
 Link Steam Workshop: [Barony Italian TTranslation](https://steamcommunity.com/sharedfiles/filedetails/?id=3641251022)
 
 ## Istruzioni all’installazione
