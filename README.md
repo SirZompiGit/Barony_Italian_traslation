@@ -1,5 +1,5 @@
 # Barony ITA — Mod di traduzione in italiano
-[preview.png](https://postimg.cc/LqK1Sd6c)
+![Barony ITA Logo](https://postimg.cc/LqK1Sd6c)
 Questa mod porta la **traduzione in italiano** di *Barony*.
 
 Al momento il progetto è in **stato base (v0.0.1)**: è stato tradotto **quasi tutto**, ma **alcune parti mancano ancora**. In questa fase non abbiamo dato priorità assoluta a **metrica e formattazione**, quindi in gioco possono capitare **testi sovrapposti, tagliati o che non rientrano correttamente nei riquadri**.
