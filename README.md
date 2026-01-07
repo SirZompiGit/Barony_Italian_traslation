@@ -2,6 +2,7 @@
 
 
 #Barony ITA — Mod di traduzione in italiano
+
 Discord: https://discord.gg/enbZQV2s49
 
 Questa mod porta la **traduzione in italiano** di *Barony*.
