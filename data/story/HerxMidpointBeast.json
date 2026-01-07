@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"press_a_to_advance": true,
+	"text": [
+		"Sconfitto il Barone e posizionato la sua sfera viola sul piedistallo,\n",
+		"entri nel portale. Una potente magia invia un brivido sul tuo corpo.\n^",
+		"Il tuo corpo viene trasportato con un lampo bianco.^ Arrivi fuori dalle\n",
+		"miniere di Hamlet e guardi l'oscurita' maledetta ritirarsi dalla terra.\n",
+		"La calda luce solare inonda la campagna. Mentre le porte della miniera si aprono,\n",
+		"la gente corre per le strade, abituandosi alla liberta'.\n^",
+		"Corri verso gli edifici vicini, cercando un posto dove nasconderti e capire la tua\n",
+		"prossima mossa. Ci sono troppi umani qui per i tuoi gusti.\n^",
+		"Fai irruzione in quella che sembra essere una locanda. Passi la notte sotto\n",
+		"le lenzuola di un comodo letto mentre i suoni dei festeggiamenti ti circondano.\n^",
+		"Mentre gli umani festeggiano nell'ostello, senti parlare di un potere ancora piu' grande\n",
+		"di quello di Herx, che si dice sia custodito nella Gilda dei Maghi...\n^",
+		"Una botola nel dormitorio conduce a una fogna.\n",
+		"Aspetti che gli umani se ne vadano..."
+	],
+	"images": [
+		"*images/ui/Main Menus/Story/black.png",
+		"*images/ui/Main Menus/Story/white.png",
+		"*images/ui/Main Menus/Story/Hamlet_Rescue.png",
+		"*images/ui/Main Menus/Story/MagiciansGuild.png",
+		"*images/ui/Main Menus/Story/black.png",
+		"*images/ui/Main Menus/Story/PowerWaiting.png",
+		"*images/ui/Main Menus/Story/black.png"
+	]
+}

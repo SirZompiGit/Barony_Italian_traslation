@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"press_a_to_advance": true,
+	"text": [
+		"Sconfitto il Barone e posizionato la sua sfera viola sul piedistallo,\n",
+		"entri nel portale. Rilevi una potente magia fluire sul tuo corpo.\n^",
+		"Il tuo corpo viene trasportato con un lampo bianco.^ Arrivi fuori dalle\n",
+		"miniere di Hamlet e osservi le condizioni meteo migliorare rapidamente.\n",
+		"La calda luce solare inonda la campagna. Mentre le porte della miniera si aprono,\n",
+		"vedi umani correre per le strade. Sembrano molto contenti.\n^",
+		"*3Ti dirigi verso la Gilda dei Maghi con una richiesta sulla Sfera di Herx.\n",
+		"Il portiere ti rifiuta l'ingresso, tuttavia. Apparentemente riconoscendo l'usura che hai\n",
+		"subito, ti ordina di cercare riparazioni alla locanda e tornare domani.\n",
+		"Torni in strada per trovare un centinaio di umani che ti aspettano.\n",
+		"Evidentemente vogliono che tu ti unisca ai loro festeggiamenti. Sebbene tu non abbia\n",
+		"routine di festa installate, gli umani ti coinvolgono nel servizio di intrattenimento.\n",
+		"*2Alla fine, gli umani si calmano, e puoi tornare alla tua\n",
+		"missione originale di visitare la Gilda dei Maghi..."
+	],
+	"images": [
+		"*images/ui/Main Menus/Story/black.png",
+		"*images/ui/Main Menus/Story/white.png",
+		"*images/ui/Main Menus/Story/Hamlet_Rescue.png",
+		"*images/ui/Main Menus/Story/MagiciansGuild.png",
+		"*images/ui/Main Menus/Story/black.png"
+	]
+}

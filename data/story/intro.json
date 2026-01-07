@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"press_a_to_advance": false,
+	"text": [
+		"C'era una volta in una terra lontana,## una vivace cittadina chiamata\nHamlet.#### Centro di commercio,## la sua ricchezza crebbe col passare degli anni.\nI suoi invidiosi vicini credevano la citta' benedetta...####\nfinche' il Barone Herx sali' al potere.\n^",
+		"Spinto da visioni di ricchezze e potere,## il Barone costrinse il suo popolo\na scavare le colline,## in cerca di un leggendario, antico tesoro.\nSoffrendo sotto il giogo del loro padrone,## la gente tramo' la sua fine.####\nLo ingannarono con racconti di oro trovato, e lo sigillarono nelle miniere.\n^",
+		"Liberati dal loro crudele padrone,## la gente di Hamlet fiori' ancora.####\nMa col tempo,## strani eventi iniziarono a tormentare la citta'.\nNubi malvagie di oscurita' caddero sulle strade,## mostri immondi eruppero dal\nsuolo,## e luci funeste tremolarono nelle miniere ancora una volta.\n^",
+		"Molti avventurieri sono scesi nelle miniere per spezzare\nla maledizione del Barone,## ma nessuno e' ancora tornato.\nLa citta' di Hamlet invoca salvezza,##\ne solo un eroe puo' salvarla dalla sua maledizione..."
+	],
+	"images": [
+		"images/ui/Main Menus/Story/intro1.png",
+		"images/ui/Main Menus/Story/intro2.png",
+		"images/ui/Main Menus/Story/intro3.png",
+		"images/ui/Main Menus/Story/intro4.png"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"press_a_to_advance": true,
+	"text": [
+		"*3Fendendo ogni demone sul tuo cammino, salti attraverso il\n",
+		"portale senza un attimo di esitazione. Ovunque e' meglio di qui...\n",
+		"o almeno cosi' credi.\n^",
+		"*3Improvvisamente, ti ritrovi stanco in un infinito salone bianco punteggiato\n",
+		"di enormi pilastri che si estendono piu' in alto di quanto tu possa vedere. Per sfinimento,\n",
+		"lasci cadere le tue armi e avanzi.\n",
+		"*2Sicuramente, se succedesse qualcosa ora saresti finito; eppure senza\n",
+		"spiegazione, senti all'improvviso il potere tornare in te. Una voce rimbomba:\n^",
+		"*3\"Saluti, umano. Abbiamo assistito alle tue prove e tribolazioni e siamo\n",
+		"infinitamente impressionati dalla tua forza d'animo e di volonta'. Pertanto,\n",
+		"abbiamo una proposta per te...\"^",
+		"*3Mentre la voce ti parla, ti ritrovi riluttante o incapace\n",
+		"di rifiutare cio' che ti dice. Alla fine, c'e' un inspiegabile cambiamento nel tuo\n",
+		"essere mortale, e ti senti svanire...\n^",
+		"*3\"Il male svanisce dal mondo mortale, e il suo Guardiano dorme. La prima era\n",
+		"giunge al termine, e l'era del caos ha inizio. Riposa ora, valoroso: il tuo tempo\n",
+		"verra' di nuovo.\""
+	],
+	"images": [
+		"*images/ui/Main Menus/Story/black.png",
+		"*images/ui/Main Menus/Story/NoEternals.png",
+		"*images/ui/Main Menus/Story/Eternals.png",
+		"*images/ui/Main Menus/Story/white.png",
+		"*images/ui/Main Menus/Story/black.png"
+	]
+}

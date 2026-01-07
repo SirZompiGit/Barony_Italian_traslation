@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"press_a_to_advance": true,
+	"text": [
+		"*2Fendendo ogni demone sul tuo cammino, salti attraverso il\n",
+		"portale.^ Nessuna entita', mortale o immortale, puo' sfidare il tuo potere.\n^",
+		"*2Improvvisamente, ti ritrovi stanco in un infinito salone bianco punteggiato\n",
+		"di enormi pilastri che si estendono piu' in alto di quanto tu possa vedere.\n",
+		"*2Un senso di pace ti travolge e ti ristora. Sai che il potere di Herx e'\n",
+		"stato rimosso. Ma Baphomet era solo un diavolo. Una voce ti conforta...\n^",
+		"*3\"Il lich Herx e' diventato polvere, ma nemici piu' astuti attingono al male infernale.\n",
+		"Hamlet e' libera per ora, ma il mondo non e' al sicuro. In tempi come questi,\n",
+		"un potente deve far pendere l'ago della bilancia. Abbiamo una proposta per te...\"\n^",
+		"*2Senza preavviso, vieni trasportato indietro nel regno mortale.\n",
+		"\"Devi recidere ogni male da Hamlet, o non ci puo' essere pace.\"\n^",
+		"*2Con rinnovata energia, ti ritrovi ad Hamlet. Le prove di una\n",
+		"grande celebrazione fluiscono dai cancelli delle miniere a un ostello vicino.\n^",
+		"*1Sai che la Gilda dei Maghi ti aiutera' nella tua ricerca..."
+	],
+	"images": [
+		"*images/ui/Main Menus/Story/black.png",
+		"*images/ui/Main Menus/Story/white.png",
+		"*images/ui/Main Menus/Story/NoEternals.png",
+		"*images/ui/Main Menus/Story/Eternals.png",
+		"*images/ui/Main Menus/Story/white.png",
+		"*images/ui/Main Menus/Story/MagiciansGuild.png",
+		"*images/ui/Main Menus/Story/black.png"
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"press_a_to_advance": true,
+	"text": [
+		"*3Vittorioso, entri nel portale. Non sai cosa aspettarti,\n",
+		"ma sei inondato di sollievo. In qualche modo, sai che la maledizione del Barone\n",
+		"e' stata rimossa da questa terra.\n^",
+		"*4Prima che tu abbia tempo di pensare, sei improvvisamente davanti alle miniere\n",
+		"ancora una volta. Ma qualcosa e' cambiato; gli ululati dei mostri lontani sono\n",
+		"svaniti, e i cieli, un tempo nero minaccioso, si stanno schiarendo per mostrare\n",
+		"di nuovo la luce del giorno.\n^",
+		"*3Improvvisamente, le porte della miniera si spalancano. Sigillate per anni per contenere\n",
+		"il male all'interno, si aprono dall'interno, mentre un centinaio di umani grati\n",
+		"corrono fuori per salutare colui che ha distrutto il Barone.\n^",
+		"*4La fonte infernale del potere del Barone rimane un mistero per te, e qualche\n",
+		"riflessione ti porta a credere che una visita alla Gilda dei Maghi sia\n",
+		"necessaria per qualche indagine piu' approfondita. Ma per ora, partecipi semplicemente\n",
+		"all'allegria delle persone che hai appena salvato..."
+	],
+	"images": [
+		"*images/ui/Main Menus/Story/black.png",
+		"*images/ui/Main Menus/Story/intro4.png",
+		"*images/ui/Main Menus/Story/Hamlet_Rescue.png",
+		"*images/ui/Main Menus/Story/MagiciansGuild.png"
+	]
+}

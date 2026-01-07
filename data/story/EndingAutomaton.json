@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"press_a_to_advance": true,
+	"text": [
+		"*3Attraverso il portale, una debole magia ti tira via dalla Cittadella.\n",
+		"I tuoi piedi fluttuano sul pavimento che trema violentemente.\n",
+		"Tubi e pistoni crollano in un frastuono ovattato...\n^",
+		"*1I tuoi input sono smorzati e osservi il trasferimento della tua coscienza.\n^",
+		"*2I tuoi sistemi sono nominali. Ti trovi con un mago e un vescovo. I loro volti si aprono\n",
+		"in espressioni di sorpresa.\n",
+		"Sono scioccati nel vedere che un automa li ha salvati\n",
+		"dal male soprannaturale. E' la tua natura inumana la ragione?\n^",
+		"*3Le gilde e le chiese concordano, non c'e' arbitro piu' perfetto per il\n",
+		"benessere degli umani. Ti sono affidati i compiti della legge, presunto\n",
+		"avere perfetta oggettivita' come nuovo Barone.\n^",
+		"*2Le tue sentenze sono infallibili... o no? Cosa ti rende cosciente?\n",
+		"Guidi Hamlet alla sua antica gloria. Ma problemi futuri potrebbero richiedere piu' potere.\n^",
+		"*1Potere che sai sara' sempre in attesa."
+	],
+	"images": [
+		"*images/ui/Main Menus/Story/black.png",
+		"*images/ui/Main Menus/Story/white.png",
+		"*images/ui/Main Menus/Story/HeroRescued.png",
+		"*images/ui/Main Menus/Story/throne.png",
+		"*images/ui/Main Menus/Story/intro1.png",
+		"*images/ui/Main Menus/Story/PowerWaiting.png"
+	]
+}

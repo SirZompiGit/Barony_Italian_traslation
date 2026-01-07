@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"press_a_to_advance": true,
+	"text": [
+		"Sconfitto il Barone e posizionato la sua sfera viola sul piedistallo,\n",
+		"entri nel portale. Una potente magia invia un brivido sul tuo corpo.\n^",
+		"Il tuo corpo viene trasportato con un lampo bianco.^ Arrivi fuori dalle\n",
+		"miniere di Hamlet e guardi l'oscurita' maledetta ritirarsi dalla terra.\n",
+		"La calda luce solare inonda la campagna. Mentre le porte della miniera si aprono,\n",
+		"la gente corre per le strade, abituandosi alla liberta'.\n^",
+		"*3Marci verso la Gilda dei Maghi per risposte sulla sfera di Herx,\n",
+		"ma il portiere ti respinge. Vedendoti stravolto dalla tua ricerca,\n",
+		"ti incoraggia a riposare. \"Le risposte che cerchi saranno qui domani.\"\n",
+		"Torni in strada per trovare un centinaio di persone che ti aspettano, il loro eroe.\n",
+		"Ti unisci a loro nei meritati festeggiamenti, ma decidi di visitare la Gilda dei Maghi\n",
+		"una volta che l'allegria si sara' spenta..."
+	],
+	"images": [
+		"images/ui/Main Menus/Story/black.png",
+		"images/ui/Main Menus/Story/white.png",
+		"images/ui/Main Menus/Story/Hamlet_Rescue.png",
+		"images/ui/Main Menus/Story/MagiciansGuild.png",
+		"images/ui/Main Menus/Story/black.png"
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"press_a_to_advance": true,
+	"text": [
+		"*3Vittorioso, entri nel portale. Non sai cosa aspettarti, ma\n",
+		"sei inondato di gioia. Ti aspetti che la fonte del potere del Barone\n",
+		"sia ora alla tua portata.\n^",
+		"*3Prima che tu abbia tempo di pensare, sei improvvisamente davanti alle miniere\n",
+		"ancora una volta. Ma qualcosa e' cambiato; il potere seducente che percepivi qui\n",
+		"e' piu' lontano. I cieli neri si stanno schiarendo per mostrare la luce del giorno.\n^",
+		"*3Improvvisamente, le porte della miniera si spalancano. Sigillate per secoli per contenere\n",
+		"il male all'interno, si aprono dall'interno, mentre un centinaio di umani grati\n",
+		"corrono fuori. Sembra che il potere del Barone ti sia sfuggito di mano.\n^",
+		"*4La fonte infernale di quel potere oscuro rimane un mistero per te, e origliare\n",
+		"dalle ombre ti porta a credere che la Gilda dei Maghi\n",
+		"possa avere una pista su qualche magia oscura. Per ora, decidi di lasciare questa terra\n",
+		"e tornare un'altra volta per sfruttare i segreti di Hamlet..."
+	],
+	"images": [
+		"*images/ui/Main Menus/Story/black.png",
+		"*images/ui/Main Menus/Story/intro4.png",
+		"*images/ui/Main Menus/Story/Hamlet_Rescue.png",
+		"*images/ui/Main Menus/Story/MagiciansGuild.png"
+	]
+}
