@@ -32,7 +32,7 @@ Cercheremo di aggiornare la mod man mano che esce nuovo contenuto e di eliminare
 - **JustKoal96**
 
 ## Partecipanti
-- **-**
+- **Thombi**
 
 ## Contribuire
 Il progetto su **GitHub è pubblico**: chiunque può aiutare e, se vuole, diventare collaboratore.  
