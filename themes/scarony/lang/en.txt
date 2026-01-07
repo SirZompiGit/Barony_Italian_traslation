@@ -1,0 +1,371 @@
+# English language file
+# all entries must contain a string number, followed by a space, followed by a string, ended by a pound character
+# lines beginning with pound character are a comment
+# blank lines are ignored
+
+95 creatura#
+116 creature#
+158 Ash#
+159 Bateman#
+160 Chucky#
+161 Damien#
+162 Eggers#
+163 Freddy#
+164 Ghostface#
+165 Hannibal#
+166 Ichabod#
+167 Jigsaw#
+168 Krueger#
+169 Leatherface#
+20 Myers#
+21 Norman#
+172 Orlok#
+173 Pennywise#
+174 Qliphoth#
+176 Slender#
+177 Torrence#
+178 Umibozu#
+179 Voorhees#
+180 Wilkes#
+181 Xing Tian#
+182 Ygor#
+183 Zito#
+190 Dolciumi#
+194 Dolcetto o scherzetto!#
+195 BUH!#
+196 Sei qui!#
+217 La maggior parte delle persone e' cosi'
+218 ingrata di essere viva.
+39 Ma non tu. 
+40 Non piu'.#
+221 La creatura ti ignora se
+42 mantieni la distanza!#
+224 Ti piacciono i film dell'orrore?#
+227 Sono il fantasma col massimo,
+45 piccolo. Coraggio. Fa che sia il mio
+46 millennio!#
+228 I sacchi di dolci possono avere
+48 zucchero fuso accumulato dentro.
+49 Usa un asciugamano per pulirti.#
+230 I ratti sono generosi! Offrono
+51 barrette di cioccolato intere.#
+233 Eviterei le caramelle stantie se fossi
+53 in te. Possono essere troppo
+54 per stomaci deboli.#
+255 Vedi uno spirito fiammeggiante intrappolato.#
+260 Vedi una fossa degli spiriti.#
+270 Vedi una zucca gigantesca premiata.#
+274 Vedi un tavolo costruito per la tortura.#
+405 Il tuo incantesimo distrugge la zucca gigantesca!#
+455 Sei colpito da un'enorme zucca!#
+456 Non hai la forza per spostare la zucca.#
+457 Convinci uno spirito perduto a uscire dalla fossa.#
+458 Le fiamme dello spirito sono diminuite.#
+467 Il calderone e' stagnante.#
+473 Il calderone benedice il tuo equipaggiamento.#
+474 Non c'e' piu' uso per il calderone.#
+477 Il tavolo di tortura e' appiccicoso di sangue.#
+485 Ecco Johnny!!#
+
+486 Ci saranno cibo e bevande
+71   e fantasmi ... forse anche
+72   qualche omicidio. Siete tutti invitati.#
+
+487 Qui giace il corpo di Blake
+75   Ha premuto il gas invece del freno"#
+
+488 Qui giace Vlad. Lui
+78   non beveva mai ... vino.#
+
+489 Il miglior amico di un ragazzo
+81   e' sua madre.#
+
+490 R.I.P.#
+
+491 Tutti diventiamo un po'
+86   matti a volte.#
+
+492 Morire -- essere veramente morti
+89   quello deve essere glorioso.#
+
+493 Stai per
+92   morire lassu'."#
+
+494 Tua madre e' qui dentro. Vorresti
+95   lasciare un messaggio?
+96   Faro' in modo che lo riceva.#
+
+495 Il peccato non muore mai.#
+
+496 Qui giace Ingrid
+101   Spaventata da uno scheletro pauroso#
+
+497 Quando non c'e' piu' posto
+104   all'inferno, i morti cammineranno
+105   sulla terra.#
+
+498 Tutto lavoro e niente gioco
+108   rendono Jack un ragazzo noioso.#
+
+499 Vieni a giocare con noi.
+111   Per sempre ...  e per sempre ...
+112   e per sempre.#
+
+500 Abbi paura. Abbi
+115   molta paura.#
+
+501 A volte morto e' meglio.#
+
+538 "Lo sapevi?"
+120 "Ho mangiato il suo fegato con delle fave e un buon chianti."
+121 "E' vero!"#
+539 "Lo sapevi?"
+123 "Sono il tuo fan numero uno."
+124 "E' vero!"#
+540 "Lo sapevi?"
+126 "Cos'e' il sangue innocente se non per essere versato?"
+127 "E' vero!"#
+541 "Lo sapevi?"
+129 "Vedo la gente morta."
+130 "E' vero!"#
+542 "Lo sapevi?"
+132 "So cosa hai fatto l'estate scorsa."
+133 "E' vero!"#
+543 "Lo sapevi?"
+135 "Non puoi uccidere l'uomo nero."
+136 "E' vero!"#
+544 "Lo sapevi?"
+138 "Credo che tutti abbiano diritto a un buono spavento."
+139 "E' vero!"#
+545 "Lo sapevi?"
+141 "Il male e' reale."
+142 "E' vero!"#
+546 "Lo sapevi?"
+144 "Non dovresti mai dire 'torno subito'."
+145 "E' vero!"#
+547 "Lo sapevi?"
+147 "Faremo a pezzi la tua anima."
+148 "E' vero!"#
+548 "Lo sapevi?"
+150 "Angeli per alcuni, demoni per altri."
+151 "E' vero!"#
+549 "Lo sapevi?"
+153 "Risparmia il fiato per urlare."
+154 "E' vero!"#
+550 "Lo sapevi?"
+156 "Qualunque cosa tu faccia, non addormentarti."
+157 "E' vero!"#
+551 "Lo sapevi?"
+159 "Mi occupo di omicidi ed esecuzioni, per lo piu'."
+160 "E' vero!"#
+552 "Lo sapevi?"
+162 "La mia famiglia e' sempre stata nella carne."
+163 "E' vero!"#
+553 "Lo sapevi?"
+165 "Sei una vera attrazione da cortile."
+166 "E' vero!"#
+554 "Lo sapevi?"
+168 "Gli psicopatici non esplodono quando la luce del sole li colpisce."
+169 "E' vero!"#
+555 "Lo sapevi?"
+171 "Sono sicuro che e' molto piu' spaventoso di notte."
+172 "E' vero!"#
+556 "Lo sapevi?"
+174 "Hai del rosso addosso."
+175 "E' vero!"#
+557 "Lo sapevi?"
+177 "Non leggere il latino."
+178 "E' vero!"#
+558 "Lo sapevi?"
+180 "Quindi ignoriamo semplicemente l'orso allora?"
+181 "E' vero!"#
+559 "Lo sapevi?"
+183 "Hai controllato i bambini ultimamente?"
+184 "E' vero!"#
+560 "Lo sapevi?"
+186 "Inferno e' solo una parola. La realta' e' molto peggiore."
+187 "E' vero!"#
+561 "Lo sapevi?"
+189 "Ho questa sensazione ... una strana sensazione."
+190 "E' vero!"#
+562 "Lo sapevi?"
+192 "Sette giorni."
+193 "E' vero!"#
+563 "Lo sapevi?"
+195 "Non credono piu' come una volta."
+196 "E' vero!"#
+564 "Lo sapevi?"
+198 "Non e' la casa ad essere infestata."
+199 "E' vero!"#
+565 "Lo sapevi?"
+201 "Galleggiamo tutti quaggiu'."
+202 "E' vero!"#
+566 "Lo sapevi?"
+204 "Non ho mai voluto essere tua madre."
+205 "E' vero!"#
+567 "Lo sapevi?"
+207 "Sembro una specie di mostro?"
+208 "E' vero!"#
+568 "Lo sapevi?"
+210 "Questa cosa ha bisogno di trauma per diffondersi."
+211 "E' vero!"#
+569 "Lo sapevi?"
+213 "Escono per lo piu' di notte. Per lo piu'."
+214 "E' vero!"#
+589 Prendi la fiamma spirituale dal muro.#
+663 Distruggi la zucca!#
+716 Senti il debole schianto di enormi zucche rotolanti.#
+764 Ti ingozzi con il sacco di
+219  %s.#
+801 Questa e' una vecchia nota scarabocchiata:
+221  "Mee creatura peggiorree di semprre
+222   nessunoo paga pedajjo pontte#
+223   me nonn abbastanzza paurooso
+224   mee ubriaco e uccido me stessoo
+225   creatura annegga"#
+886 Puoi aprire i sacchi di dolci mentre porti le forbici.#
+908 Bleah! Questa caramella e' andata a male!#
+916 Ti senti male per aver mangiato troppe caramelle.#
+917 URP! Troppe caramelle!#
+
+
+# tinned food
+
+918 appiccicoso#
+919 gommoso#
+920 croccante#
+921 gelatinoso#
+922 piccante#
+923 aspro#
+924 appiccicoso#
+925 stantio#
+926 glassato#
+927 verniciato#
+928 ricoperto di zucchero#
+929 a tema cartoni#
+930 super eroe#
+931 a tema mostri#
+932 tortoso#
+933 sciolto#
+934  barrette di cioccolato#
+935  barrette di cioccolato fondente#
+936  barrette di cioccolato bianco#
+937  caramella dura#
+938  lecca-lecca#
+939  caramella mou#
+940  palle al limone#
+941  quadrati alla frutta#
+942  biscotti al caramello#
+943  trecce alla frutta#
+944  masticabili al cioccolato#
+945  palle al malto#
+946  uvetta allo yogurt#
+947  quadrati alle noci#
+948  zucchero in polvere#
+949  biscotti alla vaniglia#
+950  e pezzi di liquirizia#
+951  e cannucce di zucchero#
+952  e masticabili al miele#
+953  e barrette al cocco#
+954  e biscotti d'avena#
+955  e bottoni di caramella#
+956  con cannella piccante#
+957  kit costruisci-e-mangia#
+958  e vitamine scadute#
+959  e gomme all'arancia#
+960  e noccioline da circo#
+961  con cracker sfusi#
+962  e biscotti animali#
+963  e coppe di budino#
+964  e pezzi di toffee#
+965  e menta piperita#
+966 Lo zucchero fuso rende le tue dita scivolose.#
+
+1002 un %+2d con lametta #
+1003 un %+2d scaduto #
+1004 un %+2d stantio #
+1005 un %+2d leggermente stantio #
+1028 %d %+2d con lametta #
+1029 %d %+2d scaduti #
+1030 %d %+2d stantii #
+1031 %d %+2d leggermente stantii #
+1054 un contaminato #
+1055 uno scaduto #
+1056 uno stantio #
+1057 uno leggermente stantio #
+1080 %d contaminati #
+1081 %d scaduti #
+1082 %d stantii #
+1083 %d leggermente stantii #
+1093 Non puoi aprire il sacco senza forbici.#
+1505 e' appiattito in impasto per torta di zucca.#
+1515 invade la zona di comfort della creatura e viene schiaffeggiato.#
+1910 Dolcetto o Scherzetto!#
+1911 Felice Felice Halloween, Silver Shamrock#
+1912 Stagione PSL!#
+1913 Manuale per i Recentemente Deceduti#
+1914 Il Fantasma col Massimo#
+1915 Torno Subito!#
+1916 Viene da Dentro la Casa!#
+1917 Giusto in Tempo per la Torta#
+1918 L'Uomo Lupo ha le Palle!#
+1919 ASSURDO!#
+1920 La Mummia E' Venuta a Casa Mia!#
+1921 Ecco Perche' Tutti gli Strambi Sono Fuori!#
+1922 Dito del Piede del Morto!#
+1923 Candyman! Candyman! Candyman!#
+1924 Bloody Mary! Bloody Mary!#
+1925 Vieni a Giocare con Noi, Danny#
+1926 Sono Solo Tagliolini, Michael#
+1927 Cos'e' Questo? Cos'e' Questo?#
+1928 9, 10, Non Dormire Mai Piu'#
+1929 E' Solo un Sogno!#
+1930 E' Solo una Scatola Puzzle!#
+1931 E' Stato il Mio Primo Funerale#
+1932 Le Regole del Gioco Sono Molto Chiare#
+1933 Siamo Amici Fino alla Fine!#
+1934 Una Maschera Ci Dice Piu' di un Volto#
+1935 Sei Venuto a Cantare Canti di Zucca?#
+1936 Qualcosa di Malvagio Sta Arrivando#
+1937 Creatura nella prigione!#
+1938 Tutti Hanno Diritto a un Buono Spavento#
+1939 Dita Appiccicose, Piedi Stanchi...#
+1946 NOTA: Rimuove solo trappole generate casualmente, come zucche e trappole freccia lungo 
+334 i bordi e corridoi dei livelli. Le trappole si troveranno solo dentro stanze che sono 
+335 state progettate per contenerle.#
+2367 Il simbolo sfida la tua presa e non puo' essere recuperato!#
+2368 Posizioni il simbolo nel ricettacolo...#
+2370 Il simbolo inizia a fluttuare!#
+2377 Vedi un simbolo mistico seduto sopra un piedistallo.#
+2494 Ossa di prigionieri morti riempiono il pavimento della gabbia.#
+2495 La gabbia e' debole, ma i suoi abitanti erano piu' deboli.#
+2497 Vedi un letto con cinghie.#
+2499 Vedi una cupa gabbia di prigione.#
+2506 cella#
+2821 Il %s
+346  Ho percepito potere dal fantasma quando l'hai messo su quel piedistallo.#
+2823 Il %s
+348  Sono stato in grado di intrappolare parte del potere che il fantasma di Herx ha rilasciato.#
+2824 Il %s
+350  Questo portale perfora il sigillo per le Grotte usando il potere del fantasma.#
+2834 %s
+352  Mi interessano solo gli artefatti piu' rari
+353  della terra.              
+354  In particolare, i Simboli di Halloween che sono stati rubati da Herx.#
+2836 %s
+356  Vedi, un membro della gilda di alto rango
+357  come me puo' estorcere a quei maghi 
+358  ogni centesimo che possiedono con i loro 
+359  preziosi simboli!#
+3974 La massiccia zucca non puo' essere spostata in quel modo.#
+4006 Recupera fiamma spirituale#
+4007 Prendi fiamma spirituale#
+4021 Spingi zucca#
+4022 Prendi simbolo#
+4024 Convinci spirito#
+4126 Dammi il simbolo direttamente.
+367 Non c'e' bisogno di coinvolgere
+368 formalita' d'oro, ora!#
+4349 trappola zucca#
+4358 zucca#
+5805 Zucca Gigante#

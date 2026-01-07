@@ -1,0 +1,166 @@
+{
+    "version": 1,
+    "items": {
+        "bronze_sword": {
+            "name_identified": "coltello da macellaio",
+            "name_unidentified": "coltello da macellaio"
+        },
+        "bronze_mace": {
+            "name_identified": "mazza",
+            "name_unidentified": "mazza"
+        },
+        "bronze_axe": {
+            "name_identified": "mannaia",
+            "name_unidentified": "mannaia"
+        },
+        "iron_spear": {
+            "name_identified": "forcone",
+            "name_unidentified": "forcone"
+        },
+        "iron_sword": {
+            "name_identified": "sciabola di ferro",
+            "name_unidentified": "sciabola di ferro"
+        },
+        "iron_mace": {
+            "name_identified": "martello di ferro",
+            "name_unidentified": "martello di ferro"
+        },
+        "iron_axe": {
+            "name_identified": "uncino di ferro",
+            "name_unidentified": "uncino di ferro"
+        },
+        "steel_halberd": {
+            "name_identified": "falce d'acciaio",
+            "name_unidentified": "falce d'acciaio"
+        },
+        "steel_axe": {
+            "name_identified": "ascia ali di pipistrello",
+            "name_unidentified": "ascia ali di pipistrello"
+        },
+        "cloak": {
+            "name_identified": "costume (schiena)",
+            "name_unidentified": "costume (schiena)"
+        },
+        "cloak_magicreflection": {
+            "name_identified": "costume (schiena) riflette magia",
+            "name_unidentified": "costume (schiena)"
+        },
+        "cloak_invisibility": {
+            "name_identified": "costume (schiena) invisibilita'",
+            "name_unidentified": "costume (schiena)"
+        },
+        "cloak_protection": {
+            "name_identified": "costume (schiena) protezione",
+            "name_unidentified": "costume (schiena)"
+        },
+        "hat_phrygian": {
+            "name_identified": "copricapo da faraone",
+            "name_unidentified": "copricapo da faraone"
+        },
+        "hat_hood": {
+            "name_identified": "copricapo costume",
+            "name_unidentified": "copricapo costume"
+        },
+        "mask_steel_visor": {
+            "name_identified": "maschera spaventosa",
+            "name_unidentified": "maschera spaventosa"
+        },
+        "hat_wizard": {
+            "name_identified": "cappello da strega",
+            "name_unidentified": "cappello da strega"
+        },
+        "hat_jester": {
+            "name_identified": "parrucca da clown",
+            "name_unidentified": "parrucca da clown"
+        },
+        "leather_helm": {
+            "name_identified": "fascia comica",
+            "name_unidentified": "fascia comica"
+        },
+        "iron_helm": {
+            "name_identified": "elmo dello stregone",
+            "name_unidentified": "elmo dello stregone"
+        },
+        "steel_helm": {
+            "name_identified": "elmo costume",
+            "name_unidentified": "elmo costume"
+        },
+        "scroll_food": {
+            "name_identified": "pergamena di caramelle",
+            "name_unidentified": "pergamena"
+        },
+        "tool_tinopener": {
+            "name_identified": "forbici",
+            "name_unidentified": "forbici"
+        },
+        "tool_torch": {
+            "name_identified": "fiamma spirituale",
+            "name_unidentified": "fiamma spirituale"
+        },
+        "tool_lantern": {
+            "name_identified": "lanterna di zucca",
+            "name_unidentified": "lanterna di zucca"
+        },
+        "tool_glasses": {
+            "name_identified": "occhiali da travestimento",
+            "name_unidentified": "occhiali da travestimento"
+        },
+        "food_bread": {
+            "name_identified": "lecca-lecca",
+            "name_unidentified": "lecca-lecca"
+        },
+        "food_cheese": {
+            "name_identified": "caramella al cioccolato",
+            "name_unidentified": "caramella al cioccolato"
+        },
+        "food_apple": {
+            "name_identified": "mela caramellata",
+            "name_unidentified": "mela caramellata"
+        },
+        "food_meat": {
+            "name_identified": "barretta gigante",
+            "name_unidentified": "barretta gigante"
+        },
+        "food_fish": {
+            "name_identified": "teschio di zucchero",
+            "name_unidentified": "teschio di zucchero"
+        },
+        "food_tin": {
+            "name_identified": "sacchetto dolci",
+            "name_unidentified": "sacchetto dolci"
+        },
+        "artifact_orb_blue": {
+            "name_identified": "simbolo pipistrello blu",
+            "name_unidentified": "simbolo pipistrello blu"
+        },
+        "artifact_orb_red": {
+            "name_identified": "simbolo zucca arancione",
+            "name_unidentified": "simbolo zucca arancione"
+        },
+        "artifact_orb_purple": {
+            "name_identified": "simbolo fantasma viola",
+            "name_unidentified": "simbolo fantasma viola"
+        },
+        "artifact_orb_green": {
+            "name_identified": "simbolo teschio verde",
+            "name_unidentified": "simbolo teschio verde"
+        },
+        "hat_fez": {
+            "name_identified": "orecchie da gattino",
+            "name_unidentified": "orecchie da gattino"
+        },
+        "cloak_backpack": {
+            "name_identified": "federa",
+            "name_unidentified": "federa"
+        },
+        "spellbook_detect_food": {
+            "name_identified": "libro individua caramelle",
+            "name_unidentified": "libro"
+        }
+    },
+    "spell_names": {
+        "spell_detect_food": {
+            "name": "Individua Caramelle"
+        }
+    }
+}

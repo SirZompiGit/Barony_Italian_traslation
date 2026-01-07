@@ -1,0 +1,81 @@
+{
+    "version": 1,
+    "items": {
+        "leather_helm": {
+            "name_identified": "copricapo elfico",
+            "name_unidentified": "copricapo elfico"
+        },
+        "steel_helm": {
+            "name_identified": "copricapo festivo",
+            "name_unidentified": "copricapo festivo"
+        },
+        "food_bread": {
+            "name_identified": "panettone",
+            "name_unidentified": "panettone"
+        },
+        "food_cheese": {
+            "name_identified": "bastoncino di zucchero",
+            "name_unidentified": "bastoncino di zucchero"
+        },
+        "food_apple": {
+            "name_identified": "fetta di torta",
+            "name_unidentified": "fetta di torta"
+        },
+        "food_meat": {
+            "name_identified": "tacchino",
+            "name_unidentified": "tacchino"
+        },
+        "food_fish": {
+            "name_identified": "biscotti",
+            "name_unidentified": "biscotti"
+        },
+        "artifact_breastpiece": {
+            "name_identified": "Maglia di Babbo Natale",
+            "name_unidentified": "corazza artefatto"
+        },
+        "artifact_helm": {
+            "name_identified": "Velo di Babbo Natale",
+            "name_unidentified": "elmo artefatto"
+        },
+        "artifact_boots": {
+            "name_identified": "Stivali di Babbo Natale",
+            "name_unidentified": "stivali artefatto"
+        },
+        "artifact_cloak": {
+            "name_identified": "Toga di Babbo Natale",
+            "name_unidentified": "mantello artefatto"
+        },
+        "artifact_gloves": {
+            "name_identified": "Bracciali di Babbo Natale",
+            "name_unidentified": "guanti artefatto"
+        },
+        "food_tomalley": {
+            "name_identified": "salsa di mirtilli",
+            "name_unidentified": "salsa di mirtilli"
+        },
+        "artifact_orb_blue": {
+            "name_identified": "regalo blu",
+            "name_unidentified": "regalo blu"
+        },
+        "artifact_orb_red": {
+            "name_identified": "calza rossa",
+            "name_unidentified": "calza rossa"
+        },
+        "artifact_orb_purple": {
+            "name_identified": "ornamento viola",
+            "name_unidentified": "ornamento viola"
+        },
+        "artifact_orb_green": {
+            "name_identified": "alberello verde",
+            "name_unidentified": "alberello verde"
+        },
+        "hat_fez": {
+            "name_identified": "cappello da elfo",
+            "name_unidentified": "cappello da elfo"
+        },
+        "cloak_backpack": {
+            "name_identified": "sacco dei regali",
+            "name_unidentified": "sacco dei regali"
+        }
+    }
+}
