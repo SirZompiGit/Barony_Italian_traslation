@@ -5562,7 +5562,9 @@ Default#
 5606 Seleziona prima un salvataggio da eliminare.#
 5607 OK#
 5607 Entra nel Dungeon#
-5608 Seleziona prima un salvataggio da caricare.#
+5608 Seleziona prima 
+un salvataggio 
+da caricare.#
 
 5610 ARCHIVI AVVENTURA#
 5611 ACHIEVEMENTS#
@@ -5645,7 +5647,7 @@ Default#
 5714 OK#
 5715 Gli gnomi ridono di te!
  Davvero vuoi accettarlo?#
-5716 #
+5716 Uccidimi#
 5717 Mai!#
 5718 Non andare ora! C'e' una
  trappola masso dietro l'angolo!#
@@ -5654,15 +5656,18 @@ Default#
 5721 Diro' ai tuoi genitori
  che hai detto una parolaccia.#
 5722 Cacca#
-5723 Per favore no#
+5723 Per favore
+ no#
 5724 Per favore non andare!
  C'e' altro tesoro da saccheggiare!#
 5725 Non mi importa#
-5726 Altro bottino!#
+5726 Altro 
+ bottino!#
 5727 Sii felice che non posso evocare
  il minotauro nella vita reale.#
 5728 Peccato#
-5729 Punto preso#
+5729 Punto 
+ preso#
 5730 Vai a lasciare una recensione salata vedo?#
 5731 ... si#
 5732 Mai!#
@@ -5672,7 +5677,8 @@ Default#
 5735 Ahi#
 5736 OK, vedo come stanno le cose.
  Vedi se sono ancora qui domani.#
-5737 Qualunque cosa#
+5737 Qualunque 
+ cosa#
 5738 Ti amo!#
 5739 Non uscire ora, stavi per
  vincere la prossima run.#
@@ -5680,7 +5686,8 @@ Default#
 5741 Davvero?#
 5742 Un avventuriero pappamolle
  uscirebbe proprio ora.#
-5743 Tempo di pappamolle#
+5743 Tempo di 
+ pappamolle#
 5744 Non lo sono!#
 5745 Un avventuriero e' intrappolato
  e ha bisogno del tuo aiuto!#
