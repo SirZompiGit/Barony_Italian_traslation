@@ -16,6 +16,9 @@ Cercheremo di aggiornare la mod man mano che esce nuovo contenuto e di eliminare
 - **SirZompi**
 - **JustKoal96**
 
+## Partecipanti
+- **-**
+
 ## Contribuire
 Il progetto su **GitHub è pubblico**: chiunque può aiutare e, se vuole, diventare collaboratore.  
 Se vuoi contribuire, puoi:
