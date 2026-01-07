@@ -9,7 +9,7 @@ Al momento il progetto è in **stato base (v0.0.1)**: è stato tradotto **quasi 
 
 ✅ **Compatibile con l’ultima versione del gioco: 4.3.1**
 
-Link Steam Workshop: [Barony Italian TTranslation](https://steamcommunity.com/sharedfiles/filedetails/?id=3641251022)
+Link Steam Workshop: [Barony Italian Translation](https://steamcommunity.com/sharedfiles/filedetails/?id=3641251022)
 
 ## Istruzioni all’installazione
 1. Vai su **GitHub → Releases**.
