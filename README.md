@@ -1,4 +1,5 @@
-#Barony ITA — Mod di traduzione in italiano  ![Barony ITA Logo](https://i.postimg.cc/k5DFxqrg/preview.png) 
+  ![Barony ITA Logo](https://i.postimg.cc/k5DFxqrg/preview.png) 
+#Barony ITA — Mod di traduzione in italiano
 
 Questa mod porta la **traduzione in italiano** di *Barony*.
 
