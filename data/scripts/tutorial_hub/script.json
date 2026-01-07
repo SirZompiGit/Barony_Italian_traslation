@@ -1,0 +1,1028 @@
+{
+    "version": 1,
+    "default_attributes": {
+        "font_color": {
+            "r": 239,
+            "g": 237,
+            "b": 235,
+            "a": 255
+        },
+        "font_outline_color": {
+            "r": 50,
+            "g": 29,
+            "b": 25,
+            "a": 255
+        },
+        "font_highlight_color": {
+            "r": 18,
+            "g": 196,
+            "b": 131,
+            "a": 255
+        },
+        "font_highlight2_color": {
+            "r": 64,
+            "g": 192,
+            "b": 255,
+            "a": 255
+        }
+    },
+    "script_entries": {
+        "tutorial_huba": {
+            "sign": [
+                "Libri Magici"
+            ],
+            "attributes": {
+                "font": "fonts/kongtext.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubb": {
+            "sign": [
+                "Oggetti",
+                "Magici"
+            ],
+            "attributes": {
+                "font": "fonts/kongtext.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubc": {
+            "sign": [
+                "Armi a",
+                "Distanza"
+            ],
+            "attributes": {
+                "font": "fonts/kongtext.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubd": {
+            "sign": [
+                "Armatura"
+            ],
+            "attributes": {
+                "font": "fonts/kongtext.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hube": {
+            "sign": [
+                "Armi da",
+                "Mischia"
+            ],
+            "attributes": {
+                "font": "fonts/kongtext.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubf": {
+            "sign": [
+                "Benvenuti",
+                "nell'Ala",
+                "dei Maestri"
+            ],
+            "attributes": {
+                "font": "fonts/kongtext.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubg": {
+            "sign": [
+                "Prova 2:",
+                "",
+                "Archi, Frecce e",
+                "Armi da Lancio"
+            ],
+            "attributes": {
+                "font": "fonts/kongtext.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubh": {
+            "sign": [
+                "Prova 3:",
+                "",
+                "Trappole, Punte",
+                "e Massi"
+            ],
+            "attributes": {
+                "font": "fonts/kongtext.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubi": {
+            "sign": [
+                "Prova 4:",
+                "",
+                "Cibo, Stima",
+                "e Maledizioni"
+            ],
+            "attributes": {
+                "font": "fonts/kongtext.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubj": {
+            "sign": [
+                "Prova 1:",
+                "",
+                "Basi del Dungeon",
+                "e Comb a corpo",
+                "",
+                "LEZIONE INTRO"
+            ],
+            "attributes": {
+                "font": "fonts/kongtext.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ]
+                ]
+            },
+            "variables": []
+        },
+        "tutorial_hubk": {
+            "sign": [
+                "Sei nella Sala Ovest",
+                "di fronte al Cortile",
+                "",
+                "Il Cortile ospita",
+                "le Prove 5 - 8"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubl": {
+            "sign": [
+                "Entrando in Sala Ovest",
+                "",
+                "Sala Ovest contiene",
+                "le Prove 1 - 4"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubm": {
+            "sign": [
+                "Puoi saltare o fare",
+                "ogni Prova come vuoi.",
+                "",
+                "Alcuni eroi le",
+                "padroneggiano tutte."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubn": {
+            "sign": [
+                "Benvenuti alla",
+                "Sala delle Prove",
+                "",
+                "Qui sarete",
+                "istruiti e testati"
+            ],
+            "attributes": {
+                "font": "fonts/kongtext.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubo": {
+            "sign": [
+                "Prova 5:",
+                "",
+                "Magia, Libri",
+                "e Lancio"
+            ],
+            "attributes": {
+                "font": "fonts/kongtext.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubp": {
+            "sign": [
+                "Prova 6:",
+                "",
+                "Furtivita' e",
+                "Attacchi Furtivi"
+            ],
+            "attributes": {
+                "font": "fonts/kongtext.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubq": {
+            "sign": [
+                "Prova 7:",
+                "",
+                "Seguaci e Comandi",
+                "",
+                "LEZIONE AVANZATA"
+            ],
+            "attributes": {
+                "font": "fonts/kongtext.ttf#16#2",
+                "font_highlight_color": {
+                    "r": 255,
+                    "g": 64,
+                    "b": 64,
+                    "a": 255
+                },
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                ],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubr": {
+            "sign": [
+                "Prova 8:",
+                "",
+                "Pozioni e Alchimia",
+                "",
+                "LEZIONE AVANZATA"
+            ],
+            "attributes": {
+                "font": "fonts/kongtext.ttf#16#2",
+                "font_highlight_color": {
+                    "r": 255,
+                    "g": 64,
+                    "b": 64,
+                    "a": 255
+                },
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                ],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubs": {
+            "sign": [
+                "Verso la Sala Est",
+                "",
+                "La Sala Est ospita",
+                "le Prove 9 e 10"
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubt": {
+            "sign": [
+                "Prova 9:",
+                "Meccanica",
+                "",
+                "LEZIONE AVANZATA"
+            ],
+            "attributes": {
+                "font": "fonts/kongtext.ttf#16#2",
+                "font_highlight_color": {
+                    "r": 255,
+                    "g": 64,
+                    "b": 64,
+                    "a": 255
+                },
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+                    [],
+                    [],
+                    [],
+                    [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                ],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubu": {
+            "sign": [
+                "Prova 10:",
+                "",
+                "Mercanti e Negozi",
+                "",
+                "LEZIONE AVANZATA"
+            ],
+            "attributes": {
+                "font": "fonts/kongtext.ttf#16#2",
+                "font_highlight_color": {
+                    "r": 255,
+                    "g": 64,
+                    "b": 64,
+                    "a": 255
+                },
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4
+                    ]
+                ],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubv": {
+            "sign": [
+                "Tira Leva per Evocare",
+                "un Mostro Casuale",
+                "",
+                "ATTENZIONE:",
+                "Usa a tuo rischio."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "font_highlight_color": {
+                    "r": 255,
+                    "g": 64,
+                    "b": 64,
+                    "a": 255
+                },
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+                    [],
+                    [],
+                    [],
+                    [
+                        0
+                    ]
+                ],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubw": {
+            "sign": [
+                "Scorte",
+                "Meccaniche"
+            ],
+            "attributes": {
+                "font": "fonts/kongtext.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubx": {
+            "sign": [
+                "Scorte",
+                "Alchemiche"
+            ],
+            "attributes": {
+                "font": "fonts/kongtext.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_huby": {
+            "sign": [
+                "Costumi"
+            ],
+            "attributes": {
+                "font": "fonts/kongtext.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": []
+            },
+            "variables": []
+        },
+        "tutorial_hubz": {
+            "sign": [
+                "Avventurieri che sfidano",
+                "i dungeon scelgono una classe,",
+                "che determina abilita' e",
+                "equipaggiamento iniziali.",
+                "",
+                "$ $ $",
+                "Tutte le Classi beneficiano",
+                "dagli ins. delle Prove."
+            ],
+            "attributes": {
+                "font": "fonts/pixel_maz_multiline.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+                    [],
+                    [
+                        3
+                    ],
+                    [],
+                    [
+                        0,
+                        2
+                    ]
+                ]
+            },
+            "variables": [
+                {
+                    "type": "image",
+                    "value": "*#images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_Warrior_00.png",
+                    "sizex": 0,
+                    "sizey": 0
+                },
+                {
+                    "type": "image",
+                    "value": "*#images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_Rogue_00.png",
+                    "sizex": 0,
+                    "sizey": 0
+                },
+                {
+                    "type": "image",
+                    "value": "*#images/ui/Main Menus/Play/PlayerCreation/ClassSelection/ClassSelect_Icon_Wizard_00.png",
+                    "sizex": 0,
+                    "sizey": 0
+                }
+            ]
+        },
+        "tutorial_hubab": {
+            "sign": [
+                "Le tue stat sono la base per",
+                "molte azioni e capacita'.",
+                "",
+                "$$$$$$",
+                "",
+                "Le Classi iniziano con stat",
+                "diverse, e crescono a",
+                "ritmi diversi."
+            ],
+            "attributes": {
+                "font": "fonts/pixel_maz_multiline.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+                    [
+                        1
+                    ],
+                    [
+                        1,
+                        3
+                    ],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        0,
+                        1,
+                        2
+                    ],
+                    [
+                        0,
+                        2,
+                        3
+                    ]
+                ]
+            },
+            "variables": [
+                {
+                    "type": "image",
+                    "value": "*#images/ui/CharSheet/HUD_CharSheet_STR_00.png",
+                    "sizex": 0,
+                    "sizey": 0
+                },
+                {
+                    "type": "image",
+                    "value": "*#images/ui/CharSheet/HUD_CharSheet_DEX_00.png",
+                    "sizex": 0,
+                    "sizey": 0
+                },
+                {
+                    "type": "image",
+                    "value": "*#images/ui/CharSheet/HUD_CharSheet_CON_00.png",
+                    "sizex": 0,
+                    "sizey": 0
+                },
+                {
+                    "type": "image",
+                    "value": "*#images/ui/CharSheet/HUD_CharSheet_INT_00.png",
+                    "sizex": 0,
+                    "sizey": 0
+                },
+                {
+                    "type": "image",
+                    "value": "*#images/ui/CharSheet/HUD_CharSheet_PER_00.png",
+                    "sizex": 0,
+                    "sizey": 0
+                },
+                {
+                    "type": "image",
+                    "value": "*#images/ui/CharSheet/HUD_CharSheet_CHA_00.png",
+                    "sizex": 0,
+                    "sizey": 0
+                }
+            ]
+        },
+        "tutorial_hubac": {
+            "sign": [
+                "Nei dungeon, gli avventurieri",
+                "ottengono punti exp (XP) per",
+                "le loro azioni.",
+                "",
+                "Dopo 100 XP, gli eroi",
+                "salgono di livello, dando",
+                "stat piu' alte, punti vita (HP),",
+                "e punti magia (MP)."
+            ],
+            "attributes": {
+                "font": "fonts/pixel_maz_multiline.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+                    [],
+                    [
+                        1,
+                        2,
+                        3
+                    ],
+                    [],
+                    [],
+                    [
+                        2,
+                        3
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        1,
+                        2,
+                        3,
+                        4
+                    ],
+                    [
+                        1,
+                        2,
+                        3
+                    ]
+                ]
+            },
+            "variables": []
+        },
+        "tutorial_hubad": {
+            "sign": [
+                "Salendo di livello nei",
+                "dungeon, si ottiene un",
+                "aumento +1 a 3 stat diverse.",
+                "",
+                "Un altro +1 e' dato a",
+                "una 4a stat, se l'eroe",
+                "ha focalizzato l'addestramento."
+            ],
+            "attributes": {
+                "font": "fonts/pixel_maz_multiline.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+                    [
+                        2
+                    ],
+                    [],
+                    [
+                        0,
+                        1,
+                        3,
+                        4,
+                        5
+                    ],
+                    [],
+                    [
+                        1,
+                        2
+                    ],
+                    [
+                        1,
+                        2
+                    ],
+                    [
+                        1,
+                        3
+                    ]
+                ]
+            },
+            "variables": []
+        },
+        "tutorial_class": {
+            "sign": [
+                "Allievi di successo spesso",
+                "si uniscono ad altri,",
+                "scegliendo classi con talenti",
+                "che si completano.",
+                "",
+                "Cio' migliora le chance",
+                "di successo quando infine",
+                "trovano il coraggio per",
+                "l'avventura nei dungeon."
+            ],
+            "attributes": {
+                "font": "fonts/pixel_maz_multiline.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+                    [],
+                    [
+                        0,
+                        1
+                    ],
+                    [],
+                    [
+                        0,
+                        1,
+                        2
+                    ],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                ]
+            },
+            "variables": []
+        },
+        "tutorial_garden": {
+            "sign": [
+                "Giardino Avventurieri",
+                "",
+                "Nessuna prova oltre",
+                "questo punto."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+                    [
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "variables": []
+        },
+        "tutorial_cy": {
+            "sign": [
+                "Cortile delle Classi",
+                "",
+                "Cerca la saggezza",
+                "degli eroi all'interno."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [],
+                "word_highlights2": [
+                    [
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "variables": []
+        },
+        "tutorial_pupil": {
+            "sign": [
+                "Agli allievi nella Sala e'",
+                "vietato scegliere una",
+                "classe mentre imparano.",
+                "Le loro gesta qui",
+                "saranno dimenticate.",
+                "",
+                "Cercando avventura, i diplomati",
+                "possono vantare un titolo e",
+                "farsi un nome negli",
+                "Archivi Avventura."
+            ],
+            "attributes": {
+                "font": "fonts/pixel_maz_multiline.ttf#16#2",
+                "font_highlight_color": {
+                    "r": 255,
+                    "g": 64,
+                    "b": 64,
+                    "a": 255
+                },
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+                    [],
+                    [
+                        1
+                    ],
+                    [],
+                    [],
+                    [
+                        0,
+                        1,
+                        2
+                    ]
+                ],
+                "word_highlights2": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        1,
+                        2
+                    ]
+                ]
+            },
+            "variables": []
+        },
+        "tutorial_quit": {
+            "sign": [
+                "Puoi sempre tornare",
+                "alla Sala delle Prove",
+                "per continuare le lezioni.",
+                "",
+                "Premi$ e",
+                "[ Esci al Menu Principale ]",
+                "se vuoi andare a",
+                "avventurarti."
+            ],
+            "attributes": {
+                "font": "fonts/pixelmix.ttf#16#2",
+                "horizontal_justify": "center",
+                "vertical_justify": "center",
+                "line_padding": 0,
+                "top_padding": 0,
+                "inline_img_adjust_x": 0,
+                "word_highlights": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        0
+                    ],
+                    [
+                        1,
+                        2,
+                        3,
+                        4
+                    ]
+                ],
+                "word_highlights2": [
+                    [
+                        3
+                    ],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        0
+                    ]
+                ]
+            },
+            "variables": [
+                {
+                    "type": "input_glyph",
+                    "value": "Pause Game"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,2181 @@
+{
+	"version": 1,
+	"default_attributes": {
+		"font_color": {
+			"r": 239,
+			"g": 237,
+			"b": 235,
+			"a": 255
+		},
+		"font_outline_color": {
+			"r": 50,
+			"g": 29,
+			"b": 25,
+			"a": 255
+		},
+		"font_highlight_color": {
+			"r": 18,
+			"g": 196,
+			"b": 131,
+			"a": 255
+		},
+		"font_highlight2_color": {
+			"r": 64,
+			"g": 192,
+			"b": 255,
+			"a": 255
+		}
+	},
+	"script_entries": {
+		"tutorial9a": {
+			"sign": [
+				"Questi oggetti sono tutti",
+				"rotti e inutili.",
+				"",
+				"$"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[
+						0,
+						2
+					]
+				],
+				"word_highlights2": []
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#items/images/spells/recycle.png",
+					"sizex": 32,
+					"sizey": 32
+				}
+			]
+		},
+		"tutorial9b": {
+			"sign": [
+				"$",
+				"Il gyrobot e' l'assistente",
+				"mobile dell'inventore.",
+				"Una volta schierato, usa",
+				"i suoi comandi per svolgere",
+				"una varieta' di compiti."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[
+						1
+					],
+					[],
+					[],
+					[],
+					[
+						1,
+						2,
+						3
+					]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/gyrobotdeploy.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial9/sign_gyrobot.png",
+					"sizex": 0,
+					"sizey": 0
+				}
+			]
+		},
+		"tutorial9c": {
+			"sign": [
+				"Il dummy-bot fornito",
+				"prima era danneggiato.",
+				"",
+				"Riparalo per",
+				"sopravvivere a questa trappola.",
+				"Se e' rotto, devi",
+				"crearne [Artigianato] uno nuovo",
+				"nel menu invenzioni."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight2_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[
+						1
+					]
+				],
+				"word_highlights2": [
+					[],
+					[
+						2
+					],
+					[],
+					[
+						0,
+						1
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial9d": {
+			"sign": [
+				"Il kit invenzioni puo'",
+				"essere usato per riparare.",
+				"",
+				"Questo e' essenziale per",
+				"mantenere le macchine",
+				"e il kit stesso in",
+				"condizioni funzionanti.",
+				"Se il kit si rompe, potresti",
+				"non trovarne un altro."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				],
+				"word_highlights2": [
+					[],
+					[
+						3
+					],
+					[],
+					[
+						2
+					],
+					[],
+					[],
+					[
+						0,
+						1
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial9e": {
+			"sign": [
+				"AVVISO:",
+				"Sei in trappola.",
+				"",
+				"La leva aprira'",
+				"il cancello, ma rilascera'",
+				"anche un masso per",
+				"distruggerti.",
+				"",
+				"Devi usare ingegno",
+				"per procedere."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[
+						0,
+						1,
+						2
+					],
+					[],
+					[],
+					[],
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					[
+						0,
+						1
+					]
+				],
+				"word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[
+						1,
+						2
+					]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/boulder_block.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": []
+		},
+		"tutorial9f": {
+			"sign": [
+				"Trappole inventate come",
+				"questa possono essere ",
+				"lanciate su pavimenti, muri,",
+				"o anche porte e casse.",
+				"",
+				"Trappole piazzate non",
+				"scatteranno contro alleati,",
+				"a meno che modificate con",
+				"un grimaldello."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[
+						1
+					]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/firetrap.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": []
+		},
+		"tutorial9g": {
+			"sign": [
+				"Usa il kit invenzioni",
+				"per aprire il menu,",
+				"e seleziona ripara.",
+				"Poi scegli oggetti.",
+				"da migliorare.",
+				"",
+				"Tieni le tue macchine",
+				"riparate e migliorate."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[
+						0
+					],
+					[],
+					[
+						3,
+						4
+					],
+					[
+						1,
+						2
+					]
+				],
+				"word_highlights2": [
+					[],
+					[],
+					[],
+					[
+						4
+					],
+					[],
+					[],
+					[
+						0,
+						2
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial9h": {
+			"sign": [
+				"La tua strategia e",
+				"ingegnosita' con le",
+				"invenzioni sara' ora",
+				"testata.",
+				"",
+				"Assicurati di essere pronto."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[
+						1
+					],
+					[
+						0
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial9i": {
+			"sign": [
+				"Il numero di macchine",
+				"che puoi schierare insieme",
+				"si basa sulla tua",
+				"abilita' di invenzione.",
+				"",
+				"Scegli saggiamente, e",
+				"tieni traccia dei tuoi",
+				"alleati meccanici."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[
+						1,
+						2,
+						3
+					],
+					[],
+					[],
+					[
+						0,
+						1
+					],
+					[],
+					[],
+					[
+						0,
+						1
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial9is": {
+			"sign": [
+				"Puoi recuperare oggetti",
+				"nel tuo inventario con",
+				"il menu invenzioni.",
+				"",
+				"Premi$ sul tuo kit",
+				"e seleziona [Invenzioni].",
+				"Usa la scheda [Recupero]",
+				"per scegliere oggetti",
+				"da trasformare in scarti."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[
+						0
+					],
+					[
+						1,
+						2
+					],
+					[
+						2,
+						3
+					]
+				],
+				"word_highlights2": [
+					[],
+					[],
+					[
+						1,
+						2
+					]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/salvage.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": [
+				{
+					"type": "input_glyph",
+					"value": "MenuRightClick"
+				}
+			]
+		},
+		"tutorial9is_gamepad": {
+			"sign": [
+				"Puoi recuperare oggetti",
+				"nel tuo inventario con",
+				"il menu invenzioni.",
+				"",
+				"Premi$ sul tuo kit",
+				"e seleziona [Invenzioni].",
+				"Usa la scheda [Recupero]",
+				"per iniziare a scegliere oggetti",
+				"da trasformare in scarti."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[
+						0
+					],
+					[
+						1,
+						2
+					],
+					[
+						2,
+						3
+					]
+				],
+				"word_highlights2": [
+					[],
+					[],
+					[
+						1,
+						2
+					]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/salvage.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": [
+				{
+					"type": "input_glyph",
+					"value": "MenuConfirm"
+				}
+			]
+		},
+		"tutorial9j": {
+			"sign": [
+				"Seleziona ogg. da creare",
+				"dalla scheda artigianato",
+				"del menu invenzioni.",
+				"Vedi costi scarti passando",
+				"sopra ogni oggetto.",
+				"",
+				"Affronterai una prova",
+				"di sopravvivenza usando gli",
+				"oggetti che crei."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[
+						3
+					],
+					[],
+					[
+						0,
+						1
+					]
+				],
+				"word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[
+						0,
+						1,
+						2
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial9k": {
+			"sign": [
+				"Con il kit invenzioni",
+				"equipaggiato, tieni$per",
+				"abilitare auto-recupero.",
+				"",
+				"Oggetti che raccogli",
+				"con$ saranno recuperati",
+				"in scarti utili."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[
+						1
+					],
+					[
+						1
+					],
+					[],
+					[],
+					[
+						0
+					]
+				],
+				"word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[
+						2
+					]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/autoscrap.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": [
+				{
+					"type": "input_glyph",
+					"value": "Defend"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				}
+			]
+		},
+		"tutorial9l": {
+			"sign": [
+				"Per accedere rapidamente al",
+				"menu invenzioni con il",
+				"kit invenzioni equipaggiato,",
+				"tieni$e premi$ ."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[
+						0,
+						2
+					]
+				],
+				"word_highlights2": [
+					[],
+					[
+						0,
+						1
+					]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/repair_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": [
+				{
+					"type": "input_glyph",
+					"value": "Defend"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Attack"
+				}
+			]
+		},
+		"tutorial9l_gamepad": {
+			"sign": [
+				"Per accedere rapidamente al",
+				"menu invenzioni con il",
+				"kit invenzioni equipaggiato,",
+				"tieni$e premi$ ."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[
+						0,
+						2
+					]
+				],
+				"word_highlights2": [
+					[],
+					[
+						0,
+						1
+					]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/repair_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": [
+				{
+					"type": "input_glyph",
+					"value": "Defend"
+				},
+				{
+					"type": "input_glyph",
+					"value": "Attack"
+				}
+			]
+		},
+		"tutorial9m": {
+			"sign": [
+				" Ammira!",
+				"$",
+				"Con il kit invenzioni",
+				"puoi accedere a macchine,",
+				"trappole e ogg. utili,",
+				"assumendo tu abbia",
+				"l'abilita' e gli scarti."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[],
+					[
+						2,
+						3
+					],
+					[],
+					[],
+					[],
+					[
+						2
+					]
+				]
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial9/sign_tinkerkit.png",
+					"sizex": 0,
+					"sizey": 0
+				}
+			]
+		},
+		"tutorial9n": {
+			"sign": [
+				"Macchine inventate",
+				"e trappole possono subire",
+				"danni dal combattimento.",
+				"Se non rotte, possono",
+				"essere riparate e riusate.",
+				"",
+				"Ma anche rifiuti",
+				"rotti possono avere valore",
+				"per un inventore."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[],
+					[
+						0
+					],
+					[],
+					[
+						1,
+						2,
+						3
+					],
+					[],
+					[],
+					[
+						3
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial9o": {
+			"sign": [
+				"Le sentinelle sono vulnerabili",
+				"e possono essere presto",
+				"distrutte dai nemici.",
+				"",
+				"Altri strumenti possono",
+				"aiutarti a tenere i nemici a",
+				"bada, permettendo alle",
+				"sentinelle di attaccare.",
+				"liberamente."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[
+						2
+					],
+					[],
+					[
+						0,
+						1,
+						2
+					]
+				],
+				"word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					[],
+					[],
+					[
+						1,
+						2
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial9p": {
+			"sign": [
+				"$",
+				"I dummy-bot sono robusti",
+				"e bravi a mantenere",
+				"l'attenzione del nemico.",
+				"",
+				"Attento, non puoi",
+				"sparare attraverso di loro."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[
+						3
+					]
+				],
+				"word_highlights2": [
+					[],
+					[
+						0,
+						1,
+						2
+					],
+					[],
+					[
+						0,
+						1
+					]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/dummybot.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial9/sign_dummy.png",
+					"sizex": 0,
+					"sizey": 0
+				}
+			]
+		},
+		"tutorial9q": {
+			"sign": [
+				"Puoi recuperare",
+				"scarti scassinando",
+				"forzieri bloccati"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[
+						0
+					]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/chest_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": []
+		},
+		"tutorial9q_gamepad": {
+			"sign": [
+				"You can recover some",
+				"scrap by lockpicking",
+				"a locked chest."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[
+						0
+					]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/chest_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": []
+		},
+		"tutorial9r": {
+			"sign": [
+				"Le torce possono fornire",
+				"scarti metallici costanti.",
+				"",
+				"",
+				"Si puo' guadagnare abilita'",
+				"recuperando costantemente.",
+				"",
+				"",
+				"$"
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[],
+					[
+						0,
+						1
+					],
+					[],
+					[
+						1,
+						2
+					],
+					[],
+					[
+						0,
+						1
+					]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/torcher.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#images/ui/SkillSheet/Icons/Tinkering02_32.png",
+					"sizex": 32,
+					"sizey": 32
+				}
+			]
+		},
+		"tutorial9re": {
+			"sign": [
+				"Inventori esperti possono",
+				"a volte guadagnare scarti",
+				"extra recuperando",
+				"oggetti."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[],
+					[
+						0,
+						1
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial9s": {
+			"sign": [
+				"$",
+				"Non hai armi a",
+				"distanza o da lancio.",
+				"Ma una sentinella puo'",
+				"combattere per te."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[
+						2
+					]
+				],
+				"word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/sentry.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial9/sign_sentry.png",
+					"sizex": 0,
+					"sizey": 0
+				}
+			]
+		},
+		"tutorial9t": {
+			"sign": [
+				"$",
+				"Le tagliole si piazzano",
+				"a terra con$ .",
+				"Nemici che le calpestano",
+				"sono immobilizzati,",
+				"facili bersagli per",
+				"un po'."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[
+						3
+					]
+				],
+				"word_highlights2": [
+					[],
+					[
+						0
+					],
+					[],
+					[],
+					[],
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				]
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial9/sign_beartrap.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "Attack"
+				}
+			]
+		},
+		"tutorial9u": {
+			"sign": [
+				"Questa porta e' chiusa.",
+				"",
+				"$ ",
+				"Porte e casse chiuse",
+				"possono essere sfondate,",
+				"ma scassinarle e' spesso",
+				"piu' veloce, se eccelli",
+				"in invenzioni."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[
+						0
+					],
+					[],
+					[
+						0
+					]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/lockpick.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#items/images/spells/locking.png",
+					"sizex": 32,
+					"sizey": 32
+				}
+			]
+		},
+		"tutorial9v": {
+			"sign": [
+				"$  $",
+				"",
+				"Oggetti recuperati danno",
+				"scarti metallici & magici.",
+				"",
+				"Scarti magici sono rari,",
+				"e servono per lavori",
+				"complessi."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[],
+					[],
+					[
+						0,
+						1,
+						3,
+						4
+					]
+				]
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#items/images/metal_scrap.png",
+					"sizex": 32,
+					"sizey": 32
+				},
+				{
+					"type": "image",
+					"value": "*#items/images/magic_scrap.png",
+					"sizex": 32,
+					"sizey": 32
+				}
+			]
+		},
+		"tutorial9w": {
+			"sign": [
+				"$",
+				"Usa$ per comandare le macchine.",
+				"Disattiva, raccogli e",
+				"tienile con te",
+				"per continuare a usarle."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[
+						0,
+						1,
+						2
+					]
+				],
+				"word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/deactivate_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial9/sign_deactivate.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				}
+			]
+		},
+		"tutorial9w_gamepad": {
+			"sign": [
+				"$",
+				"Use$ to command machines.",
+				"Deactivate, collect",
+				"and bring them along",
+				"for continued use."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[
+						0,
+						1,
+						2
+					]
+				],
+				"word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/deactivate_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial9/sign_deactivate.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				}
+			]
+		},
+		"tutorial9x": {
+			"sign": [
+				"$",
+				"Il rumorista e' uno",
+				"strumento semplice ma",
+				"utile, creato da inventori.",
+				"Usalo per attirare mostri",
+				"dove vuoi."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[
+						1
+					],
+					[],
+					[],
+					[],
+					[
+						1,
+						2,
+						3,
+						4
+					]
+				]
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial9/sign_noisemaker.png",
+					"sizex": 0,
+					"sizey": 0
+				}
+			]
+		},
+		"tutorial9y": {
+			"sign": [
+				"Molte macchine e trappole",
+				"si equipaggiano come",
+				"armi.",
+				"",
+				"Usa$ per schierarle",
+				"davanti a te."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[
+						3
+					],
+					[],
+					[],
+					[
+						0,
+						2
+					]
+				],
+				"word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/deploy.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": [
+				{
+					"type": "input_glyph",
+					"value": "Attack"
+				}
+			]
+		},
+		"tutorial9z": {
+			"sign": [
+				"C'e' un troll oltre",
+				"questo cancello che non",
+				"puoi combattere.",
+				"",
+				"",
+				"Usa cio' che puoi",
+				"per aggirarlo.",
+				"Ricorda di mantenere",
+				"la distanza."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[
+						3
+					]
+				],
+				"word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/noisemaker.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": []
+		},
+		"tutorial9ab": {
+			"sign": [
+				"Questa leva deve",
+				"essere girata per",
+				"attivarsi.",
+				"",
+				"Si disattivera'",
+				"da sola dopo",
+				"un po'."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/timedlever.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": []
+		},
+		"tutorial9ac": {
+			"sign": [
+				"Macchine e trappole",
+				"raccolte possono difenderti",
+				"dai nemici.",
+				"",
+				"",
+				"Stallali, e",
+				"attirali alla",
+				"loro morte."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[],
+					[
+						2
+					],
+					[],
+					[],
+					[],
+					[],
+					[
+						0,
+						1
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial9ace": {
+			"sign": [
+				"$",
+				"Comanda al gyrobot",
+				"[Torna & Atterra] se",
+				"non ti serve piu'",
+				"la sua assistenza."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[
+						1,
+						2,
+						3
+					]
+				],
+				"word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/land.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial9/sign_land.png",
+					"sizex": 0,
+					"sizey": 0
+				}
+			]
+		},
+		"tutorial9ad": {
+			"sign": [
+				"I non morti in",
+				"queste celle devono",
+				"essere uccisi prima",
+				"di procedere.",
+				"",
+				"Tira la leva quando",
+				"sei pronto."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[
+						1
+					],
+					[],
+					[
+						0,
+						1,
+						2
+					],
+					[],
+					[],
+					[],
+					[
+						2
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial9ae": {
+			"sign": [
+				"Le sentinelle mirano",
+				"i nemici randomicamente",
+				"$",
+				"Comandali con",
+				"[Guarda...] e premi$",
+				"per assegnare la mira."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[
+						0
+					],
+					[
+						0,
+						1,
+						3
+					],
+					[
+						1,
+						2,
+						3
+					]
+				],
+				"word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/lookat_mk.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial9/sign_lookat.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				}
+			]
+		},
+		"tutorial9ae_gamepad": {
+			"sign": [
+				"Sentries are made to",
+				"randomly scan for foes.",
+				"$",
+				"Command them to",
+				"[Look At...] and press$",
+				"to assign aim direction."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[
+						0
+					],
+					[
+						0,
+						1,
+						3
+					],
+					[
+						1,
+						2,
+						3
+					]
+				],
+				"word_highlights2": [],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/lookat_gamepad.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial9/sign_lookat.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "input_glyph",
+					"value": "Use"
+				}
+			]
+		},
+		"tutorial9af": {
+			"sign": [
+				"$ $ $",
+				"Il gyrobot puo' prendere",
+				"ooggetti con [Interagisci].",
+				"",
+				"Usa [Muovi a] per far",
+				"[Lasciare] oggetti,",
+				"dove puoi prenderli."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[
+						1,
+						2
+					],
+					[],
+					[
+						1,
+						2
+					],
+					[
+						2
+					]
+				],
+				"word_highlights2": [
+					[],
+					[
+						3,
+						4
+					],
+					[],
+					[],
+					[],
+					[],
+					[
+						3
+					]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_half_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/retrieve.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": [
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial9/sign_interact.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial9/sign_move.png",
+					"sizex": 0,
+					"sizey": 0
+				},
+				{
+					"type": "image",
+					"value": "*#data/scripts/tutorial9/sign_drop.png",
+					"sizex": 0,
+					"sizey": 0
+				}
+			]
+		},
+		"tutorial9ag": {
+			"sign": [
+				"gyrobot avanzati poss.",
+				"piazzare trappole usando",
+				"il comando lascia.",
+				"",
+				"Possono anche usare",
+				"leve e armeggiare con",
+				"trappole."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[
+						0,
+						1
+					],
+					[],
+					[],
+					[],
+					[
+						2
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial9ah": {
+			"sign": [
+				"gyrobot schierati",
+				"riconoscono alleati",
+				"e li porteranno al",
+				"prossimo livello se",
+				"lasciati indietro.",
+				"",
+				"Mentre nemici ignorano i",
+				"gyrobot, trappole",
+				"possono ucciderli."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[],
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				],
+				"word_highlights2": [
+					[],
+					[],
+					[],
+					[
+						3,
+						4
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial9ai": {
+			"sign": [
+				"ATTENZIONE:",
+				"",
+				"Macchine schierate non",
+				"ti seguiranno nel",
+				"portale. Raccogli quelle",
+				"che vuoi portare.",
+				"Non puoi tornare",
+				"indietro."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[
+						0
+					]
+				],
+				"word_highlights2": [
+					[],
+					[],
+					[],
+					[],
+					[
+						2
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial9aj": {
+			"sign": [
+				"Attiva la leva alla",
+				"fine della piattaforma",
+				"e i mostri attaccheranno.",
+				"",
+				"Usa invenzioni per",
+				"sopravvivere e il",
+				"cancello si aprira'."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[
+						1,
+						2,
+						3
+					]
+				],
+				"word_highlights2": [
+					[
+						0,
+						1,
+						2
+					],
+					[],
+					[],
+					[],
+					[],
+					[
+						1,
+						2,
+						3
+					]
+				],
+				"video": {
+					"background_img": "data/scripts/video_frame_noalpha.png",
+					"background_border": 8,
+					"path": "data/scripts/tutorial9/necrotron.ogv",
+					"x": 0,
+					"y": 0,
+					"w": 0,
+					"h": 0
+				}
+			},
+			"variables": []
+		},
+		"tutorial9ajz": {
+			"sign": [
+				"AVVISO:",
+				"Le sentinelle spareranno",
+				"a nemici avvistati,",
+				"anche se alleati",
+				"sono in mezzo.",
+				"",
+				"Piazza dummy-bot,",
+				"e te stesso,",
+				"di conseguenza."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"font_highlight_color": {
+					"r": 255,
+					"g": 64,
+					"b": 64,
+					"a": 255
+				},
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [
+					[],
+					[],
+					[],
+					[],
+					[
+						1,
+						2,
+						3
+					]
+				],
+				"word_highlights2": [
+					[
+						0
+					],
+					[],
+					[
+						0
+					],
+					[],
+					[],
+					[],
+					[
+						1
+					]
+				]
+			},
+			"variables": []
+		},
+		"tutorial9ak": {
+			"sign": [
+				"Avventurieri che usano",
+				"invenzioni avranno",
+				"vantaggi strategici",
+				"nei dungeon."
+			],
+			"attributes": {
+				"font": "fonts/pixelmix.ttf#16#2",
+				"horizontal_justify": "center",
+				"vertical_justify": "center",
+				"line_padding": 0,
+				"top_padding": 0,
+				"inline_img_adjust_x": 0,
+				"word_highlights": [],
+				"word_highlights2": [
+					[],
+					[],
+					[
+						0,
+						1
+					]
+				]
+			},
+			"variables": []
+		}
+	}
+}
