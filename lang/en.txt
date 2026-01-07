@@ -4412,7 +4412,7 @@ deal!#
 4021 Spingi masso#
 4022 Prendi sfera#
 4023 Ispeziona#
-4024 Tira torcia#
+4024 Raccogli torcia#
 4025 Leggi cartello#
 4026 Disarma tagliola#
 4027 Ispeziona botola#
@@ -4536,8 +4536,8 @@ deal!#
 4129 di ???#
 
 # new tinkering
-4130 Costo Creazione:#
-4131 Rottami Posseduti:#
+4130 Costo:#
+4131 Rottami:#
 4132 Questo dovrebbe essere disequipaggiato prima#
 4133 Guadagno Recupero:#
 4134 Costo Riparazione:#
@@ -4555,9 +4555,9 @@ deal!#
 4146 Impossibile recuperarlo mentre lo usi!#
 4147 Abilita' troppo bassa per creare (%d/%d)#
 4148 Troppo impeccabile per essere recuperato#
-4149 Seleziona oggetto da creare:#
-4150 Seleziona oggetto da recuperare:#
-4151 Seleziona oggetto da riparare: #
+4149 Selez. oggetto da creare:#
+4150 Selez. oggetto da recuperare:#
+4151 Selez. oggetto da riparare: #
 4152 Il tuo Kit di Ingegneria necessita riparazioni#
 4153 Questo deve essere identificato prima#
 4154 Recupera Tutto#
@@ -5457,7 +5457,8 @@ Default#
 5536 Affronta 10 sfide che insegnano e testano le tue abilita'
  di avventuriero, preparandoti per il dungeon.#
 5537 Prova#
-5538 Miglior Tempo#
+5538   Miglior 
+Tempo#
 5539 Hub#
 5540  La Sala delle Prove#
 5541  Prova 1: Basi del Dungeon e Combattimento Mischia#
@@ -5559,7 +5560,9 @@ Default#
 5603 Partite Locali#
 5604 Partite Rete#
 5605 Elimina Salvataggio#
-5606 Seleziona prima un salvataggio da eliminare.#
+5606 Seleziona prima 
+un salvataggio 
+da eliminare.#
 5607 OK#
 5607 Entra nel Dungeon#
 5608 Seleziona prima 
@@ -5799,8 +5802,7 @@ da caricare.#
 5833 gruppo raggiunge il livello successivo.#
 5834 Ti sei piazzato in posizione (%d)
 5835 nei punteggi locali!#
-5836 Non sei riuscito a piazzarti
- nei punteggi locali.#
+5836 Torna all'Hub#
 5838 Riavvia#
 5839 OK#
 5840 Congratulazioni, hai completato il primo tutorial!
@@ -6010,7 +6012,7 @@ da caricare.#
 5957 Lascia#
 5958 INCANTESIMI#
 5959 Cassa#
-5960 Prendi Tutto#
+5960 Svuota#
 5961 Livello Abilita':#
 5962 Stat Associata:#
 5963 Attacca#
