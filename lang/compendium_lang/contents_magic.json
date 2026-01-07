@@ -1,0 +1,124 @@
+{
+	"version": 1,
+	"contents": [
+		{
+			"    OGGETTI MAGICI": "-"
+		},
+		{
+			"BASTONI MAGICI": "magicstaffs"
+		},
+		{
+			"ANELLI INCANTATI": "enchanted rings"
+		},
+		{
+			"AMULETI INCANTATI": "enchanted amulets"
+		},
+		{
+			"    ARCANI": "-"
+		},
+		{
+			"PERGAMENE": "scrolls"
+		},
+		{
+			"PIUMA INCANTATA": "enchanted feather"
+		},
+		{
+			"    STREGONERIA": "-"
+		},
+		{
+			"EVOCAZIONE": "evocation"
+		},
+		{
+			"CONTRAVVENZIONE": "contravention"
+		},
+		{
+			"CINESI": "kinesis"
+		},
+		{
+			"TEMULTURGIA": "temulturgy"
+		},
+		{
+			"    TAUMATURGIA": "-"
+		},
+		{
+			"BENEDIZIONI": "blessings"
+		},
+		{
+			"DIVINAZIONI": "divinations"
+		},
+		{
+			"PRODIGI": "miraculous feats"
+		},
+		{
+			"MEDITAZIONI": "meditations"
+		},
+		{
+			"    MISTICISMO": "-"
+		},
+		{
+			"SARCOMANZIA": "sarkomancy"
+		},
+		{
+			"PSIANIMUS": "psianimus"
+		},
+		{
+			"DAIMONIA": "daimonia"
+		},
+		{
+			"IMPETURIA": "impeturia"
+		}
+	],
+	"contents_alphabetical": [
+		{
+			"AMULETI INCANTATI": "enchanted amulets"
+		},
+		{
+			"ANELLI INCANTATI": "enchanted rings"
+		},
+		{
+			"BASTONI MAGICI": "magicstaffs"
+		},
+		{
+			"BENEDIZIONI": "blessings"
+		},
+		{
+			"CINESI": "kinesis"
+		},
+		{
+			"CONTRAVVENZIONE": "contravention"
+		},
+		{
+			"DAIMONIA": "daimonia"
+		},
+		{
+			"DIVINAZIONI": "divinations"
+		},
+		{
+			"EVOCAZIONE": "evocation"
+		},
+		{
+			"IMPETURIA": "impeturia"
+		},
+		{
+			"MEDITAZIONI": "meditations"
+		},
+		{
+			"PERGAMENE": "scrolls"
+		},
+		{
+			"PIUMA INCANTATA": "enchanted feather"
+		},
+		{
+			"PRODIGI": "miraculous feats"
+		},
+		{
+			"PSIANIMUS": "psianimus"
+		},
+		{
+			"SARCOMANZIA": "sarkomancy"
+		},
+		{
+			"TEMULTURGIA": "temulturgy"
+		}
+	]
+}

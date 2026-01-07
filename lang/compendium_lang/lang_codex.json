@@ -1,0 +1,1399 @@
+{
+    "ac": {
+        "blurb": [
+            "CLASSE ARMATURA (CA) riduce il danno fisico in",
+            "arrivo di 1 per punto, fino a un massimo",
+            "del 75% del danno totale.",
+            "Parando, CA puo' ridurre fino al",
+            "100% del danno fisico."
+        ],
+        "details": [
+            "Accumulare quanta piu' CA possibile puo'",
+            "far sentire un avventuriero quasi",
+            "invincibile, il che e' certamente",
+            "un grande vantaggio.",
+            "",
+            "Tuttavia, il pericolo di trappole, magia",
+            "e status negativi rimane ignorato dalla CA.",
+            "Alcune armi nemiche sono anche",
+            "progettate per penetrare l'armatura.",
+            "",
+            "E' saggio non trascurare la CA, ma",
+            "fate attenzione a non essere troppo",
+            "sicuri di voi!"
+        ],
+        "details_line_highlights": []
+    },
+    "alchemy skill": {
+        "blurb": [
+            "Con l'aiuto di un alambicco, gli alchimisti possono",
+            "preparare vari tipi di pozioni, come quelle",
+            "instabili, che scalano in potenza con",
+            "l'abilita'. Bere e lanciare pozioni anche",
+            "allena l'abilita'."
+        ],
+        "details": [
+            "Sebbene un po' di abilita' si ottenga",
+            "bevendo e lanciando pozioni, l'alchimia",
+            "si pratica veramente usando un",
+            "alambicco.",
+            "",
+            "Combina qualsiasi ingrediente primario con un",
+            "ingrediente secondario per formare una ricetta.",
+            "Ogni ricetta imparata migliora l'abilita'.",
+            "",
+            "Tieni le bottiglie vuote e usa i lavandini per",
+            "scorte di acqua salutare da usare nella",
+            "duplicazione, fornendo piu' possibilita'",
+            "di risolvere problemi con le pozioni."
+        ],
+        "details_line_highlights": []
+    },
+    "appraisal skill": {
+        "blurb": [
+            "Mentre ogni avventuriero puo' vedere cos'e'",
+            "un oggetto solo guardandolo, VALUTAZIONE svela",
+            "dettagli, specialmente quelli magici. Piu'",
+            "l'oggetto e' prezioso, piu' e' difficile",
+            "da valutare."
+        ],
+        "details": [
+            "Valutare oggetti economici, come",
+            "formaggio o oggetti in pelle, e' solitamente",
+            "ottimo per la pratica non addestrata.",
+            "",
+            "Alcune classi iniziano senza l'abilita'",
+            "di valutare, a causa di una percezione",
+            "molto scarsa.",
+            "",
+            "Usare pozioni o pergamene non identificate",
+            "puo' anche fornire un aumento",
+            "all'abilita' di valutazione, fino a Base (20).",
+            "",
+            "Gli occhiali possono anche aiutare."
+        ],
+        "details_line_highlights": []
+    },
+    "axe skill": {
+        "blurb": [
+            "Una pesante ascia fornisce bonus ATK su oggetti",
+            "di legno, utile per rompere ostacoli in",
+            "emergenza come una porta chiusa o",
+            "un mimic vagante.",
+            "Una leggenda nell'ABILITA' ASCIA rallenta sempre",
+            "i nemici quando sferra un colpo leggendario."
+        ],
+        "details": [
+            "Le asce sono una scelta affidabile, sebbene",
+            "non specializzata, con pochi nemici che possono",
+            "resistere sostanzialmente alla sua lama pesante.",
+            "",
+            "Il suo potere di taglio fornisce un punto",
+            "extra di danno garantito, rendendola",
+            "ottima per l'uccisione generale, e",
+            "per scalfire nemici corazzati."
+        ],
+        "details_line_highlights": []
+    },
+    "backstabs": {
+        "blurb": [
+            "Per colpire alle spalle un nemico, attaccalo in",
+            "mischia da dietro mentre e' ignaro",
+            "di qualsiasi minaccia, infliggendo danni maggiori.",
+            "Se il nemico viene ucciso con questo colpo,",
+            "conta come un assassinio!"
+        ],
+        "details": [
+            "Puoi fuggire da uno scontro piu' duro,",
+            "e poi tornare alla tua preda dopo",
+            "che ti ha perso di vista. Farlo ti da'",
+            "un'altra possibilita' di infliggere danni alle",
+            "spalle e assassinare nemici",
+            "la cui salute potrebbe altrimenti essere",
+            "troppo grande da gestire in un singolo scontro.",
+            "",
+            "Considera l'uso della girata rapida per la",
+            "fuga piu' veloce possibile!"
+        ],
+        "details_line_highlights": []
+    },
+    "blocking": {
+        "blurb": [
+            "Quando tengono uno scudo o una torcia nella",
+            "mano secondaria, gli avventurieri possono deviare",
+            "gli attacchi fisici in arrivo, ma l'oggetto",
+            "puo' danneggiarsi. Un'abilita' piu' alta migliora",
+            "la quantita' di danno deviato."
+        ],
+        "details": [
+            "Mentre blocca, un avventuriero puo'",
+            "respingere attacchi da tutti i lati.",
+            "Se decidi che devi scappare, un",
+            "blocco dietro la schiena puo' salvarti la",
+            "vita mentre ti ritiri!",
+            "",
+            "Mentre di solito e' una buona idea",
+            "bloccare ogni attacco in mischia, continuare",
+            "un assalto e assorbire un colpo non bloccato",
+            "puo' risultare in meno danni complessivi.",
+            "",
+            "Ricorda, la CA non blocca il danno",
+            "magico, quindi blocca contro la magia solo",
+            "se il tuo scudo ha proprieta' speciali."
+        ],
+        "details_line_highlights": []
+    },
+    "blocking skill": {
+        "blurb": [
+            "L'ABILITA' PARATA fornisce armatura extra",
+            "maneggiando uno scudo, anche senza",
+            "parare. Leggende nella parata possono",
+            "deviare colpi senza degradare l'oggetto",
+            "usato per parare."
+        ],
+        "details": [
+            "Quando cerchi di migliorare la tua",
+            "capacita' di parata, la chiave e' la pratica.",
+            "",
+            "Evita uccisioni rapide e porta scudi",
+            "di riserva in modo da poter parare il",
+            "piu' possibile prima di vincere uno",
+            "scontro, senza metterti in pericolo.",
+            "",
+            "Allenare l'abilita' di parata con una",
+            "torcia puo' portare un avventuriero",
+            "solo a max 40. Dopodiche', serve",
+            "uno scudo per avanzare."
+        ],
+        "details_line_highlights": []
+    },
+    "casting skill": {
+        "blurb": [
+            "Migliorare ABILITA' LANCIO riduce le",
+            "possibilita' che una magia fallisca, e aumenta",
+            "RGN PM. Raggiunta la lancia leggendaria,",
+            "un avventuriero ottiene la magia",
+            "impattaforza come trucchetto."
+        ],
+        "details": [
+            "Quando la tua abilita' di lancio e' bassa,",
+            "lanciare magie a basso costo sara' il",
+            "modo piu' affidabile per crescere.",
+            "",
+            "Puo' essere tentante lanciare una magia",
+            "potente, ma potrebbe fallire e rubarti",
+            "molte occasioni di lanciare magie piu'",
+            "economiche svuotando la tua riserva di PM/EN/ST."
+        ],
+        "details_line_highlights": []
+    },
+    "chr": {
+        "blurb": [
+            "Ogni punto in CARISMA (CAR) migliora",
+            "i tassi di scambio con i negozianti.",
+            "Migliora anche la velocita' dei seguaci,",
+            "l'abilita' comando e le magie basate",
+            "sul carisma."
+        ],
+        "details": [
+            "Piuttosto che mettersi in",
+            "pericolo, un avventuriero con alto",
+            "CARISMA ha opzioni per lasciare",
+            "che qualcun altro faccia il lavoro sporco.",
+            "",
+            "Statistica patrona dell'abilita' comando,",
+            "alto CAR puo' compensare l'inesperienza,",
+            "consentendo accesso anticipato ai comandi",
+            "seguaci e magie di fascino piu' forti.",
+            "",
+            "Migliora anche l'abilita' commercio, non",
+            "si dovrebbe sottovalutare il valore di",
+            "fare affari migliori con i negozi. Ottenere",
+            "accesso anticipato alle scorte private puo'",
+            "significare la differenza tra una grande",
+            "avventura e una disperata."
+        ],
+        "details_line_highlights": []
+    },
+    "class": {
+        "blurb": [
+            "La classe di un personaggio determina",
+            "le sue abilita' iniziali, PS e PM/EN/ST,",
+            "equipaggiamento e magie, statistiche, e la",
+            "probabilita' che ogni statistica aumenti",
+            "al passaggio di livello."
+        ],
+        "details": [
+            "Mentre la maggior parte degli avventurieri",
+            "trova successo giocando suoi punti di forza,",
+            "alcuni si comportano bene completando le",
+            "loro debolezze.",
+            "",
+            "L'ingegnosita' puo' essere piu'",
+            "importante della pura abilita', a seconda",
+            "della situazione.",
+            "",
+            "Quando formi un gruppo, lavorate insieme",
+            "per scegliere classi che coprano le",
+            "rispettive debolezze, o",
+            "potenzino i punti di forza condivisi."
+        ],
+        "details_line_highlights": []
+    },
+    "classes list": {
+        "blurb": [
+            "Gli avventurieri possono adattarsi mentre",
+            "progrediscono, adottando abilita' e usando",
+            "equipaggiamento come richiesto dalle sfide.",
+            "Tuttavia, la scelta della classe e'",
+            "essenziale per un inizio forte e una",
+            "crescita continua."
+        ],
+        "details": [
+            ""
+        ],
+        "details_line_highlights": []
+    },
+    "con": {
+        "blurb": [
+            "Ogni punto di COSTITUZIONE (COS) aggiunge",
+            "armatura naturale (CA). Coloro con alta",
+            "costituzione possono recuperare da status",
+            "negativi piu' velocemente e ripristinare",
+            "piu' salute quando curati."
+        ],
+        "details": [
+            "Le classi con forte crescita in COS",
+            "possono trovarsi in grado di prendere",
+            "decisioni sull'equipaggiamento basate sui",
+            "benefici senza dipendere dalla CA aggiunta.",
+            "",
+            "Coloro con bassa CA potrebbero preferire",
+            "dare priorita' all'armatura e agli",
+            "effetti di protezione.",
+            "",
+            "In entrambi i casi, la CA rimane importante",
+            "per assicurarsi di non subire troppi",
+            "danni quando colpiti da attacchi",
+            "fisici dai nemici."
+        ],
+        "details_line_highlights": []
+    },
+    "crits": {
+        "blurb": [
+            "Quando fai un attacco in mischia, carica",
+            "un attacco finche' il tuo braccio trema per",
+            "la tensione. Rilasciare l'attacco in qualsiasi",
+            "momento dopo risultera' in un COLPO CRITICO,",
+            "infliggendo danni aggiuntivi!"
+        ],
+        "details": [
+            "Il tuo attacco ottiene il beneficio di",
+            "un colpo critico all'istante in cui",
+            "la tua arma inizia a tremare.",
+            "",
+            "Tempistica il rilascio per abbinare il",
+            "tuo approccio al bersaglio. Questo e'",
+            "ancora piu' efficace se le spalle del nemico",
+            "sono voltate.",
+            "",
+            "Di solito non e' una buona idea",
+            "continuare a eseguire colpi critici",
+            "nel bel mezzo di un combattimento."
+        ],
+        "details_line_highlights": []
+    },
+    "dex": {
+        "blurb": [
+            "Ogni punto di DESTREZZA (DES) migliora",
+            "la velocita' di movimento potenziale di un",
+            "avventuriero, e potenzia l'attacco a",
+            "distanza (ATK)."
+        ],
+        "details": [
+            "Mentre ogni personaggio puo' beneficiare",
+            "da una maggiore velocita', i",
+            "personaggi che preferiscono usare attacchi",
+            "a distanza beneficeranno di piu' dalla DES.",
+            "",
+            "La destrezza migliora gli attacchi a distanza",
+            "ma la velocita' complementa anche la",
+            "schermaglia. Un avventuriero veloce puo'",
+            "piu' facilmente stare fuori dalla portata",
+            "schivare trappole e proiettili",
+            "lanciati dai nemici.",
+            "",
+            "Quando devi restare leggero sui",
+            "tuoi piedi la DES e' essenziale!"
+        ],
+        "details_line_highlights": []
+    },
+    "equipment degradation": {
+        "blurb": [
+            "La maggior parte degli oggetti puo' degradarsi",
+            "con l'uso, sia subendo colpi in armatura,",
+            "spendendo cariche in oggetti magici, o",
+            "attaccando con un'arma. Oggetti degradati",
+            "possono performare peggio di quelli intatti."
+        ],
+        "details": [
+            "Le opportunita' di riparare equipaggiamento",
+            "possono essere rare o costose, e",
+            "la rottura dell'equipaggiamento nel",
+            "bel mezzo di uno scontro puo' essere letale.",
+            "",
+            "Sostituire il tuo equipaggiamento regolarmente",
+            "con oggetti in condizioni migliori",
+            "e' di solito una buona idea.",
+            "",
+            "Mentre i tinker non sono fabbri,",
+            "coloro che sono molto abili possono essere",
+            "in grado di rattoppare oggetti per un costo.",
+            "Le pergamene di riparazione, sebbene rare,",
+            "sono piu' affidabili per la maggior parte."
+        ],
+        "details_line_highlights": []
+    },
+    "flanking": {
+        "blurb": [
+            "Se un nemico e' preoccupato in combattimento",
+            "contro un altro avversario, ha difficolta'",
+            "a difendersi! Attacca da",
+            "dietro per guadagnare danno di fiancheggiamento."
+        ],
+        "details": [
+            "Mentre un avversario e' concentrato su",
+            "qualcun altro, colpire rapidamente puo'",
+            "essere il modo migliore per abbatterlo,",
+            "sfruttando appieno il danno extra",
+            "di fiancheggiamento.",
+            "",
+            "Combattendo da solo, non aspettarti molte",
+            "opportunita' di fiancheggiare. Ma quando",
+            "ti avventuri con alleati o seguaci,",
+            "un membro del gruppo puo' molto",
+            "spesso ottenere benefici di fiancheggiamento!"
+        ],
+        "details_line_highlights": []
+    },
+    "hp": {
+        "blurb": [
+            "I PUNTI SALUTE (PS) misurano la vitalita'",
+            "di un abitante, con ogni punto di danno",
+            "che rimuove 1 PS, e ogni punto di cura",
+            "che ripristina 1 PS. Un abitante e' ucciso",
+            "quando i PS sono ridotti a 0 o meno."
+        ],
+        "details": [
+            "Mentre i PS massimi di un abitante aumentano",
+            "sostanzialmente nel corso di un'avventura",
+            "mentre salgono di livello, il loro tasso",
+            "di rigenerazione PS generalmente no.",
+            "",
+            "Di conseguenza, e' importante continuare",
+            "a minimizzare la perdita di PS negli scontri",
+            "e acquisire mezzi di ripristino PS per",
+            "recuperare da scontri piu' duri."
+        ],
+        "details_line_highlights": []
+    },
+    "int": {
+        "blurb": [
+            "Ogni punto di INTELLIGENZA (INT) migliora",
+            "il potere magico e la rigenerazione PM di una",
+            "percentuale. Contribuisce anche alle abilita'",
+            "magiche, consentendo di memorizzare magie",
+            "piu' difficili."
+        ],
+        "details": [
+            "L'INT e' ottima per migliorare l'abilita'",
+            "magica in generale, potenziando RGN e PWR,",
+            "e rendendo piu' facile imparare magie.",
+            "",
+            "Tuttavia, scegliere oggetti che aumentano",
+            "direttamente RGN o PWR puo' dare risultati",
+            "migliori dell'INT pura per incantatori",
+            "focalizzati."
+        ],
+        "details_line_highlights": []
+    },
+    "leadership skill": {
+        "blurb": [
+            "Un avventuriero non addestrato puo' radunare",
+            "quattro seguaci, ma non sara' in grado di",
+            "comandarli molto. Livelli piu' alti di",
+            "ABILITA' COMANDO garantiscono accesso a molti",
+            "comandi utili."
+        ],
+        "details": [
+            "Evocazioni e seguaci reclutati possono",
+            "diventare molto forti se nutriti.",
+            "Permetti loro di dare il colpo finale",
+            "ai nemici, e vedrai la loro",
+            "fiducia (e i loro livelli) aumentare",
+            "drasticamente!",
+            "",
+            "Equipaggiali con armi a distanza,",
+            "tieni pronte magie curative, e",
+            "distrai / confondi i nemici per tenere",
+            "i tuoi leali seguaci al sicuro!",
+            "",
+            "Indossa una corona per ispirarli ulteriormente",
+            "con una varieta' di benefici per seguaci."
+        ],
+        "details_line_highlights": []
+    },
+    "legendary strikes": {
+        "blurb": [
+            "Se un avventuriero con abilita' mischia",
+            "LEGGENDARIA trattiene un colpo critico finche'",
+            "non rilascia da solo, puo' ottenere un",
+            "effetto di stato aggiuntivo contro la sua",
+            "vittima. L'effetto dipende dall'arma."
+        ],
+        "details": [
+            "Ottenere abbastanza punti abilita' per",
+            "raggiungere la leggenda in un'abilita' mischia",
+            "puo' essere complicato.",
+            "",
+            "Se sei abbastanza resistente, evita",
+            "i colpi critici per fare piu' colpi,",
+            "dandoti piu' possibilita' di",
+            "aumentare la tua abilita' con l'arma.",
+            "",
+            "Se l'abilita' leggendaria e' sviluppata,",
+            "puo' essere disponibile per salvarti la vita",
+            "contro i nemici piu' feroci del dungeon."
+        ],
+        "details_line_highlights": []
+    },
+    "leveling up": {
+        "blurb": [
+            "Ogni volta che un personaggio guadagna 100 XP,",
+            "il suo livello aumenta! Quando sale di livello,",
+            "ogni personaggio riceve quanto segue:",
+            "+5 Max PS, +5 Max PM, e un aumento",
+            "a 3 statistiche diverse."
+        ],
+        "details": [
+            "Ogni abilita' e' basata su una statistica.",
+            "",
+            "Se una statistica aumenta al livello,",
+            "e le abilita' associate a quella statistica",
+            "sono state praticate bene, l'aumento",
+            "puo' essere di +2 punti invece di +1.",
+            "",
+            "Usa abilita' allineate con la crescita",
+            "delle statistiche della tua classe per",
+            "massimizzare i tuoi livelli."
+        ],
+        "details_line_highlights": []
+    },
+    "mace skill": {
+        "blurb": [
+            "Colpire i nemici con una mazza puo' rompere",
+            "la loro armatura piu' che con altre armi.",
+            "Una leggenda nell'ABILITA' MAZZA infligge danni",
+            "maggiori e ha la possibilita' di paralizzare",
+            "con un colpo leggendario."
+        ],
+        "details": [
+            "Non aver paura di prendere e usare una",
+            "mazza presto nei dungeon, specialmente",
+            "se usi armi a distanza, magia,",
+            "o spade.",
+            "",
+            "La sua efficacia nel schiacciare non morti",
+            "puo' aiutarti a vivere abbastanza a",
+            "lungo da diventare un maestro in altre",
+            "arti."
+        ],
+        "details_line_highlights": []
+    },
+    "magic skill": {
+        "blurb": [
+            "Migliorare ABILITA' MAGIA permette a un",
+            "avventuriero di imparare magie piu' avanzate",
+            "e aumenta il PWR. Una leggenda nella magia",
+            "impara anche la magia dominazione."
+        ],
+        "details": [
+            "Un buon incantatore si tiene sempre in",
+            "allenamento!",
+            "",
+            "Per chi rigenera PM/ST, una barra",
+            "piena significa perdere mana che",
+            "potresti recuperare.",
+            "",
+            "Mentre e' bene conservarlo per il bisogno,",
+            "usa un po' di mana da una barra piena",
+            "per continuare ad allenarti."
+        ],
+        "details_line_highlights": []
+    },
+    "melee": {
+        "blurb": [
+            "Impugna semplicemente il pugno o un'arma",
+            "come una mazza, lancia, spada o ascia, e",
+            "ATTACCA! Colpi veloci possono permettere a un",
+            "avventuriero di uccidere un nemico prima che",
+            "possa rispondere con un suo attacco."
+        ],
+        "details": [
+            "Un semplice tocco e' sufficiente per",
+            "eseguire un colpo in mischia a piena forza.",
+            "",
+            "Tieni premuto l'attacco solo se devi",
+            "tempistare il colpo, o se",
+            "stai caricando un colpo critico.",
+            "",
+            "Negli agguati, gli avventurieri hanno",
+            "spesso tempo per seguire un critico",
+            "con uno o due attacchi veloci. E'",
+            "abbastanza per finire molti nemici",
+            "deboli prima che possano reagire."
+        ],
+        "details_line_highlights": []
+    },
+    "memorized": {
+        "blurb": [
+            "Una volta memorizzate, le magie possono essere",
+            "preparate senza bisogno di un libro.",
+            "",
+            "PM, EN e ST sono consumati nel corso",
+            "del tempo di lancio, e andranno persi",
+            "se la magia fallisce."
+        ],
+        "details": [
+            "Dalla tua lista magie, usa l'opzione",
+            "lancio rapido per iniziare subito a lanciare",
+            "la magia senza equipaggiarla.",
+            "Per magie che usi solo occasionalmente,",
+            "questo rende facile tenere pronte le essenziali.",
+            "",
+            "A meno che tu non voglia usare un libro",
+            "per PWR migliorato, i libri possono essere",
+            "scartati o venduti una volta memorizzati.",
+            "Attento a non leggere libri maledetti, che",
+            "ti faranno dimenticare una magia a caso!"
+        ],
+        "details_line_highlights": []
+    },
+    "missiles": {
+        "blurb": [
+            "Fionde, balestre e archi sparano",
+            "PROIETTILI quando usati per attaccare. Queste",
+            "armi possono richiedere tempo per caricare",
+            "prima di sparare. Balestre e archi possono",
+            "essere caricati con munizioni speciali."
+        ],
+        "details": [
+            "Potenzia balestre e archi con munizioni",
+            "speciali per aumentare il tuo danno",
+            "e infliggere effetti debilitanti su",
+            "bersagli pericolosi.",
+            "",
+            "I nemici sapranno sempre da dove e'",
+            "arrivato un attacco a distanza quando",
+            "colpiti. Usalo per attirare i tuoi",
+            "nemici dove li vuoi.",
+            "",
+            "Molti nemici resistono ai piccoli",
+            "proiettili, ma la tua capacita' di",
+            "colpisci e fuggi ti dara' il tempo di",
+            "cui hai bisogno per ridurre i loro PS."
+        ],
+        "details_line_highlights": []
+    },
+    "mp": {
+        "blurb": [
+            "Lanciare magie memorizzate, o magie dai",
+            "libri, richiede PUNTI MAGIA (PM),",
+            "ENERGIA (EN), o VAPORE (ST). Chi lancia",
+            "deve avere una quantita' pari o superiore",
+            "al costo della magia per poter lanciare."
+        ],
+        "details": [
+            "Se i PM sembrano scarsi, finisci i nemici",
+            "vicini alla morte senza magia.",
+            "Risparmia oro per i negozi, che possono",
+            "vendere pozioni che ripristinano PM.",
+            "",
+            "MAGIA DEL SANGUE VAMPIRICA:",
+            "I vampiri possono continuare a lanciare",
+            "quando i PM sono vuoti, consumando PS",
+            "invece.",
+            "Fai attenzione alle magie incanalate!",
+            "",
+            "VAPORE AUTOMI:",
+            "La rigenerazione vapore dipende dal",
+            "calore della caldaia. Alcuni",
+            "carburanti possono surriscaldarla,",
+            "causando un rapido aumento di vapore.",
+            "Se e' fredda, il vapore calera'",
+            "uccidendo infine l'automa.",
+            "",
+            "ENERGIA INSETTOIDE:",
+            "Gli insettoidi metabolizzano energia in",
+            "magia, ma possono mangiare solo tot.",
+            "La loro riserva e' limitata e",
+            "non rigenera, ma possono mangiare",
+            "tutti i cibi per recuperare energia",
+            "rapidamente usata nel lancio.",
+            "Pozioni magiche e succhi di frutta",
+            "ripristinano molta energia."
+        ],
+        "details_line_highlights": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {},
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {},
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "per": {
+        "blurb": [
+            "PERCEZIONE (PER) migliora la visibilita'",
+            "nell'oscurita' e aumenta la valutazione.",
+            "",
+            "PER aumenta anche la probabilita' che",
+            "gli attacchi a distanza perforino il",
+            "50% dell'armatura del bersaglio."
+        ],
+        "details": [
+            "PER e' essenziale per personaggi",
+            "focalizzati su armi a distanza, rendendo",
+            "nemici tosti piu' suscettibili agli",
+            "attacchi a distanza.",
+            "",
+            "Anche le abilita' ingegneria e valutazione",
+            "beneficiano di una forte percezione.",
+            "",
+            "Se fatichi a valutare, un piccolo",
+            "aumento alla PER puo' fare la",
+            "differenza."
+        ],
+        "details_line_highlights": []
+    },
+    "polearm skill": {
+        "blurb": [
+            "I colpi di lancia sono piu' precisi,",
+            "con varianza di danno ridotta rispetto",
+            "ad altre abilita' mischia di livello simile.",
+            "Una leggenda in ABILITA' LANCIA causa sempre",
+            "Respinta quando sferra un colpo leggendario."
+        ],
+        "details": [
+            "La lancia e' una scelta popolare per",
+            "molte classi.",
+            "",
+            "Dovuta alla sua efficacia generale",
+            "contro bersagli di taglia umana, e'",
+            "generalmente un'ottima arma iniziale.",
+            "",
+            "Attento a certi mostri grandi,",
+            "o piccolissimi, che potrebbero essere",
+            "difficili da infilzare."
+        ],
+        "details_line_highlights": []
+    },
+    "pwr": {
+        "blurb": [
+            "Il POTERE MAGICO (PWR) di un abitante migliora",
+            "le magie che lancia in percentuale,",
+            "aumentando il danno, la cura, o",
+            "la durata degli effetti di stato."
+        ],
+        "details": [
+            "Alcune magie hanno un effetto binario, e",
+            "di conseguenza, il PWR non influenzera' ogni",
+            "magia.",
+            "",
+            "Ma per magie di danno e cura,",
+            "PWR e' estremamente utile, particolarmente",
+            "quando lanciate da un libro benedetto.",
+            "",
+            "Gli effetti di stato possono aumentare in",
+            "durata con PWR migliorato."
+        ],
+        "details_line_highlights": []
+    },
+    "races": {
+        "blurb": [
+            "Gli umani non sono l'unica creature",
+            "intelligenti nei dungeon. Le RAZZE hanno",
+            "ciascuna i propri amici e nemici.",
+            "Hanno anche abilita' di inizio,",
+            "resistenze, preferenze di cibo,",
+            "e penalita'."
+        ],
+        "details": [
+            "La maggior parte delle razze mostruose possono",
+            "reclutare la propria specie. Solo umani e automi",
+            "sono benvenuti nei negozi gestiti da umani.",
+            "",
+            "Selezionando la razza durante la",
+            "creazione del personaggio, usa il pulsante",
+            "\"Mostra Info Razza\" per svelare tutti i",
+            "tuoi punti di forza, debolezze, abilita',",
+            "e alleanze.",
+            "",
+            "Per rendere i dungeon piu' facili, accoppia",
+            "ogni razza con una classe che minimizza",
+            "i lati negativi, e raddoppia",
+            "i benefici."
+        ],
+        "details_line_highlights": []
+    },
+    "ranged skill": {
+        "blurb": [
+            "Tempestare i nemici con proiettili puo' risultare",
+            "nel perforare la loro armatura. L'abilita'",
+            "a distanza leggendaria permette a un arciere",
+            "di usare armi da lancio senza degradarne",
+            "la qualita'."
+        ],
+        "details": [
+            "Usare armi a distanza a basso danno come",
+            "la fionda o l'arco corto e' un modo affidabile",
+            "per alzare la tua abilita', considerando",
+            "quanti colpi potrebbe richiedere abbattere",
+            "un nemico.",
+            "",
+            "Tuttavia, i dungeon spesso non saranno",
+            "generosi, con pochi spazi sicuri per correre",
+            "e fare kite.",
+            "",
+            "Fai attenzione per assicurare che la",
+            "sopravvivenza sia la tua priorita' quando",
+            "ti alleni."
+        ],
+        "details_line_highlights": []
+    },
+    "res": {
+        "blurb": [
+            "Il danno magico ignora CA, ma RESISTENZA",
+            "MAGICA (RES) ridurra' la quantita' di danno",
+            "preso di una percentuale. La durata di",
+            "effetti di stato magici negativi e' anche",
+            "ridotta."
+        ],
+        "details": [
+            "Dato che la CA non ridurra' il danno",
+            "preso dalle magie, e' una buona idea",
+            "cercare fonti di resistenza magica.",
+            "",
+            "Riflessione magica nega completamente",
+            "i proiettili magici, ma ha un costo.",
+            "La resistenza, in confronto, e' passiva",
+            "e affidabile.",
+            "",
+            "Alcune razze hanno una resistenza",
+            "naturale o vulnerabilita' agli attacchi magici."
+        ],
+        "details_line_highlights": []
+    },
+    "rgn": {
+        "blurb": [
+            "La maggior parte degli abitanti rigenera nel",
+            "tempo, ripristinando PS e PM persi.",
+            "Aumentare la RIGENERAZIONE (RGN) migliora",
+            "quanto velocemente questi sono ripristinati."
+        ],
+        "details": [
+            "Mentre PS e PM possono essere esauriti molto",
+            "rapidamente, un po' di pratica puo' aiutare",
+            "un avventuriero a sentirsi a proprio agio",
+            "con quanto tempo impiegano a ripristinarsi.",
+            "",
+            "Esplora, gestisci l'inventario, e stai",
+            "lontano dalle minacce quando sei",
+            "esaurito, permettendoti di beneficiare appieno",
+            "della RGN.",
+            "",
+            "Nota che la regen PS e' disabilitata con",
+            "l'Impostazione di Gioco fame spenta."
+        ],
+        "details_line_highlights": []
+    },
+    "skills": {
+        "blurb": [
+            "Molte azioni che gli avventurieri intraprendono",
+            "saranno modificate dal livello delle loro ABILITA'.",
+            "",
+            "Mentre continuano a praticare, le abilita'",
+            "aumenteranno organicamente, a volte",
+            "sbloccando capacita' interamente nuove."
+        ],
+        "details": [
+            "Le abilita' iniziali di una classe possono",
+            "essere un'eccellente guida su come",
+            "avere successo piu' efficacemente come quella classe.",
+            "",
+            "In alcuni casi, le classi hanno abilita' che",
+            "mancano dell'equipaggiamento per usarle, il che",
+            "potrebbe motivare una caccia per certi",
+            "oggetti.",
+            "",
+            "Ogni abilita' ha una nuova capacita' che viene",
+            "sbloccata una volta che l'abilita' raggiunge",
+            "lo stato leggendario (100)."
+        ],
+        "details_line_highlights": []
+    },
+    "sneaking": {
+        "blurb": [
+            "Con niente, o munizioni speciali, tenute",
+            "nella mano secondaria, un avventuriero puo'",
+            "strisciare lentamente, rendendo piu' difficile",
+            "ai nemici rilevarli. FURTIVITA' attenta",
+            "rende anche piu' facile vedere nelle",
+            "ombre."
+        ],
+        "details": [
+            "Quando ti senti costantemente assediato o",
+            "sorpreso dai nemici, considera quanto",
+            "le fonti di luce ti stanno esponendo.",
+            "",
+            "Quando prendi vantaggio dell'oscurita'",
+            "e della furtivita', tutti tranne i",
+            "cacciatori piu' specializzati hanno",
+            "difficolta' a trovare un avventuriero",
+            "silenzioso."
+        ],
+        "details_line_highlights": []
+    },
+    "spellbook casting": {
+        "blurb": [
+            "Qualsiasi avventuriero puo' brandire un libro",
+            "nella mano secondaria e tentare di lanciare",
+            "la magia contenuta. Avventurieri con alta",
+            "INT guadagneranno un bonus PWR aggiuntivo",
+            "lanciando dal libro rispetto al",
+            "lancio a memoria."
+        ],
+        "details": [
+            "Maghi dedicati possono beneficiare dal",
+            "tenere la loro magia di attacco preferita",
+            "pronta con un libro impugnato.",
+            "",
+            "Oltre a fornire maggiore PWR,",
+            "un'altra magia memorizzata puo' anche essere",
+            "preparata, permettendo accesso immediato",
+            "a molteplici soluzioni magiche.",
+            "",
+            "Libri mano secondaria possono essere benedetti",
+            "come ogni equipaggiamento, fornendo enormi",
+            "bonus al PWR del libro. Usa una",
+            "piuma incantata per riparare un",
+            "libro da cui dipendi!"
+        ],
+        "details_line_highlights": []
+    },
+    "stats metastats": {
+        "blurb": [
+            "Le statistiche misurano le capacita' di un personaggio",
+            "e sono alla radice di ogni abilita'. Queste",
+            "includono FOR, COS, DES, INT, PER, CAR.",
+            "Metastatistiche come PWR, CA, RGN e ATK",
+            "non sono alzate direttamente livellando."
+        ],
+        "details": [
+            "Ogni avventuriero puo' trovare alcune stat",
+            "piu' essenziali di altre. E' saggio",
+            "monitorare la tua scheda personaggio e",
+            "raccogliere il tipo di equipaggiamento che",
+            "beneficia le tue statistiche piu' utili.",
+            "",
+            "Fai attenzione alla scheda abilita' dove",
+            "la statistica governante e' mostrata. Alte stat",
+            "possono a volte compensare una scarsa",
+            "abilita'.",
+            "",
+            "Le metastatistiche non sono basate su livello o",
+            "classe ma sono invece una combinazione di",
+            "statistiche, abilita', livelli ed equipaggiamento."
+        ],
+        "details_line_highlights": []
+    },
+    "stealth skill": {
+        "blurb": [
+            "Alta ABILITA' FURTIVITA' rende piu' facile nascondersi",
+            "dai nemici e migliora il danno causato",
+            "da colpi alle spalle e attacchi ai fianchi.",
+            "",
+            "Leggende nella furtivita' possono diventare quasi",
+            "invisibili a piacimento."
+        ],
+        "details": [
+            "Quando strisci attraverso i dungeon,",
+            "fai pausa quando vedi un nemico. Se ti prendi",
+            "un momento extra per lasciare che il tuo nemico",
+            "guardi altrove, puoi correre dentro per un",
+            "colpo alle spalle, o persino un assassinio!",
+            "",
+            "Queste azioni hanno un'alta probabilita'",
+            "di aumentare la tua abilita' furtiva.",
+            "Con dedizione a tattiche di imboscata",
+            "mischia, un avventuriero puo' diventare",
+            "una leggenda nella sua abilita' furtiva."
+        ],
+        "details_line_highlights": []
+    },
+    "str": {
+        "blurb": [
+            "Ogni punto di FORZA (FOR) aggiunge al",
+            "potere di attacco (ATK) mischia. Forti",
+            "avventurieri possono anche portare equipaggiamento",
+            "piu' pesante, e trascinare di piu' nel loro",
+            "inventario, senza essere rallentati."
+        ],
+        "details": [
+            "Un personaggio che dipende primariamente da",
+            "attacchi mischia beneficera' sempre",
+            "da piu' FOR.",
+            "",
+            "Dai priorita' a equipaggiamento benedetto con FOR",
+            "bonus per migliorare ulteriormente il tuo",
+            "potere mischia."
+        ],
+        "details_line_highlights": []
+    },
+    "strafing": {
+        "blurb": [
+            "Esplorando, gli avventurieri si muovono",
+            "fiduciosi in avanti a piena velocita',",
+            "ma indietreggiare o muoversi di lato",
+            "e' piu' lento. Questo e' importante da sapere",
+            "quando si ha a che fare con minacce a cui",
+            "non vuoi stare vicino."
+        ],
+        "details": [
+            "Mentre potresti essere tentato di indietreggiare",
+            "da un nemico intimidatorio, o",
+            "fare un passo laterale via da un masso, e'",
+            "molto piu' veloce girarsi e correre!",
+            "",
+            "Molti avventurieri sono stati schiacciati",
+            "perche' sono stati colti a fissare,",
+            "la fonte della loro rovina.",
+            "",
+            "Usa il pulsante di girata rapida se",
+            "hai problemi a girarti velocemente!"
+        ],
+        "details_line_highlights": []
+    },
+    "swimming skill": {
+        "blurb": [
+            "Nuotare non e' solitamente la piu' importante",
+            "abilita', ma quando stai scappando da una",
+            "minaccia pericolosa, potrebbe essere la piu'",
+            "importante abilita' della tua vita. Specialmente",
+            "utile nelle paludi."
+        ],
+        "details": [
+            "Mentre il camminare sull'acqua fornito dal",
+            "bonus leggendario dell'abilita' nuoto",
+            "puo' essere utile in molte situazioni, alcuni",
+            "avventurieri potrebbero trovarsi a",
+            "desiderare di poter fare un rapido tuffo per",
+            "spegnere fiamme ardenti.",
+            "",
+            "Considera il tuo prossimo bagno attentamente!"
+        ],
+        "details_line_highlights": []
+    },
+    "sword skill": {
+        "blurb": [
+            "Tagliare contro i nemici con una spada",
+            "aumenta la possibilita' che sanguinino. Una",
+            "leggenda in ABILITA' SPADA causa sempre sangue",
+            "quando sferra un colpo leggendario."
+        ],
+        "details": [
+            "Le spade possono sembrare deboli all'inizio, poiche'",
+            "gli Scheletri sono molto resistenti al",
+            "filo affilato della spada.",
+            "",
+            "Mentre incontri piu' nemici,",
+            "scoprirai che alcuni nemici tosti sono",
+            "piuttosto vulnerabili alla lama.",
+            "",
+            "Sii paziente e attento come spadaccino",
+            "novizio."
+        ],
+        "details_line_highlights": []
+    },
+    "thrown": {
+        "blurb": [
+            "Gli attacchi con armi da lancio perforano l'armatura",
+            "e guadagnano danno aumentato dalla DES.",
+            "",
+            "Caricare un ATTACCO DA LANCIO migliora",
+            "la sua distanza di volo e il danno",
+            "notevolmente."
+        ],
+        "details": [
+            "Gli attacchi con armi da lancio possono rapidamente",
+            "abbattere nemici altrimenti tosti,",
+            "con il 50% di riduzione alla CA del bersaglio.",
+            "",
+            "Dover raccogliere i tuoi oggetti dopo,",
+            "o persino durante, lo scontro significa che",
+            "devi rimanere vigile e attento con",
+            "il tuo inventario.",
+            "",
+            "Preparati a disabilitare i nemici o scappare",
+            "via per assicurarti di poter avere la tua",
+            "bandoliera piena per uno scontro."
+        ],
+        "details_line_highlights": []
+    },
+    "tinkering skill": {
+        "blurb": [
+            "Con solo un grimaldello, un tinker talentuoso",
+            "puo' compiere parecchio. Ma il vero",
+            "potere dell'ingegneria e' accessibile con un",
+            "kit da tinker. Per ogni problema,",
+            "i tinker hanno una soluzione meccanica."
+        ],
+        "details": [
+            "Dopo aver afferrato le basi impare",
+            "dallo smontare oggetti a livello Esperto (60),",
+            "alzare ingegneria puo' essere una",
+            "sfida.",
+            "",
+            "Costruisci quante piu' trappole possibile",
+            "e lascia che le sentinelle ottengano il colpo finale",
+            "sui nemici per migliorare le tue possibilita' di",
+            "aumentare l'abilita' ingegneria.",
+            "",
+            "Quando oberato da scarti in eccesso, usa",
+            "trappole fiamma/gelo e trappole per orsi come",
+            "mezzo primario di attacco, che puo'",
+            "anche garantire aumenti all'abilita' ingegneria."
+        ],
+        "details_line_highlights": []
+    },
+    "trading skill": {
+        "blurb": [
+            "L'ABILITA' COMMERCIO aiuta un avventuriero a ottenere",
+            "il massimo dal loro oro, comprando o",
+            "vendendo. Solo un commerciante abile puo'",
+            "convinverli a separarsi dalla riserva",
+            "privata di consumabili di un negoziante."
+        ],
+        "details": [
+            "L'abilita' commercio aumentera' solo quando",
+            "acquisti oggetti, con ogni costo in oro",
+            "che ammonta alla possibilita' che l'abilita'",
+            "commercio aumenti (fino a 100).",
+            "",
+            "In altre parole, oggetti che costano 100 oro",
+            "hanno il 100% di possibilita' di aumentare l'abilita'.",
+            "",
+            "La scorta privata di un negozio e' una grande",
+            "fonte di oggetti che hanno una buona",
+            "probabilita' di alzare la tua abilita' mentre",
+            "sono anche spesso utili da tenere a",
+            "portata di mano. Un nuovo oggetto scorta privata diventa",
+            "disponibile ogni 10 livelli abilita' fino a 40."
+        ],
+        "details_line_highlights": []
+    },
+    "unarmed skill": {
+        "blurb": [
+            "Coloro con alta ABILITA' DISARMATO possono respingere",
+            "i nemici con colpi critici. Coloro",
+            "con abilita' leggendaria possono brevemente",
+            "paralizzare un nemico con un potente",
+            "colpo leggendario da dietro."
+        ],
+        "details": [
+            "Mentre nel complesso infligge meno danni, ed",
+            "e' meno efficace contro molti",
+            "bersagli, un combattente tosto puo' rapidamente",
+            "aumentare la propri abilita' nel combattimento",
+            "disarmato.",
+            "",
+            "Questo e' grazie in parte a quanti colpi",
+            "potrebbe richiedere abbattere un nemico.",
+            "",
+            "Con grande abilita', un maestro del combattimento",
+            "disarmato e' una minaccia seria con pochi",
+            "bisogni."
+        ],
+        "details_line_highlights": []
+    },
+    "wanted": {
+        "blurb": [
+            "Se un avventuriero e' RICERCATO dalla",
+            "Gilda dei Mercanti, i negozianti lo attaccheranno",
+            "a vista. Qualita' come la razza, certi",
+            "oggetti, o effetti magici potrebbero cambiare come",
+            "i negozianti si sentono su di te come cliente."
+        ],
+        "details": [
+            "I negozianti sono abbastanza duri che",
+            "attaccarli e' gia' una prospettiva",
+            "rischiosa, ma renderli tutti",
+            "ostili ha un grande costo opportunita'.",
+            "",
+            "Con certe risorse, e' possibile",
+            "farla franca derubando i negozi solo per",
+            "tornare dopo come cliente.",
+            "",
+            "Usa una maschera da bandito per rapinare i negozi",
+            "e rimuovila quando hai finito. Se la tua",
+            "vera identita' e' ricercata, usa la",
+            "magia charme per convincere i negozianti",
+            "a perdonare i tuoi crimini."
+        ],
+        "details_line_highlights": []
+    },
+    "weapon quality": {
+        "blurb": [
+            "Tutte le armi fanno meno danni quando",
+            "sono in condizioni piu' povere. Alta abilita'",
+            "ingegneria e Pergamene di Riparazione possono essere",
+            "usate per migliorare il danno dell'arma al suo",
+            "massimo potenziale."
+        ],
+        "details": [
+            "Tutte le armi mischia e a distanza perdono ATK",
+            "quando degradano in qualita'.",
+            "",
+            "Non impegnarti troppo con un'arma",
+            "danneggiata.",
+            "",
+            "Anche se benedetta, potresti trovare una",
+            "arma mondana fresca che",
+            "supera significativamente un'arma",
+            "che sta per rompersi.",
+            "",
+            "Se speri di riparare la tua arma",
+            "preferita, un backup mondano e' una buona",
+            "idea."
+        ],
+        "details_line_highlights": []
+    },
+    "wgt": {
+        "blurb": [
+            "Ogni oggetto equipaggiato o tenuto nell'inventario",
+            "aggiunge PESO (WGT). Maggiore FOR permette ad un",
+            "avventuriero di portare piu' WGT prima che lo",
+            "rallenti. Piu' WGT, maggiore e' la",
+            "penalita' di velocita'."
+        ],
+        "details": [
+            "Molti avventurieri fanno l'errore",
+            "di raccogliere ogni oggetto che vedono",
+            "il che porta a peso alto e velocita'",
+            "di movimento lenta.",
+            "",
+            "Questo invita la morte.",
+            "",
+            "E' solitamente saggio gettare via oggetti",
+            "che non pensi userai nei prossimi",
+            "minuti, solo per restare leggero sui",
+            "tuoi piedi."
+        ],
+        "details_line_highlights": []
+    },
+    "xp": {
+        "blurb": [
+            "Ogni volta che l'abilita' di un personaggio aumenta,",
+            "guadagnano 2 PUNTI ESPERIENZA (XP). Uccidere",
+            "mostri garantira' anche XP basati sulla",
+            "sfida dell'uccisione.",
+            "",
+            "Guadagna 100 XP per livellare!"
+        ],
+        "details": [
+            "Se hai tempo, cerca mostri",
+            "da uccidere e opportunita' per praticare",
+            "diverse abilita' per aumentare i tuoi XP.",
+            "Scendere troppo velocemente senza",
+            "guadagnare livelli sufficienti e' probabile",
+            "che finisca con la morte!",
+            "",
+            "XP da combattimento e' diviso tra tutti i giocatori",
+            "quando ci si avventura insieme.",
+            "",
+            "Se hai gia' un'abilita' al massimo,",
+            "considera di allenare un'abilita' diversa cosi'",
+            "puoi continuare a guadagnare esperienza."
+        ],
+        "details_line_highlights": []
+    }
+}

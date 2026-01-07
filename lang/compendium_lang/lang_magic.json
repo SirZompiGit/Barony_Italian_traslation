@@ -1,0 +1,171 @@
+{
+    "blessings": {
+        "blurb": [
+            "In guerra, o in gruppi di avventurieri, coloro",
+            "che offrono BENEDIZIONI sono molto richiesti.",
+            "Beneficiano sia il taumaturgo, sia",
+            "seguaci e alleati vicini.",
+            "",
+            "Alcune benedizioni hanno effetti duraturi."
+        ]
+    },
+    "contravention": {
+        "blurb": [
+            "Mentre la maggior parte della magia potrebbe essere descritta come",
+            "infrangere le regole della realta', lo studio",
+            "della CONTRAVVENZIONE permette agli stregoni di",
+            "cambiare come le regole influenzano se stessi.",
+            "Cio' richiede energia magica continua per",
+            "essere sostenuto, ma puo' essere disattivato a piacimento."
+        ]
+    },
+    "daimonia": {
+        "blurb": [
+            "DAIMONIA e' l'arte di usare la magia per",
+            "attingere alla volonta' degli spiriti, costringendo la loro",
+            "influenza con risultati trasformativi.",
+            "Sebbene evitata dalla societa' civile,",
+            "alcuni mistici sostengono che il loro stesso spirito",
+            "e' incompleto senza questa comunione."
+        ]
+    },
+    "divinations": {
+        "blurb": [
+            "DIVINAZIONI garantiscono accesso a conoscenza",
+            "nascosta, rivelando informazioni che",
+            "potrebbe non esserci altro modo di sapere.",
+            "",
+            "Taumaturghi praticanti sostengono",
+            "che la conoscenza e' potere."
+        ]
+    },
+    "enchanted amulets": {
+        "blurb": [
+            "AMULETI forniscono benefici reattivi",
+            "al loro portatore, spesso intervenendo",
+            "contro il danno un numero di volte",
+            "finche' la loro magia e' esaurita.",
+            "Alcuni amuleti hanno l'obiettivo opposto.",
+            "E' saggio valutarli prima di indossarli."
+        ]
+    },
+    "enchanted feather": {
+        "blurb": [
+            "La PIUMA INCANTATA puo' essere consumata per",
+            "ripristinare libri magici o iscrivere parole magiche",
+            "su una pergamena vuota.",
+            "Solo coloro che conoscono le parole",
+            "magiche possono iscrivere con scopo.",
+            "Piume consumate possono essere ricaricate."
+        ]
+    },
+    "enchanted rings": {
+        "blurb": [
+            "Gli avventurieri bramano ANELLI magici per",
+            "i benefici magici passivi che",
+            "forniscono, con effetti che variano",
+            "da lievi, a situazionali, a",
+            "estremamente potenti.",
+            "Anelli magici possono cambiare il mondo."
+        ]
+    },
+    "evocation": {
+        "blurb": [
+            "Gli stregoni praticano EVOCAZIONE per evocare",
+            "energie e materia usando le loro menti.",
+            "In gran parte questo e' usato per lanciare proiettili",
+            "dannosi ai nemici dagli avventurieri,",
+            "molti dei quali lasciano un effetto duraturo",
+            "che puo' continuare a ferire il bersaglio."
+        ]
+    },
+    "impeturia": {
+        "blurb": [
+            "I mistici che praticano IMPETURIA lo fanno",
+            "chiamando lo spirito dell'oggetto che",
+            "desiderano manipolare, e costringendolo ad alterare",
+            "il suo stato. Stregoni che tentano di fare la",
+            "stessa cosa con cinesi sono stati finora",
+            "senza successo."
+        ]
+    },
+    "kinesis": {
+        "blurb": [
+            "Gli stregoni praticano CINESI per muovere",
+            "cose con le loro menti. Mentre cercano di",
+            "migliorare controllo e precisione, hanno",
+            "inciampato su altre innovazioni, ma",
+            "la manipolazione precisa rimane difficile."
+        ]
+    },
+    "magicstaffs": {
+        "blurb": [
+            "Queste armi permettono a qualsiasi avventuriero, non",
+            "importa quanto mondano, di sparare incantesimi magici.",
+            "",
+            "Il colore del bastone indica",
+            "che tipi di incantesimi potrebbe contenere.",
+            "L'oggetto si rompe sempre quando esaurito."
+        ]
+    },
+    "meditations": {
+        "blurb": [
+            "Una semplice MEDITAZIONE e' per la maggior parte dei maghi",
+            "la prima introduzione alla taumaturgia.",
+            "",
+            "Questi incantesimi richiedono concentrazione per",
+            "essere sostenuti, e influenzeranno solo il lanciatore,",
+            "ma possono essere congedati a piacimento."
+        ]
+    },
+    "miraculous feats": {
+        "blurb": [
+            "Coloro che nei tempi antichi compivano",
+            "GESTA MIRACOLOSE sono i primi taumaturghi",
+            "noti. Lanciare compie immediatamente",
+            "una singola azione meravigliosa.",
+            "Si insegna che allineare se stessi con",
+            "grande scopo produrra' questi poteri."
+        ]
+    },
+    "psianimus": {
+        "blurb": [
+            "La piu' comunemente praticata delle",
+            "arti mistiche, PSIANIMUS e' l'arte",
+            "di usare la magia per alterare la mente di un",
+            "bersaglio vivente (o non vivente).",
+            "Gli effetti sono solitamente temporanei,",
+            "altrimenti la sua reputazione potrebbe differire."
+        ]
+    },
+    "sarkomancy": {
+        "blurb": [
+            "Considerata un'arte proibita e oscura dalla",
+            "chiesa, SARKOMANZIA e' l'arte di",
+            "usare la magia per manipolare il corpo,",
+            "di solito contro bersagli non consenzienti.",
+            "Usi di questa magia per beneficiare il proprio",
+            "corpo si dice siano solo voci."
+        ]
+    },
+    "scrolls": {
+        "blurb": [
+            "Una pergamena puo' essere invocata da qualsiasi avventuriero",
+            "per spendere il suo incantesimo immagazzinato, tuttavia viene",
+            "immediatamente consumata all'uso.",
+            "Alcuni incantesimi possono essere trovati solo su pergamene.",
+            "Pergamene vuote possono essere successivamente iscritte,",
+            "con gli strumenti e la conoscenza giusti."
+        ]
+    },
+    "temulturgy": {
+        "blurb": [
+            "A volte e' necessaria magia che non",
+            "scaglia semplicemente una forza contro un'altra.",
+            "Lo studio della TEMULTURGIA e' specializzato",
+            "verso il disrompere la struttura di un oggetto.",
+            "Finora gli stregoni non hanno capito",
+            "come praticare questo su bersagli viventi."
+        ]
+    }
+}

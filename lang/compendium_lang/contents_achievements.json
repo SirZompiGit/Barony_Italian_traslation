@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"contents": [
+		{
+			"    CATEGORIE": "-"
+		},
+		{
+			"AVVENTURA": "adventure"
+		},
+		{
+			"ESPERIENZA": "experience"
+		},
+		{
+			"SCELTA JOLLY": "joker"
+		},
+		{
+			"COOPERAZIONE": "teamwork"
+		},
+		{
+			"TECNICA": "technique"
+		}
+	],
+	"contents_alphabetical": [
+		{
+			"    CATEGORIE": "-"
+		},
+		{
+			"AVVENTURA": "adventure"
+		},
+		{
+			"COOPERAZIONE": "teamwork"
+		},
+		{
+			"ESPERIENZA": "experience"
+		},
+		{
+			"SCELTA JOLLY": "joker"
+		},
+		{
+			"TECNICA": "technique"
+		}
+	]
+}

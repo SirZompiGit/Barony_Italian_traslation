@@ -1,0 +1,685 @@
+{
+    "alembic": {
+        "blurb": [
+            "L'ALAMBICCO permette a un alchimista di estrarre",
+            "e combinare due fluidi insieme, di solito",
+            "risultando in un effetto diverso.",
+            "",
+            "I maestri birrai lo usano per creare",
+            "miscele piu' potenti."
+        ]
+    },
+    "arbalest": {
+        "blurb": [
+            "La balestra pesante e' una balestra specializzata.",
+            "Mentre si comporta in modo simile alla sua",
+            "controparte piu' piccola, e' lenta da riarmare, ha un",
+            "raggio corto, e un rinculo massiccio.",
+            "",
+            "Un ottimo compromesso per la sua grande forza."
+        ]
+    },
+    "axes": {
+        "blurb": [
+            "Cio' che mancano in eleganza, le ASCE lo compensano",
+            "sferrando colpi che tolgono il",
+            "fiato al nemico.",
+            "Ideali contro nemici con armatura leggera,",
+            "la lama pesante morde sempre, anche",
+            "contro bersagli pesantemente corazzati."
+        ]
+    },
+    "backpacks": {
+        "blurb": [
+            "Gli avventurieri anziani di solito sconsigliano",
+            "di accumulare oggetti, poiche' la morte raggiunge",
+            "velocemente chi si muove lentamente.",
+            "",
+            "Alcune professioni insistono che hanno semplicemente",
+            "bisogno di ZAINI per spazio extra."
+        ]
+    },
+    "beartrap": {
+        "blurb": [
+            "Un dispositivo crudele e un po' rozzo,",
+            "la trappola per orsi scatta sulle gambe dei",
+            "nemici, infliggendo un morso vizioso.",
+            "La maggior parte sono anche intrappolati,",
+            "aprendoli agli attacchi finche'",
+            "le mascelle non rilasciano."
+        ]
+    },
+    "blood vials": {
+        "blurb": [
+            "Con la tecnica appropriata, il SANGUE puo' essere",
+            "rubato dalle vittime prima di essere sporcato",
+            "dai pavimenti sudici del dungeon.",
+            "",
+            "Solo i maledetti e i dannati",
+            "avrebbero alcun uso per esso."
+        ]
+    },
+    "boomerang": {
+        "blurb": [
+            "Le storie raccontano di una tribu' che crea",
+            "un'arma che torna sempre al suo",
+            "proprietario quando lanciata.",
+            "Una volta malconcio e vecchio, viene offerto",
+            "al primogenito. Coloro che ripristinano",
+            "un BOOMERANG si dice siano degni."
+        ]
+    },
+    "booze": {
+        "blurb": [
+            "L'alcol potente puo' sollevare lo spirito un",
+            "po' e offrire forza di fiducia.",
+            "Tuttavia mira approssimativa, ingegno spento, e",
+            "uno stomaco debole possono seguire.",
+            "Bisogna decidere se l'alcol",
+            "e' un vizio o un piacere."
+        ]
+    },
+    "bows": {
+        "blurb": [
+            "Amati da schermagliatori e furfanti allo stesso modo,",
+            "gli archi di tutte le varieta' possono scoccare frecce",
+            "per uccidere e infastidire i nemici da lontano.",
+            "",
+            "Cacciatori esperti e ladri",
+            "tengono munizioni speciali a portata di mano."
+        ]
+    },
+    "chakrams and shurikens": {
+        "blurb": [
+            "Il materiale fine permette un filo piu' affilato",
+            "a queste armi, e la loro rotazione permette",
+            "loro di rimbalzare sui muri.",
+            "Avventurieri astuti possono far fuori",
+            "i nemici da dietro gli angoli!",
+            "Il sogno di un lanciatore."
+        ]
+    },
+    "cheese and apples": {
+        "blurb": [
+            "BOCCONI base di cibo semplice, un",
+            "avventuriero affamato deve mangiarne diversi",
+            "per saziarsi.",
+            "Si potrebbe sfidare il cibo andato a male solo se",
+            "gia' disperatamente affamati, o forse",
+            "mancando di un palato raffinato."
+        ]
+    },
+    "cloaks & clothing": {
+        "blurb": [
+            "L'ABBIGLIAMENTO mondano non e' pratico",
+            "quanto l'armatura quando si affronta la violenza.",
+            "",
+            "Ma indumenti incantati possono convincere",
+            "gli avventurieri ad adottare abbigliamento piu'",
+            "leggero per i suoi altri benefici."
+        ]
+    },
+    "cream pie": {
+        "blurb": [
+            "Una prelibatezza del dungeon, a volte truccata",
+            "per spiaccicarsi sulla faccia di un avventuriero",
+            "affamato, accecandolo per un po'.",
+            "",
+            "Se non si e' affamati, una TORTA potrebbe essere",
+            "lanciata in faccia a un nemico per confonderlo."
+        ]
+    },
+    "crossbow": {
+        "blurb": [
+            "La balestra e' assistita meccanicamente,",
+            "permettendo ricarica rapida e tiro alla",
+            "pressione di un grilletto.",
+            "Mentre manca in raggio",
+            "rispetto ad altri archi, puo' ancora",
+            "sparare munizioni speciali."
+        ]
+    },
+    "crowns & headdresses": {
+        "blurb": [
+            "Adornamenti rari, riservati a persone",
+            "politicamente o magicamente sintonizzate.",
+            "",
+            "Mentre apparentemente simbolici in natura,",
+            "simboli potenti possono fare",
+            "un impatto potente."
+        ]
+    },
+    "crystal ammo": {
+        "blurb": [
+            "Quando cerchi le piu' fini,",
+            "piu' affilate, e piu' letali punte seghettate",
+            "per ferire ogni nemico, non puoi",
+            "fare meglio delle MUNIZIONI DI CRISTALLO.",
+            "",
+            "Un proiettile semplice, superiore."
+        ]
+    },
+    "crystal armor": {
+        "blurb": [
+            "CRISTALLO cosi' raro non sarebbe normalmente mai",
+            "usato come armatura protettiva, specialmente",
+            "data la sua fragilita'.",
+            "",
+            "Solo un'incredibile abbondanza di cristallo",
+            "magico giustificherebbe l'uso in questo modo."
+        ]
+    },
+    "crystal shard": {
+        "blurb": [
+            "Mentre i FRAMMENTI DI CRISTALLO sono piu' tenui",
+            "delle torce, la loro luce e' visibile solo al",
+            "portatore, e non si esauriscono mai.",
+            "",
+            "Tuttavia sono fragili, e usarli",
+            "per bloccare li causera' la rottura rapida."
+        ]
+    },
+    "death box": {
+        "blurb": [
+            "Un armadietto contenente tutti i beni",
+            "terreni di un avventuriero morto.",
+            "",
+            "Portarlo rallenta il portatore del 25%.",
+            "Una volta rotto, tutto il contenuto",
+            "si rovescia immediatamente fuori."
+        ]
+    },
+    "defensive potions": {
+        "blurb": [
+            "Le POZIONI DIFENSIVE forniscono un effetto",
+            "generalmente benefico a chi le beve.",
+            "",
+            "Quando gli alleati sono nel bisogno, lancia una",
+            "bottiglia utile alla loro faccia!"
+        ]
+    },
+    "djinnis brace": {
+        "blurb": [
+            "Un viaggiatore una volta trovo' una lampada dei desideri,",
+            "occupata da un Jinn furioso.",
+            "",
+            "Il viaggiatore probo' a liberare il Jinn",
+            "ma le sue catene erano invulnerabili.",
+            "Solo un desiderio poteva garantire la sua liberta'."
+        ]
+    },
+    "dragons mail": {
+        "blurb": [
+            "La leggenda narra di una rivalita' tra un",
+            "drago e il viaggiatore del mito. Mentre",
+            "competevano per la fama, divennero amici.",
+            "",
+            "Quando il drago piu' tardi mori',",
+            "offri' le sue scaglie al viaggiatore."
+        ]
+    },
+    "dummybot": {
+        "blurb": [
+            "Originariamente ideati come compagno di allenamento",
+            "portatile e durevole, i DUMMYBOT",
+            "sono stati magicamente sintonizzati per irritare",
+            "e mantenere l'attenzione dei nemici.",
+            "Mentre distratti, gli avventurieri possono",
+            "fiancheggiare con meno rischi."
+        ]
+    },
+    "dyrnwyn": {
+        "blurb": [
+            "La leggenda narra di una spada che servi'",
+            "cittadini di alto rango con nobili missioni,",
+            "offrendo fuoco e retribuzione divina.",
+            "",
+            "L'eta' e scopi misti potrebbero aver smussato",
+            "la sua lama, ma puo' essere ripristinata."
+        ]
+    },
+    "empty bottle": {
+        "blurb": [
+            "Questi recipienti fragili sono meglio",
+            "usati per raccogliere il contenuto di",
+            "fontane e pompe d'acqua.",
+            "",
+            "Un birraio in erba ha bisogno di tutto il liquido",
+            "potabile che puo' ottenere per sperimentare."
+        ]
+    },
+    "face accessories": {
+        "blurb": [
+            "Gli avventurieri possono completare il loro ruolo",
+            "con il giusto pezzo di occhialeria, o",
+            "tenendo qualcosa nella loro bocca.",
+            "",
+            "Questi oggetti conferiscono vari benefici,",
+            "ma per alcuni, lo stile e' piu' importante."
+        ]
+    },
+    "fire and hunting ammo": {
+        "blurb": [
+            "Alcune munizioni lasciano un'impressione duratura.",
+            "",
+            "MUNIZIONI DI FUOCO illuminano la stanza e incendiano",
+            "i nemici, ma le debilitanti",
+            "MUNIZIONI DA CACCIA possono devastare bestie",
+            "mentre le rallentano e avvelenano."
+        ]
+    },
+    "fist weapons": {
+        "blurb": [
+            "Perfetti per coloro che temono la rottura",
+            "intempestiva di un'arma, le armi a pugno sono",
+            "guanti che aggiungono un po' piu'",
+            "di morso a ogni pugno.",
+            "I ben addestrati possono stordire un",
+            "nemico con un colpo a sorpresa."
+        ]
+    },
+    "gungnir": {
+        "blurb": [
+            "Le leggende dicono che questa lancia fu forgiata",
+            "per gli dei affinche' possano sempre",
+            "sferrare colpi perfetti.",
+            "",
+            "Gli inesperti sono letali con GUNGNIR.",
+            "Questa arma e' di solito ben sorvegliata."
+        ]
+    },
+    "gyrobot": {
+        "blurb": [
+            "Concepito prima dai tinker come un",
+            "semplice giocattolo da compagnia, la funzione",
+            "del GYROBOT e' cresciuta per includere",
+            "molti compiti utili.",
+            "Un tinker abile puo' comandare",
+            "il proprio animale per assistere in molti modi."
+        ]
+    },
+    "hats & hoods": {
+        "blurb": [
+            "Molte professioni e gruppi usano copricapi",
+            "iconici che sono pratici e alla moda.",
+            "",
+            "Esibisci e segnala il tuo ruolo agli altri",
+            "indossando il CAPPELLO o CAPPUCCIO perfetto."
+        ]
+    },
+    "iron armor": {
+        "blurb": [
+            "Piu' pesante del cuoio, e' due volte",
+            "piu' efficace nel proteggere chi la indossa.",
+            "Bisogna essere forti per muoversi velocemente nel FERRO.",
+            "",
+            "Hamlet era originariamente nota",
+            "per le sue ricche miniere di ferro."
+        ]
+    },
+    "khryselakatos": {
+        "blurb": [
+            "Favorito da un cacciatore leggendario,",
+            "KHRYSELAKATOS offre frecce incantate",
+            "dalla sua corda indistruttibile.",
+            "",
+            "I miti narrano del suo proprietario che fu",
+            "privato della divinita' ed esiliato."
+        ]
+    },
+    "leather armor": {
+        "blurb": [
+            "Leggera, economica, e comune, la maggior parte",
+            "degli avventurieri preferirebbe molto piu' indossare",
+            "CUOIO che nessuna armatura affatto.",
+            "",
+            "Un abito completo di cuoio puo' prevenire",
+            "danni sostanziali da nemici piu' deboli."
+        ]
+    },
+    "lockpick": {
+        "blurb": [
+            "Coloro abili nell'ingegneria possono usare questi",
+            "semplici strumenti per aprire ceste e porte,",
+            "disarmare trappole a freccia, o regolare le",
+            "molle di trappole truccate.",
+            "",
+            "Utile per trattare con dispositivi pericolosi."
+        ]
+    },
+    "maces": {
+        "blurb": [
+            "Con una testa progettata per frantumare e",
+            "schiacciare bersagli rigidi, le MAZZE sono armi",
+            "affidabili che distruggono l'armatura e possono stordire",
+            "i nemici piu' corazzati.",
+            "Nelle mani giuste, i nemici potrebbero non",
+            "avere la possibilita' di reagire."
+        ]
+    },
+    "mail & lore books": {
+        "blurb": [
+            "Mentre chi usa la magia potrebbe essere deluso",
+            "quando cerca potere tra queste pagine",
+            "mondane, avventurieri curiosi amano leggere",
+            "le parole inchiostrate per indizi.",
+            "",
+            "La carta brucia anche bene quando usata in una caldaia."
+        ]
+    },
+    "masks & visors": {
+        "blurb": [
+            "Alcuni avventurieri usano MASCHERE per nascondere",
+            "o comunicare la loro identita'",
+            "",
+            "Per altri, coperture pratiche per il viso forniscono",
+            "benefici che aiutano a compiere il loro ruolo."
+        ]
+    },
+    "meat, fish, and bread": {
+        "blurb": [
+            "Porzioni abbondanti, tesoro per affamati",
+            "abitanti dei dungeon. Se disperato per",
+            "cibo, uno potrebbe essere in grado di mangiare fino",
+            "a due porzioni ed essere soddisfatto,",
+            "stando attento a non mangiare troppo."
+        ]
+    },
+    "mining pick": {
+        "blurb": [
+            "Questi strumenti maneggevoli tagliano facilmente",
+            "la terra, creando scorciatoie e fornendo",
+            "accesso a tesori nascosti.",
+            "",
+            "I PICCONI DA MINATORE si rompono presto ma possono fare",
+            "tutta la differenza quando persi o intrappolati."
+        ]
+    },
+    "mirrors": {
+        "blurb": [
+            "Mentre non c'e' prova che gli specchi possano",
+            "rubare anime, sembrano davvero riflettere sia",
+            "realta' mondane che magiche.",
+            "",
+            "Alcuni che li fissano imparano di piu'",
+            "su se stessi di quanto si aspettassero."
+        ]
+    },
+    "mystic orb": {
+        "blurb": [
+            "Una sfera enigmatica che brulica",
+            "di potere magico.",
+            "Un piedistallo appropriato permetterebbe",
+            "al suo grande potere di essere attinto, anche se",
+            "qualcuno paghera' probabilmente caro",
+            "per un tale artefatto impagabile."
+        ]
+    },
+    "noisemaker": {
+        "blurb": [
+            "Il meccanismo a molla usa un",
+            "design rozzo ma intelligente per generare",
+            "rumore affascinante che attira l'",
+            "attenzione dei nemici vicini.",
+            "Ottimo per distrarre nemici e",
+            "attirarli in un'imboscata."
+        ]
+    },
+    "offensive potions": {
+        "blurb": [
+            "Molte pozioni sono utili per ferire",
+            "i nemici, spesso con effetti devastanti,",
+            "infliggendo anche danni quando lanciate.",
+            "",
+            "Gli avventurieri possono bere POZIONI OFFENSIVE,",
+            "ma di solito e' fatto nell'ignoranza."
+        ]
+    },
+    "oracles treads": {
+        "blurb": [
+            "Si dice che un viaggiatore di mito antico",
+            "sia entrato in un regno di oscurita'",
+            "che celava ogni male.",
+            "Testimoni scrissero del viaggiatore che sentiva",
+            "vibrazioni nel terreno per cercare pericolo,",
+            "conquistando rapidamente il regno."
+        ]
+    },
+    "parashu": {
+        "blurb": [
+            "Molti potrebbero chiamare la loro arma PARASHU,",
+            "ma una tale ascia eterna puo' essere",
+            "ripristinata alla letalita' leggendaria.",
+            "",
+            "Era una volta un'arma degli dei e",
+            "ora si trova in luoghi umili."
+        ]
+    },
+    "polearms": {
+        "blurb": [
+            "Le lance offrono leva ed equilibrio,",
+            "dimostrandosi specialmente efficaci contro",
+            "bestie grandi e pesanti.",
+            "",
+            "In mani abili, attacchi con queste",
+            "armi possono tenere indietro i nemici."
+        ]
+    },
+    "rocks & gems": {
+        "blurb": [
+            "Tutte le pietre possono essere utili quando hai bisogno",
+            "di qualcosa da lanciare a una trappola o nemico.",
+            "",
+            "Ma gemme preziose sono amate da",
+            "negozianti e automi allo stesso modo,",
+            "o chiunque tentato dall'avidita'."
+        ]
+    },
+    "sentrybot and magic sentry": {
+        "blurb": [
+            "Usando cristallo arcano per conferire",
+            "intelligenza rudimentale, i tinker",
+            "hanno equipaggiato treppiedi con",
+            "teste lancia-missili.",
+            "Una sentinella lasciata sola a sparare ai",
+            "nemici puo' infliggere danni devastanti."
+        ]
+    },
+    "sharur": {
+        "blurb": [
+            "La leggenda narra di un saggio che viaggio'",
+            "di regno in regno offrendo consigli.",
+            "",
+            "Per un tempo, il regno sarebbe stato",
+            "garantito prospero, ma il",
+            "consigliere sarebbe sempre stato esiliato."
+        ]
+    },
+    "shields": {
+        "blurb": [
+            "Gli scudi forniscono armatura passiva a",
+            "avventurieri che li impugnano, ma bloccare",
+            "attivamente fornisce molta piu' difesa.",
+            "",
+            "Alcuni scudi forniscono benefici",
+            "addizionali mentre si blocca."
+        ]
+    },
+    "silver and piercing ammo": {
+        "blurb": [
+            "Alcune munizioni sono la scelta giusta",
+            "a seconda del nemico.",
+            "",
+            "MUNIZIONI PERFORANTI possono penetrare la",
+            "armatura piu' forte. Nemici non morti e demoniaci",
+            "hanno piu' pura delle MUNIZIONI D'ARGENTO."
+        ]
+    },
+    "skeleton key": {
+        "blurb": [
+            "Un fabbro riusci' a ideare questo",
+            "stile di chiave che permette al suo utilizzatore di",
+            "operare porte e ceste mondane.",
+            "",
+            "Mentre non puo' fare tutto cio' che un",
+            "grimaldello puo', non richiede addestramento."
+        ]
+    },
+    "slingshot": {
+        "blurb": [
+            "La piu' basilare delle armi a proiettili,",
+            "le fionde potrebbero non sembrare molto.",
+            "",
+            "Ma quando uno deve combattere a distanza,",
+            "si potrebbe fare di peggio che lanciare proiettili",
+            "e scappare via."
+        ]
+    },
+    "sphinxs casque": {
+        "blurb": [
+            "La leggenda narra di un viaggiatore che incontro'",
+            "una Sfinge con un indovinello impossibile.",
+            "",
+            "Il viaggiatore penso' per un momento, e",
+            "rispose con una domanda a cui la",
+            "Sfinge non pote' rispondere."
+        ]
+    },
+    "steel armor": {
+        "blurb": [
+            "Piu' forte del ferro, e solo un po'",
+            "piu' pesante, uno richiede fortuna o ricchezza per",
+            "ottenere e indossare armatura d'ACCIAIO superiore.",
+            "",
+            "L'arte dell'ACCIAIO e' nota a pochi fabbri."
+        ]
+    },
+    "swift and springshot ammo": {
+        "blurb": [
+            "Trasformare il nemico in un puntaspilli",
+            "prima che possa avvicinarsi e' una",
+            "priorita' per molti arcieri.",
+            "MUNIZIONI RAPIDE leggere sono piu' veloci da caricare,",
+            "mentre MUNIZIONI A MOLLA sono armate da",
+            "meccanici per respinta potente."
+        ]
+    },
+    "swords": {
+        "blurb": [
+            "Letali contro bersagli morbidi, le SPADE sono",
+            "ideali per un compito macabro: tagliare carne.",
+            "Pelli rigide o dure possono respingere un taglio,",
+            "ma un taglio magistrale disegna ancora sangue."
+        ]
+    },
+    "teleportation trap": {
+        "blurb": [
+            "Come altre trappole truccate, un grimaldello",
+            "puo' farla ignorare o detonare",
+            "su bersagli amici.",
+            "Ma e' anche configurabile come una",
+            "destinazione di TELETRASPORTO, permettendo",
+            "viaggio istantaneo controllato."
+        ]
+    },
+    "tin and tin opener": {
+        "blurb": [
+            "Le scatole nascondono verdure cotte, tritate",
+            "e carni di vari tipi, offrendo un",
+            "pasto rinvigorente e molto saziante.",
+            "",
+            "Tuttavia, un apriscatole e' richiesto, e",
+            "il grasso all'interno puo' essere una scocciatura."
+        ]
+    },
+    "tinkered traps": {
+        "blurb": [
+            "TRAPPOLE TRUCCATE possono essere dispiegate",
+            "su pavimenti, muri, porte e ceste.",
+            "Quando disturbate, detonano,",
+            "consegnando il loro effetto.",
+            "Molti tinker riarmano il detonatore",
+            "speso per risparmiare un po' di scarti."
+        ]
+    },
+    "tinkering kit": {
+        "blurb": [
+            "Il KIT DA TINKER puo' smontare",
+            "la maggior parte dell'equipaggiamento in parti riutilizzabili.",
+            "",
+            "Un tinker abile puo' ricombinarle",
+            "in macchine utili, ognuna piu' efficiente",
+            "quando fatta da mani piu' abili."
+        ]
+    },
+    "tomahawks & daggers": {
+        "blurb": [
+            "Armi costruite specialmente per il lancio,",
+            "queste volano piu' lontano e colpiscono piu' forte quando",
+            "un po' piu' di sforzo e' messo in ogni lancio.",
+            "",
+            "Piu' pesanti dei proiettili,",
+            "eccellono anche nel penetrare l'armatura."
+        ]
+    },
+    "tomalley": {
+        "blurb": [
+            "TOMALLEY, da non confondere con",
+            "uno snack di farina di mais ripieno, e' una fanghiglia",
+            "che serve come fegato di un invertebrato.",
+            "Insetti del dungeon possiedono spesso una piccola",
+            "quantita' di carne coperta con",
+            "questa sostanza commestibile."
+        ]
+    },
+    "torch and lantern": {
+        "blurb": [
+            "Quando impugnate, queste forniscono luce.",
+            "Alza una TORCIA o LANTERNA per vedere un",
+            "po' piu' in la', o bloccare attacchi!",
+            "",
+            "TORCE & LANTERNE degradano",
+            "lentamente mentre bruciano."
+        ]
+    },
+    "towel": {
+        "blurb": [
+            "Mentre non sembra molto da solo,",
+            "nella situazione giusta, un ASCIUGAMANO puo'",
+            "essere un salvavita.",
+            "Gli asciugamani fanno ottime bende",
+            "e puliscono disastri che potrebbero",
+            "rovinare il tuo prossimo scontro."
+        ]
+    },
+    "water": {
+        "blurb": [
+            "ACQUA fresca e pulita e' un lusso",
+            "nei dungeon. Puo' soddisfare uno stomaco",
+            "vuoto per un po', e la scorta del birraio",
+            "dipende da essa.",
+            "E' anche utile per lavare",
+            "via certi effetti magici."
+        ]
+    },
+    "whip": {
+        "blurb": [
+            "L'arma specialita' del Punitore,",
+            "utenti abili possono afferrare armi da",
+            "mani incaute con la frusta.",
+            "",
+            "Mentre e' piu' lenta a colpire, puo'",
+            "frustare oltre la portata di altre armi."
+        ]
+    },
+    "wraiths gown": {
+        "blurb": [
+            "Cercando di masterizzare la morte, il viaggiatore",
+            "del mito entro' nell'Oltretomba.",
+            "Li risiedeva uno spirito che desiderava la vita.",
+            "",
+            "Il viaggiatore porto' lo spirito fuori,",
+            "ma solo i suoi vestiti attraversarono."
+        ]
+    }
+}

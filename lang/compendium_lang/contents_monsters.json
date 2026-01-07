@@ -1,0 +1,364 @@
+{
+	"version": 1,
+	"contents": [
+		{
+			"    UMANOIDI": "-"
+		},
+		{
+			"UMANI": "human"
+		},
+		{
+			"GOBLIN": "goblin"
+		},
+		{
+			"IL RE PATATA": "potato king"
+		},
+		{
+			"GNOMO": "gnome"
+		},
+		{
+			"GNOMO LADRO": "gnome thief"
+		},
+		{
+			"NEGOZIANTE": "shopkeeper"
+		},
+		{
+			"MERCANTE MISTERIOSO": "mysterious shop"
+		},
+		{
+			"    BESTIE": "-"
+		},
+		{
+			"RATTO": "rat"
+		},
+		{
+			"ALGERNON": "algernon"
+		},
+		{
+			"RAGNO": "spider"
+		},
+		{
+			"GRANCHIO": "crab"
+		},
+		{
+			"SHELOB": "shelob"
+		},
+		{
+			"BUBBLES": "bubbles"
+		},
+		{
+			"TROLL": "troll"
+		},
+		{
+			"THUMPUS": "thumpus"
+		},
+		{
+			"PIPISTRELLO": "bat"
+		},
+		{
+			"SCORPIONE": "scorpion"
+		},
+		{
+			"SKRABBLAG": "skrabblag"
+		},
+		{
+			"SCARABEO": "scarab"
+		},
+		{
+			"XYGGI": "xyggi"
+		},
+		{
+			"COCCATRICE": "cockatrice"
+		},
+		{
+			"MINOTAURO": "minotaur"
+		},
+		{
+			"    UOMINI BESTIA": "-"
+		},
+		{
+			"INSETTOIDE": "insectoid"
+		},
+		{
+			"BUGBEAR": "bugbear"
+		},
+		{
+			"KOBOLD": "kobold"
+		},
+		{
+			"UOMO CAPRA": "goatman"
+		},
+		{
+			"GHARBAD": "gharbad"
+		},
+		{
+			"    NON MORTI": "-"
+		},
+		{
+			"FANTASMA": "ghost"
+		},
+		{
+			"SCHELETRO": "skeleton"
+		},
+		{
+			"OSSA BUFFE": "funny bones"
+		},
+		{
+			"GHOUL": "ghoul"
+		},
+		{
+			"CORAL GRIMES": "coral grimes"
+		},
+		{
+			"GHOUL SCHIAVI": "enslaved ghoul"
+		},
+		{
+			"VAMPIRO": "vampire"
+		},
+		{
+			"BRAM KINDLY": "bram kindly"
+		},
+		{
+			"OMBRA": "shadow"
+		},
+		{
+			"ARTEMISIA": "artemisia"
+		},
+		{
+			"BARATHEON": "baratheon"
+		},
+		{
+			"BARONE HERX": "lich"
+		},
+		{
+			"ERUDYCE": "lichice"
+		},
+		{
+			"ORPHEUS": "lichfire"
+		},
+		{
+			"    DEMONIACI": "-"
+		},
+		{
+			"SUCCUBE": "succubus"
+		},
+		{
+			"LILITH": "lilith"
+		},
+		{
+			"CONSORTI SUCCUBI": "bram succubi"
+		},
+		{
+			"INCUBO": "incubus"
+		},
+		{
+			"IMP": "imp"
+		},
+		{
+			"DEMONE": "demon"
+		},
+		{
+			"DEU DE'BREAU": "deudebreau"
+		},
+		{
+			"BAPHOMET": "devil"
+		},
+		{
+			"    COSTRUTTI": "-"
+		},
+		{
+			"AUTOMA": "automaton"
+		},
+		{
+			"AUTOMA SENTINELLA": "sentrybot"
+		},
+		{
+			"AUTOMA MAGICO": "spellbot"
+		},
+		{
+			"AUTOMA MANICHINO": "dummybot"
+		},
+		{
+			"    ELEMENTALI": "-"
+		},
+		{
+			"MELME": "slime"
+		},
+		{
+			"GOLEM DI CRISTALLO": "crystalgolem"
+		},
+		{
+			"MIMIC": "mimic"
+		}
+	],
+	"contents_alphabetical": [
+		{
+			"ALGERNON": "algernon"
+		},
+		{
+			"ARTEMISIA": "artemisia"
+		},
+		{
+			"AUTOMA": "automaton"
+		},
+		{
+			"AUTOMA MAGICO": "spellbot"
+		},
+		{
+			"AUTOMA MANICHINO": "dummybot"
+		},
+		{
+			"AUTOMA SENTINELLA": "sentrybot"
+		},
+		{
+			"BAPHOMET": "devil"
+		},
+		{
+			"BARATHEON": "baratheon"
+		},
+		{
+			"BARONE HERX": "lich"
+		},
+		{
+			"BRAM KINDLY": "bram kindly"
+		},
+		{
+			"BUBBLES": "bubbles"
+		},
+		{
+			"BUGBEAR": "bugbear"
+		},
+		{
+			"COCCATRICE": "cockatrice"
+		},
+		{
+			"CONSORTI SUCCUBI": "bram succubi"
+		},
+		{
+			"CORAL GRIMES": "coral grimes"
+		},
+		{
+			"DEMONE": "demon"
+		},
+		{
+			"DEU DE'BREAU": "deudebreau"
+		},
+		{
+			"ERUDYCE": "lichice"
+		},
+		{
+			"FANTASMA": "ghost"
+		},
+		{
+			"GHARBAD": "gharbad"
+		},
+		{
+			"GHOUL": "ghoul"
+		},
+		{
+			"GHOUL SCHIAVI": "enslaved ghoul"
+		},
+		{
+			"GNOMO": "gnome"
+		},
+		{
+			"GNOMO LADRO": "gnome thief"
+		},
+		{
+			"GOBLIN": "goblin"
+		},
+		{
+			"GOLEM DI CRISTALLO": "crystalgolem"
+		},
+		{
+			"GRANCHIO": "crab"
+		},
+		{
+			"IMP": "imp"
+		},
+		{
+			"IL RE PATATA": "potato king"
+		},
+		{
+			"INCUBO": "incubus"
+		},
+		{
+			"INSETTOIDE": "insectoid"
+		},
+		{
+			"KOBOLD": "kobold"
+		},
+		{
+			"LILITH": "lilith"
+		},
+		{
+			"MELME": "slime"
+		},
+		{
+			"MERCANTE MISTERIOSO": "mysterious shop"
+		},
+		{
+			"MIMIC": "mimic"
+		},
+		{
+			"MINOTAURO": "minotaur"
+		},
+		{
+			"NEGOZIANTE": "shopkeeper"
+		},
+		{
+			"OMBRA": "shadow"
+		},
+		{
+			"ORPHEUS": "lichfire"
+		},
+		{
+			"OSSA BUFFE": "funny bones"
+		},
+		{
+			"PIPISTRELLO": "bat"
+		},
+		{
+			"RAGNO": "spider"
+		},
+		{
+			"RATTO": "rat"
+		},
+		{
+			"SCARABEO": "scarab"
+		},
+		{
+			"SCHELETRO": "skeleton"
+		},
+		{
+			"SCORPIONE": "scorpion"
+		},
+		{
+			"SHELOB": "shelob"
+		},
+		{
+			"SKRABBLAG": "skrabblag"
+		},
+		{
+			"SUCCUBE": "succubus"
+		},
+		{
+			"THUMPUS": "thumpus"
+		},
+		{
+			"TROLL": "troll"
+		},
+		{
+			"UMANI": "human"
+		},
+		{
+			"UOMO CAPRA": "goatman"
+		},
+		{
+			"VAMPIRO": "vampire"
+		},
+		{
+			"XYGGI": "xyggi"
+		}
+	]
+}

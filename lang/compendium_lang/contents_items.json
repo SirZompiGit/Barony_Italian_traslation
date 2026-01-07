@@ -1,0 +1,448 @@
+{
+	"version": 1,
+	"contents": [
+		{
+			"    ARMATURE": "-"
+		},
+		{
+			"SCUDI": "shields"
+		},
+		{
+			"ARMATURE DI CUOIO": "leather armor"
+		},
+		{
+			"ARMATURE DI FERRO": "iron armor"
+		},
+		{
+			"ARMATURE D'ACCIAIO": "steel armor"
+		},
+		{
+			"ARMATURE DI CRISTALLO": "crystal armor"
+		},
+		{
+			"ELMO DELLA SFINGE": "sphinxs casque"
+		},
+		{
+			"CALZARI DELL'ORACOLO": "oracles treads"
+		},
+		{
+			"BRACCIALE DEL GENIO": "djinnis brace"
+		},
+		{
+			"MAGLIA DEL DRAGO": "dragons mail"
+		},
+		{
+			"VESTE DELLO SPETTRO": "wraiths gown"
+		},
+		{
+			"    VESTITI": "-"
+		},
+		{
+			"CAPPELLI & CAPPUCCI": "hats & hoods"
+		},
+		{
+			"CORONE & COPRICAPI": "crowns & headdresses"
+		},
+		{
+			"ACCESSORI VISO": "face accessories"
+		},
+		{
+			"MASCHERE & VISIERE": "masks & visors"
+		},
+		{
+			"MANTELLI & CAMICIE": "cloaks & clothing"
+		},
+		{
+			"ZAINI": "backpacks"
+		},
+		{
+			"    ARMI DA MISCHIA": "-"
+		},
+		{
+			"SPADE": "swords"
+		},
+		{
+			"ASCE": "axes"
+		},
+		{
+			"MAZZE": "maces"
+		},
+		{
+			"ARMI SU ASTA": "polearms"
+		},
+		{
+			"DYRNWYN": "dyrnwyn"
+		},
+		{
+			"PARASHU": "parashu"
+		},
+		{
+			"SHARUR": "sharur"
+		},
+		{
+			"GUNGNIR": "gungnir"
+		},
+		{
+			"ARMI DA PUGNO": "fist weapons"
+		},
+		{
+			"FRUSTA": "whip"
+		},
+		{
+			"    ARMI A DISTANZA": "-"
+		},
+		{
+			"FIONDA": "slingshot"
+		},
+		{
+			"ARCHI": "bows"
+		},
+		{
+			"BALESTRA": "crossbow"
+		},
+		{
+			"ARBALEST": "arbalest"
+		},
+		{
+			"KHRYSELAKATOS": "khryselakatos"
+		},
+		{
+			"MUNIZIONI RAPIDE & SPRINGSHOT": "swift and springshot ammo"
+		},
+		{
+			"MUNIZIONI ARGENTO & PERFORANTI": "silver and piercing ammo"
+		},
+		{
+			"MUNIZIONI FUOCO & CACCIA": "fire and hunting ammo"
+		},
+		{
+			"MUNIZIONI CRISTALLO": "crystal ammo"
+		},
+		{
+			"    ARMI DA LANCIO": "-"
+		},
+		{
+			"TOMAHAWK & PUGNALI": "tomahawks & daggers"
+		},
+		{
+			"CHAKRAM & SHURIKEN": "chakrams and shurikens"
+		},
+		{
+			"BOOMERANG": "boomerang"
+		},
+		{
+			"    CRISTALLI": "-"
+		},
+		{
+			"ROCCE & GEMME": "rocks & gems"
+		},
+		{
+			"FRAMMENTO CRISTALLO": "crystal shard"
+		},
+		{
+			"SFERA MISTICA": "mystic orb"
+		},
+		{
+			"    CIBO": "-"
+		},
+		{
+			"BOCCONI": "cheese and apples"
+		},
+		{
+			"TORTA ALLA CREMA": "cream pie"
+		},
+		{
+			"TOMALLEY": "tomalley"
+		},
+		{
+			"PASTI": "meat, fish, and bread"
+		},
+		{
+			"SCATOLETTE & APRISCATOLE": "tin and tin opener"
+		},
+		{
+			"FIALE DI SANGUE": "blood vials"
+		},
+		{
+			"    POZIONI & BEVANDE": "-"
+		},
+		{
+			"ACQUA": "water"
+		},
+		{
+			"BOTTIGLIA VUOTA": "empty bottle"
+		},
+		{
+			"POZIONI DIFENSIVE": "defensive potions"
+		},
+		{
+			"POZIONI OFFENSIVE": "offensive potions"
+		},
+		{
+			"ALAMBICCO": "alembic"
+		},
+		{
+			"    STRUMENTI": "-"
+		},
+		{
+			"TORCE & LANTERNE": "torch and lantern"
+		},
+		{
+			"SPECCHI": "mirrors"
+		},
+		{
+			"ASCIUGAMANO": "towel"
+		},
+		{
+			"PICCONE": "mining pick"
+		},
+		{
+			"KIT INGEGNERIA": "tinkering kit"
+		},
+		{
+			"GRIMALDELLO": "lockpick"
+		},
+		{
+			"CHIAVE UNIVERSALE": "skeleton key"
+		},
+		{
+			"    CONGEGNI": "-"
+		},
+		{
+			"TRAPPOLA PER ORSI": "beartrap"
+		},
+		{
+			"ESCA SONORA": "noisemaker"
+		},
+		{
+			"AUTOMA MANICHINO": "dummybot"
+		},
+		{
+			"AUTOMA SENTINELLA & MAGICO": "sentrybot and magic sentry"
+		},
+		{
+			"AUTOMA GIRO": "gyrobot"
+		},
+		{
+			"TRAPPOLE COSTRUITE": "tinkered traps"
+		},
+		{
+			"TRAPPOLA TELETRASPORTO": "teleportation trap"
+		},
+		{
+			"    ALTRO": "-"
+		},
+		{
+			"POSTA & LIBRI": "mail & lore books"
+		},
+		{
+			"SCATOLA MORTE": "death box"
+		}
+	],
+	"contents_alphabetical": [
+		{
+			"ACCESSORI VISO": "face accessories"
+		},
+		{
+			"ACQUA": "water"
+		},
+		{
+			"ALAMBICCO": "alembic"
+		},
+		{
+			"ARBALEST": "arbalest"
+		},
+		{
+			"ARCHI": "bows"
+		},
+		{
+			"ARMI DA PUGNO": "fist weapons"
+		},
+		{
+			"ARMI SU ASTA": "polearms"
+		},
+		{
+			"ARMATURE DI CRISTALLO": "crystal armor"
+		},
+		{
+			"ARMATURE DI CUOIO": "leather armor"
+		},
+		{
+			"ARMATURE DI FERRO": "iron armor"
+		},
+		{
+			"ARMATURE D'ACCIAIO": "steel armor"
+		},
+		{
+			"ASCE": "axes"
+		},
+		{
+			"ASCIUGAMANO": "towel"
+		},
+		{
+			"AUTOMA GIRO": "gyrobot"
+		},
+		{
+			"AUTOMA MANICHINO": "dummybot"
+		},
+		{
+			"AUTOMA SENTINELLA & MAGICO": "sentrybot and magic sentry"
+		},
+		{
+			"BALESTRA": "crossbow"
+		},
+		{
+			"BOCCONI": "cheese and apples"
+		},
+		{
+			"BOOMERANG": "boomerang"
+		},
+		{
+			"BOTTIGLIA VUOTA": "empty bottle"
+		},
+		{
+			"BRACCIALE DEL GENIO": "djinnis brace"
+		},
+		{
+			"CALZARI DELL'ORACOLO": "oracles treads"
+		},
+		{
+			"CAPPELLI & CAPPUCCI": "hats & hoods"
+		},
+		{
+			"CHAKRAM & SHURIKEN": "chakrams and shurikens"
+		},
+		{
+			"CHIAVE UNIVERSALE": "skeleton key"
+		},
+		{
+			"CORONE & COPRICAPI": "crowns & headdresses"
+		},
+		{
+			"DYRNWYN": "dyrnwyn"
+		},
+		{
+			"ELMO DELLA SFINGE": "sphinxs casque"
+		},
+		{
+			"ESCA SONORA": "noisemaker"
+		},
+		{
+			"FIALE DI SANGUE": "blood vials"
+		},
+		{
+			"FIONDA": "slingshot"
+		},
+		{
+			"FRAMMENTO CRISTALLO": "crystal shard"
+		},
+		{
+			"FRUSTA": "whip"
+		},
+		{
+			"GRIMALDELLO": "lockpick"
+		},
+		{
+			"GUNGNIR": "gungnir"
+		},
+		{
+			"KHRYSELAKATOS": "khryselakatos"
+		},
+		{
+			"KIT INGEGNERIA": "tinkering kit"
+		},
+		{
+			"MAGLIA DEL DRAGO": "dragons mail"
+		},
+		{
+			"MANTELLI & CAMICIE": "cloaks & clothing"
+		},
+		{
+			"MASCHERE & VISIERE": "masks & visors"
+		},
+		{
+			"MAZZE": "maces"
+		},
+		{
+			"MUNIZIONI ARGENTO & PERFORANTI": "silver and piercing ammo"
+		},
+		{
+			"MUNIZIONI CRISTALLO": "crystal ammo"
+		},
+		{
+			"MUNIZIONI FUOCO & CACCIA": "fire and hunting ammo"
+		},
+		{
+			"MUNIZIONI RAPIDE & SPRINGSHOT": "swift and springshot ammo"
+		},
+		{
+			"PARASHU": "parashu"
+		},
+		{
+			"PASTI": "meat, fish, and bread"
+		},
+		{
+			"PICCONE": "mining pick"
+		},
+		{
+			"POSTA & LIBRI": "mail & lore books"
+		},
+		{
+			"POZIONI DIFENSIVE": "defensive potions"
+		},
+		{
+			"POZIONI OFFENSIVE": "offensive potions"
+		},
+		{
+			"ROCCE & GEMME": "rocks & gems"
+		},
+		{
+			"SCATOLA MORTE": "death box"
+		},
+		{
+			"SCATOLETTE & APRISCATOLE": "tin and tin opener"
+		},
+		{
+			"SCUDI": "shields"
+		},
+		{
+			"SFERA MISTICA": "mystic orb"
+		},
+		{
+			"SHARUR": "sharur"
+		},
+		{
+			"SPADE": "swords"
+		},
+		{
+			"SPECCHI": "mirrors"
+		},
+		{
+			"TOMAHAWK & PUGNALI": "tomahawks & daggers"
+		},
+		{
+			"TOMALLEY": "tomalley"
+		},
+		{
+			"TORCE & LANTERNE": "torch and lantern"
+		},
+		{
+			"TORTA ALLA CREMA": "cream pie"
+		},
+		{
+			"TRAPPOLA PER ORSI": "beartrap"
+		},
+		{
+			"TRAPPOLA TELETRASPORTO": "teleportation trap"
+		},
+		{
+			"TRAPPOLE COSTRUITE": "tinkered traps"
+		},
+		{
+			"VESTE DELLO SPETTRO": "wraiths gown"
+		},
+		{
+			"ZAINI": "backpacks"
+		}
+	]
+}

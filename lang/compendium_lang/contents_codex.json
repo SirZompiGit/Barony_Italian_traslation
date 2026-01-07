@@ -1,0 +1,319 @@
+{
+	"version": 1,
+	"contents": [
+		{
+			"    PERSONAGGIO": "-"
+		},
+		{
+			"PANORAMICA CLASSE": "class"
+		},
+		{
+			"CLASSI": "classes list"
+		},
+		{
+			"RAZZA & ALLINEAMENTO": "races"
+		},
+		{
+			"PUNTI ESPERIENZA (XP)": "xp"
+		},
+		{
+			"LIVELLARE": "leveling up"
+		},
+		{
+			"STATISTICHE & META": "stats metastats"
+		},
+		{
+			"ABILITA'": "skills"
+		},
+		{
+			"    AZIONI": "-"
+		},
+		{
+			"ATTACCHI MISCHIA": "melee"
+		},
+		{
+			"COLPI CRITICI": "crits"
+		},
+		{
+			"COLPI AI FIANCHI": "flanking"
+		},
+		{
+			"COLPI ALLE SPALLE": "backstabs"
+		},
+		{
+			"FURTIVITA'": "sneaking"
+		},
+		{
+			"COLPI LEGGENDARI": "legendary strikes"
+		},
+		{
+			"PARARE": "blocking"
+		},
+		{
+			"SCHIVATA E RITIRATA": "strafing"
+		},
+		{
+			"LANCIO A MEMORIA": "memorized"
+		},
+		{
+			"LANCIO DA LIBRO": "spellbook casting"
+		},
+		{
+			"ATTACCHI A DISTANZA": "missiles"
+		},
+		{
+			"ATTACCHI DA LANCIO": "thrown"
+		},
+		{
+			"USURA OGGETTI": "equipment degradation"
+		},
+		{
+			"STATO RICERCATO": "wanted"
+		},
+		{
+			"    STATISTICHE & META": "-"
+		},
+		{
+			"FORZA (STR)": "str"
+		},
+		{
+			"DESTREZZA (DEX)": "dex"
+		},
+		{
+			"COSTITUZIONE (CON)": "con"
+		},
+		{
+			"INTELLIGENZA (INT)": "int"
+		},
+		{
+			"PERCEZIONE (PER)": "per"
+		},
+		{
+			"CARISMA (CHR)": "chr"
+		},
+		{
+			"CLASSE ARMATURA (AC)": "ac"
+		},
+		{
+			"PUNTI SALUTE (HP)": "hp"
+		},
+		{
+			"PUNTI MAGIA (MP)": "mp"
+		},
+		{
+			"RESISTENZA MAGICA (RES)": "res"
+		},
+		{
+			"POTERE MAGICO (PWR)": "pwr"
+		},
+		{
+			"RIGENERAZIONE (RGN)": "rgn"
+		},
+		{
+			"PESO (WGT)": "wgt"
+		},
+		{
+			"    ABILITA'": "-"
+		},
+		{
+			"ABILITA' SPADA": "sword skill"
+		},
+		{
+			"ABILITA' ASCIA": "axe skill"
+		},
+		{
+			"ABILITA' ASTA": "polearm skill"
+		},
+		{
+			"ABILITA' MAZZA": "mace skill"
+		},
+		{
+			"ABILITA' DISARMATO": "unarmed skill"
+		},
+		{
+			"ABILITA' FURTIVITA'": "stealth skill"
+		},
+		{
+			"ABILITA' PARATA": "blocking skill"
+		},
+		{
+			"ABILITA' TIRO": "ranged skill"
+		},
+		{
+			"ABILITA' MAGIA": "magic skill"
+		},
+		{
+			"ABILITA' LANCIO": "casting skill"
+		},
+		{
+			"ABILITA' VALUTAZIONE": "appraisal skill"
+		},
+		{
+			"ABILITA' NUOTO": "swimming skill"
+		},
+		{
+			"ABILITA' LEADERSHIP": "leadership skill"
+		},
+		{
+			"ABILITA' COMMERCIO": "trading skill"
+		},
+		{
+			"ABILITA' ALCHIMIA": "alchemy skill"
+		},
+		{
+			"ABILITA' INGEGNERIA": "tinkering skill"
+		}
+	],
+	"contents_alphabetical": [
+		{
+			"ABILITA'": "skills"
+		},
+		{
+			"ABILITA' ALCHIMIA": "alchemy skill"
+		},
+		{
+			"ABILITA' ASCIA": "axe skill"
+		},
+		{
+			"ABILITA' ASTA": "polearm skill"
+		},
+		{
+			"ABILITA' COMMERCIO": "trading skill"
+		},
+		{
+			"ABILITA' DISARMATO": "unarmed skill"
+		},
+		{
+			"ABILITA' FURTIVITA'": "stealth skill"
+		},
+		{
+			"ABILITA' INGEGNERIA": "tinkering skill"
+		},
+		{
+			"ABILITA' LANCIO": "casting skill"
+		},
+		{
+			"ABILITA' LEADERSHIP": "leadership skill"
+		},
+		{
+			"ABILITA' MAGIA": "magic skill"
+		},
+		{
+			"ABILITA' MAZZA": "mace skill"
+		},
+		{
+			"ABILITA' NUOTO": "swimming skill"
+		},
+		{
+			"ABILITA' PARATA": "blocking skill"
+		},
+		{
+			"ABILITA' SPADA": "sword skill"
+		},
+		{
+			"ABILITA' TIRO": "ranged skill"
+		},
+		{
+			"ABILITA' VALUTAZIONE": "appraisal skill"
+		},
+		{
+			"ATTACCHI A DISTANZA": "missiles"
+		},
+		{
+			"ATTACCHI DA LANCIO": "thrown"
+		},
+		{
+			"ATTACCHI MISCHIA": "melee"
+		},
+		{
+			"CARISMA (CHR)": "chr"
+		},
+		{
+			"CLASSE": "class"
+		},
+		{
+			"CLASSE ARMATURA (AC)": "ac"
+		},
+		{
+			"COLPI AI FIANCHI": "flanking"
+		},
+		{
+			"COLPI ALLE SPALLE": "backstabs"
+		},
+		{
+			"COLPI CRITICI": "crits"
+		},
+		{
+			"COLPI LEGGENDARI": "legendary strikes"
+		},
+		{
+			"COSTITUZIONE (CON)": "con"
+		},
+		{
+			"DESTREZZA (DEX)": "dex"
+		},
+		{
+			"FORZA (STR)": "str"
+		},
+		{
+			"FURTIVITA'": "sneaking"
+		},
+		{
+			"INTELLIGENZA (INT)": "int"
+		},
+		{
+			"LANCIO A MEMORIA": "memorized"
+		},
+		{
+			"LANCIO DA LIBRO": "spellbook casting"
+		},
+		{
+			"LISTA CLASSI": "classes list"
+		},
+		{
+			"LIVELLARE": "leveling up"
+		},
+		{
+			"PARARE": "blocking"
+		},
+		{
+			"PERCEZIONE (PER)": "per"
+		},
+		{
+			"PESO (WGT)": "wgt"
+		},
+		{
+			"POTERE MAGICO (PWR)": "pwr"
+		},
+		{
+			"PUNTI ESPERIENZA (XP)": "xp"
+		},
+		{
+			"PUNTI MAGIA (MP)": "mp"
+		},
+		{
+			"PUNTI SALUTE (HP)": "hp"
+		},
+		{
+			"RAZZA & ALLINEAMENTO": "races"
+		},
+		{
+			"RESISTENZA MAGICA (RES)": "res"
+		},
+		{
+			"RIGENERAZIONE (RGN)": "rgn"
+		},
+		{
+			"SCHIVATA E RITIRATA": "strafing"
+		},
+		{
+			"STATISTICHE & META": "stats metastats"
+		},
+		{
+			"STATO RICERCATO": "wanted"
+		},
+		{
+			"USURA OGGETTI": "equipment degradation"
+		}
+	]
+}

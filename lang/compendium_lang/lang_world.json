@@ -1,0 +1,2857 @@
+{
+    "arcane citadel": {
+        "blurb": [
+            "Costruita secondo un piano architettonico",
+            "magistrale, la CITTADELLA e' disposta come",
+            "se fosse una grande universita'.",
+            "",
+            "Solo l'accesso a magia estremamente potente",
+            "puo' giustificare la sua grandezza."
+        ],
+        "details": [
+            "ABITANTI:",
+            "Uomini Capra, Automi, Incubi,",
+            "Vampiri, Golem Cristallo, Coccatrici,",
+            "Ombre",
+            "",
+            "Questa struttura rigidamente organizzata",
+            "puo' essere piu' difficile da navigare",
+            "di altri dungeon e labirinti",
+            "a causa di cancelli chiusi e vicoli ciechi.",
+            "",
+            "Una buona fonte di scavo e l'incantesimo apri",
+            "puo' semplificare l'esplorazione notevolmente.",
+            "",
+            "Fai attenzione a non essere messo all'angolo",
+            "da grandi nemici come coccatrice e golem."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "arrow trap": {
+        "blurb": [
+            "Prima pensate essere create dai goblin,",
+            "questi complessi meccanismi sono ora noti",
+            "precederli.",
+            "",
+            "Tuttavia, sono stati riutilizzati da",
+            "ingegnosi artigiani goblin."
+        ],
+        "details": [
+            "A meno che il dungeon sia innaturalmente,",
+            "buio, le trappole a freccia hanno sempre due",
+            "torce fissate sulla faccia.",
+            "",
+            "Ogni trappola e' riempita con un tipo",
+            "casuale di munizioni per affliggere il bersaglio.",
+            "Queste munizioni possono essere rubate usando un",
+            "grimaldello, se l'utente e' abile",
+            "nel tinkering, disabilitando la trappola.",
+            "",
+            "Le trappole a freccia possono anche essere disarmate",
+            "lanciando un oggetto davanti alla trappola.",
+            "Possono sparare frecce solo cinque volte."
+        ],
+        "details_line_highlights": []
+    },
+    "bell": {
+        "blurb": [
+            "Molte citta' e paesi fanno uso di CAMPANE",
+            "per attirare l'attenzione degli abitanti,",
+            "sollevando gli spiriti per eventi collettivi.",
+            "",
+            "Vecchie campane che non sono state mantenute",
+            "a volte falliranno spettacolarmente."
+        ],
+        "details": [
+            "TROVATA IN:",
+            "- Le Rovine",
+            "- La Cittadella",
+            "",
+            "EFFETTI USO CAMPANA:",
+            "- Stamina (1 Minuto)",
+            "- Agilita' (1 Minuto)",
+            "- Mentalita' (1 Minuto)",
+            "- Forza (1 Minuto)",
+            "- Ripristino HP/MP",
+            "- Attrae NPC entro 15 caselle",
+            "",
+            "POSSIBILITA' SPAWN:",
+            "- 25% Libro magico nascosto dentro",
+            "- 25% Oro nascosto dentro",
+            "- 25% Pipistrelli nascosti dentro",
+            "",
+            "E' di solito una buona idea suonare una campana,",
+            "se non hai paura di combattere!",
+            "Ogni campana fornira' sempre lo stesso",
+            "effetto a coloro che sono abbastanza vicini",
+            "da essere ispirati dalla sua canzone. Stare cosi'",
+            "vicino non e' senza rischio, poiche' pipistrelli",
+            "possono uscire o la struttura puo' fallire",
+            "inaspettatamente!",
+            "",
+            "Campane cadenti infliggono 80 danni a coloro",
+            "presi nel suo percorso. La campana bassa",
+            "puo' anche essere usata per infliggere danno",
+            "a un minotauro troppo sicuro."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {},
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {},
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "boulder trap": {
+        "blurb": [
+            "Annunciate da buchi scuri nel soffitto,",
+            "alcuni dicono che le enormi pietre sono il risultato",
+            "di crolli da terra scavata.",
+            "",
+            "Altri teorizzano che sono una",
+            "punizione dagli dei stessi."
+        ],
+        "details": [
+            "I massi infliggono 80 danni, indipendentemente",
+            "dall'armatura o costituzione della vittima.",
+            "Se non sono uccisi da un masso, esso",
+            "si frantumera' in diverse rocce.",
+            "",
+            "I massi rotoleranno solo dritto",
+            "Nord, Sud, Est o Ovest.",
+            "",
+            "I massi che bloccherebbero l'uscita",
+            "sono frantumati dagli dei, lasciando",
+            "dietro una roccia fortunata nelle macerie.",
+            "",
+            "La maggior parte delle trappole a masso puo'",
+            "essere attivata lanciando un oggetto sotto."
+        ],
+        "details_line_highlights": []
+    },
+    "brams castle": {
+        "blurb": [
+            "Sebbene inaccessibile con mezzi mondani,",
+            "questo maniero giace da qualche parte nelle profondita'",
+            "dei macchinari della Cittadella. Sembra che",
+            "agli immortali piacciano i propri spazi lontano",
+            "da occhi indiscreti."
+        ],
+        "details": [
+            "TESORI LIVELLO SEGRETO:",
+            "- Veste dello Spettro",
+            "",
+            "Il Castello di Bram e' piu' una casa e",
+            "meno una fortezza. Mentre i suoi servi",
+            "combatteranno, gli avventurieri avranno",
+            "l'opportunita' di gestire ogni",
+            "stanza, affrontando eventualmente il vampiro",
+            "in cima al castello.",
+            "",
+            "Fai attenzione a non lasciare che i corridoi",
+            "stretti ti sopraffanno. Sii avvertito che i",
+            "piani superiori sono off-limits per molti",
+            "seguaci bestiali."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "breakable barriers": {
+        "blurb": [
+            "Alcune barriere possono apparire invalicabili",
+            "all'inizio, ma la loro integrita' e' tale",
+            "che pochi colpi forti possono aprire",
+            "la via. A seconda del materiale,",
+            "hanno diverse debolezze."
+        ],
+        "details": [
+            "TIPI BARRIERA:",
+            "- Legno",
+            "   Infiammabile, subisce danno extra",
+            "   da asce e attacchi disarmati.",
+            "- Mattoni & Pietra",
+            "   Subisce danno extra da mazze.",
+            "- Cordame (ragnatele e boscaglia)",
+            "   Infiammabile, subisce danno extra",
+            "   da asce e spade.",
+            "",
+            "Tutti i tipi di barriera frangibile subiscono",
+            "danno pieno da incantesimi di forza, fulmine",
+            "e fuoco, ma sono",
+            "immuni al freddo."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "brimstone boulder": {
+        "blurb": [
+            "I massi sono abbastanza minacciosi,",
+            "ma vene di zolfo permettono a questa",
+            "varieta' infernale di rotolare sulla lava.",
+            "Detoneranno anche in una",
+            "esplosione infuocata al contatto.",
+            "EVITARE."
+        ],
+        "details": [
+            "Evocare massi di zolfo e'",
+            "un potere unico di Baphomet, infliggendo",
+            "50 danni indipendentemente dall'armatura",
+            "o costituzione della vittima.",
+            "",
+            "All'impatto, i massi di zolfo",
+            "esplodono in una colonna di fiamme",
+            "infliggendo danno magico addizionale.",
+            "",
+            "Sul trono fuso, questi danno",
+            "a Baphomet un particolare vantaggio, poiche' le",
+            "pozze di lava che usa per traversare",
+            "non sono piu' ripari dalla",
+            "distruzione rotolante.",
+            "",
+            "Un avventuriero che levita puo'",
+            "comunque evitare i massi,",
+            "mentre continuano a schiacciare",
+            "attraverso i servitori stessi",
+            "che ha evocato."
+        ],
+        "details_line_highlights": []
+    },
+    "ceiling trap": {
+        "blurb": [
+            "Attingendo direttamente all'energia magica",
+            "dai soffitti densi di cristallo, questi",
+            "sistemi di sicurezza possono ostacolare invasori",
+            "con quasi nessun costo di manutenzione.",
+            "",
+            "Un'innovazione disponibile in diverse varieta'."
+        ],
+        "details": [
+            "TIPI TRAPPOLA SOFFITTO:",
+            "- Dardo di forza",
+            "- Freddo",
+            "- Palla di fuoco",
+            "- Fulmine",
+            "- Dardo incantato",
+            "- Sonno",
+            "- Lentezza",
+            "- Confusione",
+            "",
+            "Sebbene simili alle trappole magiche, la",
+            "trappola a soffitto non puo' essere distrutta.",
+            "",
+            "Oggetti caduti possono ingannare la trappola, ma",
+            "sparera' continuamente. Il tempo tra",
+            "ogni incantesimo permette di schivare attraverso."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "chest": {
+        "blurb": [
+            "I FORZIERI possono contenere tesori preziosi che",
+            "aiuteranno gli avventurieri. L'equipaggiamento all'interno",
+            "non e' mai maledetto. Sfortunatamente, prima",
+            "di aprire, i forzieri sono indistinguibili",
+            "dai mimic."
+        ],
+        "details": [
+            "TIPI FORZIERE:",
+            "- 13.5% Armi e Armature",
+            "- 13.5% Pergamene e Forniture Magiche",
+            "- 13.5% Pozioni e Forniture Alchemiche",
+            "- 13.5% Strumenti e Forniture Tinkering",
+            "- 13.5% Gioielli e Gioielli Incantati",
+            "- 13.5% Cibo",
+            "- 13.5% Oggetti Casuali",
+            "- 5.5% Vuoto/Spazzatura",
+            "",
+            "Gli oggetti trovati dentro i forzieri sono solitamente",
+            "di una qualita' superiore a quelli trovati",
+            "sparsi lungo i pavimenti del dungeon,",
+            "spesso non maledetti.",
+            "",
+            "I forzieri hanno solitamente un 10% di possibilita'",
+            "di essere chiusi a chiave e un 10% di possibilita'",
+            "di essere mimic.",
+            "",
+            "Quando sbloccati con abilita' tinkering",
+            "usando un grimaldello, il meccanismo di",
+            "blocco di un forziere e' recuperato, producendo",
+            "scarti magici e di metallo nel forziere."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "citadel sanctum": {
+        "blurb": [
+            "Nel nucleo della Cittadella, la sua natura",
+            "e' rivelata come un gigantesco dispositivo magico,",
+            "creato per aprire varchi verso un'altra",
+            "dimensione con magia proibita.",
+            "",
+            "I suoi creatori lo proteggeranno a tutti i costi."
+        ],
+        "details": [
+            "Orpheus ed Erudyce avevano sostanziale",
+            "talento magico che Herx non ebbe mai quando",
+            "ricevette i poteri malvagi che",
+            "lo trasformarono in un lich.",
+            "",
+            "Aspettati che questa coppia sia molto piu'",
+            "formidabile con i loro incantesimi in combattimento,",
+            "specialmente con la loro piu' recente",
+            "sottomissione alla magia malvagia.",
+            "",
+            "Gli incantesimi di freddo di Erudyce renderanno piu' facile",
+            "per suo fratello prenderti in mischia!",
+            "",
+            "Ogni fratello diventera' infuriato se",
+            "la loro controparte e' uccisa, migliorando",
+            "la loro prodezza in combattimento. Pensa avanti!"
+        ],
+        "details_line_highlights": []
+    },
+    "cockatrice lair": {
+        "blurb": [
+            "Mentre nessuna simbiosi tra queste creature",
+            "squamose e' nota, Coccatrici e",
+            "Coboldi sono storicamente raffigurati",
+            "insieme dall'arte tribale Cobolda. Si",
+            "pensa che adorino le bestie."
+        ],
+        "details": [
+            "TESORI LIVELLO SEGRETO:",
+            "- Cotta di Drago",
+            "",
+            "Questo labirinto coboldo ferocemente sorvegliato",
+            "e' il piu' grande esempio noto della",
+            "loro ingegnosita' e cultura.",
+            "",
+            "Pieno di trappole e puzzle,",
+            "questo covo e' progettato per tenere gli intrusi",
+            "fuori.",
+            "",
+            "Forti incantamenti prevengono",
+            "teletrasporto, scavo, apertura, e levitazione.",
+            "Coloro che cercano tesoro devono navigare",
+            "questi tunnel alla vecchia maniera, e sperare",
+            "di poter fuggire."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "containers": {
+        "blurb": [
+            "Gli abitanti del dungeon spesso raccolgono",
+            "averi in contenitori o",
+            "li nascondono in posti riparati.",
+            "",
+            "Oro e oggetti possono essere trovati quando",
+            "si rompono oggetti fragili aperti."
+        ],
+        "details": [
+            "Il contenuto di un contenitore frangibile",
+            "varia grandemente a seconda di dove e'",
+            "trovato.",
+            "",
+            "Cio' che rimane piu' consistente e' una",
+            "manciata di monete, o un oggetto casuale",
+            "nascosto via.",
+            "",
+            "Raramente, una piccola creatura, o anche un",
+            "piccolo gruppo puo' essere nascosto dentro per",
+            "riparo."
+        ],
+        "details_line_highlights": []
+    },
+    "crystal caves": {
+        "blurb": [
+            "Mentre questa ricca fonte di cristallo estremamente",
+            "raro fu scoperta solo di recente,",
+            "gli arcimagistri della Gilda dei Maghi",
+            "la sigillarono velocemente, per la sicurezza",
+            "di Hamlet, ovviamente."
+        ],
+        "details": [
+            "ABITANTI:",
+            "Coboldi, Scarabei, Insettoidi,",
+            "Automi, Incubi, Golem di Cristallo,",
+            "Coccatrici",
+            "",
+            "NUOVA TRAPPOLA:",
+            "Trappola a Soffitto",
+            "",
+            "Il cristallo dentro queste caverne da'",
+            "a molti dei suoi abitanti intenso potere",
+            "oltre cio' che e' naturalmente possibile.",
+            "",
+            "Avventurieri sicuri di se' che vengono",
+            "dalle rovine sarebbero saggi ad esercitare",
+            "maggiore cautela con nuovi nemici."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {},
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "daedalus": {
+        "blurb": [
+            "Strettamente legati al minotauro,",
+            "i SANTUARI DI DAEDALUS sembrano essere",
+            "sempre vicini quando il minotauro e' a caccia.",
+            "",
+            "Avventurieri scaltri possono toccarli per",
+            "rivelare speranza per una fuga veloce."
+        ],
+        "details": [
+            "Questi santuari girano per indicare",
+            "l'uscita primaria se toccati, inviando un",
+            "raggio divino in quella direzione.",
+            "Questo rivela anche la mappa tra il",
+            "santuario e l'uscita!",
+            "",
+            "Se attivato entro 30 secondi dal",
+            "arrivo del minotauro, il santuario potenzia",
+            "la fuga dell'utente con una addizionale",
+            "benedizione di velocita'.",
+            "",
+            "Avventurieri che esplorano insieme possono",
+            "trovare piu' fiducia nel dividersi",
+            "dove il minotauro e' noto per",
+            "cacciare, grazie a coloro che onorano",
+            "Daedalus."
+        ],
+        "details_line_highlights": []
+    },
+    "door": {
+        "blurb": [
+            "Si apre, si chiude, e",
+            "a volte puo' essere chiusa a chiave!",
+            "",
+            "A differenza del cancello testardo, le PORTE",
+            "possono essere scassinate o sfondate. I mostri",
+            "sfondano porte, se troppo stupidi per aprirle."
+        ],
+        "details": [
+            "Mentre l'incantesimo blocco puo' prevenire",
+            "i mostri dall'aprire porte facilmente,",
+            "la maggior parte non ha problemi a sfondarle",
+            "comunque.",
+            "Le porte non sono un modo affidabile per tenere",
+            "fuori i mostri, anche se chiuse.",
+            "",
+            "Scassinare una porta sigillata e' solitamente",
+            "piu' veloce che sfondarla, fornendo",
+            "pratica per l'abilita' tinkering.",
+            "",
+            "Le porte subiscono danno extra da asce",
+            "o colpi disarmati, se allenati.",
+            "Incantesimi dannosi possono anche essere efficaci."
+        ],
+        "details_line_highlights": []
+    },
+    "fountain": {
+        "blurb": [
+            "Acque di FONTANA rinfrescano o applicano magia",
+            "a un avventuriero. Sono anche note",
+            "per evocare una succube o incubus.",
+            "",
+            "La magia non viene senza pericolo."
+        ],
+        "details": [
+            "POSSIBILITA' USO FONTANA:",
+            "- 40% Applica Effetto Pozione Casuale",
+            "- 30% Ripristina 5 HP, +Sazieta'",
+            "- 10% Evoca Succube/Incubus:",
+            "    Livello 1-10:",
+            "        - Succube (100%)",
+            "    Livello 11-20/Oltretomba:",
+            "        - Succube (50%)",
+            "        - Lesser Incubus (50%)",
+            "    Livello 21+:",
+            "        - Incubus (100%)",
+            "- 7.5% Benedici 1 Equipaggiamento Indossato",
+            "- 2.5% Benedici Tutto Equipaggiamento",
+            "",
+            "Coloro abili in alchimia evitano la",
+            "evocazione di un foocubus quando riempiono",
+            "una bottiglia con liquidi di fontana.",
+            "",
+            "La presenza ultraterrena causa il",
+            "riempimento della fontana, permettendo multipli",
+            "tentativi per raccogliere piu' pozioni."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "gnomish mines": {
+        "blurb": [
+            "Se le miniere sotto Hamlet hanno mai avuto",
+            "oro, storie su di esso potrebbero essere iniziate qui.",
+            "",
+            "Quando un debito di gnomi discende sulla caccia",
+            "per ricchezze, la loro avidita' non puo' essere soddisfatta."
+        ],
+        "details": [
+            "TESORI LIVELLO SEGRETO:",
+            "- Elmo della Sfinge",
+            "- Dozzine di vene d'oro da minare",
+            "",
+            "La piu' grande ricompensa da trovare",
+            "qui potrebbe essere l'esperienza guadagnata",
+            "dall'uccidere cosi' tanti gnomi!",
+            "",
+            "I bastoni fulminanti portati dagli",
+            "gnomi sono letali, ma appropriate",
+            "imboscate possono mettere i bastoni nelle",
+            "mani degli avventurieri, e girare",
+            "le sorti in loro favore.",
+            "Sii furtivo per sopravvivere."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "gravestone": {
+        "blurb": [
+            "Spesso scolpita con epitaffi, una LAPIDE",
+            "puo' risultare in un ghoul che sorge dalla",
+            "terra quando disturbata. Alcuni avventurieri",
+            "amano l'opportunita' di uccidere, o",
+            "forse fare amicizia, con i non morti emergenti."
+        ],
+        "details": [
+            "POSSIBILITA' USO LAPIDE:",
+            "- 25% Disturba Ghoul",
+            "    Livello 1-15:",
+            "        - Ghoul",
+            "    Livello 16+/Castello Infestato:",
+            "        - Ghoul Schiavizzato",
+            "",
+            "Se un ghoul non e' disturbato leggendo",
+            "l'epitaffio della lapide, essa altrimenti",
+            "agisce solo come ostacolo.",
+            "",
+            "Se una trappola o puzzle attiva una",
+            "lapide, produrra' sempre",
+            "un ghoul non morto."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "hall of trials": {
+        "blurb": [
+            "Fondata da avventurieri non affiliati,",
+            "la SALA DELLE PROVE fu stabilita poco",
+            "dopo l'imprigionamento di Herx nel Bastione",
+            "dei Diavoli. Nessuno sa cosa ne fu dei",
+            "suoi benefattori."
+        ],
+        "details": [
+            "Mentre alcuni avventurieri cercano di guadagnare",
+            "diplomi dalla Sala delle Prove tutti",
+            "in una volta, molti preferiscono rivisitare la",
+            "misteriosa accademia di tanto in tanto,",
+            "padroneggiando discipline gradualmente.",
+            "",
+            "La cosa piu' grande da guadagnare qui",
+            "e' la conoscenza. Premi per studenti possono",
+            "aprire piu' opportunita' di apprendimento.",
+            "",
+            "Mentre nessuna singola gilda l'ha costruita,",
+            "la Sala delle Prove e' il primo sforzo",
+            "del movimento di gilde unite,",
+            "il cui obiettivo e' sconfiggere il caos."
+        ],
+        "details_line_highlights": []
+    },
+    "hamlet": {
+        "blurb": [
+            "La reclamata HAMLET e' stata",
+            "frettolosamente rinnovata dai recenti",
+            "prigionieri liberati delle miniere.",
+            "",
+            "In questo distretto vicino all'Ingresso,",
+            "la Gilda dei Maghi detiene alta preminenza."
+        ],
+        "details": [
+            "Eroi amichevoli hanno impareggiabile",
+            "accesso a questi tipi di negozi di Hamlet:",
+            "- 2x Armi & Armature",
+            "- Emporio",
+            "- Gioielliere",
+            "- Bastoni Magici",
+            "- Libreria",
+            "- Alchimista",
+            "- Gastronomia",
+            "",
+            "Mostri che viaggiano ad Hamlet saranno",
+            "attaccati a vista. La stanza della locanda",
+            "ospita convenientemente un'entrata fognaria,",
+            "attraverso cui si puo' viaggiare sicuri",
+            "verso il retro della Gilda dei Maghi.",
+            "",
+            "Nascoste sotto, ci sono pozioni di",
+            "polimorfismo, permettendo loro di comprare liberamente."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "haunted castle": {
+        "blurb": [
+            "Prima di essere sigillato via, i cittadini",
+            "di Hamlet furono schiavizzati dal Barone",
+            "per costruire questo CASTELLO per lui.",
+            "",
+            "Le mura furono formate da pietra",
+            "scavata dai minatori."
+        ],
+        "details": [
+            "TESORI LIVELLO SEGRETO:",
+            "- Calzari dell'Oracolo",
+            "- Forzieri del tesoro nascosti",
+            "- 4 Pozioni di levitazione",
+            "",
+            "Ghoul qui sono maledetti a difendere",
+            "i possessi del Barone, e sorgono quando",
+            "le sue cose sono disturbate. Prima di",
+            "saccheggiare, pianifica la fuga o difesa!",
+            "",
+            "Forzieri del tesoro segreti sono",
+            "nascosti dietro una cascata.",
+            "Esplora le torri del castello a fondo",
+            "e trova come rivelare la via."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "hell": {
+        "blurb": [
+            "Una dimensione creata per la sofferenza umana,",
+            "ma anche casa di molte bestie magiche",
+            "e mostri.",
+            "",
+            "Qui vili diavoli cercano modi per dominare",
+            "i regni di mortali e immortali ugualmente."
+        ],
+        "details": [
+            "ABITANTI:",
+            "Succubi, Incubi, Imp, Demoni,",
+            "Ombre, Uomini Capra",
+            "",
+            "NUOVA TRAPPOLA:",
+            "Trappola Evocazione",
+            "",
+            "Pochi sopravvivono all'Inferno a lungo.",
+            "Schiva incantesimi con piedi veloci mentre",
+            "guardi per trappole a spuntoni. Trappole freccia",
+            "potrebbero spingere avventurieri nella lava!",
+            "",
+            "Per sopravvivere bisogna pensare in fretta.",
+            "Cura malanno alleviera' il bruciore."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {},
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "herx lair": {
+        "blurb": [
+            "Le antiche rovine scendono in un luogo",
+            "che incanala il flusso di potere primordiale.",
+            "",
+            "Coloro con la volonta' di controllarlo possono",
+            "esercitare la loro influenza qui, poiche' il",
+            "velo tra i regni e' sottile."
+        ],
+        "details": [
+            "Se un avventuriero porta sfere mistiche",
+            "in questo luogo, possono essere piazzate su",
+            "piedistalli nelle stanze a nord:",
+            "- Sfera Verde migliora DEX e PER",
+            "- Sfera Rossa migliora STR e CON",
+            "- Sfera Blu migliora INT e Resistenza",
+            "    Magica",
+            "",
+            "Herx aspetta di sorprendere i suoi nemici",
+            "finche' non si avvicinano al",
+            "centro della sua arena. Tieni alleati",
+            "sul bordo esterno della stanza e",
+            "datti tempo per preparare.",
+            "Riflessione Magica e' raccomandata."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "hunters guild": {
+        "blurb": [
+            "Fondata da semplici pionieri,",
+            "la GILDA DEI CACCIATORI ora impiega Ladri,",
+            "Cacciatori, e Ninja che sono capaci di",
+            "spegnere minacce terrificanti con",
+            "efficienza ben organizzata."
+        ],
+        "details": [
+            "Membri della gilda dei cacciatori contano",
+            "sull'imboscata per fare il loro buon lavoro. Essi",
+            "riguardano questo come il meno costoso,",
+            "il meno rischioso, e quindi il piu'",
+            "morale metodo per servire la civilta'.",
+            "",
+            "Membri offrono la morte come loro prima",
+            "soluzione. Questo ha guadagnato loro una",
+            "reputazione come adoratori della morte.",
+            "",
+            "Nelle loro proprie parole:",
+            "   La morte e' necessaria per la vita.",
+            "   Il nostro dovere e' scegliere i",
+            "   giusti recipienti per ognuna."
+        ],
+        "details_line_highlights": []
+    },
+    "labyrinth": {
+        "blurb": [
+            "Geomanti teorizzano che le acque",
+            "delle Paludi una volta gorgogliassero da",
+            "un massiccio oceano sotterraneo.",
+            "",
+            "Tuttavia, minatori trovarono solo sabbia secca",
+            "e rovine nelle profondita' sotto."
+        ],
+        "details": [
+            "ABITANTI:",
+            "Scarabei, Scorpioni, Insettoidi Minori,",
+            "Goblin, Troll",
+            "",
+            "NUOVA TRAPPOLA:",
+            "Trappola a Spuntoni",
+            "",
+            "Con grandi, tortuosi labirinti, i",
+            "labirinti sono abbastanza letali quando",
+            "appaiati con due minacce:",
+            "Fame e minotauri.",
+            "Mappatura magica puo' aiutare con veloce",
+            "esplorazione. Porta un metodo per",
+            "scavare per aprire percorsi nascosti."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {},
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "lava": {
+        "blurb": [
+            "E' magma liquido-caldo!",
+            "",
+            "Qualsiasi cosa cada dentro e'",
+            "avvolta in fiamme e distrutta,",
+            "inclusi avventurieri maldestri."
+        ],
+        "details": [
+            "La lava e' un ostacolo letale con",
+            "poca ragione per tentare di nuotare in",
+            "essa, incendiando qualunque cosa entri.",
+            "",
+            "Automi che vogliono davvero",
+            "aumentare la loro temperatura potrebbero",
+            "trovare un breve tuffo utile - a dispetto",
+            "del rapido danno che la lava causa.",
+            "",
+            "Camminata su acqua permette ad avventurieri",
+            "e loro seguaci di evitare di affondare",
+            "nella superficie della lava.",
+            "",
+            "Avrei dovuto chiamarla camminata su liquido."
+        ],
+        "details_line_highlights": []
+    },
+    "lever": {
+        "blurb": [
+            "LEVE sono strumenti affidabili",
+            "per un architetto di dungeon.",
+            "",
+            "Usando meccanismi nascosti, il potere della",
+            "leva puo' attivare qualsiasi cosa, da trappole",
+            "a porte e persino gadget mistici."
+        ],
+        "details": [
+            "Alcune leve hanno un effetto a tempo,",
+            "richiedendo di essere girate",
+            "piu' volte prima di attivarsi.",
+            "Spesso queste sono collegate a una",
+            "sfida che richiede velocita'.",
+            "",
+            "A volte i meccanismi a leva si sovrappongono",
+            "con macchinari nascosti collegati a",
+            "altre trappole del dungeon. Queste sovrapposizioni",
+            "possono confondere ma possono anche fornire",
+            "comportamenti emergenti da sfruttare.",
+            "",
+            "Fantasmi di giocatori possono tirare leve, permettendo",
+            "ad alcune sfide di essere aggirate."
+        ],
+        "details_line_highlights": []
+    },
+    "magic trap": {
+        "blurb": [
+            "Questi piloni magici una volta agivano",
+            "come canali di magia per coloro",
+            "che vivevano qui da usare.",
+            "",
+            "Da allora sono stati corrotti",
+            "in fari del caos."
+        ],
+        "details": [
+            "TIPI TRAPPOLA MAGICA:",
+            "- Dardo di forza",
+            "- Freddo",
+            "- Palla di fuoco",
+            "- Fulmine",
+            "- Dardo incantato",
+            "- Sonno",
+            "- Lentezza",
+            "- Confusione",
+            "",
+            "Alcuni avventurieri hanno i mezzi per",
+            "scavare queste trappole per romperle, il che",
+            "puo' semplificare grandemente l'esplorazione.",
+            "Se guidi seguaci, evita trappole confusione!",
+            "Cura malanno salva amicizie."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "magicians guild": {
+        "blurb": [
+            "Favorendo innovazione e ambizione, la",
+            "GILDA DEI MAGHI addestra Arcanisti,",
+            "Guaritori, e Maghi.",
+            "",
+            "Una fonte paradossale di saggezza",
+            "onorata dal tempo e rivoluzione mal concepita."
+        ],
+        "details": [
+            "Agenti della gilda dei maghi sono",
+            "incantatori adattabili, capaci di",
+            "leggere e memorizzare la maggior parte degli incantesimi, purche'",
+            "si siano esercitati.",
+            "",
+            "La maggior parte dei maghi ha abilita' secondarie",
+            "che permettono loro di riservare magia per",
+            "quando un incantesimo e' veramente necessario.",
+            "",
+            "Seguono una complessa filosofia della",
+            "composizione dell'universo, ponderando",
+            "come ogni elemento si combina per spiegare",
+            "la realta' materiale, il regno degli spiriti,",
+            "cosi' come virtu' e vizi umani."
+        ],
+        "details_line_highlights": []
+    },
+    "masons guild": {
+        "blurb": [
+            "Originariamente una gilda di lavoratori della pietra, il",
+            "ruolo della GILDA DEI MURATORI nelle comunita' ora",
+            "include ogni tipo di lavoro che",
+            "richiede uso organizzato della forza.",
+            "Barbari, Guerrieri, e Vagabondi",
+            "spesso piazzano l'iscrizione."
+        ],
+        "details": [
+            "Un'organizzazione fiera di lavoratori",
+            "e soldati che sono certi di",
+            "essere le fondamenta della",
+            "civilta' stessa.",
+            "",
+            "Mentre altre gilde possono dissentire",
+            "su quel punto, nessuno nega che le loro",
+            "braccia potenti e schiene forti sono da",
+            "ringraziare per l'insediamento e",
+            "fortificazione di tutte le grandi citta'.",
+            "",
+            "Membri della gilda dei muratori credono",
+            "nel loro dovere di proteggere la pace e",
+            "costruire nuovi, fruttuosi futuri."
+        ],
+        "details_line_highlights": []
+    },
+    "merchants guild": {
+        "blurb": [
+            "Un'organizzazione di Mercanti, Meccanici,",
+            "e Birrai, la GILDA DEI MERCANTI e'",
+            "silenziosamente rispettata come la piu'",
+            "potente gilda nel regno.",
+            "",
+            "Alcuni dicono che Herx ne fosse membro molto tempo fa."
+        ],
+        "details": [
+            "Membri della gilda dei mercanti sono definiti",
+            "dalla loro ingegnosita'. Mentre spesso",
+            "mancano in forza o talento arcano, essi",
+            "contano su oggetti trovati piu' di altri.",
+            "",
+            "La gilda guida gli associati a",
+            "identificare e sfruttare strumenti che hanno",
+            "a loro disposizione per assicurare successo.",
+            "",
+            "In gruppi, classi sponsorizzate dalla gilda dei mercanti",
+            "sono capaci di scoprire soluzioni",
+            "che avventurieri tradizionali non",
+            "considerano spesso. Adattabilita' e' chiave."
+        ],
+        "details_line_highlights": []
+    },
+    "minehead": {
+        "blurb": [
+            "Appena attraverso le rovine di Hamlet",
+            "giace l'INGRESSO MINIERA dove cittadini",
+            "furono schiavi per il Barone.",
+            "",
+            "Entrare in questo luogo e' un viaggio di sola andata a meno che",
+            "la maledizione su Hamlet possa essere rotta."
+        ],
+        "details": [
+            "Molti gruppi di avventurieri si accampano qui",
+            "mentre si preparano per il loro tentativo di",
+            "sollevare la maledizione del Barone.",
+            "",
+            "Una localita' conveniente per pianificare e",
+            "scambiare equipaggiamento o cibo, preparando",
+            "per il pericoloso sentiero avanti.",
+            "",
+            "Incantatori alleati possono beneficiare dallo",
+            "scambiare libri magici. Purche' abbiano",
+            "la durabilita', memorizzare i libri magici",
+            "l'uno dell'altro moltiplica il loro",
+            "beneficio a un gruppo."
+        ],
+        "details_line_highlights": []
+    },
+    "mines": {
+        "blurb": [
+            "Inizialmente minate per ferro, e poi perlustrate",
+            "in una infruttuosa ricerca per oro, le MINIERE",
+            "diventarono la casa dell'esercito mercenario",
+            "del Barone Herx mentre imprigionavano i",
+            "minatori di Hamlet."
+        ],
+        "details": [
+            "ABITANTI:",
+            "Ratti, Scheletri, Ragni, Troll,",
+            "Umani",
+            "",
+            "NUOVA TRAPPOLA:",
+            "Trappola a Masso",
+            "",
+            "Le miniere testeranno le tue abilita'",
+            "base di dungeon, incluse imboscate,",
+            "parate, tenere d'occhio trappole",
+            "e gestire la tua scorta di cibo.",
+            "",
+            "Evita combattimenti che non puoi vincere, e impara",
+            "debolezze nemiche per accorciare scontri."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {},
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "minetown": {
+        "blurb": [
+            "Un luogo di tregua dentro le Miniere,",
+            "nascosto dall'esercito di Herx. Pensato essere",
+            "un mito dai minatori di Hamlet, la storia non",
+            "dice se la gente speranzosa costrui' MINETOWN,",
+            "o se la scoprirono."
+        ],
+        "details": [
+            "TESORI LIVELLO SEGRETO:",
+            "- Quattro negozi casuali",
+            "- Quattro forzieri del tesoro",
+            "- Diversi umani da reclutare",
+            "",
+            "Accedere ai tesori nascosti a",
+            "Minetown richiede un modo per passare",
+            "i cancelli che sorvegliano il lago.",
+            "Apri, scava, picconi o persino teletrasporto",
+            "possono fare il lavoro.",
+            "",
+            "Quattro negozi significa quattro negozianti.",
+            "Minetown puo' essere pericolosa da visitare",
+            "per mostri mal preparati."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "minotaur maze": {
+        "blurb": [
+            "Miti narrano di un labirinto che nasconde",
+            "manufatti di potere ineguagliato.",
+            "",
+            "Le alte mura e larghi corridoi sono",
+            "perfettamente dimensionati per un protettore",
+            "terribilmente grande che sorveglierebbe tale tesoro."
+        ],
+        "details": [
+            "TESORI LIVELLO SEGRETO:",
+            "- Sfera Mistica Rossa",
+            "- Gungnir",
+            "",
+            "Per la maggior parte, e' saggio afferrare la sfera",
+            "e seminare il minotauro verso l'uscita.",
+            "Cerca leve vicine al corpo di guardia se",
+            "cancelli chiusi bloccano la via. Un incantesimo",
+            "di apertura, o scavo, puo' aiutare!",
+            "",
+            "Il piedistallo alla fine del labirinto",
+            "paralizza il minotauro temporaneamente",
+            "quando la sfera e' piazzata su di esso.",
+            "Non dimenticare di reclamare la sfera!"
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "molten throne": {
+        "blurb": [
+            "Il seggio del potere di Baphomet.",
+            "Questo diavolo ha scelto una localita' dove",
+            "la magia puo' fluire piu' facilmente al regno",
+            "mortale, permettendo alla sua influenza di infiltrarsi.",
+            "",
+            "Altri regni potrebbero similarmente essere vicini."
+        ],
+        "details": [
+            "Mentre Baphomet e' un essere di grande",
+            "potere, un avventuriero che invade il suo",
+            "regno non e' cio' che si aspetta. Herx",
+            "e' il suo burattino inteso con cui egli",
+            "cercava di corrompere il mondo mortale.",
+            "",
+            "Indipendentemente, anche se colto impreparato,",
+            "la sua maestria di zolfo infuocato con",
+            "il comando di demoni malvagi e spiriti",
+            "garantisce che non si sottomettera' facilmente.",
+            "",
+            "Se egli e' sconfitto, attento a diavoli",
+            "rivali che mandano agenti minotauri a",
+            "reclamare il suo trono per se stessi."
+        ],
+        "details_line_highlights": []
+    },
+    "murky water": {
+        "blurb": [
+            "La maggior parte degli abitanti sono attenti a non",
+            "entrare in pozze fetide di acqua di dungeon.",
+            "",
+            "Riempite con marciume denso, quasi",
+            "qualsiasi cosa galleggera' su essa, inclusi",
+            "avventurieri con posti dove andare."
+        ],
+        "details": [
+            "Mentre l'acqua torbida e' solitamente un banale",
+            "ostacolo, gli avventurieri dovrebbero evitare",
+            "combattimento mentre nuotano.",
+            "",
+            "Un amuleto del nuoto olimpico puo'",
+            "quasi eliminare l'inconveniente",
+            "di dover nuotare, e puo' salvare vite",
+            "se una fuga veloce a nuoto e' necessaria.",
+            "",
+            "L'acqua spegnera' fuochi, e lava",
+            "via gli effetti di polimorfismo.",
+            "I mostri dovrebbero assicurarsi che il loro",
+            "shopping sia fatto prima di caderci dentro."
+        ],
+        "details_line_highlights": []
+    },
+    "mystic library": {
+        "blurb": [
+            "La Gilda dei Maghi ancora",
+            "mantiene una strana connessione alla",
+            "BIBLIOTECA MISTICA, una dimensione tascabile",
+            "accessibile via magia dalle rovine",
+            "sepolte in profondita' sotto Hamlet."
+        ],
+        "details": [
+            "TESORI LIVELLO SEGRETO:",
+            "- Sfera Mistica Blu",
+            "- Forzieri di oggetti magici casuali",
+            "- Diversi umani da reclutare",
+            "",
+            "La biblioteca e' piena di ricompense",
+            "per avventurieri amichevoli. Usa scavo e",
+            "levitazione per esplorare per forzieri nascosti.",
+            "",
+            "Scorte di pergamene, libri magici, e",
+            "bastoni magici possono aiutare usatori di magia",
+            "tardivi a maturare la loro arte.",
+            "I non usatori di magia possono comunque beneficiare",
+            "da molte delle pergamene."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "obelisk": {
+        "blurb": [
+            "Il vuoto senza forma dell'Oltretomba",
+            "puo' essere confuso da attraversare.",
+            "",
+            "Questi santuari afferrano spiriti sfortunati",
+            "quando toccati, portandoli via verso",
+            "un'altra parte del regno."
+        ],
+        "details": [
+            "Mentre inizialmente casuali, gli obelischi portano",
+            "a ogni stanza in sequenza, eventualmente",
+            "tornando indietro all'inizio.",
+            "",
+            "Questo abilita l'esplorazione del",
+            "mare di pozzi dell'oltretomba, ma anche",
+            "manda avventurieri avanti con nessun",
+            "avvertimento di cio' che li aspetta dal",
+            "lata parte.",
+            "",
+            "Alcuni avventurieri preparano pozioni,",
+            "furtivita', o uno scudo alzato. Altri",
+            "mandano un seguace attraverso per primo, aspettando",
+            "di vedere se sopravvivono al viaggio."
+        ],
+        "details_line_highlights": []
+    },
+    "pits": {
+        "blurb": [
+            "Abitanti vaganti sono abbastanza saggi",
+            "da non gettarsi nella",
+            "vasta vuotezza dei POZZI.",
+            "Coloro che sfidano la gravita' dovrebbero assicurarsi",
+            "di atterrare su terra solida,",
+            "o affrontare morte certa."
+        ],
+        "details": [
+            "I pozzi spesso scherniscono gli avventurieri con",
+            "tesori irraggiungibili dall'altra",
+            "parte.",
+            "",
+            "Mentre la levitazione e' una grande",
+            "soluzione, spesso si potrebbe anche trovare",
+            "accesso scavando attraverso muri o",
+            "aprendo cancelli dall'altra parte.",
+            "",
+            "Gruppi di avventurieri possono trovare i pozzi",
+            "essere un modo conveniente per disporre di",
+            "oggetti indesiderati, assicurando che alleati",
+            "non sprechino tempo frugando attraverso",
+            "pile di spazzatura maledetta."
+        ],
+        "details_line_highlights": []
+    },
+    "portcullis": {
+        "blurb": [
+            "Una saracinesca che puo' solo essere",
+            "passata alzando le sue sbarre di ferro.",
+            "",
+            "Molto spesso, una leva vicina la operera',",
+            "sebbene magia astuta possa anche fare il lavoro."
+        ],
+        "details": [
+            "Non tutti i cancelli hanno una leva che",
+            "li opera. Un incantesimo di apertura",
+            "permettera' agli avventurieri di aggirare",
+            "molte sfide e trappole del dungeon.",
+            "",
+            "Poiche' solo il minotauro puo' frantumare",
+            "cancelli, usare una leva per chiudere un cancello",
+            "aperto e' un modo molto affidabile per tenere",
+            "i mostri lontani se hai bisogno di un momento.",
+            "",
+            "Alcuni cancelli sono tenuti chiusi da un",
+            "meccanismo, invece che essere tenuti",
+            "aperti da uno. Questi cancelli non possono essere",
+            "aperti con la magia."
+        ],
+        "details_line_highlights": []
+    },
+    "ruins": {
+        "blurb": [
+            "Nessuno sa quale antica tribu'",
+            "costrui' queste ROVINE incantate.",
+            "",
+            "Leggende narrano di una catastrofe magica che",
+            "una volta mando' un'intera citta' nell'oltretomba",
+            "per sempre. Forse questo e' quel luogo."
+        ],
+        "details": [
+            "ABITANTI:",
+            "Demoni, Gnomi, Giovani Vampiri,",
+            "Bugbear, Automi Danneggiati",
+            "",
+            "NUOVA TRAPPOLA:",
+            "Trappola Magica",
+            "",
+            "Gli spazi aperti delle rovine sono molto piu' facili",
+            "da navigare che i labirinti, ma",
+            "le minacce possono arrivare da ovunque.",
+            "Consapevolezza situazionale e danno",
+            "decisivo sono essenziali per il successo.",
+            "",
+            "Attraversa pozzi per scoprire segreti."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {},
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "shop": {
+        "blurb": [
+            "I NEGOZI sono riconoscibili non",
+            "importa dove sono trovati.",
+            "",
+            "Anche i mostri sanno di non minacciare",
+            "i negozianti, ma a loro non importera' se tu",
+            "frughi attraverso i loro forzieri per omaggi."
+        ],
+        "details": [
+            "TIPI DI NEGOZIO:",
+            "- Armi & Armature",
+            "- Cappelli",
+            "- Forniture da Caccia",
+            "- Gastronomia",
+            "- Alchimista",
+            "- Ferramenta",
+            "- Bastoni Magici",
+            "- Libreria",
+            "- Gioielliere",
+            "- Emporio",
+            "",
+            "Ogni negozio ha un'insegna che significa",
+            "il tipo di merci che scambia.",
+            "Solo gli empori comprano tutti i beni.",
+            "",
+            "Di solito e' una buona idea spendere!",
+            "I negozi possono essere rari, quindi cogliere",
+            "l'opportunita' di comprare scorte e guadagnare",
+            "abilita' di commercio e' spesso una scelta saggia.",
+            "",
+            "Con un po' di abilita' di commercio, e carisma,",
+            "i clienti possono accedere alla scorta privata",
+            "di un negozio di consumabili per aiutare a stare",
+            "in buona salute e tenere l'equipaggiamento affilato.",
+            "La scorta privata di un negozio varia basata sul",
+            "tipo di negozio, spesso completando le",
+            "merci disponibili per lo scambio.",
+            "",
+            "Mostri, e avventurieri marchiati",
+            "con lo stato RICERCATO, sono attaccati",
+            "a vista dai negozianti.",
+            "Evita danni collaterali assicurandoti",
+            "di non essere tra un",
+            "negoziante e il suo bersaglio."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "sink": {
+        "blurb": [
+            "L'acqua del LAVANDINO puo' ristorare un po' di fame,",
+            "ma l'acqua puo' essere bollente, le melme possono",
+            "nascondersi nei tubi, e l'idraulica",
+            "si rompe velocemente.",
+            "",
+            "Usa con bottiglie vuote per migliori risultati."
+        ],
+        "details": [
+            "POSSIBILITA' USO LAVANDINO:",
+            "- 60% Acqua Fresca",
+            "- 20% Acqua Bollente",
+            "- 10% Melma",
+            "- 10% Trova Anello",
+            "",
+            "Acqua fresca di lavandino, servita alla giusta",
+            "temperatura, ristora 1 HP. Coloro che",
+            "hanno recentemente mangiato un pasto abbondante",
+            "dovrebbero fare attenzione quando bevono da",
+            "lavandini cosi' da non essere troppo pieni.",
+            "",
+            "Se una melma emerge mentre si spilla con",
+            "una bottiglia vuota, acido sara' raccolto."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "sokoban": {
+        "blurb": [
+            "Coloro che entrano qui dicono di sentirsi",
+            "osservati e giudicati, come se",
+            "fossero testati.",
+            "Cinici sostengono sia un trucco di dei",
+            "crudeli che amano guardare mortali",
+            "morire di fame."
+        ],
+        "details": [
+            "TESORI LIVELLO SEGRETO:",
+            "- Bracciale del Djinn",
+            "- Una fortuna in pezzi d'oro",
+            "",
+            "Per risolvere questa sfida, bisogna liberare",
+            "la stanza da tutti i massi usando un anello",
+            "della forza o pozione di forza.",
+            "",
+            "Spingere tutti i massi nei pozzi e'",
+            "la via per la vittoria, evita di lasciarli",
+            "incastrare negli angoli - i massi",
+            "non possono essere tirati indietro!",
+            "",
+            "Le ricompense saranno ridotte se i massi",
+            "sono distrutti per completare il puzzle."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "spike trap": {
+        "blurb": [
+            "Qualcuno era molto crudele o",
+            "terrificato da qualcosa di molto grande quando",
+            "crearono questi meccanismi brutali.",
+            "",
+            "Sono abbastanza facili da notare ed evitare...",
+            "se hai tempo di guardare dove metti i piedi."
+        ],
+        "details": [
+            "Spuntoni infliggono 50 danni, senza riguardo",
+            "per l'armatura o costituzione della vittima.",
+            "Molte trappole a spuntoni scattano quando camminate",
+            "sopra o su, senza riguardo per la levitazione.",
+            "",
+            "Neutralizza spuntoni lanciando",
+            "un oggetto indesiderato sulla trappola, e",
+            "non si riarmeranno normalmente finche'",
+            "l'oggetto e' rimosso. Questo aiutera'",
+            "i seguaci a sopravvivere mentre vagano.",
+            "",
+            "Queste trappole sono pericolose solo quando",
+            "scattano da sotto. Naviga",
+            "attraverso spuntoni alzati per fornire piu'",
+            "tempo per manovrare certe sfide!"
+        ],
+        "details_line_highlights": []
+    },
+    "summoning trap": {
+        "blurb": [
+            "Potenziata da rituali arcani la",
+            "TRAPPOLA EVOCAZIONE puo' trasformare una stanza vuota",
+            "in un campo di battaglia letale in un istante.",
+            "",
+            "Fai attenzione quando vicino a questi simboli.",
+            "Possono essere attivati in molti modi."
+        ],
+        "details": [
+            "Il simbolo sul pavimento segnala",
+            "la presenza di questa trappola, ma",
+            "avvicinarsi, operare una leva,",
+            "o prendere un'offerta dal pavimento",
+            "possono tutti innescare l'evocazione.",
+            "",
+            "Forti boati accompagnano l'attivazione",
+            "mentre spiriti demoniaci si trasferiscono.",
+            "",
+            "Alcuni avventurieri zelanti amano",
+            "tentare trappole evocazione, chiamando piu'",
+            "progenie infernale da uccidere. Ma questo e' un rischioso",
+            "prospetto, con poco modo di sapere",
+            "che tipo di combattimento aspetta."
+        ],
+        "details_line_highlights": []
+    },
+    "swamps": {
+        "blurb": [
+            "Piante dense qui furono obliterate nello",
+            "sforzo di espandere le miniere di Hamlet, ma",
+            "la flora idrofila recupero' velocemente.",
+            "",
+            "Tristemente, la vegetazione e' nota per",
+            "causare psicosi quando mangiata."
+        ],
+        "details": [
+            "ABITANTI:",
+            "Ragni, Goblin, Melme, Ghoul, Troll",
+            "",
+            "NUOVA TRAPPOLA:",
+            "Trappola a Freccia",
+            "",
+            "Le paludi presentano nuove minacce",
+            "che attaccano a distanza. La furtivita' aiuta!",
+            "",
+            "Attento ai goblin con bastoni magici.",
+            "Riflessione magica e' ideale se disponibile.",
+            "Altrimenti, imboscate, o combatti da lontano",
+            "cosi' puoi schivare proiettili.",
+            "Tuffati in acqua per spegnere fiamme."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {},
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "temple": {
+        "blurb": [
+            "Un dio malvagio ha sentito le preghiere dei",
+            "goblin delle paludi e ha fornito un luogo",
+            "sulla superficie per loro per fare sacrifici",
+            "di sangue. Un sentiero letale per questo TEMPIO",
+            "e' fornito per l'adorazione."
+        ],
+        "details": [
+            "TESORI LIVELLO SEGRETO:",
+            "- Sfera Mistica Verde",
+            "- 4 Pozioni di forza",
+            "- Un mucchio di pezzi d'oro",
+            "- Diversi forzieri del tesoro",
+            "",
+            "Stanze nascoste fanno uso del potere",
+            "della sfera, rivelando piu' tesori.",
+            "Le trappole del Tempio possono chiudere",
+            "l'accesso ad aree segrete se gli esploratori",
+            "sono disattenti, o prigionieri sono liberati.",
+            "",
+            "E' saggio prendere tempo per pianificare avanti",
+            "per evitare errori nel Tempio."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    },
+    "the church": {
+        "blurb": [
+            "Ufficiali de LA CHIESA giocano un ruolo",
+            "culturale passivo finche' le cose sfuggono di mano.",
+            "",
+            "Chierici, Monaci, e Sacrestani agiscono come",
+            "agenti di azione quando torti hanno bisogno",
+            "di essere raddrizzati."
+        ],
+        "details": [
+            "Membri della chiesa vedono gli eventi",
+            "del mondo come un arazzo di grande",
+            "scopo, e dedicano le loro vite cercando",
+            "di capirlo e sostenerlo.",
+            "",
+            "Con poca ambizione, ufficiali di solito",
+            "si ritirano da affari pubblici. Ma nessun'altra",
+            "organizzazione e' cosi' unificata come la",
+            "chiesa quando trovano che il corso della",
+            "storia sta deviando dal suo scopo.",
+            "",
+            "Agenti della Chiesa tendono ad essere pratici,",
+            "abbracciando talenti fisici e magici",
+            "che forniscono utilita' non complicata."
+        ],
+        "details_line_highlights": []
+    },
+    "transition floor": {
+        "blurb": [
+            "Ogni strato dei dungeon fu una volta",
+            "appena scoperto, mentre minatori scavavano piu' fondo.",
+            "",
+            "Fessure naturali formate tra strati,",
+            "richiedendo un ponte da costruire, spesso",
+            "impiegando settimane per finire."
+        ],
+        "details": [
+            "C'e' uno strano senso di pace",
+            "che occupa piani di transizione,",
+            "causando avventurieri aver fame a un",
+            "tasso molto piu' lento del normale.",
+            "Il posto perfetto per prendere una pausa.",
+            "",
+            "Sii avvertito, mimic possono ancora prendere",
+            "il posto di forzieri del tesoro qui.",
+            "",
+            "Il piano di transizione tra le",
+            "miniere e paludi contiene un portale",
+            "nascosto per l'oltretomba.",
+            "Se uno desidera rischiare una visita, qualche",
+            "metodo di scavo e' necessario."
+        ],
+        "details_line_highlights": []
+    },
+    "underworld": {
+        "blurb": [
+            "Queste catacombe sono la prima destinazione",
+            "per anime che sono recentemente morte.",
+            "",
+            "Dipendendo da come hanno vissuto, gli altri",
+            "abitanti dell'Oltretomba possono gettarli",
+            "piu' giu' nell'Inferno."
+        ],
+        "details": [
+            "ABITANTI:",
+            "Scheletri, Melme, Ghoul, Imp,",
+            "Ombre",
+            "",
+            "TESORI LIVELLO SEGRETO:",
+            "- Khryselakatos (Lvl 7)",
+            "",
+            "L'oltretomba puo' essere acceduto due volte",
+            "via entrate segrete su piano 5 e 18.",
+            "In entrambi i casi, avventurieri che trovano",
+            "una botola giu' per un secondo piano dell'",
+            "oltretomba troveranno una letale",
+            "ricompensa aspettandoli.",
+            "",
+            "Attento, la maggior parte dei nemici attacca attraverso pozzi."
+        ],
+        "details_line_highlights": [
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            },
+            {},
+            {
+                "color": {
+                    "r": 198,
+                    "g": 190,
+                    "b": 179,
+                    "a": 255
+                }
+            },
+            {
+                "color": {
+                    "r": 157,
+                    "g": 129,
+                    "b": 93,
+                    "a": 255
+                }
+            }
+        ]
+    }
+}

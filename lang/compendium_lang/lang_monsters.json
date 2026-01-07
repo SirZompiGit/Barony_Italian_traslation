@@ -1,0 +1,1046 @@
+{
+    "algernon": {
+        "blurb": [
+            "A causa del cibo scarso, la vita nel dungeon non e'",
+            "facile per i ratti. Tuttavia, a volte una grande fonte",
+            "di cibo causera' un boom nella popolazione.",
+            "",
+            "In tali tempi, un ratto molto intelligente",
+            "emerge come il re."
+        ],
+        "abilities": [],
+        "inventory": [
+            "- Smeraldi",
+            "- Carne, Formaggio"
+        ]
+    },
+    "artemisia": {
+        "blurb": [
+            "Bandita nell'Oltretomba per aver tradito",
+            "i suoi compagni Eterni, ARTEMISIA usa le sue",
+            "abilita' spettrali per essere una cacciatrice ancora",
+            "piu' scaltra.",
+            "Neanche la morte ha potuto strappare l'",
+            "arco magico dalla sua presa."
+        ],
+        "abilities": [
+            "- Mimic Other",
+            "- Levitation",
+            "- Teleportation",
+            "- Indominable"
+        ],
+        "inventory": [
+            "- Khryselakatos",
+            "- Faretre di Frecce d'Argento",
+            "- Maschere Spettrali"
+        ]
+    },
+    "automaton": {
+        "blurb": [
+            "Un costrutto ideato dalla Gilda dei Maghi,",
+            "magia e tecnologia hanno dato all'",
+            "AUTOMA il dono della vita come servo.",
+            "",
+            "Sono noti per diventare",
+            "violenti solo quando comandati."
+        ],
+        "abilities": [
+            "- Salvage",
+            "- Self Destruct"
+        ],
+        "inventory": [
+            ""
+        ]
+    },
+    "baratheon": {
+        "blurb": [
+            "Generato dall'ira, questo spirito oscuro",
+            "cerca coloro con scopi ambiziosi.",
+            "",
+            "BARATHEON non si cura del proprio futuro,",
+            "esistendo solo per tenere gli eroi lontani dai",
+            "loro grandi destini."
+        ],
+        "abilities": [
+            "- Mimic Other",
+            "- Levitation",
+            "- Teleportation",
+            "- Indominable"
+        ],
+        "inventory": [
+            "- Maschere Fantasma",
+            "- Maschere Spettrali"
+        ]
+    },
+    "bat": {
+        "blurb": [
+            "Pipistrelli selvatici succhia-sangue hanno recentemente",
+            "infestato le miniere di Hamlet.",
+            "Sebbene piccoli, il battere d'ali rende i PIPISTRELLI",
+            "un bersaglio difficile anche per gli avventurieri",
+            "piu' abili. Aspettati che piu' della meta' degli",
+            "attacchi manchino questi parassiti del dungeon!"
+        ],
+        "abilities": [
+            "- Levitation",
+            "- Evasion",
+            "- Bleeding Attacks",
+            "- Indominable"
+        ],
+        "inventory": []
+    },
+    "bram kindly": {
+        "blurb": [
+            "L'enigmatico maestro della Gilda dei Cacciatori,",
+            "BRAM KINDLY si dice sia scomparso",
+            "mentre investigava l'aumento di non morti.",
+            "",
+            "Sembra abbia trovato esattamente",
+            "cio' che stava cercando."
+        ],
+        "abilities": [
+            "- Drain Soul",
+            "- Vampiric Aura",
+            "- Indominable"
+        ],
+        "inventory": [
+            "- Veste dello Spettro",
+            "- Bastoni Magici del Sanguinamento",
+            "- Giubba da Vampiro"
+        ]
+    },
+    "bram succubi": {
+        "blurb": [
+            "Esseri di immenso potere tendono ad attrarre",
+            "seguaci. Verona, Aleera & Marishka",
+            "si sono impegnate con un potente vampiro.",
+            "",
+            "Egli le ha tutelate volentieri nelle magie vampiriche",
+            "dentro il suo sinistro castello."
+        ],
+        "abilities": [
+            "- Charm Monster",
+            "- Teleportation"
+        ],
+        "inventory": [
+            "- Libri Magici del Salasso",
+            "- Bastoni Magici di Charme Mostro",
+            "- Maschere da Ballo"
+        ]
+    },
+    "bubbles": {
+        "blurb": [
+            "Coloro che sono sopravvissuti a BUBBLES sostengono che",
+            "non e' affatto un granchio. Piuttosto, e'",
+            "uno spirito demoniaco che prende la forma di un granchio.",
+            "",
+            "Porta con se' il",
+            "tesoro delle sue vittime."
+        ],
+        "abilities": [
+            "- Poisoned Attacks",
+            "- Spray Web"
+        ],
+        "inventory": [
+            "- Dyrnwyn",
+            "- Anello dell'Invisibilita'"
+        ]
+    },
+    "bugbear": {
+        "blurb": [
+            "Questi stupidi bulli falliscono nell'organizzare",
+            "guerre su larga scala contro gli umani di superficie.",
+            "Tuttavia, costruiscono coalizioni",
+            "di predoni brutali, e sequestrano insediamenti.",
+            "I BUGBEAR usano spesso rovine come case, e",
+            "recentemente si sono accampati sotto Hamlet."
+        ],
+        "abilities": [
+            "- Strafing",
+            "- Shield Bash"
+        ],
+        "inventory": [
+            "- Spade/Asce d'Acciaio",
+            "- Balestre Pesanti",
+            "- Scutum"
+        ]
+    },
+    "cockatrice": {
+        "blurb": [
+            "Una creatura a lungo pensata estinta,",
+            "la COCCATRICE e' una potente bestia volante.",
+            "",
+            "I suoi artigli affilati come rasoi fanno breve lavoro di",
+            "qualsiasi preda paralizzi con il suo soffio.",
+            "Le sue piume sono pensate essere magiche."
+        ],
+        "abilities": [
+            "- Stoneblood",
+            "- Levitation",
+            "- Double Strike"
+        ],
+        "inventory": [
+            "- Piume Incantate",
+            "- Libro Magico di Sangue di Pietra",
+            "- Gemme",
+            "- Pozioni"
+        ]
+    },
+    "coral grimes": {
+        "blurb": [
+            "Il cacciatore di ghoul CORAL GRIMES e la sua banda",
+            "sono saliti alla fama, ma i becchini avvertono che i",
+            "morti mantengono le loro pulsioni dalla vita.",
+            "",
+            "Una volta ucciso il gruppo di GRIMES, tutti",
+            "pregarono che non risorgesse ancora."
+        ],
+        "abilities": [],
+        "inventory": [
+            "- Cappello da Cacciatore di Taglie",
+            "- Rubino",
+            "- Carne"
+        ]
+    },
+    "crab": {
+        "blurb": [
+            "I GRANCHI giganti del dungeon",
+            "sono cacciatori pazienti.",
+            "",
+            "Il loro metabolismo lento e chele velenose",
+            "li rendono ben adatti ad aspettare prede",
+            "da imboscata, eviscerare e divorare."
+        ],
+        "abilities": [
+            "- Poisoned Attacks",
+            "- Spray Web"
+        ],
+        "inventory": [
+            ""
+        ]
+    },
+    "crystalgolem": {
+        "blurb": [
+            "Il fratello maggiore dell'automa,",
+            "il GOLEM DI CRISTALLO e' emerso da",
+            "un eccesso di materiale magico e volonta'.",
+            "",
+            "Quando alza le braccia, e'",
+            "meglio essere altrove."
+        ],
+        "abilities": [
+            "- Power Strike"
+        ],
+        "inventory": [
+            "- Equipaggiamento di Cristallo",
+            "- Gemme"
+        ]
+    },
+    "demon": {
+        "blurb": [
+            "Detto essere una manifestazione di violenza",
+            "primordiale, i DEMONI si trovano vicino",
+            "alle piu' grandi fonti di male. ",
+            "",
+            "Eviscerano i nemici con i loro artigli,",
+            "o arrostiti vittime con fuoco infernale prima."
+        ],
+        "abilities": [
+            "- Fireball"
+        ],
+        "inventory": [
+            ""
+        ]
+    },
+    "deudebreau": {
+        "blurb": [
+            "Per quanto immondi siano i demoni, coloro che scalano i",
+            "ranghi demoniaci sono ancora piu' immondi.",
+            "",
+            "Fondatore di una viziosa confraternita,",
+            "DEU DE'BREAU e' sempre accompagnato da un",
+            "entourage di sicofanti demoniaci."
+        ],
+        "abilities": [
+            "- Fireball"
+        ],
+        "inventory": [
+            ""
+        ]
+    },
+    "devil": {
+        "blurb": [
+            "Il diavolo BAPHOMET comanda gli",
+            "inferni circostanti alla sua volonta', usando",
+            "seguaci, magia e zolfo.",
+            "",
+            "Non permettera' a intrusi",
+            "di placare le sue ambizioni."
+        ],
+        "abilities": [
+            "- Fireball Spray",
+            "- Conjure Hellspawn",
+            "- Conjure Shadows",
+            "- Hail of Boulders",
+            "- Indominable",
+            "- Telepathy",
+            "- Lava Portal"
+        ],
+        "inventory": [
+            ""
+        ]
+    },
+    "dummybot": {
+        "blurb": [
+            "Il DUMMYBOT e' straordinariamente durevole.",
+            "Con la giusta manutenzione, il tuo compagno",
+            "scudato puo' servire come un potente",
+            "guardiano mentre ti occupi degli affari!"
+        ],
+        "abilities": [
+            "- Taunt"
+        ],
+        "inventory": [
+            ""
+        ]
+    },
+    "enslaved ghoul": {
+        "blurb": [
+            "Quelli SCHIAVI alla morte possiedono una",
+            "fame soprannaturale, alimentata dall'odio",
+            "per il loro padrone.",
+            "",
+            "Consumare i vivi li rinvigorisce, e",
+            "si muovono con velocita' feroce."
+        ],
+        "abilities": [
+            "- Vampiric Aura"
+        ],
+        "inventory": [
+            "- Carne",
+            "- Strumenti vari",
+            "- Acqua Benedetta"
+        ]
+    },
+    "funny bones": {
+        "blurb": [
+            "Un capitano mercenario particolarmente crudele",
+            "era a carico della sicurezza della miniera e",
+            "disciplina degli schiavi nelle miniere.",
+            "",
+            "Con equipaggiamento fine e un contegno severo,",
+            "si e' guadagnato un soprannome ironico."
+        ],
+        "abilities": [],
+        "inventory": [
+            "- Parashu",
+            "- Mantello della Protezione",
+            "- Benda sull'occhio",
+            "- Scudi/Elmi di Cuoio,",
+            "    Legno, Ferro"
+        ]
+    },
+    "gharbad": {
+        "blurb": [
+            "Raramente un uomo capra vive abbastanza a lungo perche' la sua",
+            "pelliccia diventi argento, e solo un po' meno",
+            "raramente, uno nasce naturalmente cosi'.",
+            "",
+            "Che sia guadagnato o no, questi fortunati",
+            "attraggono seguaci fedeli."
+        ],
+        "abilities": [],
+        "inventory": [
+            "- Armatura di Ferro, Acciaio, Cristallo",
+            "- Asce/Mazze di Acciaio, Cristallo",
+            "- Shuriken di Cristallo",
+            "- Chakram d'Acciaio",
+            "- Pozioni di Guarigione",
+            "- Bottiglie di Alcol"
+        ]
+    },
+    "ghost": {
+        "blurb": [
+            "La maledizione di Hamlet permette a un gruppo legato",
+            "di avventurieri di stare insieme nello spirito",
+            "dopo la morte, letteralmente.",
+            "",
+            "Con persistenza, la necromanzia ambientale puo'",
+            "causare a un corpo di rimaterializzarsi."
+        ],
+        "abilities": [
+            "- Sneak",
+            "- Push",
+            "- Haunt",
+            "- Chill",
+            "- Callout",
+            "- Levitation"
+        ],
+        "inventory": []
+    },
+    "ghoul": {
+        "blurb": [
+            "Con un odio primordiale per i vivi, i GHOUL",
+            "attaccano quando il loro riposo e' disturbato.",
+            "",
+            "Nessuno sa bene cosa trasformi un morto",
+            "in un GHOUL, ma alcuni provano a",
+            "prevenirlo con certi riti di sepoltura."
+        ],
+        "abilities": [],
+        "inventory": [
+            "- Carne",
+            "- Strumenti vari",
+            "- Acqua Benedetta"
+        ]
+    },
+    "gnome": {
+        "blurb": [
+            "Gli GNOMI sono noti per le loro marachelle, ma",
+            "coloro che diventano dipendenti dallo scavare per",
+            "ricchezza sono oltre la speranza.",
+            "",
+            "Bisogna fare attenzione quando si cerca di",
+            "saccheggiare il cibo e le ricchezze di uno gnomo."
+        ],
+        "abilities": [],
+        "inventory": [
+            "- Picconi",
+            "- Bastoni Magici del Fulmine",
+            "- Pesce",
+            "- Tubi",
+            "- Lanterne",
+            "- Gemme",
+            "- Piume Incantate"
+        ]
+    },
+    "gnome thief": {
+        "blurb": [
+            "Quando gli gnomi dipendenti dall'oro non ne hanno",
+            "da estrarre, si organizzano per cacciarlo.",
+            "",
+            "Attenti alle bande di imboscata di GNOMI LADRI",
+            "che usano trappole e armi con abilita'",
+            "letale."
+        ],
+        "abilities": [
+            "- Lay Trap"
+        ],
+        "inventory": [
+            "- Spade/Mazze d'Acciaio",
+            "- Archi Corti/Balestre e Faretre",
+            "- Bycocket (Capo Ladro)",
+            "- Cappuccio dei Sussurri",
+            "- Bandane",
+            "- Maschere da Bandito",
+            "- Coltelli da Bocca",
+            "- Trappole per Orsi/Trappole Truccate",
+            "- Piume Incantate"
+        ]
+    },
+    "goatman": {
+        "blurb": [
+            "Un popolo tribale dalle montagne",
+            "vicine, gli UOMINI CAPRA sono gente robusta,",
+            "di poco ingegno.",
+            "La loro cultura ruota attorno al bere,",
+            "sebbene possano essere competenti in",
+            "molte abilita' quando sazi."
+        ],
+        "abilities": [],
+        "inventory": [
+            "- Armatura di Ferro, Acciaio, Cristallo",
+            "- Asce/Mazze di Acciaio, Cristallo",
+            "- Vari bastoni magici",
+            "- Lanterne, Frammenti di Cristallo",
+            "- Scudi Specchio",
+            "- Chakram d'Acciaio",
+            "- Pozioni di Guarigione",
+            "- Bottiglie di Alcol"
+        ]
+    },
+    "goblin": {
+        "blurb": [
+            "I GOBLIN del dungeon sono simili agli umani",
+            "ma vivono in condizioni brutali e selvagge.",
+            "",
+            "Sebbene molto intraprendenti, le loro menti si sono",
+            "atrofizzate, rendendo molti di loro",
+            "dipendenti dalle razzie contro gli umani."
+        ],
+        "abilities": [],
+        "inventory": [
+            "- Mazze/Asce di Bronzo, Ferro",
+            "- Archi Corti e Faretre",
+            "- Bastoni Magici del Fuoco",
+            "- Mantelli della Riflessione Magica",
+            "- Rametti d'Erba",
+            "- Armatura di Cuoio, Bronzo",
+            "- Mantelli",
+            "- Cappelli Animali",
+            "- Copricapi da Mago"
+        ]
+    },
+    "gyrobot": {
+        "blurb": [
+            "Mentre il GYROBOT volante puo' evitare",
+            "la maggior parte delle minacce, alcuni pericoli sono",
+            "troppo grandi per essere evitati.",
+            "GYROBOT curiosi possono involontariamente",
+            "attivare trappole e cessare il funzionamento."
+        ],
+        "abilities": [
+            "- Levitation",
+            "- Detection",
+            "- Light"
+        ],
+        "inventory": [
+            ""
+        ]
+    },
+    "human": {
+        "blurb": [
+            "I popolani di Hamlet provenivano una volta",
+            "da molte nazioni per commerciare",
+            "e lavorare insieme pacificamente.",
+            "",
+            "Con la giusta concentrazione, gli UMANI possono diventare",
+            "esperti in qualsiasi cosa su cui mettono la testa."
+        ],
+        "abilities": [],
+        "inventory": [
+            "- Armi da mischia e a distanza",
+            "- Armatura di Cuoio, Bronzo, Ferro,",
+            "Acciaio"
+        ]
+    },
+    "imp": {
+        "blurb": [
+            "Terribili creatori di guai, gli IMP vagano",
+            "ovunque possano infliggere sofferenza.",
+            "",
+            "Le loro ali e abilita' magica permettono loro",
+            "di devastare i nemici, spesso ben fuori portata,",
+            "ridacchiando tutto il tempo."
+        ],
+        "abilities": [
+            "- Fireball",
+            "- Levitation"
+        ],
+        "inventory": [
+            "- Libri Magici vari"
+        ]
+    },
+    "incubus": {
+        "blurb": [
+            "Una maledizione di orgoglio personificata, l'INCUBUS",
+            "e' ossessionato dal controllare gli altri.",
+            "",
+            "Usa incantesimi e armi per giocare con le sue",
+            "vittime, sebbene alcuni prendano un approccio diretto",
+            "nella loro ricerca del male."
+        ],
+        "abilities": [
+            "- Teleportation",
+            "- Steal Weapon"
+        ],
+        "inventory": [
+            "- Bastoni Magici del Freddo",
+            "- Balestre",
+            "- Lance di Acciaio, Cristallo",
+            "- Bottiglie di Alcol",
+            "- Pozioni di Confusione",
+            "- Maschera da Ballo",
+            "- Scudo Specchio"
+        ]
+    },
+    "insectoid": {
+        "blurb": [
+            "Non si sa molto sugli sfuggenti uomini",
+            "insetto che vagano in luoghi remoti.",
+            "",
+            "La loro abilita' e misteriosa fisiologia danno",
+            "loro un vantaggio sul campo di battaglia, incutendo",
+            "paura in molti umani."
+        ],
+        "abilities": [
+            "- Spray Acid"
+        ],
+        "inventory": [
+            "- Armatura di Ferro, Acciaio, Cristallo",
+            "- Spade/Lance di Acciaio, Cristallo",
+            "- Archi Corti/Lunghi/Composti",
+            "- Balestre",
+            "- Pugnali di Ferro"
+        ]
+    },
+    "kobold": {
+        "blurb": [
+            "I COBOLDI sono gente piccola e squamosa, e sono",
+            "cultisti e banditi famigerati nella regione.",
+            "",
+            "Sono stati a lungo un problema per la",
+            "Gilda dei Maghi, grazie alla loro innata",
+            "resistenza alla magia."
+        ],
+        "abilities": [
+            "- Slow"
+        ],
+        "inventory": [
+            "- Armi da mischia/a distanza",
+            "    di Ferro, Acciaio",
+            "- Piume Incantate",
+            "- Apriscatole",
+            "- Asciugamani"
+        ]
+    },
+    "lich": {
+        "blurb": [
+            "Il corpo del BARONE HERX e' annerito nella",
+            "morte della sua carne, ma brandisce immenso",
+            "potere magico e un legame oscuro con l'Inferno.",
+            "",
+            "Coloro che lo affrontano faccia a faccia devono essere",
+            "ben preparati per i suoi incantesimi."
+        ],
+        "abilities": [
+            "- Lightning Volley",
+            "- Conjure Hellspawn",
+            "- Command Darkness",
+            "- Levitation",
+            "- Indominable",
+            "- Dash"
+        ],
+        "inventory": [
+            "- Sfera Mistica Viola",
+            "- Oro"
+        ]
+    },
+    "lichfire": {
+        "blurb": [
+            "ORPHEUS usa la sua passione per alimentare la sua magia",
+            "e ama dominare i suoi problemi",
+            "faccia a faccia.",
+            "",
+            "Incantesimi grandi e potenti e intimidazione",
+            "gli permettono di finire le cose velocemente."
+        ],
+        "abilities": [
+            "- Fireball",
+            "- Telepathy",
+            "- Levitation",
+            "- Indominable",
+            "- Call Firestorm",
+            "- Teleport",
+            "- Blood Field"
+        ],
+        "inventory": [
+            "- Spada di Cristallo",
+            "- Maschera d'Oro"
+        ]
+    },
+    "lichice": {
+        "blurb": [
+            "ERUDYCE preferisce l'incantesimo giusto,",
+            "piazzato con intento severo, per girare",
+            "gli eventi a suo favore.",
+            "",
+            "Lascia che altri affrontino il confronto mentre",
+            "rimane in controllo da dietro le quinte."
+        ],
+        "abilities": [
+            "- Cold",
+            "- Levitation",
+            "- Telepathy",
+            "- Indominable",
+            "- Magic Missile Volley",
+            "- Blood Field",
+            "- Teleport",
+            "- Command Automata"
+        ],
+        "inventory": [
+            "- Bastone Magico del Freddo",
+            "- Copricapo da Mago"
+        ]
+    },
+    "lilith": {
+        "blurb": [
+            "Un nome dato prima nel mito alla succube",
+            "primordiale, coloro che guidano e ispirano",
+            "le succubi sono a volte garantite questo titolo.",
+            "",
+            "Attenti alla sua influenza, poiche' i suoi nemici",
+            "sono noti per cambiare lato."
+        ],
+        "abilities": [
+            "- Charm Monster",
+            "- Teleportation"
+        ],
+        "inventory": [
+            "- Bastoni Magici di Charme Mostro",
+            "- Rose"
+        ]
+    },
+    "mimic": {
+        "blurb": [
+            "Poco si capisce della vera natura di un",
+            "MIMIC, ma si presume che non abbiano",
+            "sempre avuto l'aspetto di forzieri.",
+            "",
+            "Ulteriore studio e' stato impossibile a causa",
+            "del loro mangiare ricercatori e i loro appunti."
+        ],
+        "abilities": [
+            "- Devour Equipment",
+            "- Indominable"
+        ],
+        "inventory": [
+            "- Contenuto del forziere",
+            "- Oro"
+        ]
+    },
+    "minotaur": {
+        "blurb": [
+            "Un'enorme bestia leggendaria di origine sconosciuta,",
+            "il MINOTAURO puo' sfondare i muri del",
+            "dungeon ed e' stato incantato, permettendogli",
+            "di levitare.",
+            "E' spietato nell'inseguimento dei nemici del suo",
+            "padrone."
+        ],
+        "abilities": [
+            "- Levitation",
+            "- Destroy Obstacle",
+            "- Telepathy",
+            "- Indominable"
+        ],
+        "inventory": [
+            "- Gemme di alto valore"
+        ]
+    },
+    "mysterious shop": {
+        "blurb": [
+            "Questo MERCANTE MISTERIOSO sa cose che",
+            "non potrebbe possibilmente sapere e porta",
+            "artefatti che non potrebbe possibilmente possedere.",
+            "",
+            "Scambiera' solo se gli vengono offerte sfere mistiche,",
+            "se il cliente puo' sopportare di offrirle."
+        ],
+        "abilities": [
+            "- Magic Missile",
+            "- Indominable",
+            "- Drain Soul",
+            "- Bloodletting",
+            "- Teleportation"
+        ],
+        "inventory": [
+            "- Merce del Negozio varia"
+        ]
+    },
+    "potato king": {
+        "blurb": [
+            "In contrasto coi suoi simili, IL RE PATATA",
+            "appare allegro e spensierato, sebbene",
+            "pazzo.",
+            "I compagni goblin sembrano attratti dalla sua caotica",
+            "personalita', forse disperati per leggerezza",
+            "nelle paludi."
+        ],
+        "abilities": [],
+        "inventory": [
+            "- Sharur",
+            "- Cappello da Giullare",
+            "- Mantelli della Riflessione Magica",
+            "- Rametti d'Erba",
+            "- Armatura di Cuoio, Bronzo",
+            "- Mantelli"
+        ]
+    },
+    "rat": {
+        "blurb": [
+            "I dungeon hanno allevato questi RATTI per",
+            "aggressivita' e dimensione.",
+            "",
+            "Mentre si sarebbe saggi a stare attenti a",
+            "sciami e RATTI furtivi, di solito la vista",
+            "di essi significa la promessa di cibo."
+        ],
+        "abilities": [],
+        "inventory": [
+            "- Carne, Formaggio"
+        ]
+    },
+    "scarab": {
+        "blurb": [
+            "Il robusto SCARABEO si dice scavi in materiali",
+            "densi e magici, convogliando profonda",
+            "resistenza magica nei loro gusci.",
+            "",
+            "La loro carne viscosa e' poco attraente per alcuni",
+            "ma e' abbastanza nutriente."
+        ],
+        "abilities": [],
+        "inventory": [
+            "- Tomalley",
+            "- Gemme di basso valore"
+        ]
+    },
+    "scorpion": {
+        "blurb": [
+            "Un buono scudo in mani abili puo' parare il",
+            "mortale pungiglione paralizzante dello SCORPIONE.",
+            "",
+            "Vittime degli SCORPIONI hanno solitamente uno sguardo",
+            "di sorpresa congelato sui loro volti quando il",
+            "corpo viene trovato."
+        ],
+        "abilities": [
+            "- Paralyzing Attacks"
+        ],
+        "inventory": [
+            ""
+        ]
+    },
+    "sentrybot": {
+        "blurb": [
+            "Spesso presunto essere un'invenzione moderna,",
+            "varianti di questo progetto di ROBOT SENTINELLA sono",
+            "state trovate attive tra antiche rovine.",
+            "",
+            "Sebbene facilmente rotti, gli ingegneri si affidano",
+            "ai robot sentinella per alto danno."
+        ],
+        "abilities": [],
+        "inventory": [
+            ""
+        ]
+    },
+    "shadow": {
+        "blurb": [
+            "Uno spirito malvagio che vaga, apparendo senza",
+            "alcun senso di se stesso.",
+            "",
+            "L'OMBRA ruba l'identita' di chiunque",
+            "incontri, e vanamente tenta di sostituire",
+            "il suo bersaglio assassinando l'originale."
+        ],
+        "abilities": [
+            "- Mimic Other",
+            "- Levitation",
+            "- Teleportation",
+            "- Indominable"
+        ],
+        "inventory": [
+            "- Maschere Spettrali"
+        ]
+    },
+    "shelob": {
+        "blurb": [
+            "Coloro che sono sopravvissuti a SHELOB sostengono che",
+            "non e' affatto un ragno. Piuttosto, e'",
+            "uno spirito demoniaco che prende la forma di un ragno.",
+            "",
+            "Porta con se' il",
+            "tesoro delle sue vittime."
+        ],
+        "abilities": [
+            "- Poisoned Attacks",
+            "- Spray Web"
+        ],
+        "inventory": [
+            "- Dyrnwyn",
+            "- Anello dell'Invisibilita'"
+        ]
+    },
+    "shopkeeper": {
+        "blurb": [
+            "I buoni NEGOZIANTI in qualche modo fanno funzionare i loro",
+            "affari ovunque.",
+            "Sono schizzinosi su cosa comprano,",
+            "e non tollerano ladri.",
+            "",
+            "La parola viaggia veloce nella Gilda dei Mercanti."
+        ],
+        "abilities": [
+            "- Magic Missile",
+            "- Drain Soul",
+            "- Indominable",
+            "- Bloodletting"
+        ],
+        "inventory": [
+            "- Merce del Negozio varia"
+        ]
+    },
+    "skeleton": {
+        "blurb": [
+            "I resti maledetti di un esercito mercenario,",
+            "gli SCHELETRI portano una varieta' di equipaggiamento.",
+            "",
+            "Bisogna fare attenzione sia quando si combatte che",
+            "saccheggiandoli, poiche' l'equipaggiamento malconcio puo'",
+            "nuocere piu' che aiutare."
+        ],
+        "abilities": [],
+        "inventory": [
+            "- Asce/Spade/Lance di Bronzo, Ferro",
+            "- Scudi/Elmi di Cuoio, Legno, Ferro"
+        ]
+    },
+    "skrabblag": {
+        "blurb": [
+            "L'esoscheletro di questa bestia porta",
+            "innumerevoli spacchi e graffi dal",
+            "combattere con prede piu' deboli.",
+            "Naturalisti sostengono che scorpioni come",
+            "SKRABBLAG sono capaci di invecchiare fino",
+            "all'immortalita'."
+        ],
+        "abilities": [
+            "- Paralyzing Attacks"
+        ],
+        "inventory": [
+            "- Rubini"
+        ]
+    },
+    "slime": {
+        "blurb": [
+            "Trovati in una varieta' di colori, le GELATINE sono",
+            "entita' senza mente che cercano consumo",
+            "infinito.",
+            "Si trovano spesso a scivolare attraverso",
+            "tubi o corsi d'acqua nella loro ricerca di",
+            "materia organica da liquefare."
+        ],
+        "abilities": [
+            "- Waterwalking (Blue/Purple)",
+            "- Lavawalking (Orange)",
+            "- Spray Acid (Green)",
+            "- Spray Water (Blue)",
+            "- Spray Flames (Orange)",
+            "- Spray Tar (Purple)",
+            "- Spray Sludge (Silver)"
+        ],
+        "inventory": [
+            ""
+        ]
+    },
+    "spellbot": {
+        "blurb": [
+            "Tutti i meccanismi di ingegneria automatizzati si affidano",
+            "a scarti magici per comportamenti limitati.",
+            "",
+            "Il ROBOT INCANTATORE e' affisso con una grande scorta",
+            "permettendogli di creare danno magico."
+        ],
+        "abilities": [
+            "- Forcebolt",
+            "- Magic Missile"
+        ],
+        "inventory": [
+            ""
+        ]
+    },
+    "spider": {
+        "blurb": [
+            "I RAGNI giganti del dungeon",
+            "sono cacciatori pazienti.",
+            "",
+            "Il loro metabolismo lento e zanne velenose",
+            "li rendono ben adatti ad aspettare prede",
+            "da imboscata, eviscerare e divorare."
+        ],
+        "abilities": [
+            "- Poisoned Attacks",
+            "- Spray Web"
+        ],
+        "inventory": [
+            ""
+        ]
+    },
+    "succubus": {
+        "blurb": [
+            "Una maledizione di lussuria personificata, la SUCCUBE",
+            "e' scaltra e crudele.",
+            "",
+            "Ha tutto cio' che le serve per",
+            "manipolare gli altri, sebbene alcune prendano la",
+            "via indipendente nella loro ricerca del male."
+        ],
+        "abilities": [
+            "- Charm Monster",
+            "- Teleportation"
+        ],
+        "inventory": [
+            "- Bastoni Magici di Charme Mostro",
+            "- Maschere da Ballo"
+        ]
+    },
+    "thumpus": {
+        "blurb": [
+            "L'amiabilita' tra troll e gnomi e'",
+            "ben documentata, ma tipicamente gli gnomi",
+            "amano giocare con le bestie piu' grandi.",
+            "",
+            "THUMPUS sembra essersi",
+            "guadagnato il rispetto degli gnomi."
+        ],
+        "abilities": [],
+        "inventory": [
+            "- Bottino del dungeon vario",
+            "- Rose"
+        ]
+    },
+    "troll": {
+        "blurb": [
+            "Questi giganti quasi ciechi sembrano",
+            "vagare i dungeon per coincidenza,",
+            "preferendo vivere in isolamento, anche l'uno",
+            "dall'altro.",
+            "Incrocia il percorso di uno e preparati per un",
+            "potente pestaggio."
+        ],
+        "abilities": [],
+        "inventory": [
+            "- Bottino del dungeon vario",
+            "- Rose"
+        ]
+    },
+    "vampire": {
+        "blurb": [
+            "Per mantenere la loro maledizione di",
+            "immortalita', i VAMPIRI devono consumare il",
+            "sangue dei vivi.",
+            "Hanno meravigliose abilita' magiche,",
+            "che si dice siano ottenute rinunciando",
+            "alle loro stesse anime."
+        ],
+        "abilities": [
+            "- Drain Soul",
+            "- Vampiric Aura"
+        ],
+        "inventory": [
+            "- Bastoni Magici del Sanguinamento",
+            "- Giubba da Vampiro"
+        ]
+    },
+    "xyggi": {
+        "blurb": [
+            "Il culto di stregoni crede che tutto",
+            "l'intelletto nasca dalla magia, sostenendo che",
+            "dove ne trovi uno, l'altro seguira'.",
+            "",
+            "Lo scarabeo, XYGGI, si vocifera abbia una",
+            "quantita' minacciosa di entrambi."
+        ],
+        "abilities": [
+            "- Cold",
+            "- Magic Reflection"
+        ],
+        "inventory": [
+            "- Piume Incantate",
+            "- Tomalley",
+            "- Gemme di basso valore"
+        ]
+    }
+}
