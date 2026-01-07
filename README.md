@@ -6,6 +6,14 @@ Al momento il progetto è in **stato base (v0.0.1)**: è stato tradotto **quasi 
 
 ✅ **Compatibile con l’ultima versione del gioco: 4.3.1**
 
+## Istruzioni all’installazione
+1. Vai su **GitHub → Releases**.
+2. Seleziona l’ultima release e, in basso, clicca **Source Code** per scaricare la mod.
+3. Estrai lo ZIP e **copia il contenuto della cartella** scaricata dentro la cartella **`mods`** nella directory principale di *Barony*.
+
+### Trovare la cartella principale del gioco (Steam)
+- Steam → tasto destro su *Barony* → **Proprietà** → **File installati** → **Sfoglia** (o “Sfoglia i file locali”).
+
 ## Roadmap / Aggiornamenti
 Cercheremo di aggiornare la mod man mano che esce nuovo contenuto e di eliminare tutte le imperfezioni (per quanto possibile), soprattutto:
 - testi troppo lunghi che non rientrano nei box
