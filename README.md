@@ -1,4 +1,4 @@
-![Barony ITA Logo](https://i.postimg.cc/k5DFxqrg/preview.png)
+![Barony ITA Logo](https://postimg.cc/2LB6fCy5)
 
 
 #Barony ITA — Mod di traduzione in italiano
@@ -14,7 +14,7 @@ La traduzione è ancora in fase di rifinitura e **non è perfetta**: in generale
 
 In questa versione è stato modificato il logo del titolo del gioco: **lo scudo adesso ha i colori della bandiera italiana**.
 
-✅ **Compatibile con l’ultima versione del gioco: 4.3.1**
+✅ **Compatibile con l’ultima versione del gioco: 4.3.2**
 
 Link Steam Workshop: [Barony Italian Translation](https://steamcommunity.com/sharedfiles/filedetails/?id=3641251022)
 
@@ -61,7 +61,7 @@ The translation is still being refined and is **not perfect**: for now, our main
 
 In this version, the game’s title logo has been modified: **the shield now uses the colors of the Italian flag**.
 
-✅ **Compatible with the latest game version: 4.3.1**
+✅ **Compatible with the latest game version: 4.3.2**
 
 Steam Workshop link: [Barony Italian Translation](https://steamcommunity.com/sharedfiles/filedetails/?id=3641251022)
 
