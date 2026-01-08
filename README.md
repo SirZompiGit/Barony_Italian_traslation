@@ -7,8 +7,8 @@ Discord: https://discord.gg/enbZQV2s49
 
 Questa mod porta la **traduzione in italiano** di *Barony*.
 
-## Versione recente: v0.5
-Al momento il progetto è stato aggiornato alla **versione v0.5**: abbiamo tradotto **gran parte del gioco** (DLC compresi), ma **manca ancora qualcosa**. Rispetto alla precedente, in questa versione abbiamo cercato di sistemare alcuni problemi di **metrica e formattazione**, soprattutto sui cartelli dei tutorial e in alcuni menù, ma in gioco possono ancora essere presenti **testi sovrapposti, tagliati o che non rientrano correttamente nei riquadri**.
+## Versione recente: v0.5.1
+Al momento il progetto è stato aggiornato alla **versione v0.5.1**: abbiamo tradotto **gran parte del gioco** (DLC compresi), ma **manca ancora qualcosa**. Rispetto alla precedente, in questa versione abbiamo cercato di sistemare alcuni problemi di **metrica e formattazione**, soprattutto sui cartelli dei tutorial e in alcuni menù, ma in gioco possono ancora essere presenti **testi sovrapposti, tagliati o che non rientrano correttamente nei riquadri**.
 
 La traduzione è ancora in fase di rifinitura e **non è perfetta**: in generale abbiamo dato priorità a far **rientrare le stringhe** nei limiti del gioco. Anche dove il testo può risultare migliorabile, ci siamo comunque assicurati che **il significato della frase passasse in modo chiaro**.
 
@@ -54,8 +54,8 @@ Discord: https://discord.gg/enbZQV2s49
 
 This mod provides an **Italian translation** for *Barony*.
 
-## Latest version: v0.5
-The project is currently updated to **v0.5**: we’ve translated **most of the game** (including DLCs), but **some parts are still missing**. Compared to the previous version, we tried to fix several **text length and formatting** issues—especially on tutorial signs and in some menus—however you may still encounter **overlapping, cut-off, or incorrectly fitting text** in-game.
+## Latest version: v0.5.1
+The project is currently updated to **v0.5.1**: we’ve translated **most of the game** (including DLCs), but **some parts are still missing**. Compared to the previous version, we tried to fix several **text length and formatting** issues—especially on tutorial signs and in some menus—however you may still encounter **overlapping, cut-off, or incorrectly fitting text** in-game.
 
 The translation is still being refined and is **not perfect**: for now, our main priority has been to make sure **strings fit** within the game’s limits. Even where the wording could be improved, we’ve made sure the **meaning remains clear**.
 
