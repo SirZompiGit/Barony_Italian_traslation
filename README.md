@@ -1,4 +1,4 @@
-![Barony ITA Logo](https://i.postimg.cc/SRgzCspc/preview(1).png)
+![Barony ITA Logo](https://i.postimg.cc/dVhwq0NC/preview.png)
 
 
 #Barony ITA — Mod di traduzione in italiano
