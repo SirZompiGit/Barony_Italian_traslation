@@ -7,7 +7,7 @@ Discord: https://discord.gg/enbZQV2s49
 
 Questa mod porta la **traduzione in italiano** di *Barony*.
 
-Al momento il progetto è in **stato base (v0.5)**: è stato tradotto **buona parte del gioco**, ma **manca ancora qualcosa**. In questa fase non abbiamo dato priorità assoluta a **metrica e formattazione**, quindi in gioco possono capitare **testi sovrapposti, tagliati o che non rientrano correttamente nei riquadri**.
+Al momento il progetto è nella **versione (v0.5)**: è stato tradotto **gran parte del gioco** (DLC compresi), ma **manca ancora qualcosa**. Rispetto alla precedente, in questa versione abbiamo cercato di sistemare alcuni problemi di **metrica e formattazione**, soprattutto su i cartelli dei tutorial, ma in gioco possono ancora essere presenti **testi sovrapposti, tagliati o che non rientrano correttamente nei riquadri**.
 
 ✅ **Compatibile con l’ultima versione del gioco: 4.3.1**
 
