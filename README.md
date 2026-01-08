@@ -12,6 +12,8 @@ Al momento il progetto è stato aggiornato alla **versione v0.5**: abbiamo trado
 
 La traduzione è ancora in fase di rifinitura e **non è perfetta**: in generale abbiamo dato priorità a far **rientrare le stringhe** nei limiti del gioco. Anche dove il testo può risultare migliorabile, ci siamo comunque assicurati che **il significato della frase passasse in modo chiaro**.
 
+In questa versione è stato modificato il logo del titolo del gioco: **lo scudo adesso ha i colori della bandiera italiana**.
+
 ✅ **Compatibile con l’ultima versione del gioco: 4.3.1**
 
 Link Steam Workshop: [Barony Italian Translation](https://steamcommunity.com/sharedfiles/filedetails/?id=3641251022)
@@ -56,6 +58,8 @@ This mod provides an **Italian translation** for *Barony*.
 The project is currently updated to **v0.5**: we’ve translated **most of the game** (including DLCs), but **some parts are still missing**. Compared to the previous version, we tried to fix several **text length and formatting** issues—especially on tutorial signs and in some menus—however you may still encounter **overlapping, cut-off, or incorrectly fitting text** in-game.
 
 The translation is still being refined and is **not perfect**: for now, our main priority has been to make sure **strings fit** within the game’s limits. Even where the wording could be improved, we’ve made sure the **meaning remains clear**.
+
+In this version, the game’s title logo has been modified: **the shield now uses the colors of the Italian flag**.
 
 ✅ **Compatible with the latest game version: 4.3.1**
 
