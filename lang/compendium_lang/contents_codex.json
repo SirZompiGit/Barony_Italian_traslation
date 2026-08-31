@@ -1,0 +1,331 @@
+{
+	"version": 1,
+	"contents": [
+		{
+			"    PERSONAGGIO": "-"
+		},
+		{
+			"CLASSE": "class"
+		},
+		{
+			"LISTA CLASSI": "classes list"
+		},
+		{
+			"RAZZA & ALLINEAMENTO": "races"
+		},
+		{
+			"PUNTI ESPERIENZA (XP)": "xp"
+		},
+		{
+			"LIVELLARE": "leveling up"
+		},
+		{
+			"STATISTICHE & META": "stats metastats"
+		},
+		{
+			"ABILITA'": "skills"
+		},
+		{
+			"ORO": "gold"
+		},
+		{
+			"    AZIONI": "-"
+		},
+		{
+			"ATTACCHI MISCHIA": "melee"
+		},
+		{
+			"COLPI CRITICI": "crits"
+		},
+		{
+			"COLPI AI FIANCHI": "flanking"
+		},
+		{
+			"COLPI ALLE SPALLE": "backstabs"
+		},
+		{
+			"FURTIVITA'": "sneaking"
+		},
+		{
+			"COLPI LEGGENDARI": "legendary strikes"
+		},
+		{
+			"PARARE": "blocking"
+		},
+		{
+			"LANCIO MANO SEC.": "offhand casting"
+		},
+		{
+			"SCHIVATA E RITIRATA": "strafing"
+		},
+		{
+			"LANCIO A MEMORIA": "memorized"
+		},
+		{
+			"LANCIO DA LIBRO": "spellbook casting"
+		},
+		{
+			"ATTACCHI A DISTANZA": "missiles"
+		},
+		{
+			"ATTACCHI DA LANCIO": "thrown"
+		},
+		{
+			"USURA OGGETTI": "equipment degradation"
+		},
+		{
+			"STATO RICERCATO": "wanted"
+		},
+		{
+			"    STATISTICHE & META": "-"
+		},
+		{
+			"FORZA (STR)": "str"
+		},
+		{
+			"DESTREZZA (DEX)": "dex"
+		},
+		{
+			"COSTITUZIONE (CON)": "con"
+		},
+		{
+			"INTELLIGENZA (INT)": "int"
+		},
+		{
+			"PERCEZIONE (PER)": "per"
+		},
+		{
+			"CARISMA (CHR)": "chr"
+		},
+		{
+			"CLASSE ARMATURA (AC)": "ac"
+		},
+		{
+			"PUNTI SALUTE (HP)": "hp"
+		},
+		{
+			"PUNTI MAGIA (MP)": "mp"
+		},
+		{
+			"RESISTENZA MAGICA (RES)": "res"
+		},
+		{
+			"POTERE MAGICO (PWR)": "pwr"
+		},
+		{
+			"RIGENERAZIONE (RGN)": "rgn"
+		},
+		{
+			"PESO (WGT)": "wgt"
+		},
+		{
+			"    ABILITA'": "-"
+		},
+		{
+			"ABILITA' SPADA": "sword skill"
+		},
+		{
+			"ABILITA' ASCIA": "axe skill"
+		},
+		{
+			"ABILITA' ASTA": "polearm skill"
+		},
+		{
+			"ABILITA' MAZZA": "mace skill"
+		},
+		{
+			"ABILITA' DISARMATO": "unarmed skill"
+		},
+		{
+			"ABILITA' FURTIVITA'": "stealth skill"
+		},
+		{
+			"ABILITA' PARATA": "blocking skill"
+		},
+		{
+			"ABILITA' TIRO": "ranged skill"
+		},
+		{
+			"ABILITA' STREGONERIA": "sorcery skill"
+		},
+		{
+			"ABILITA' MISTICISMO": "mysticism skill"
+		},
+		{
+			"ABILITA' TAUMATURGIA": "thaumaturgy skill"
+		},
+		{
+			"ABILITA' SAPERE": "lore skill"
+		},
+		{
+			"ABILITA' LEADERSHIP": "leadership skill"
+		},
+		{
+			"ABILITA' COMMERCIO": "trading skill"
+		},
+		{
+			"ABILITA' ALCHIMIA": "alchemy skill"
+		},
+		{
+			"ABILITA' INGEGNERIA": "tinkering skill"
+		}
+	],
+	"contents_alphabetical": [
+		{
+			"ABILITA' ALCHIMIA": "alchemy skill"
+		},
+		{
+			"CLASSE ARMATURA (AC)": "ac"
+		},
+		{
+			"ABILITA' ASCIA": "axe skill"
+		},
+		{
+			"COLPI ALLE SPALLE": "backstabs"
+		},
+		{
+			"ABILITA' PARATA": "blocking skill"
+		},
+		{
+			"PARARE": "blocking"
+		},
+		{
+			"LANCIO A MEMORIA": "memorized"
+		},
+		{
+			"CARISMA (CHR)": "chr"
+		},
+		{
+			"CLASSE": "class"
+		},
+		{
+			"ELENCO CLASSI": "classes list"
+		},
+		{
+			"COSTITUZIONE (CON)": "con"
+		},
+		{
+			"COLPI CRITICI": "crits"
+		},
+		{
+			"DESTREZZA (DEX)": "dex"
+		},
+		{
+			"PUNTI ESPERIENZA (XP)": "xp"
+		},
+		{
+			"COLPI AI FIANCHI": "flanking"
+		},
+		{
+			"ORO": "gold"
+		},
+		{
+			"PUNTI SALUTE (HP)": "hp"
+		},
+		{
+			"INTELLIGENZA (INT)": "int"
+		},
+		{
+			"USURA OGGETTI": "equipment degradation"
+		},
+		{
+			"ABILITA' LEADERSHIP": "leadership skill"
+		},
+		{
+			"COLPI LEGGENDARI": "legendary strikes"
+		},
+		{
+			"LIVELLARE": "leveling up"
+		},
+		{
+			"ABILITA' SAPERE": "lore skill"
+		},
+		{
+			"ABILITA' MAZZA": "mace skill"
+		},
+		{
+			"PUNTI MAGIA (MP)": "mp"
+		},
+		{
+			"POTERE MAGICO (PWR)": "pwr"
+		},
+		{
+			"RESISTENZA MAGICA (RES)": "res"
+		},
+		{
+			"ATTACCHI MISCHIA": "melee"
+		},
+		{
+			"ATTACCHI A DISTANZA": "missiles"
+		},
+		{
+			"ABILITA' MISTICISMO": "mysticism skill"
+		},
+		{
+			"LANCIO MANO SEC.": "offhand casting"
+		},
+		{
+			"PERCEZIONE (PER)": "per"
+		},
+		{
+			"ABILITA' ASTA": "polearm skill"
+		},
+		{
+			"RAZZA & ALLINEAMENTO": "races"
+		},
+		{
+			"ABILITA' TIRO": "ranged skill"
+		},
+		{
+			"RIGENERAZIONE (RGN)": "rgn"
+		},
+		{
+			"ABILITA'": "skills"
+		},
+		{
+			"FURTIVITA'": "sneaking"
+		},
+		{
+			"ABILITA' STREGONERIA": "sorcery skill"
+		},
+		{
+			"LANCIO DA LIBRO": "spellbook casting"
+		},
+		{
+			"STATISTICHE & META": "stats metastats"
+		},
+		{
+			"ABILITA' FURTIVITA'": "stealth skill"
+		},
+		{
+			"SCHIVATA E RITIRATA": "strafing"
+		},
+		{
+			"FORZA (STR)": "str"
+		},
+		{
+			"ABILITA' SPADA": "sword skill"
+		},
+		{
+			"ABILITA' TAUMATURGIA": "thaumaturgy skill"
+		},
+		{
+			"ATTACCHI DA LANCIO": "thrown"
+		},
+		{
+			"ABILITA' INGEGNERIA": "tinkering skill"
+		},
+		{
+			"ABILITA' COMMERCIO": "trading skill"
+		},
+		{
+			"ABILITA' DISARMATO": "unarmed skill"
+		},
+		{
+			"STATO RICERCATO": "wanted"
+		},
+		{
+			"PESO (WGT)": "wgt"
+		}
+	]
+}

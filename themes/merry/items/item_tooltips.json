@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"adjectives": {
+		"food_status": {
+			"broken": "Marcio",
+			"decrepit": "Dell'anno scorso",
+			"worn": "Avanzato",
+			"serviceable": "Riciclato",
+			"excellent": "Fresco"
+		}
+	}
+}

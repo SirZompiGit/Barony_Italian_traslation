@@ -1,0 +1,7271 @@
+# English language file
+# all entries must contain a string number, followed by a space, followed by a string, ended by a pound character
+# lines beginning with pound character are a comment
+# blank lines are ignored
+
+1 null#
+
+# class names
+
+1900 Barbaro#
+1901 Guerriero#
+1902 Guaritore#
+1903 Ladro#
+1904 Vagabondo#
+1905 Chierico#
+1906 Mercante#
+1907 Mago#
+1908 Arcanista#
+1909 Joker#
+
+
+# class descriptions
+
+10 DEPRECATED#
+11 DEPRECATED#
+12 DEPRECATED#
+13 DEPRECATED#
+14 DEPRECATED#
+15 DEPRECATED#
+16 DEPRECATED#
+17 DEPRECATED#
+18 DEPRECATED#
+19 DEPRECATED#
+
+
+# appearance names
+
+20 landguard#
+21 northborn#
+22 firebrand#
+23 hardbred#
+24 highwatch#
+25 gloomforge#
+26 pyrebloom#
+27 snakestone#
+28 windclan#
+29 warblood#
+30 millbound#
+31 sunstalk#
+32 claymount#
+33 stormward#
+34 tradefall#
+35 nighthill#
+36 baytower#
+37 whetsong#
+
+
+# appearance descriptions
+
+38 DEPRECATED#
+39 DEPRECATED#
+40 DEPRECATED#
+41 DEPRECATED#
+42 DEPRECATED#
+43 DEPRECATED#
+44 DEPRECATED#
+45 DEPRECATED#
+46 DEPRECATED#
+47 DEPRECATED#
+48 DEPRECATED#
+49 DEPRECATED#
+50 DEPRECATED#
+51 DEPRECATED#
+52 DEPRECATED#
+53 DEPRECATED#
+54 DEPRECATED#
+55 DEPRECATED#
+
+
+# credit titles
+
+56 DEPRECATED#
+57 DEPRECATED#
+58 DEPRECATED#
+59 DEPRECATED#
+60 DEPRECATED#
+61 DEPRECATED#
+62 DEPRECATED#
+63 DEPRECATED#
+64 DEPRECATED#
+65 DEPRECATED#
+
+
+#
+
+66 DEPRECATED#
+67 DEPRECATED#
+68 DEPRECATED#
+69 DEPRECATED#
+
+
+# baron herx subtitles
+
+70 "Buona fortuna, mortale."#
+71 "Ogni bene, umano."#
+72 "Beh, buona fortuna, umano."#
+73 "Hahahahaha!"#
+74 "Il minotauro ha fame!"#
+75 "Il mio animale brama carne umana..."#
+76 "Arriva il minotauro..."#
+77 "Hmm... un altro mortale alla mia soglia..."#
+78 "Ahh, un altro nella mischia..."#
+79 "Hmm... uno nuovo..."#
+80 "Meglio se non indugi troppo a lungo, mortale."#
+81 "Che peccato se tu fossi qui quando Lui arriva..."#
+82 "Faresti bene ad abbandonare questo luogo presto, mortale."#
+83 "Hmm... questo e' ancora vivo."#
+84 "Hmm, quindi sei arrivato fin qui..."#
+85 "Cosa speri di ottenere quaggiu', mortale?"#
+86 "Tu non sai nulla del potere che ho trovato qui..."#
+87 "Affrontami se osi, mortale. Non sopravviverai."#
+88 "Vieni nella mia tana, mortale, e ti mostrero' il dolore."#
+89 "Benvenuto alla rovina, mortale!"#
+
+
+# monster names
+
+90 nulla#
+91 umano#
+92 ratto#
+93 goblin#
+94 melma#
+95 troll#
+96 pipistrello#
+97 ragno#
+98 ghoul#
+99 scheletro#
+100 scorpione#
+101 imp#
+102 granchio#
+103 gnomo#
+104 demone#
+105 succube#
+106 mimic#
+107 lich#
+108 minotauro#
+109 diavolo#
+110 negoziante#
+
+
+# monster names (plural)
+
+111 nulla#
+112 umani#
+113 ratti#
+114 goblin#
+115 melme#
+116 troll#
+117 pipistrelli#
+118 ragni#
+119 ghoul#
+120 scheletri#
+121 scorpioni#
+122 imp#
+123 granchi#
+124 gnomi#
+125 demoni#
+126 succubi#
+127 mimic#
+128 lich#
+129 minotauri#
+130 diavoli#
+131 negozianti#
+
+
+# injury types
+
+132 colpisce#
+133 colpisce#
+134 morde#
+135 colpisce#
+136 ti imbratta#
+137 ti pesta#
+138 morde#
+139 morde#
+140 colpisce#
+141 colpisce#
+142 punge#
+143 graffia#
+144 pizzica#
+145 colpisce#
+146 ti sbrana#
+147 ti sberla#
+148 morde#
+149 colpisce#
+150 ti martella#
+151 ti martella#
+152 colpisce#
+
+
+# server flags
+
+153 Trucchi#
+154 Fuoco Amico#
+155 Minotauri#
+156 Fame#
+157 Trappole#
+
+
+# shopkeeper names
+
+158 Adrian#
+159 Bob#
+160 Carmack#
+161 Derek#
+162 Error#
+163 Felix#
+164 Geoff#
+165 Harold#
+166 Izchak#
+167 Jesse#
+168 Ken#
+169 Luke#
+170 Marty#
+171 Norian#
+172 Oliver#
+173 Peter#
+174 Quentin#
+175 Romero#
+176 Sidney#
+177 Tom#
+178 Ulf#
+179 Vern#
+180 Wallace#
+181 Xavier#
+182 Yoshi#
+183 Zeb#
+
+
+# shop names
+
+184 Armi & Armature#
+185 Cappelleria#
+186 Gioielleria#
+187 Libreria#
+188 Pozioni#
+189 Bastoni Fini#
+190 Gastronomia#
+191 Ferramenta#
+192 Articoli Caccia#
+193 Emporio#
+
+
+# shopkeeper lines
+
+194 Saluti!#
+195 Ciao!#
+196 Buongiorno!#
+
+
+# shopkeeper sells item at an unfair price
+
+197 Hai ricevuto un buon
+price for that!#
+198 Ottima scelta!#
+199 Un vero affare!#
+
+
+# shopkeeper sells item at a fair price
+
+200 E' uno scambio equo.#
+201 Suppongo di potermene
+with it.#
+202 Va bene, ma non per un soldo
+less!#
+
+
+# shopkeeper refuses a purchase
+
+203 Senza soldi, niente!#
+204 Non lo vendero' per nient'altro
+less.#
+205 Non hai abbastanza
+money!#
+
+
+# shopkeeper buys item at an unfair price
+
+206 Lo comprero' volentieri!#
+207 Lo comprero' da te!#
+208 Lo comprero'!#
+
+
+# shopkeeper buys item at a fair price
+
+209 Suppongo che lo comprero'.#
+210 Scambiero' con te per quello.#
+211 Lo comprero' da te.#
+
+
+# shopkeeper refuses to buy an item
+
+212 Non tratto quel genere.#
+213 Non mi interessa.#
+214 No! Non lo voglio.#
+
+
+# shopkeeper makes an offer to buy an item
+
+215 Lo comprerei per %dG.
+
+Trade? (Click destro da
+inventory)#
+
+
+# shopkeeper chit-chat
+
+216 Dicono che gli anelli
+del conflitto creino
+un'aura di discordia.#
+
+217 Olio? Corde? Bombe? Ti serve?
+E' tuo, amico mio,
+se hai abbastanza rubini!#
+
+218 Certi oggetti hanno
+effetti magici
+speciali.#
+
+219 Le melme hanno due colori.
+Si dice che le blu
+siano piu' forti.#
+
+220 Dicono che gli oggetti
+maledetti spesso fanno
+l'opposto del dovuto.#
+
+221 I troll ti ignorano se
+mantieni le distanze!#
+
+222 Le armi hanno diversi livelli
+di efficacia. Legno e bronzo
+sono deboli, l'acciaio forte.#
+
+223 Gli effetti delle pozioni
+svaniscono nel tempo.#
+
+224 Attento ai libri illustrati.
+Uno che conoscevo ne tocco'
+uno e fini' su un'isoletta.#
+
+225 Le tue abilita' migliorano
+usandole.#
+
+226 I goblin sono sciacalli.
+Non lasciare oggetti
+potenti in giro!#
+
+227 Sembro debole, ma sono
+un maestro delle
+arti mistiche.#
+
+228 Il cibo in scatola unge
+le mani. Usa un asciugamano
+per pulirti.#
+
+229 Puoi fasciare le ferite con
+gli asciugamani.#
+
+230 Hai fame? La carne di
+ratto e' un classico qui.#
+
+231 Le punture di scorpione
+paralizzano. Attento.#
+
+232 Dicono che le Succubi
+amino rubare i vestiti
+alla gente.#
+
+233 Piu' il cibo e' vecchio,
+piu' rischi di ammalarti
+mangiandolo.#
+
+234 Gli specchi a volte possono
+fare cose strane.#
+
+235 Identifica gli oggetti
+prima di usarli.#
+
+
+# skill names
+
+236 Invenzione#
+237 Furtivita'#
+238 Commercio#
+239 Sapere#
+240 Nuoto#
+241 Comando#
+242 Lancio#
+243 Magia#
+244 Tiro#
+245 Spada#
+246 Mazza#
+247 Ascia#
+248 Asta#
+249 Scudo#
+
+
+#
+
+250 DEPRECATED#
+251 DEPRECATED#
+252 DEPRECATED#
+
+
+# Left-click (entity spotting) messages
+
+253 Vedi un %s chiamato %s.#
+254 Vedi un %s.#
+255 Vedi una torcia a muro.#
+256 Vedi una porta.#
+257 Vedi %s.#
+258 Vedi un pezzo d'oro.#
+259 Vedi %d pezzi d'oro.#
+260 Vedi un falo'.#
+262 Vedi una fontana.#
+263 Vedi lavandino.#
+264 Vedi una scala che scende.#
+265 Vedi una scala che sale.#
+266 Vedi una cassa.#
+267 Vedi una saracinesca di ferro.#
+268 Vedi trappola a punte.#
+269 Vedi una leva.#
+270 Vedi un masso.#
+271 Vedi una lapide.#
+272 Vedi un portale misterioso.#
+273 Vedi una sedia.#
+274 Vedi un tavolo.#
+
+
+# console command messages
+
+275 Solo il server modifica i flag.#
+276 Flag server aggiornati.#
+277 I trucchi sono disattivi qui.#
+278 '%s' non e' oggetto!#
+279 Server: espulso client %d (%s).#
+280 Nessun client con quel nome.#
+281 Solo il server espelle i giocatori.#
+282 Devi essere in multiplayer per espellere!#
+283 Mappa salvata come '%s'.#
+284 Solo il server puo' farlo.#
+285 Passaggio al livello dopo...#
+286 Camera a %d, %d, %d
+ Orient.: %3.2f, %d#
+287 noclip sempre disabilitato in multiplayer.#
+288 noclip ON#
+289 noclip OFF#
+290 god mode sempre disabilitato in multiplayer.#
+291 god mode ON#
+292 god mode OFF#
+293 buddha mode sempre disabilitato in multiplayer.#
+294 buddha mode ON#
+295 buddha mode OFF#
+296 friendly mode ON#
+297 friendly mode OFF#
+298 uscita a: %d, %d#
+299 Funziona solo in giocatore singolo.#
+300 numero di entita' nel livello: %d#
+301 Uccisi %d mostri.#
+302 Evochi un %s!#
+303 Non c'e' spazio qui per un %s!#
+304 Errore! '%s' non creato#
+305 Comando sconosciuto: '%s'#
+
+
+# status bar
+
+306 DEPRECATED#
+307 DEPRECATED#
+
+
+# items and inventory
+
+308 DEPRECATED#
+309 DEPRECATED#
+310 DEPRECATED#
+311 DEPRECATED#
+312 DEPRECATED#
+313 DEPRECATED#
+314 DEPRECATED#
+315 DEPRECATED#
+316 DEPRECATED#
+317 DEPRECATED#
+318 DEPRECATED#
+319 Questo %s
+ is already identified.#
+320 Identificato "%s".#
+321 Valutando "%s"...#
+322 Magie#
+323 Rinfodera#
+324 Impugna#
+325 Togli#
+326 Metti#
+327 Togli#
+328 Indossa#
+329 Bevi#
+330 Leggi#
+331 Metti#
+1881 Ispeziona#
+332 Usa#
+333 Riponi#
+334 Prepara#
+335 Spegni#
+336 Accendi#
+337 Imposta#
+338 Mangia#
+339 Pronto#
+340 Valutando:     #
+341 Valutando:%3.0f%%#
+342 Libro#
+343 Inventario#
+344 Negozio#
+345 Vendi#
+346 Rimuovi Maledizione#
+347 Questo %s
+ is already uncursed.#
+348 Purificato "%s".#
+
+
+# shop gui - removed category names
+
+349 #
+350 #
+351 #
+352 #
+353 #
+354 #
+355 #
+356 #
+357 #
+358 Benvenuto a %s!
+%s#
+
+
+# character sheet
+
+359 DEPRECATED#
+360 DEPRECATED#
+361 DEPRECATED#
+1200 DEPRECATED#
+1201 DEPRECATED#
+1202 DEPRECATED#
+1203 DEPRECATED#
+1204 DEPRECATED#
+1205 DEPRECATED#
+
+
+# skill levels
+
+363                  Nessuno#
+364                Novizio#
+365                 Base#
+366               Esperto#
+367                Maestro#
+368           Gr. Maestro#
+369                Leggenda#
+
+
+# rest of the character sheet
+
+370 DEPRECATED#
+371 DEPRECATED#
+372 DEPRECATED#
+
+
+# chest inventory
+
+373 DEPRECATED#
+374 Prese %s dalla cassa.#
+
+
+# magic
+
+375 Mana insufficiente!#
+376 Sei colpito da una magia!#
+377 Tua mag. colpisce %s!#
+378 Tua mag. colpisce il %s!#
+379 Ma rimbalza!#
+380 Tuo mantello danneggiato!#
+381 Tuo mantello distrutto!#
+382 Tuo amuleto danneggiato!#
+383 Tuo amuleto distrutto!#
+384 Tuo scudo danneggiato!#
+385 Tuo scudo distrutto!#
+386 DEPRECATED#
+387 Tua mag. distrugge porta!#
+388 Tua mag. distrugge sedia!#
+389 Tua mag. distrugge tavolo!#
+390 %s e' confuso!#
+391 Il %s e' confuso!#
+392 Sei confuso!#
+393 %s rallenta!#
+394 Il %s rallenta!#
+395 Sei rallentato!#
+396 Ti addormenti!#
+397 %s si addormenta!#
+398 Il %s si addormenta!#
+399 Chiudi la porta!#
+400 Magia chiude cassa!#
+401 Chi sa cosa ha fatto...#
+402 Apri la porta!#
+403 Magia apre cancello!#
+404 Magia apre cassa!#
+405 Tua mag. distrugge masso!#
+406 Hai fatto arrabbiare dei Sokoban!#
+407 Imposs. lanciare mentre difendi!#
+408 Incant. insostenibile %s.#
+409 Sbagli incant. e svanisce!#
+410 Imposs. lanciare nuotando!#
+411 Il corpo e' purificato!#
+412 Una mappa si forma in mente!#
+413 DEPRECATED_SPELL_NAME#
+414 DEPRECATED_SPELL_NAME#
+415 DEPRECATED_SPELL_NAME#
+416 DEPRECATED_SPELL_NAME#
+417 DEPRECATED_SPELL_NAME#
+418 DEPRECATED_SPELL_NAME#
+419 DEPRECATED_SPELL_NAME#
+420 DEPRECATED_SPELL_NAME#
+421 DEPRECATED_SPELL_NAME#
+422 DEPRECATED_SPELL_NAME#
+423 DEPRECATED_SPELL_NAME#
+424 DEPRECATED_SPELL_NAME#
+425 DEPRECATED_SPELL_NAME#
+426 DEPRECATED_SPELL_NAME#
+427 DEPRECATED_SPELL_NAME#
+428 DEPRECATED_SPELL_NAME#
+429 DEPRECATED_SPELL_NAME#
+430 DEPRECATED_SPELL_NAME#
+431 DEPRECATED_SPELL_NAME#
+432 DEPRECATED_SPELL_NAME#
+433 DEPRECATED_SPELL_NAME#
+434 DEPRECATED_SPELL_NAME#
+435 DEPRECATED_SPELL_NAME#
+436 DEPRECATED_SPELL_NAME#
+437 DEPRECATED_SPELL_NAME#
+438 DEPRECATED_SPELL_NAME#
+439 Conosci gia' la magia %s!#
+440 Questa magia e' troppo difficile!#
+441 Impari la magia %s.#
+442 Magia %s preparata.#
+443 Ti senti meglio.#
+444 La forza vitale vacilla un istante.#
+445 Senti la tua forza vitale diminuire!#
+
+
+# arrows
+
+446 Hai colpito il %s!#
+447 Ma non batte ciglio!#
+448 Hai colpito %s!#
+449 Ma lei non ha battuto ciglio!#
+450 Ma lui non ha battuto ciglio!#
+451 Sei colpito da una freccia!#
+452 Ma rimbalza sulla tua armatura!#
+453 La freccia ti avvelena!#
+
+
+# traps and furniture
+
+454 Sei preso in una tagliola!#
+455 Sei colpito da un masso!#
+456 Ti manca la forza per muovere il masso.#
+457 Prendi una torcia dal fuoco.#
+458 Il fuoco e' spento.#
+459 La cassa si apre!#
+460 Chiudi la cassa!#
+461 Qualcuno ha chiuso la cassa!#
+462 La cassa e' chiusa!#
+463 Metti %s nella cassa.#
+464 Apri la porta.#
+465 Chiudi la porta.#
+466 La porta e' chiusa!#
+467 La fontana e' secca.#
+468 Ti immergi nelle acque.#
+469 Evochi una succube!#
+470 Bevi dalla fontana.#
+471 L'acqua fresca ti rinfresca.#
+472 E' una fonte di acqua santa!#
+473 La fontana benedice l'equipaggiamento.#
+474 La fontana si prosciuga!#
+475 Questo cancello si apre altrove.#
+476 Non e' il momento di sedersi.#
+477 Colpisci il tavolo per la frustrazione.#
+
+
+# Easter egg messages
+
+478 Sarebbe utile in un altro tipo di gioco.#
+479 Hai voglia di scavare e costruire, poi passa.#
+480 Questo strano attrezzo non appartiene a questo mondo.#
+481 Non stai costruendo nulla, non ti serve.#
+482 Menti inferiori credono che sia del nostro universo.#
+
+
+# Gold
+
+483 Raccolto un pezzo d'oro.#
+484 Raccolti %d pezzi d'oro.#
+
+
+# headstone messages
+
+485 "Qui giace Johnny Lievito
+  Scusate se non mi alzo"#
+
+486 "Qui giace mia moglie
+  Lasciatela giacere!
+  Ora riposa lei e anch'io"#
+
+487 "Qui giace il corpo di Blake
+  Diede gas invece del freno"#
+
+488 "Qui giace Strano Ed
+  Ha preso il pacco ma ora e' morto"#
+
+489 "Riposa in pace"#
+
+490 "R.I.P."#
+
+491 "Sum quod eris"#
+
+492 "Dal molo si tuffo' Sir Jim
+  Poi scopri' di non nuotare"#
+
+493 "Qui giace Mary Poppins
+  Un buco nell'ombrello la rovino'"#
+
+494 "Qui giace Horace P. Fetch
+  I goblin lo presero infine"#
+
+495 "Qui giace Julian
+  Pestato dal suo troll"#
+
+496 "Qui giace Ingrid
+  Spaventata da uno scheletro"#
+
+497 "Qui giace Sir Robin
+  Fuggi' coraggioso"#
+
+498 "Qui giace Tom
+  Perso a Roulette Russa"#
+
+499 "Qui giace Mitch
+  Finito da un lich"#
+
+500 "Qui giace Il Proto Pegaso
+  Aveva una patata nello scarico"#
+
+501 Questa lapide e' vuota.#
+
+502 Hai disturbato i morti!#
+
+
+# item messages
+
+503 Questo %s puo' aprire oggetti.#
+
+504 Raccolto %s.#
+
+
+# ladder and portal messages
+
+505 Devi riunire il gruppo per proseguire.#
+506 Scendi la scala.#
+507 Tu e il tuo gruppo scendete la scala.#
+508 Non puoi tornare indietro.#
+509 %s e' all'uscita.#
+510 Attraversi il portale.#
+511 Tu e il tuo gruppo attraversate il portale.#
+
+
+# herx darkness line
+
+512 Senti una voce nella testa...
+"Sai spezzare questa tecnica dell'oscurita'?"#
+
+
+# monster chat
+
+513 Il %s dice:#
+514 Il %s non risponde.#
+515 %s non risponde.#
+516 %s %s! Avro' la tua testa!#
+517 %s %s! In guardia!#
+518 Sei mio, %s %s!#
+519 Preparati, %s %s!#
+520 Saro' da te a breve!#
+521 Sono un po' occupato ora.#
+522 Parlero' con te tra poco!#
+523 Chiedo scusa, parlo con un altro.#
+524 Disturba qualcun altro!#
+525 Ti seguiro' volentieri, %s!#
+526 Fai strada, %s!#
+527 Ti seguiro', %s!#
+528 Mostrami la via, %s!#
+529 Il %s decide di seguirti!#
+530 Scusami.#
+531 Perdonami.#
+532 Buona giornata.#
+533 Chiedo scusa.#
+534 *grugna*#
+535 Perdonami, %s.#
+536 Scusa, %s. Seguo un altro.#
+
+# sharur lines
+
+537 Senti una voce nella tua testa...#
+538 "Lo sapevi?"
+"Dalle trappole soffia un'aria malvagia."
+"E' vero!"#
+539 "Lo sapevi?"
+"A volte le fontane benedicono oggetti."
+"E' vero!"#
+540 "Lo sapevi?"
+"I negozianti non pagano le gemme ignote."
+"E' vero!"#
+541 "Lo sapevi?"
+"Re Artu' porta la spada magica Dyrnwyn."
+"E' vero!"#
+542 "Lo sapevi?"
+"Le trappole scattano con oggetti a terra."
+"E' vero!"#
+543 "Lo sapevi?"
+"Ha sparato Han."
+"E' vero!"#
+544 "Lo sapevi?"
+"Il pony arcobaleno vince."
+"E' vero!"#
+545 "Lo sapevi?"
+"Il veleno di ragno dura 10s."
+"E' vero!"#
+546 "Lo sapevi?"
+"Negli scarichi trovi anelli."
+"E' vero!"#
+547 "Lo sapevi?"
+"Il cherosene non fonde l'acciaio"
+"E' vero!"#
+548 "Lo sapevi?"
+"Gungnir non manca mai il bersaglio."
+"E' vero!"#
+549 "Lo sapevi?"
+"Khryselekatos spara veleno."
+"E' vero!"#
+550 "Lo sapevi?"
+"C'e' un segreto inquietante a Minetown."
+"E' vero!"#
+551 "Lo sapevi?"
+"Ci sono due vie nascoste per il sottosuolo."
+"E' vero!"#
+552 "Lo sapevi?"
+"Gli empori comprano di tutto."
+"E' vero!"#
+553 "Lo sapevi?"
+"Certe pozioni esistono solo in certi colori."
+"E' vero!"#
+554 "Lo sapevi?"
+"Via segreta per l'inferno nelle rovine."
+"E' vero!"#
+555 "Lo sapevi?"
+"Gungnir e' nel labirinto del Minotauro."
+"E' vero!"#
+556 "Lo sapevi?"
+"Khryselekatos giace nel mondo sotterraneo."
+"E' vero!"#
+557 "Lo sapevi?"
+"Funny Bones porta l'ascia Parashu."
+"E' vero!"#
+558 "Lo sapevi?"
+"Hai vinto tu!"
+"E' vero!"#
+559 "Lo sapevi?"
+"Non parto senza l'amico Superfly!"
+"E' vero!"#
+560 "Lo sapevi?"
+"I tostapane fanno toast."
+"E' vero!"#
+561 "Lo sapevi?"
+"Il Mimiga non era Sue!"
+"E' vero!"#
+562 "Lo sapevi?"
+"Risolvere Sokoban ti fa ricco."
+"E' vero!"#
+563 "Lo sapevi?"
+"Gnomi e troll sono migliori amici."
+"E' vero!"#
+564 "Lo sapevi?"
+"I negozianti SONO davvero geni magici."
+"E' vero!"#
+565 "Lo sapevi?"
+"I troll vorrebbero solo stare in pace."
+"E' vero!"#
+566 "Lo sapevi?"
+"I minotauri non sono invincibili."
+"E' vero!"#
+567 "Lo sapevi?"
+"Non c'e' cura per la teleportite."
+"E' vero!"#
+568 "Lo sapevi?"
+"Le casse rotte danno pochi oggetti."
+"E' vero!"#
+569 "Lo sapevi?"
+"Niente cucchiaio."
+"E' vero!"#
+
+# random player messages
+
+570 Identificato "%s".#
+571 "%s" non identificato.#
+572 Cadi verso la tua morte...#
+573 Sei caduto nella lava bollente!#
+574 L'acqua spegne le fiamme!#
+575 Urti %s.#
+576 %s ti urta.#
+577 Muori...#
+578
+You will be revived if your party
+survives to the next level.#
+579 *hic*#
+
+# more furniture
+
+580 Il lavandino e' inservibile.
+Chiama un idraulico!#
+581 Ehi, c'e' un anello nello scarico.#
+582 Una melma esce dal rubinetto!#
+583 L'acqua del rubinetto ti rinfresca.#
+584 L'acqua e' bollente!#
+585 Senti un tubo gemere.
+ Il rubinetto cede!#
+586 Inciampi in una trappola a punte!#
+588 Sei colpito da un %s volante!#
+589 Prendi la torcia dal muro.#
+
+# entity messages
+
+590 Prendi fuoco di colpo!#
+591 La tua magia (invisibilita') e' interrotta!#
+592 La tua magia (levitazione) e' interrotta!#
+593 Ti svegli.#
+594 Il veleno diminuisce.#
+595 Sei piu' stabile.#
+596 Puoi pensare piu' chiaramente ora.#
+597 Sei di nuovo sobrio.#
+598 Non sostieni la magia (invisibilita').#
+599 Ehi! Puoi vederti di nuovo!#
+600 Rivedi di nuovo.#
+601 Occhi lacrimanti.#
+602 Le mani sono piu' pulite ora.#
+603 La faccia non e' piu' sporca.#
+604 Ritorni alla tua velocita' normale.#
+605 Puoi muoverti.#
+606 Non sostieni la magia (levitazione).#
+607 Ritorni a terra un'altra volta.#
+608 Le voci nella tua testa sono cessate.#
+609 Il tuo stomaco si sistema.#
+610 Non ti senti ancora molto bene pero'.#
+611 Ti senti affamato ora.#
+612 Sei molto affamato ora!
+ Ti senti debole.#
+613 Stai morendo di fame!
+ Ti senti svenire.#
+614 Non sanguini piu'.#
+615 La tua abilita' %s migliora.#
+616 Ora hai abilita' base in %s.#
+617 Ora sei abile in %s.#
+618 Ora sei un esperto in %s.#
+619 Ora sei un maestro in %s.#
+620 Ora sei una leggenda in %s.#
+621 La forza vitale e' trasformata in energia magica.#
+622 Livello su!#
+623 Ti senti forte!#
+624 Ti senti agile!#
+625 Ti senti robusto!#
+626 Ti senti saggio!#
+627 Ti senti attento!#
+628 Ti senti socievole!#
+629 Ti senti un po' meglio ora.#
+630 Ti senti affamato.#
+631 Sei molto affamato!
+ Ti senti debole.#
+632 Muori di fame!
+Ti senti debole.#
+633 Ti stai consumando...#
+634 Di colpo ti senti molto nauseato...#
+635 Vomiti di colpo!#
+636 L'arma ti scivola dalle dita!#
+637 La tua %s sfarfalla nell'oscurita'.#
+638 La tua %s si spegne.#
+639 L'amuleto brilla di verde tenue.#
+640 Il veleno sparisce all'istante!#
+641 Il veleno sembra essere sparito.#
+642 Perdi del sangue.#
+643 Hai smesso di sanguinare.#
+644 Brucia! Brucia!#
+645 Il tuo %s fuma!#
+646 Il tuo %s va in cenere!#
+647 Il fuoco si spegne.#
+648 L'amuleto ti sta soffocando!#
+649 L'amuleto si stringe!#
+650 Ma che fortuna! Si e' appena rotto.#
+
+# the extra period here is important, make sure to leave it:
+
+651 Muori....#
+
+
+# more entity messages
+
+652 Ma aspetta! L'amuleto brilla!#
+653 Ma aspetta! L'amuleto e' caldo!#
+654 Sei riportato in vita e inizi a fluttuare nell'aria!#
+655 Ma il tuo amuleto si sbriciola in polvere.#
+656 Ops, scusa. Era difettoso.#
+657 Alla prossima vita.#
+658 Ti svegli di colpo!#
+659 Il bastone perde parte della sua carica.#
+660 Il bastone si e' del tutto scaricato.#
+661 La tua %s e' sforzata.#
+662 La tua %s si rompe.#
+663 Distruggi il masso!#
+664 Il piccone si rompe!#
+665 Il piccone e' danneggiato!#
+666 Colpisci la porta!#
+667 Colpisci la cassa!#
+668 Colpisci il tavolo!#
+669 Colpisci la sedia!#
+670 La porta si spalanca!#
+671 La cassa va in pezzi!#
+672 Il tavolo va in pezzi!#
+673 La sedia va in pezzi!#
+674 porta#
+675 cassa#
+676 tavolo#
+677 sedia#
+678 I tubi gemono.#
+679 L'arma e' danneggiata!#
+680 L'arma si e' rotta all'impatto!#
+681 Il %s e' rovinato!#
+682 Il tuo %s e' distrutto!#
+683 Dyrnwyn ti da' fuoco!#
+684 Lo scorpione ti ha punto!#
+685 Il veleno e' paralizzante!#
+686 Il ragno inietta veleno col morso!#
+687 Il veleno scorre nelle tue vene!#
+688 Ehi! La succube ha rubato il %s!#
+689 Colpisci criticamente il %s!#
+690 Colpisci il %s!#
+691 Non batte ciglio!#
+692 Hai ucciso il %s!#
+693 Colpisci criticamente %s!#
+694 Colpisci %s!#
+695 Lei non ha battuto ciglio!#
+696 Lui non ha battuto ciglio!#
+697 Hai ucciso %s!#
+698 Il %s %s!#
+699 %s %s!#
+700 DEPRECATED#
+701 Sanguini!#
+702 Il %s sanguina!#
+703 %s sanguina!#
+704 Il piccone si rompe!#
+705 Il piccone e' danneggiato!#
+706 Questo muro e' troppo duro da rompere.#
+707 Senti una sensazione di sbandamento, ma passa.#
+708 Ti senti disorientato un istante.#
+
+
+# general game messages
+
+709 Caricamento...#
+710 Benvenuto al livello %d.#
+711 Benvenuto a %s.#
+712 Senti picconi che colpiscono la roccia.#
+713 Senti il debole suono di strade affollate.#
+714 Senti il suono di canti in lontananza.#
+715 Senti venti ululanti in lontananza.#
+716 Senti il debole schianto di massi che rotolano.#
+717 Senti il ruggito distante di un minotauro affamato.#
+718 Senti un ronzio mistico in lontananza.#
+719 Senti grida di angoscia in lontananza.#
+720 %s ti segue al livello successivo.#
+721 Il tuo amico %s ti segue al livello successivo.#
+722 %s ti dice addio!#
+723 Il tuo %s ti dice addio!#
+724 Connessione al client %d (%s) ripresa.
+ Auto-kick annullato.#
+725 Il client %d (%s) non risponde al server.
+ Auto-kick in %d secondi...#
+726 Connessione al client %d (%s) persa.
+ Espulso dal gioco.#
+727 Non hai piu' spazio nello zaino per un
+ %s!#
+728 Connessione al server ripresa.
+ Auto-disconn. annullata.#
+729 Il server non risponde.
+ Auto-disconn. in %d secondi...#
+730 Connessione persa.
+ Disconnessione.#
+731
+Connection to server lost.
+
+Press 'Okay' to return to the main menu.#
+732 OK#
+733 Pg Casuale#
+734 Benvenuto a Barony, %s.#
+735 DEPRECATED#
+736 DEPRECATED#
+737 DEPRECATED#
+738 Per favore non piratare il gioco!
+
+Il nostro lavoro vive col supporto
+di giocatori come te.
+
+Grazie!#
+739 Tu dici: #
+740 Sei morto#
+
+
+# init messages
+
+741 Carico sprite...#
+742 Carico modelli...#
+743 Carico tiles...#
+744 Carico suoni...#
+745 Carico modelli... (%d/%d)#
+746 Carico arti...#
+747 Carico oggetti...#
+748 Carico musica...#
+749 Carico interfaccia...#
+
+
+# item usage messages
+
+750 Non puoi berlo. Ti stai strozzando!#
+751 Stai ancora vomitando il tuo ultimo pasto!#
+752 Sa di acqua.#
+753 Sa di acqua fresca.
+ E' piuttosto rinfrescante!#
+755 Ti senti affondare.#
+756 Non puoi mangiarlo. Ti stai strozzando!#
+757 Stai ancora vomitando il tuo ultimo pasto!#
+758 Wow, che sballo!#
+759 Ti senti piuttosto bene!#
+760 Sa di succo di frutta.#
+761 Bleah! Sa di veleno.#
+762 Ti senti molto confuso!#
+763 Il corpo e' purificato!#
+764 Consumi una lattina
+ di %s.#
+765 Non vedi nulla!#
+766 Improvvisamente non riesci piu' a vederti!#
+767 Inizi a fluttuare nell'aria!#
+768 Di colpo sei molto piu' veloce!#
+769 Ritorni alla tua velocita' normale.#
+770 Argh! Questa roba brucia!#
+771 Augh! Non puoi muoverti!#
+772 Sa di medicina.#
+773 Ti senti meglio.#
+774 Senti energia arcana fluire in te.#
+775 Non puoi leggere la pergamena da cieco.#
+
+
+# mail
+
+776 E' una lettera:
+ "Sono Moe. Mi piaci, Maggie...
+  cosi' tanto che... voglio...
+  mangiarti... per cena."#
+
+780 E' una lettera:
+ "Aiutami.
+  Ti aspetto dentro#
+781   la pancia di Lord Jabu Jabu.
+    --Ruto.
+  PS: Non dirlo a mio padre!"#
+
+786 E' una lettera:
+ "Raddoppiate il rame scavato dalle miniere.
+  Gli gnomi pagheranno un extra per tutto
+  cio' che supera la quota standard."#
+
+790 E' una lettera:
+
+ "Raddoppia fatica e guai;
+  Fuoco brucia, calderone bolli."#
+
+793 E' una pubblicita':
+
+ "%s, il %s, ha
+  gli oggetti piu' fini del regno!"#
+
+796 E' una vecchia nota:
+
+ "Giaccio qui nel buio,
+  aspettando la morte."#
+
+799 E' una vecchia nota:
+
+ "Il Dopefish vive!"#
+
+801 E' una vecchia nota:
+ "Io pcior trroll di semprre
+  nessuno paga pedaggio ponte#
+802   io non abbasttanza pauroso
+  io ubriiaca e mi uccido
+  troll annega"#
+
+807 E' una lettera:
+ "La nostra esplorazione del Bastione del
+  Diavolo e' fallita dopo un lungo scontro
+  con gli abitanti del dungeon."#
+
+811 E' una nota scritta a mano:
+ "Dieci passi a NE dall'albero di mezzana;#
+812   27 passi giu' nella stiva;
+  E cinque passi a destra;
+  E scava dove c'e' la 'X'"#
+
+816 E' una lettera:
+
+ "Un cavallo, un cavallo! Il regno per uno!"#
+
+817 E' una nota scritta a mano:
+
+ "D'accordo gente, andiamo!"#
+
+818 E' una lettera:
+ "E' tradizione parlare col 'noi' reale,
+  e usare QUESTO VOLUME QUANDO PARLIAMO AI
+  SUDDITI!!!"#
+
+822 E' una lettera:
+
+ "nuota nuota fame"#
+
+824 E' una nota scritta a mano:
+
+ "Ci sono pugnali nei sorrisi."#
+
+826 E' una nota scritta a mano:
+
+ "E' un segreto per tutti."#
+
+828 E' una nota scritta a mano:
+
+ "DIETRO DI TE!"#
+
+830 E' una lettera:
+ "Fra tutte le parole di uomini,
+  le piu' tristi sono:
+  'Poteva essere.'"#
+
+834 E' una nota insanguinata:
+
+ "Si, Avatar, cerca casa!"#
+
+836 Questa lettera e' piena di briciole:
+
+ "Lessale, schiaccia, mettile in stufato!"#
+
+838 E' una nota scritta a mano:
+
+ "La vita e' sprecata per i vivi."#
+
+840 E' una nota scarabocchiata:
+
+ "Che ciambelle! Quelle alla gelatina sono
+  le mie preferite. Niente le batte."#
+
+843 E' una nota scarabocchiata:
+
+ "Ehi, lo so! Uso la fidata padella...
+  come ombrello!"#
+
+846 E' una lettera:
+
+ "Ignorate la lettera precedente."#
+
+
+# scrolls
+
+848 Mentre leggi, la pergamena scompare.#
+849 E' una pergamena identifica!#
+850 Ma non hai oggetti non identificati...#
+851 Un campo di luce ti circonda!#
+852 La pergamena e' bianca.#
+853 La mano e' calda un istante.#
+854 L'arma brilla di nero.#
+855 L'arma brilla di blu.#
+856 L'arma brilla forte di blu.#
+857 La pelle e' calda un istante.#
+858 Il tuo %s brilla di nero.#
+859 Il tuo %s brilla blu.#
+860 Il tuo %s brilla di blu intenso.#
+861 Ti pare che qualcuno ti aiuti.#
+862 Ti senti strano un istante.#
+863 La pergamena fuma e si sgretola in cenere!#
+864 La pergamena erutta in una torre di fiamme!#
+865 Un banchetto appare davanti a te!#
+866 Il tuo stomaco brontola, ma passa.#
+867 La borsa del cibo e' leggera!#
+868 Una mappa si forma in mente!#
+869 Eh? Cosa? Dove sono?#
+870 Senti un formicolio, ma passa.#
+871 %s vibra.#
+872 %s sembra migliore!#
+873 La pelle prude un istante.#
+874 %s vibra.#
+875 %s si rompe di colpo!#
+876 Ti senti disorientato un istante.#
+877 Evochi un %s arrabbiato!#
+878 Evochi degli %s arrabbiati!#
+879 Evochi un %s amichevole!#
+880  "Ti serviro', padrone."#
+881 Evochi degli %s amichevoli!#
+882  "Ti serviremo, padrone."#
+
+
+# more items
+
+883 Ti pulisci con l'asciugamano.#
+884 Legi l'asciugamano attorno alla ferita.#
+885 Non sanguini piu'.#
+886 Puoi aprire le lattine mentre porti l'apriscatole.#
+887 Ops!#
+888 Lo specchio ti scivola dalla presa.
+ Va in milioni di pezzi!#
+889 Scruti nello specchio...#
+890 Vieni di colpo portato via!#
+891 Sembri un mostro!
+ Lo specchio va in milioni di pezzi!#
+892 Dimentichi di essere cieco per un po'.#
+893 Non vedi nessuno nello specchio.#
+894 'eyyy, tu! *hic*#
+895 'eyyy, bella! *hic*#
+896 Chi e' QUESTO?#
+897 Sembri pallido!#
+898 Sembri piuttosto nauseato.#
+899 C'e' roba su tutta la tua faccia!#
+900 Sembri malnutrito.#
+901 Sembri affamato.#
+902 Sembri brutto come sempre.#
+903 Sembri bello come sempre!#
+904 Sembri bellissima come sempre!#
+905 La tagliola si rompe di colpo!#
+906 Piazzi la tagliola.#
+907 Consumi %s.#
+908 Bleah! Cibo marcio!#
+909 La torta ti salta in faccia!
+ *SPLAT*#
+910 La faccia e' coperta di crema!#
+911 Mmm, gustoso!#
+912 Hai ancora fame.#
+913 Non sei ancora sazio.#
+914 Quella %s ci voleva!#
+915 Oof. Sei davvero pieno ora.#
+916 Ti senti male per aver mangiato troppo.#
+917 URP! Troppo cibo!#
+
+
+# tinned food
+
+918 in purea#
+919 candito#
+920 saltato#
+921 fritto#
+922 salato#
+923 arrostito#
+924 fritto#
+925 macinato#
+926 arrosto#
+927 secco#
+928 casereccio#
+929 bollito#
+930 al forno#
+931 affumicato#
+932 sottaceto#
+933 fritto#
+934  geco#
+935  anguilla#
+936  prosciutto#
+937  manzo#
+938  pancetta#
+939  tacchino#
+940  pollo#
+941  salmone#
+942  trota#
+943  capra#
+944  agnello#
+945  serpente#
+946  calamaro#
+947  granchio#
+948  quaglia#
+949  cavallo#
+950  con cipolle#
+951  in salsa#
+952  con fagioli#
+953  con mais#
+954  con carote#
+955  con gnocchi#
+956  con ravanelli#
+957  con piselli#
+958  nel sugo#
+959  con broccoli#
+960  con rape#
+961  con bietole#
+962  con patate#
+963  con riso#
+964  con sedano#
+965  con spinaci#
+966 L'unto ti rende le dita scivolose.#
+
+
+# yet more items
+
+967 Di colpo ti senti piuttosto mascolino!#
+968 Di colpo ti senti femminile!#
+969 L'amuleto si disintegra!#
+970 Non puoi leggere il libro da cieco!#
+971 Il libro magico si sbriciola in cenere!#
+972 Dimentichi uno delle tue magie!#
+973 Ti senti un po' svampito un istante.#
+
+
+# potion colors
+
+974 blu#
+975 gialla#
+976 marrone#
+977 arancione#
+978 rossa#
+979 verde#
+980 viola#
+981 bianca#
+
+
+# item quality strings
+
+982 rotto %+2d #
+983 decrepito %+2d #
+984 logoro %+2d #
+985 utile %+2d #
+986 eccellente %+2d #
+987 distrutto %+2d #
+988 crepato %+2d #
+989 grezzo %+2d #
+990 difettoso %+2d #
+991 perfetto %+2d #
+992 evaporata %s %+2d #
+993 nuvolosa %s %+2d #
+994 vorticosa %s %+2d #
+995 liscia %s %+2d #
+996 gassata %s %+2d #
+997 a pezzi %+2d #
+998 lacero %+2d #
+999 slavato %+2d #
+1000 segnato %+2d #
+1001 nuovo %+2d #
+1002 marcio %+2d #
+1003 muffoso %+2d #
+1004 vecchio %+2d #
+1005 un po' vecchio %+2d #
+1006 fresco %+2d #
+1007 copia di "%s"#
+1008 %d rotti %+2d #
+1009 %d decrepiti %+2d #
+1010 %d logori %+2d #
+1011 %d utili %+2d #
+1012 %d eccellenti %+2d #
+1013 %d distrutti %+2d #
+1014 %d crepati %+2d #
+1015 %d grezzi %+2d #
+1016 %d fallati %+2d #
+1017 %d perfetti %+2d #
+1018 %d evaporate %s %+2d #
+1019 %d nuvolose %s %+2d #
+1020 %d attorte %s %+2d #
+1021 %d lisce %s %+2d #
+1022 %d gassate %s %+2d #
+1023 %d a pezzi %+2d #
+1024 %d laceri %+2d #
+1025 %d slavati %+2d #
+1026 %d segnati %+2d #
+1027 %d nuovi %+2d #
+1028 %d marci %+2d #
+1029 %d muffosi %+2d #
+1030 %d vecchi %+2d #
+1031 %d un po' vecchi %+2d #
+1032 %d freschi %+2d #
+1033 %d copie di "%s" #
+1034 rotto #
+1035 decrepito #
+1036 logoro #
+1037 utile #
+1038 eccellente #
+1039 distrutto #
+1040 crepato #
+1041 grezzo #
+1042 fallato #
+1043 perfetto #
+1044 evaporata %s #
+1045 nuvolosa %s #
+1046 attorta %s #
+1047 liscia %s #
+1048 gassata %s #
+1049 a pezzi #
+1050 lacero #
+1051 slavato #
+1052 segnato #
+1053 nuovo #
+1054 marcio #
+1055 muffoso #
+1056 vecchio #
+1057 un po' vecchio #
+1058 fresco #
+1059 %s con etich. %s#
+1060 %d rotti #
+1061 %d decrepiti #
+1062 %d logori #
+1063 %d utili #
+1064 %d eccellenti #
+1065 %d distrutti #
+1066 %d crepati #
+1067 %d grezzi #
+1068 %d fallati #
+1069 %d perfetti #
+1070 %d evaporate %s #
+1071 %d nuvolose %s #
+1072 %d attorte %s #
+1073 %d lisce %s #
+1074 %d gassate %s #
+1075 %d a pezzi #
+1076 %d laceri #
+1077 %d slavati #
+1078 %d segnati #
+1079 %d nuovi #
+1080 %d marci #
+1081 %d muffosi #
+1082 %d vecchi #
+1083 %d un po' vecchi #
+1084 %d freschi #
+1085 %s con etich. %s#
+1086 %d copie di "%s" #
+
+
+# more item messages
+
+1087 Non puoi. E' maledetto!#
+1088 Lasciato %s.#
+1089 Non puoi togliere il %s.
+ E' maledetto!#
+1090 Equipaggiato %s.#
+1091 Rimosso: %s.#
+1092 Questo %s e' inutile!#
+1093 Non puoi aprire la latta senza apriscatole.#
+1094 Indossi l'amuleto.#
+1095 L'amuleto si stringe di colpo!#
+1096 "Ciao! Sono Sharur, la mazza parlante!"#
+
+
+# lockpicks and keys
+
+1097 Sblocchi la cassa.#
+1098 Chiudi la cassa.#
+1099 Sblocchi la porta.#
+1100 Chiudi la porta.#
+1101 Questo %s apre oggetti.#
+1102 Non riesci a sbloccare la cassa.#
+1103 Il grimaldello e' rovinato.#
+1104 Il grimaldello e' rotto.#
+1105 Questa cassa e' gia' sbloccata.#
+1106 Non riesci a sbloccare la porta.#
+1107 Questa porta e' gia' sbloccata.#
+
+
+# random stuff
+
+1108 Le caverne sono riempite di un'oscurita' innaturale.#
+1109 Sopravvivi grazie alla tenacia del tuo gruppo.#
+1110 Tiri la leva.#
+1111 Flag server aggiornati.#
+1112 Corri, mortale!
+ Baphomet muore, ma i suoi restano.
+ Ti diamo il nostro potere!#
+1113 ATTENZIONE!
+ Hai scatenato il Minotauro!#
+1114 La Brigata ZAP e' arrivata!
+ "Non temere %s. Faremo la guardia per il minotauro."#
+1115 ATTENZIONE!
+ Il Minotauro e' arrivato!#
+1116 Senti una voce nella tua testa...#
+1117 tempo = %4d ms#
+1118 %s ha messo in pausa.#
+1119 %s ha tolto la pausa.#
+1120 %s lascia la partita.#
+1121 Autosalvo...#
+1122 Inizi a commerciare con %s.#
+1123 Compri %s per %dG.#
+1124 Non puoi vendere: %s.
+ E' maledetto!#
+1125 Venduto %s per %dG.#
+
+# some window and button text
+
+1126
+The remote server has shut down.
+
+Press 'Okay' to return to the main menu.#
+1127
+You have been kicked from the game server.
+
+Press 'Okay' to return to the main menu.#
+1128
+     Are you sure you
+       want to quit?#
+1129
+            Are you sure you
+         want to end this game?
+
+       As you have perished, your
+       save file will be deleted.#
+1130
+          Are you sure you
+     want to restart this game?#
+1131
+         Are you sure you want
+          to quit to desktop?
+
+     Progress has been saved at the
+       start of the current level.#
+1132 Richiesta lista lobby...#
+1133 Sei morto. Game over.
+
+#
+1134 Il tuo equipaggiamento e' noto.
+#
+1135 Punti totali: #
+1136 Congratulazioni!
+Sei entrato nella classifica.
+
+#
+1137
+
+
+
+#
+1138   Riavvia Partita  #
+1139 Torna al Menu#
+1140 Sei morto.
+#
+1141 Verrai rianimato, pero', se il tuo
+gruppo sopravvive al livello dopo.
+
+#
+1142 Poiche' il resto del gruppo e' morto,
+l'host deve creare o riavviare una
+partita per continuare.#
+1143 Punti totali: #
+1144     OK    #
+
+
+# death tips
+
+1145
+Beware of all unidentified items. They may
+damage rather than aid you.#
+1146
+Never engage enemies while weak. You may be
+easily overwhelmed.#
+1147
+Use darkness to hide yourself from enemies.#
+1148
+Rats make a good food source early on.#
+1149
+Do not be discouraged. Learn from your
+mistakes and you will eventually succeed.#
+1150
+Hold the left mouse button to perform a
+critical strike.#
+1151
+Raise your shield for a large defensive boost.#
+1152
+Make use of your minimap to navigate the
+dungeon's treacherous mazes.#
+1153
+Shift click on hotbar items to instantly
+remove them.#
+1154
+Your character's skill with a weapon has a
+large effect on your effectiveness with it.#
+1155
+Exercise your different skills to increase
+them.#
+1156
+Baron Herx loves to talk about his minotaur
+when it is nearby.#
+1157
+Do you hear the sound of a rock rolling in the
+distance? RUN!#
+1158
+Potions can be thrown at enemies to varying
+effect.#
+1159
+Be inventive. Every item has its use.#
+
+
+# more random text
+
+1160  ti urta.#
+1161 Valuta#
+1162 Lascia#
+1300 Disarmi la tagliola.#
+1301 Interrompi il lancio della magia!#
+1302 %s dice:#
+
+
+# main menu
+
+1303 DEPRECATED#
+1304 DEPRECATED#
+1305 DEPRECATED#
+1306 DEPRECATED#
+1307 DEPRECATED#
+1308 DEPRECATED#
+1309 DEPRECATED#
+1310 DEPRECATED#
+1311 DEPRECATED#
+1312 DEPRECATED#
+1313 DEPRECATED#
+
+1314 Si#
+1315 No#
+1316 DEPRECATED#
+1317 DEPRECATED#
+
+# character creation
+
+1318 DEPRECATED#
+1319 DEPRECATED#
+1320 DEPRECATED#
+1321 DEPRECATED#
+1322 DEPRECATED#
+1323 DEPRECATED#
+1324 DEPRECATED#
+1325 DEPRECATED#
+1326 DEPRECATED#
+1327 DEPRECATED#
+1328 DEPRECATED#
+1329 DEPRECATED#
+1330 DEPRECATED#
+1331 DEPRECATED#
+1332 DEPRECATED#
+1333 DEPRECATED#
+
+# lobby browser
+
+1334 DEPRECATED#
+1335 DEPRECATED#
+1336 DEPRECATED#
+1337 DEPRECATED#
+
+# settings window
+
+1338 DEPRECATED#
+1339 DEPRECATED#
+1340 DEPRECATED#
+1341 DEPRECATED#
+1342 DEPRECATED#
+1343 DEPRECATED#
+1344 DEPRECATED#
+1345 DEPRECATED#
+1346 DEPRECATED#
+1347 DEPRECATED#
+
+1348 DEPRECATED#
+1349 DEPRECATED#
+
+1350 DEPRECATED#
+1351 DEPRECATED#
+1352 DEPRECATED#
+1353 DEPRECATED#
+1354 DEPRECATED#
+1355 DEPRECATED#
+1356 DEPRECATED#
+1357 DEPRECATED#
+1358 DEPRECATED#
+1359 DEPRECATED#
+1360 DEPRECATED#
+1361 DEPRECATED#
+1362 DEPRECATED#
+1363 DEPRECATED#
+1364 DEPRECATED#
+
+1365 DEPRECATED#
+1366 DEPRECATED#
+1367 DEPRECATED#
+
+1368 DEPRECATED#
+1369 DEPRECATED#
+1370 DEPRECATED#
+1371 DEPRECATED#
+1372 DEPRECATED#
+1373 DEPRECATED#
+1374 DEPRECATED#
+
+
+# multiplayer windows
+
+1375 DEPRECATED#
+1376 DEPRECATED#
+1377 DEPRECATED#
+
+1378 Il server e' gia' pieno.#
+1379 Versione gioco diversa.#
+1380 La lobby non richiede un salvataggio.#
+1381 L'host continua da un salvataggio -
+Compatible save file not found.#
+1382 Salvataggi diversi.#
+1383 Salvataggi diversi.#
+1384 Risposta errata dal server.#
+
+1385 DEPRECATED#
+1386 DEPRECATED#
+1387 DEPRECATED#
+1388 DEPRECATED#
+
+
+# highscore window
+
+1389 DEPRECATED#
+1390 DEPRECATED#
+1391 DEPRECATED#
+1392 DEPRECATED#
+1393 DEPRECATED#
+1394 DEPRECATED#
+1395 DEPRECATED#
+1396 DEPRECATED#
+1397 DEPRECATED#
+1398 DEPRECATED#
+1399 DEPRECATED#
+1400 DEPRECATED#
+1401 DEPRECATED#
+1402 DEPRECATED#
+1403 DEPRECATED#
+1404 DEPRECATED#
+1405 DEPRECATED#
+1406 DEPRECATED#
+1407 DEPRECATED#
+1408 DEPRECATED#
+1409 DEPRECATED#
+1410 DEPRECATED#
+1411 DEPRECATED#
+1412 DEPRECATED#
+1413 DEPRECATED#
+
+
+# text crawl sequences
+
+1414 DEPRECATED#
+1415 DEPRECATED#
+1416 DEPRECATED#
+1417 DEPRECATED#
+1418 DEPRECATED#
+1419 DEPRECATED#
+1420 DEPRECATED#
+1421 DEPRECATED#
+1422 DEPRECATED#
+1423 DEPRECATED#
+1424 DEPRECATED#
+1425 DEPRECATED#
+1426 DEPRECATED#
+1427 DEPRECATED#
+1428 DEPRECATED#
+1429 DEPRECATED#
+1430 DEPRECATED#
+1431 DEPRECATED#
+1432 DEPRECATED#
+
+# even more button and window text
+
+1433 DEPRECATED#
+1434 DEPRECATED#
+1435 DEPRECATED#
+1436 DEPRECATED#
+1437 DEPRECATED#
+1438 DEPRECATED#
+1439 DEPRECATED#
+1440 DEPRECATED#
+1441 DEPRECATED#
+1442 DEPRECATED#
+1443 DEPRECATED#
+1444 DEPRECATED#
+1445 DEPRECATED#
+1446 DEPRECATED#
+1447 DEPRECATED#
+1448 DEPRECATED#
+1449 DEPRECATED#
+1450 DEPRECATED#
+1451 DEPRECATED#
+1452 DEPRECATED#
+1453 DEPRECATED#
+1454 DEPRECATED#
+1455 DEPRECATED#
+1456 DEPRECATED#
+1457 DEPRECATED#
+1458 DEPRECATED#
+1459 DEPRECATED#
+1460 DEPRECATED#
+1461 DEPRECATED#
+1462 DEPRECATED#
+1463 DEPRECATED#
+1464 DEPRECATED#
+1465 DEPRECATED#
+1466 DEPRECATED#
+1467 DEPRECATED#
+
+# obituary messages
+
+1499 %s, alleato %s %s#
+1500 muore a caso.#
+1501 e' colpito da una torre magica.#
+1502 e' colpito da una trappola sul soffitto.#
+1503 cade in una trappola a frecce.#
+1504 inciampa in trappola orsi e muore.#
+1505 non schiva masso in arrivo.#
+1506 va a nuotare nella lava.#
+1507 cammina su trappola e muore.#
+1508 ucciso da %s volante.#
+1509 tradito dal suo compagno %s.#
+1510 tradita dalla sua compagna %s.#
+1511 e' fatto a pezzi da un umano furioso.#
+1512 rosicchiato a morte da ratto.#
+1513 scuoiato da goblin.#
+1514 reso melma da blob.#
+1515 invade spazio troll e viene colpito.#
+1516 diventa cena per ragno affamato.#
+1517 decide di unirsi ai non morti.#
+1518 spaventato da scheletro pauroso.#
+1519 cerca di fare amicizia con scorpione.#
+1520 dimentica che imp non sono amichevoli.#
+1521 rapinato da gnomo avido.#
+1522 squartato da demone.#
+1523 prova invano amore con succube.#
+1524 irrita il Barone.#
+1525 polverizzato dal minotauro.#
+1526 e' dannato all'inferno. Davvero.#
+1527 tenta rapina e fallisce.#
+1528 si uccide durante invocazione.#
+1529 si uccide durante invocazione.#
+1530 dieta troppo lunga.#
+1531 finito dal veleno.#
+1532 muore dissanguato.#
+1533 bruciato vivo.#
+1534 soffocato a morte.#
+1535 beve pozione strana e muore.#
+
+# some random strings
+
+1536 DEPRECATED#
+1537 DEPRECATED#
+1538 DEPRECATED#
+1539 DEPRECATED#
+1540 DEPRECATED#
+1541 DEPRECATED#
+1542 DEPRECATED#
+1543 DEPRECATED#
+1544 DEPRECATED#
+
+# item names
+
+1545 DEPRECATED_ITEM_NAME#
+1546 DEPRECATED_ITEM_NAME#
+1547 DEPRECATED_ITEM_NAME#
+1548 DEPRECATED_ITEM_NAME#
+1549 DEPRECATED_ITEM_NAME#
+1550 DEPRECATED_ITEM_NAME#
+1551 DEPRECATED_ITEM_NAME#
+1552 DEPRECATED_ITEM_NAME#
+1553 DEPRECATED_ITEM_NAME#
+1554 DEPRECATED_ITEM_NAME#
+1555 DEPRECATED_ITEM_NAME#
+1556 DEPRECATED_ITEM_NAME#
+1557 DEPRECATED_ITEM_NAME#
+1558 DEPRECATED_ITEM_NAME#
+1559 DEPRECATED_ITEM_NAME#
+1560 DEPRECATED_ITEM_NAME#
+1561 DEPRECATED_ITEM_NAME#
+1562 DEPRECATED_ITEM_NAME#
+1563 DEPRECATED_ITEM_NAME#
+1564 DEPRECATED_ITEM_NAME#
+1565 DEPRECATED_ITEM_NAME#
+1566 DEPRECATED_ITEM_NAME#
+1567 DEPRECATED_ITEM_NAME#
+1568 DEPRECATED_ITEM_NAME#
+1569 DEPRECATED_ITEM_NAME#
+1570 DEPRECATED_ITEM_NAME#
+1571 DEPRECATED_ITEM_NAME#
+1572 DEPRECATED_ITEM_NAME#
+1573 DEPRECATED_ITEM_NAME#
+1574 DEPRECATED_ITEM_NAME#
+1575 DEPRECATED_ITEM_NAME#
+1576 DEPRECATED_ITEM_NAME#
+1577 DEPRECATED_ITEM_NAME#
+1578 DEPRECATED_ITEM_NAME#
+1579 DEPRECATED_ITEM_NAME#
+1580 DEPRECATED_ITEM_NAME#
+1581 DEPRECATED_ITEM_NAME#
+1582 DEPRECATED_ITEM_NAME#
+1583 DEPRECATED_ITEM_NAME#
+1584 DEPRECATED_ITEM_NAME#
+1585 DEPRECATED_ITEM_NAME#
+1586 DEPRECATED_ITEM_NAME#
+1587 DEPRECATED_ITEM_NAME#
+1588 DEPRECATED_ITEM_NAME#
+1589 DEPRECATED_ITEM_NAME#
+1590 DEPRECATED_ITEM_NAME#
+1591 DEPRECATED_ITEM_NAME#
+1592 DEPRECATED_ITEM_NAME#
+1593 DEPRECATED_ITEM_NAME#
+1594 DEPRECATED_ITEM_NAME#
+1595 DEPRECATED_ITEM_NAME#
+1596 DEPRECATED_ITEM_NAME#
+1597 DEPRECATED_ITEM_NAME#
+1598 DEPRECATED_ITEM_NAME#
+1599 DEPRECATED_ITEM_NAME#
+1600 DEPRECATED_ITEM_NAME#
+1601 DEPRECATED_ITEM_NAME#
+1602 DEPRECATED_ITEM_NAME#
+1603 DEPRECATED_ITEM_NAME#
+1604 DEPRECATED_ITEM_NAME#
+1605 DEPRECATED_ITEM_NAME#
+1606 DEPRECATED_ITEM_NAME#
+1607 DEPRECATED_ITEM_NAME#
+1608 DEPRECATED_ITEM_NAME#
+1609 DEPRECATED_ITEM_NAME#
+1610 DEPRECATED_ITEM_NAME#
+1611 DEPRECATED_ITEM_NAME#
+1612 DEPRECATED_ITEM_NAME#
+1613 DEPRECATED_ITEM_NAME#
+1614 DEPRECATED_ITEM_NAME#
+1615 DEPRECATED_ITEM_NAME#
+1616 DEPRECATED_ITEM_NAME#
+1617 DEPRECATED_ITEM_NAME#
+1618 DEPRECATED_ITEM_NAME#
+1619 DEPRECATED_ITEM_NAME#
+1620 DEPRECATED_ITEM_NAME#
+1621 DEPRECATED_ITEM_NAME#
+1622 DEPRECATED_ITEM_NAME#
+1623 DEPRECATED_ITEM_NAME#
+1624 DEPRECATED_ITEM_NAME#
+1625 DEPRECATED_ITEM_NAME#
+1626 DEPRECATED_ITEM_NAME#
+1627 DEPRECATED_ITEM_NAME#
+1628 DEPRECATED_ITEM_NAME#
+1629 DEPRECATED_ITEM_NAME#
+1630 DEPRECATED_ITEM_NAME#
+1631 DEPRECATED_ITEM_NAME#
+1632 DEPRECATED_ITEM_NAME#
+1633 DEPRECATED_ITEM_NAME#
+1634 DEPRECATED_ITEM_NAME#
+1635 DEPRECATED_ITEM_NAME#
+1636 DEPRECATED_ITEM_NAME#
+1637 DEPRECATED_ITEM_NAME#
+1638 DEPRECATED_ITEM_NAME#
+1639 DEPRECATED_ITEM_NAME#
+1640 DEPRECATED_ITEM_NAME#
+1641 DEPRECATED_ITEM_NAME#
+1642 DEPRECATED_ITEM_NAME#
+1643 DEPRECATED_ITEM_NAME#
+1644 DEPRECATED_ITEM_NAME#
+1645 DEPRECATED_ITEM_NAME#
+1646 DEPRECATED_ITEM_NAME#
+1647 DEPRECATED_ITEM_NAME#
+1648 DEPRECATED_ITEM_NAME#
+1649 DEPRECATED_ITEM_NAME#
+1650 DEPRECATED_ITEM_NAME#
+1651 DEPRECATED_ITEM_NAME#
+1652 DEPRECATED_ITEM_NAME#
+1653 DEPRECATED_ITEM_NAME#
+1654 DEPRECATED_ITEM_NAME#
+1655 DEPRECATED_ITEM_NAME#
+1656 DEPRECATED_ITEM_NAME#
+1657 DEPRECATED_ITEM_NAME#
+1658 DEPRECATED_ITEM_NAME#
+1659 DEPRECATED_ITEM_NAME#
+1660 DEPRECATED_ITEM_NAME#
+1661 DEPRECATED_ITEM_NAME#
+1662 DEPRECATED_ITEM_NAME#
+1663 DEPRECATED_ITEM_NAME#
+1664 DEPRECATED_ITEM_NAME#
+1665 DEPRECATED_ITEM_NAME#
+1666 DEPRECATED_ITEM_NAME#
+1667 DEPRECATED_ITEM_NAME#
+1668 DEPRECATED_ITEM_NAME#
+1669 DEPRECATED_ITEM_NAME#
+1670 DEPRECATED_ITEM_NAME#
+1671 DEPRECATED_ITEM_NAME#
+1672 DEPRECATED_ITEM_NAME#
+1673 DEPRECATED_ITEM_NAME#
+1674 DEPRECATED_ITEM_NAME#
+1675 DEPRECATED_ITEM_NAME#
+1676 DEPRECATED_ITEM_NAME#
+1677 DEPRECATED_ITEM_NAME#
+1678 DEPRECATED_ITEM_NAME#
+1679 DEPRECATED_ITEM_NAME#
+1680 DEPRECATED_ITEM_NAME#
+1681 DEPRECATED_ITEM_NAME#
+1682 DEPRECATED_ITEM_NAME#
+1683 DEPRECATED_ITEM_NAME#
+1684 DEPRECATED_ITEM_NAME#
+1685 DEPRECATED_ITEM_NAME#
+1686 DEPRECATED_ITEM_NAME#
+1687 DEPRECATED_ITEM_NAME#
+1688 DEPRECATED_ITEM_NAME#
+1689 DEPRECATED_ITEM_NAME#
+1690 DEPRECATED_ITEM_NAME#
+1691 DEPRECATED_ITEM_NAME#
+1692 DEPRECATED_ITEM_NAME#
+1693 DEPRECATED_ITEM_NAME#
+1694 DEPRECATED_ITEM_NAME#
+1695 DEPRECATED_ITEM_NAME#
+1696 DEPRECATED_ITEM_NAME#
+1697 DEPRECATED_ITEM_NAME#
+1698 DEPRECATED_ITEM_NAME#
+1699 DEPRECATED_ITEM_NAME#
+1700 DEPRECATED_ITEM_NAME#
+1701 DEPRECATED_ITEM_NAME#
+1702 DEPRECATED_ITEM_NAME#
+1703 DEPRECATED_ITEM_NAME#
+1704 DEPRECATED_ITEM_NAME#
+1705 DEPRECATED_ITEM_NAME#
+1706 DEPRECATED_ITEM_NAME#
+1707 DEPRECATED_ITEM_NAME#
+1708 DEPRECATED_ITEM_NAME#
+1709 DEPRECATED_ITEM_NAME#
+1710 DEPRECATED_ITEM_NAME#
+1711 DEPRECATED_ITEM_NAME#
+1712 DEPRECATED_ITEM_NAME#
+1713 DEPRECATED_ITEM_NAME#
+1714 DEPRECATED_ITEM_NAME#
+1715 DEPRECATED_ITEM_NAME#
+1716 DEPRECATED_ITEM_NAME#
+1717 DEPRECATED_ITEM_NAME#
+1718 DEPRECATED_ITEM_NAME#
+1719 DEPRECATED_ITEM_NAME#
+1720 DEPRECATED_ITEM_NAME#
+1721 DEPRECATED_ITEM_NAME#
+1722 DEPRECATED_ITEM_NAME#
+1723 DEPRECATED_ITEM_NAME#
+1724 DEPRECATED_ITEM_NAME#
+1725 DEPRECATED_ITEM_NAME#
+1726 DEPRECATED_ITEM_NAME#
+1727 DEPRECATED_ITEM_NAME#
+1728 DEPRECATED_ITEM_NAME#
+1729 DEPRECATED_ITEM_NAME#
+1730 DEPRECATED_ITEM_NAME#
+1731 DEPRECATED_ITEM_NAME#
+1732 DEPRECATED_ITEM_NAME#
+1733 DEPRECATED_ITEM_NAME#
+1734 DEPRECATED_ITEM_NAME#
+1735 DEPRECATED_ITEM_NAME#
+1736 DEPRECATED_ITEM_NAME#
+1737 DEPRECATED_ITEM_NAME#
+1738 DEPRECATED_ITEM_NAME#
+1739 DEPRECATED_ITEM_NAME#
+1740 DEPRECATED_ITEM_NAME#
+1741 DEPRECATED_ITEM_NAME#
+1742 DEPRECATED_ITEM_NAME#
+1743 DEPRECATED_ITEM_NAME#
+1744 DEPRECATED_ITEM_NAME#
+1745 DEPRECATED_ITEM_NAME#
+1746 DEPRECATED_ITEM_NAME#
+1747 DEPRECATED_ITEM_NAME#
+1748 DEPRECATED_ITEM_NAME#
+1749 DEPRECATED_ITEM_NAME#
+1750 DEPRECATED_ITEM_NAME#
+1751 DEPRECATED_ITEM_NAME#
+1752 DEPRECATED_ITEM_NAME#
+1753 DEPRECATED_ITEM_NAME#
+1754 DEPRECATED_ITEM_NAME#
+1755 DEPRECATED_ITEM_NAME#
+1756 DEPRECATED_ITEM_NAME#
+1757 DEPRECATED_ITEM_NAME#
+1758 DEPRECATED_ITEM_NAME#
+1759 DEPRECATED_ITEM_NAME#
+1760 DEPRECATED_ITEM_NAME#
+1761 DEPRECATED_ITEM_NAME#
+1762 DEPRECATED_ITEM_NAME#
+1763 DEPRECATED_ITEM_NAME#
+1764 DEPRECATED_ITEM_NAME#
+1765 DEPRECATED_ITEM_NAME#
+1766 DEPRECATED_ITEM_NAME#
+1767 DEPRECATED_ITEM_NAME#
+1768 DEPRECATED_ITEM_NAME#
+1769 DEPRECATED_ITEM_NAME#
+1770 DEPRECATED_ITEM_NAME#
+1771 DEPRECATED_ITEM_NAME#
+1772 DEPRECATED_ITEM_NAME#
+1773 DEPRECATED_ITEM_NAME#
+1774 DEPRECATED_ITEM_NAME#
+1775 DEPRECATED_ITEM_NAME#
+1776 DEPRECATED_ITEM_NAME#
+1777 DEPRECATED_ITEM_NAME#
+1778 DEPRECATED_ITEM_NAME#
+1779 DEPRECATED_ITEM_NAME#
+1780 DEPRECATED_ITEM_NAME#
+1781 DEPRECATED_ITEM_NAME#
+1782 DEPRECATED_ITEM_NAME#
+1783 DEPRECATED_ITEM_NAME#
+1784 DEPRECATED_ITEM_NAME#
+1785 DEPRECATED_ITEM_NAME#
+1786 DEPRECATED_ITEM_NAME#
+1787 DEPRECATED_ITEM_NAME#
+1788 DEPRECATED_ITEM_NAME#
+1789 DEPRECATED_ITEM_NAME#
+1790 DEPRECATED_ITEM_NAME#
+1791 DEPRECATED_ITEM_NAME#
+1792 DEPRECATED_ITEM_NAME#
+1793 DEPRECATED_ITEM_NAME#
+1794 DEPRECATED_ITEM_NAME#
+1795 DEPRECATED_ITEM_NAME#
+1796 DEPRECATED_ITEM_NAME#
+1797 DEPRECATED_ITEM_NAME#
+1798 DEPRECATED_ITEM_NAME#
+1799 DEPRECATED_ITEM_NAME#
+1800 DEPRECATED_ITEM_NAME#
+1801 DEPRECATED_ITEM_NAME#
+1802 DEPRECATED_ITEM_NAME#
+1803 DEPRECATED_ITEM_NAME#
+1804 DEPRECATED_ITEM_NAME#
+1805 DEPRECATED_ITEM_NAME#
+1806 DEPRECATED_ITEM_NAME#
+1807 DEPRECATED_ITEM_NAME#
+1808 DEPRECATED_ITEM_NAME#
+1809 DEPRECATED_ITEM_NAME#
+1810 DEPRECATED_ITEM_NAME#
+1811 DEPRECATED_ITEM_NAME#
+1812 DEPRECATED_ITEM_NAME#
+1813 DEPRECATED_ITEM_NAME#
+1814 DEPRECATED_ITEM_NAME#
+1815 DEPRECATED_ITEM_NAME#
+1816 DEPRECATED_ITEM_NAME#
+1817 DEPRECATED_ITEM_NAME#
+1818 DEPRECATED_ITEM_NAME#
+1819 DEPRECATED_ITEM_NAME#
+1820 DEPRECATED_ITEM_NAME#
+1821 DEPRECATED_ITEM_NAME#
+1822 DEPRECATED_ITEM_NAME#
+1823 DEPRECATED_ITEM_NAME#
+1824 DEPRECATED_ITEM_NAME#
+1825 DEPRECATED_ITEM_NAME#
+1826 DEPRECATED_ITEM_NAME#
+1827 DEPRECATED_ITEM_NAME#
+1828 DEPRECATED_ITEM_NAME#
+1829 DEPRECATED_ITEM_NAME#
+1830 DEPRECATED_ITEM_NAME#
+1831 DEPRECATED_ITEM_NAME#
+1832 DEPRECATED_ITEM_NAME#
+1833 DEPRECATED_ITEM_NAME#
+1834 DEPRECATED_ITEM_NAME#
+1835 DEPRECATED_ITEM_NAME#
+1836 DEPRECATED_ITEM_NAME#
+1837 DEPRECATED_ITEM_NAME#
+1838 DEPRECATED_ITEM_NAME#
+1839 DEPRECATED_ITEM_NAME#
+1840 DEPRECATED_ITEM_NAME#
+1841 DEPRECATED_ITEM_NAME#
+1842 DEPRECATED_ITEM_NAME#
+1843 DEPRECATED_ITEM_NAME#
+1844 DEPRECATED_ITEM_NAME#
+1845 DEPRECATED_ITEM_NAME#
+1846 DEPRECATED_ITEM_NAME#
+1847 DEPRECATED_ITEM_NAME#
+1848 DEPRECATED_ITEM_NAME#
+1849 DEPRECATED_ITEM_NAME#
+1850 DEPRECATED_ITEM_NAME#
+1851 DEPRECATED_ITEM_NAME#
+1852 DEPRECATED_ITEM_NAME#
+1853 DEPRECATED_ITEM_NAME#
+1854 DEPRECATED_ITEM_NAME#
+1855 DEPRECATED_ITEM_NAME#
+1856 DEPRECATED_ITEM_NAME#
+1857 DEPRECATED_ITEM_NAME#
+1858 DEPRECATED_ITEM_NAME#
+1859 DEPRECATED_ITEM_NAME#
+1860 DEPRECATED_ITEM_NAME#
+1861 DEPRECATED_ITEM_NAME#
+1862 DEPRECATED_ITEM_NAME#
+1863 DEPRECATED_ITEM_NAME#
+1864 DEPRECATED_ITEM_NAME#
+1865 DEPRECATED_ITEM_NAME#
+1866 DEPRECATED_ITEM_NAME#
+1867 DEPRECATED_ITEM_NAME#
+1868 DEPRECATED_ITEM_NAME#
+1869 DEPRECATED_ITEM_NAME#
+1870 DEPRECATED_ITEM_NAME#
+1871 DEPRECATED_ITEM_NAME#
+1872 DEPRECATED_ITEM_NAME#
+1873 DEPRECATED_ITEM_NAME#
+1874 DEPRECATED_ITEM_NAME#
+1875 DEPRECATED_ITEM_NAME#
+1876 DEPRECATED_ITEM_NAME#
+1877 DEPRECATED_ITEM_NAME#
+1878 DEPRECATED_ITEM_NAME#
+1879 DEPRECATED_ITEM_NAME#
+1880 DEPRECATED_ITEM_NAME#
+
+1882 DEPRECATED#
+1883 DEPRECATED#
+
+# menu subtitles
+
+1910 DEPRECATED#
+1911 DEPRECATED#
+1912 DEPRECATED#
+1913 DEPRECATED#
+1914 DEPRECATED#
+1915 DEPRECATED#
+1916 DEPRECATED#
+1917 DEPRECATED#
+1918 DEPRECATED#
+1919 DEPRECATED#
+1920 DEPRECATED#
+1921 DEPRECATED#
+1922 DEPRECATED#
+1923 DEPRECATED#
+1924 DEPRECATED#
+1925 DEPRECATED#
+1926 DEPRECATED#
+1927 DEPRECATED#
+1928 DEPRECATED#
+1929 DEPRECATED#
+1930 DEPRECATED#
+1931 DEPRECATED#
+1932 DEPRECATED#
+1933 DEPRECATED#
+1934 DEPRECATED#
+1935 DEPRECATED#
+1936 DEPRECATED#
+1937 DEPRECATED#
+1938 DEPRECATED#
+1939 DEPRECATED#
+
+# extra keybindings :)
+
+1940 DEPRECATED#
+1941 DEPRECATED#
+
+# game/server flags tooltips
+
+# Cheats.
+1942 DEPRECATED#
+1943 DEPRECATED#
+1944 DEPRECATED#
+1945 DEPRECATED#
+1946 DEPRECATED#
+
+# Gamepad settings menu stuff.
+1947 DEPRECATED#
+
+# Bifunctional bindings.
+1948 DEPRECATED#
+1949 DEPRECATED#
+1950 DEPRECATED#
+1951 DEPRECATED#
+1952 DEPRECATED#
+1953 DEPRECATED#
+1954 DEPRECATED#
+
+# Menu exclusive bindings.
+1955 DEPRECATED#
+1956 DEPRECATED#
+1957 DEPRECATED#
+1958 DEPRECATED#
+1959 DEPRECATED#
+1960 DEPRECATED#
+1961 DEPRECATED#
+1962 DEPRECATED#
+1963 DEPRECATED#
+1964 DEPRECATED#
+1965 DEPRECATED#
+1966 DEPRECATED#
+1967 DEPRECATED#
+1968 DEPRECATED#
+1969 DEPRECATED#
+1970 DEPRECATED#
+1971 DEPRECATED#
+1972 DEPRECATED#
+1973 DEPRECATED#
+
+# Game exclusive bindings.
+1974 DEPRECATED#
+1975 DEPRECATED#
+1976 DEPRECATED#
+1977 DEPRECATED#
+1978 DEPRECATED#
+1979 DEPRECATED#
+1980 DEPRECATED#
+1981 DEPRECATED#
+1982 DEPRECATED#
+1983 DEPRECATED#
+1984 DEPRECATED#
+1985 DEPRECATED#
+
+# Other bindings.
+1986 DEPRECATED#
+1987 DEPRECATED#
+1988 DEPRECATED#
+1989 DEPRECATED#
+1990 DEPRECATED#
+1991 DEPRECATED#
+
+# More stuff on the gamepad bindings screen.
+1994 DEPRECATED#
+1995 DEPRECATED#
+1996 DEPRECATED#
+
+
+1997 DEPRECATED#
+1998 DEPRECATED#
+
+# START DLC
+# monsters, reserve 2000-2049 for monster names, 2050 - 2099 for plurals, 2100-2150 for injury types
+
+2000 coboldo#
+2001 scarabeo#
+2002 golem cristallo#
+2003 incubo#
+2004 vampiro#
+2005 ombra#
+2006 coccatrice#
+2007 insettoide#
+2008 uomo capra#
+2009 automa#
+2010 lich gelido#
+2011 lich di fuoco#
+2012 robosentinella#
+2013 robomago#
+2014 girorobot#
+2015 robomanichino#
+
+# monster plurals
+
+2050 coboldi#
+2051 scarabei#
+2052 golem cristallo#
+2053 incubi#
+2054 vampiri#
+2055 ombre#
+2056 coccatrici#
+2057 insettoidi#
+2058 uomini capra#
+2059 automi#
+2060 lich gelido#
+2061 lich di fuoco#
+2062 robosentinelle#
+2063 robomaghi#
+2064 girorobot#
+2065 robomanichini#
+
+# injury types (2100-2149)
+
+2100 colpisce#
+2101 morde#
+2102 randella#
+2103 sberla#
+2104 sbrana#
+2105 colpisce#
+2106 graffia#
+2107 punge#
+2108 martella#
+2109 randella#
+2110 colpisce#
+2111 colpisce#
+2112 colpisce#
+2113 colpisce#
+2114 colpisce#
+2115 colpisce#
+
+# additional obituary messages (2150-2199)
+2150 cade nella violenza di banda coboldi.#
+2151 sottovaluta la forza mandibolare degli scarabei.#
+2152 finisce tra un golem di cristallo e l'incudine.#
+2153 ha scordato la parola con un incubo.#
+2154 dona sangue al vampiro.#
+2155 diventa l'ombra di se stesso.#
+2156 aspetta troppo a combattere contro la coccatrice.#
+2157 viene assassinato da un insettoide astuto.#
+2158 e' pestato a morte da un uomo capra ubriaco.#
+2159 e' terminato da un automa.#
+2160 non ha sventato i piani di Erudyce.#
+2161 non ha resistito al potere di Orpheus.#
+2162 lo termina una robosentinella.#
+2163 lo termina un robot incantatore.#
+2164 e' terminato da un girorobot.#
+2165 lo termina un robomanichino.#
+2166 e' depredato da un mimic.#
+
+# items, reserve (2200-2349) for new items
+2200 DEPRECATED_ITEM_NAME#
+2201 DEPRECATED_ITEM_NAME#
+2202 DEPRECATED_ITEM_NAME#
+2203 DEPRECATED_ITEM_NAME#
+2204 DEPRECATED_ITEM_NAME#
+2205 DEPRECATED_ITEM_NAME#
+2206 DEPRECATED_ITEM_NAME#
+2207 DEPRECATED_ITEM_NAME#
+2208 DEPRECATED_ITEM_NAME#
+2209 DEPRECATED_ITEM_NAME#
+2210 DEPRECATED_ITEM_NAME#
+2211 DEPRECATED_ITEM_NAME#
+2212 DEPRECATED_ITEM_NAME#
+2213 DEPRECATED_ITEM_NAME#
+2214 DEPRECATED_ITEM_NAME#
+2215 DEPRECATED_ITEM_NAME#
+2216 DEPRECATED_ITEM_NAME#
+2217 DEPRECATED_ITEM_NAME#
+2218 DEPRECATED_ITEM_NAME#
+2219 DEPRECATED_ITEM_NAME#
+2220 DEPRECATED_ITEM_NAME#
+2221 DEPRECATED_ITEM_NAME#
+2222 DEPRECATED_ITEM_NAME#
+2223 DEPRECATED_ITEM_NAME#
+2224 DEPRECATED_ITEM_NAME#
+2225 DEPRECATED_ITEM_NAME#
+2226 DEPRECATED_ITEM_NAME#
+2227 DEPRECATED_ITEM_NAME#
+2228 DEPRECATED_ITEM_NAME#
+2229 DEPRECATED_ITEM_NAME#
+2230 DEPRECATED_ITEM_NAME#
+2231 DEPRECATED_ITEM_NAME#
+2232 DEPRECATED_ITEM_NAME#
+2233 DEPRECATED_ITEM_NAME#
+2234 DEPRECATED_ITEM_NAME#
+2235 DEPRECATED_ITEM_NAME#
+2236 DEPRECATED_ITEM_NAME#
+2237 DEPRECATED_ITEM_NAME#
+2238 DEPRECATED_ITEM_NAME#
+2239 DEPRECATED_ITEM_NAME#
+2240 DEPRECATED_ITEM_NAME#
+2241 DEPRECATED_ITEM_NAME#
+2242 DEPRECATED_ITEM_NAME#
+2243 DEPRECATED_ITEM_NAME#
+2244 DEPRECATED_ITEM_NAME#
+2245 DEPRECATED_ITEM_NAME#
+2246 DEPRECATED_ITEM_NAME#
+2247 DEPRECATED_ITEM_NAME#
+2248 DEPRECATED_ITEM_NAME#
+2249 DEPRECATED_ITEM_NAME#
+2250 DEPRECATED_ITEM_NAME#
+2251 DEPRECATED_ITEM_NAME#
+2252 DEPRECATED_ITEM_NAME#
+2253 DEPRECATED_ITEM_NAME#
+2254 DEPRECATED_ITEM_NAME#
+2255 DEPRECATED_ITEM_NAME#
+2256 DEPRECATED_ITEM_NAME#
+2257 DEPRECATED_ITEM_NAME#
+2258 DEPRECATED_ITEM_NAME#
+2259 DEPRECATED_ITEM_NAME#
+2260 DEPRECATED_ITEM_NAME#
+2261 DEPRECATED_ITEM_NAME#
+2262 DEPRECATED_ITEM_NAME#
+2263 DEPRECATED_ITEM_NAME#
+2264 DEPRECATED_ITEM_NAME#
+2265 DEPRECATED_ITEM_NAME#
+2266 DEPRECATED_ITEM_NAME#
+2267 DEPRECATED_ITEM_NAME#
+2268 DEPRECATED_ITEM_NAME#
+2269 DEPRECATED_ITEM_NAME#
+2270 DEPRECATED_ITEM_NAME#
+2271 DEPRECATED_ITEM_NAME#
+2272 DEPRECATED_ITEM_NAME#
+2273 DEPRECATED_ITEM_NAME#
+2274 DEPRECATED_ITEM_NAME#
+2275 DEPRECATED_ITEM_NAME#
+2276 DEPRECATED_ITEM_NAME#
+2277 DEPRECATED_ITEM_NAME#
+2278 DEPRECATED_ITEM_NAME#
+2279 DEPRECATED_ITEM_NAME#
+2280 DEPRECATED_ITEM_NAME#
+2281 DEPRECATED_ITEM_NAME#
+2282 DEPRECATED_ITEM_NAME#
+2283 DEPRECATED_ITEM_NAME#
+2284 DEPRECATED_ITEM_NAME#
+2285 DEPRECATED_ITEM_NAME#
+2286 DEPRECATED_ITEM_NAME#
+2287 DEPRECATED_ITEM_NAME#
+2288 DEPRECATED_ITEM_NAME#
+2289 DEPRECATED_ITEM_NAME#
+2290 DEPRECATED_ITEM_NAME#
+2291 DEPRECATED_ITEM_NAME#
+2292 DEPRECATED_ITEM_NAME#
+2293 DEPRECATED_ITEM_NAME#
+2294 DEPRECATED_ITEM_NAME#
+2295 DEPRECATED_ITEM_NAME#
+2296 DEPRECATED_ITEM_NAME#
+2297 DEPRECATED_ITEM_NAME#
+2298 DEPRECATED_ITEM_NAME#
+2299 DEPRECATED_ITEM_NAME#
+2300 DEPRECATED_ITEM_NAME#
+2301 DEPRECATED_ITEM_NAME#
+2302 DEPRECATED_ITEM_NAME#
+2303 DEPRECATED_ITEM_NAME#
+2304 DEPRECATED_ITEM_NAME#
+2305 DEPRECATED_ITEM_NAME#
+2306 DEPRECATED_ITEM_NAME#
+2307 DEPRECATED_ITEM_NAME#
+2308 DEPRECATED_ITEM_NAME#
+2309 DEPRECATED_ITEM_NAME#
+2310 DEPRECATED_ITEM_NAME#
+2311 DEPRECATED_ITEM_NAME#
+2312 DEPRECATED_ITEM_NAME#
+2313 DEPRECATED_ITEM_NAME#
+2314 DEPRECATED_ITEM_NAME#
+2315 DEPRECATED_ITEM_NAME#
+2316 DEPRECATED_ITEM_NAME#
+2317 DEPRECATED_ITEM_NAME#
+2318 DEPRECATED_ITEM_NAME#
+2319 DEPRECATED_ITEM_NAME#
+2320 DEPRECATED_ITEM_NAME#
+2321 DEPRECATED_ITEM_NAME#
+2322 DEPRECATED_ITEM_NAME#
+2323 DEPRECATED_ITEM_NAME#
+2324 DEPRECATED_ITEM_NAME#
+2325 DEPRECATED_ITEM_NAME#
+2326 DEPRECATED_ITEM_NAME#
+2327 DEPRECATED_ITEM_NAME#
+2328 DEPRECATED_ITEM_NAME#
+2329 DEPRECATED_ITEM_NAME#
+2330 DEPRECATED_ITEM_NAME#
+2331 DEPRECATED_ITEM_NAME#
+2332 DEPRECATED_ITEM_NAME#
+2333 DEPRECATED_ITEM_NAME#
+2334 DEPRECATED_ITEM_NAME#
+2335 DEPRECATED_ITEM_NAME#
+2336 DEPRECATED_ITEM_NAME#
+2337 DEPRECATED_ITEM_NAME#
+2338 DEPRECATED_ITEM_NAME#
+2339 DEPRECATED_ITEM_NAME#
+2340 DEPRECATED_ITEM_NAME#
+2341 DEPRECATED_ITEM_NAME#
+2342 DEPRECATED_ITEM_NAME#
+2343 DEPRECATED_ITEM_NAME#
+2344 DEPRECATED_ITEM_NAME#
+2345 DEPRECATED_ITEM_NAME#
+2346 DEPRECATED_ITEM_NAME#
+2347 DEPRECATED_ITEM_NAME#
+2348 DEPRECATED_ITEM_NAME#
+2349 DEPRECATED_ITEM_NAME#
+
+#Additional ingame text.
+2350 Un frammento si stacca dal tuo %s.#
+2351 Il tuo %s va in frantumi!#
+2352 Attivi una trappola %s!#
+2353 Numero di mostri nel livello: %d#
+2354 ATTENZIONE: Sperimentale - Puo' causare crash all'uscita! Solo per test modelli.#
+2355 Ricaricamento modelli da indice %d a %d#
+2356 Ruoti il cristallo fluttuante.#
+2357 Il cristallo sembra bloccato.#
+2358 Il cristallo si muove!#
+2359 Non puoi bere una bottiglia vuota!#
+2360 Tiri la leva, ma il meccanismo sembra ancora inattivo.#
+2361 La leva stride avanzando con resistenza.#
+2362 Senti un click dal meccanismo!#
+2363 Tenti di tirare indietro la leva,
+ma si ritrae oltre la tua forza!#
+2364 Colpisci il piedistallo, frustrato.#
+2365 Ammiri l'intaglio intricato del piedistallo.#
+2366 Il piedistallo sembra richiedere una sorta di artefatto primordiale.#
+2367 La sfera sfugge alla tua presa e non puo' essere recuperata!#
+2368 Posizioni la sfera nel ricettacolo...#
+2369 Ma non ha avuto effetto.#
+2370 La sfera fluttua!#
+2371 Questo oggetto non serve qui.#
+2372 Questo %s sembra essere una parte mancante di qualche congegno.#
+2373 Questo %s luccica, deve essere utile! #
+2374 Recuperi %s dal piedistallo.#
+2375 Vedi un cristallo misterioso.#
+2376 Vedi un piedistallo.#
+2377 Vedi una sfera mistica seduta sopra un piedistallo.#
+2378 Sali la scala.#
+2379 L'alleato %s sale di livello!#
+2380 Il muro e' fortificato! Non si scalfisce nemmeno!#
+2381 Una forza invisibile ti inchioda a terra!#
+2382 L'aria qui sembra vorticare piano intorno a te.#
+2383 Un formicolio attraversa il tuo corpo e ogni tuo passo.#
+
+#Equip Effects
+2384 Ti senti sicuro di te.#
+2385 Ti senti calmo.#
+2386 Tutto il corpo e' squamoso.#
+2387 Senti la tua percezione espandersi.#
+2388 Senti energia scorrere nelle tue braccia.#
+2389 Ti senti robusto!#
+
+#New spells (2390-2399)
+2390 DEPRECATED_SPELL_NAME#
+2391 DEPRECATED_SPELL_NAME#
+2392 DEPRECATED_SPELL_NAME#
+2393 DEPRECATED_SPELL_NAME#
+2394 DEPRECATED_SPELL_NAME#
+2395 DEPRECATED_SPELL_NAME#
+2396 DEPRECATED_SPELL_NAME#
+2397 DEPRECATED_SPELL_NAME#
+2398 DEPRECATED_SPELL_NAME#
+2399 DEPRECATED_SPELL_NAME#
+
+2400 DEPRECATED#
+
+2401 DEPRECATED#
+2402 DEPRECATED#
+2403 DEPRECATED#
+2404 DEPRECATED#
+2405 DEPRECATED#
+2406 DEPRECATED#
+
+2407 DEPRECATED#
+2408 DEPRECATED#
+2409 DEPRECATED#
+2410 DEPRECATED#
+
+2411 DEPRECATED#
+
+#Equip Effects
+
+2412 Il corpo svanisce davanti ai tuoi occhi!#
+2413 Ti senti il corpo intorpidito.#
+2414 Sei sopraffatto dalla paranoia.#
+2415 Inizi a fluttuare.#
+2416 Ti prude dappertutto.#
+2417 L'anello tira piano il tuo dito.#
+2418 Questi stivali sono lievi.#
+2419 Le calzature ti sollevano da terra!#
+
+#New spell effects (2420-2440)
+2420 %s e' paralizzato!#
+2421 Il %s e' paralizzato!#
+2422 I tuoi arti smettono di muoversi!#
+2423 %s e' gravemente ferito!#
+2424 Il %s e' gravemente ferito!#
+2425 Sei gravemente ferito!#
+2426 DEPRECATED#
+2427 Domini %s al tuo servizio!#
+2428 Domini il %s al tuo servizio!#
+2429 Non riesci a dominare questo.#
+2430 %s e' spruzzato con acido corrosivo!#
+2431 Il %s e' spruzzato con acido corrosivo!#
+2432 Sei spruzzato con acido corrosivo!#
+2433 Sottrai magicamente il %s di %s dalla sua presa!#
+2434 Sottrai magicamente il %s del %s dalla sua presa!#
+2435 La magia ti strappa il %s di mano!#
+2436 %s non sta impugnando un'arma da rubare!#
+2437 Il %s non sta impugnando un'arma da rubare!#
+2438 La magia fallisce nel rubare l'arma inesistente dalla tua mano!#
+2439 %s perde la forza vitale!#
+2440 Il %s perde la forza vitale!#
+2441 Perdi la forza vitale!#
+2442 Non prosciughi la forza vitale di %s.#
+2443 Non prosciughi la forza vitale del %s.#
+2444 Resisti al drenaggio magico!#
+2445 Ti senti ristorato!#
+2446 La tua magia (rifletti magia) e' interrotta!#
+2447 La tua magia (aura vampirica) e' interrotta!#
+2448 DEPRECATED#
+2449 La tua sete di sangue si placa...#
+2450 La fattura dei muri qui e' immacolata.#
+
+#New effects (contd.)
+2451 Sanguini forte!#
+2452 La %s sanguina forte!#
+2453 %s sanguina forte!#
+2454 Le tue ferite si aprono di piu'!#
+2455 Le ferite del %s si aprono ulteriormente!#
+2456 Le ferite di %s si aprono di piu'!#
+2457 Il colpo del %s rimbalza via!#
+2458 Il colpo di %s rimbalza!#
+2459 DEPRECATED#
+2460 DEPRECATED#
+2461 DEPRECATED#
+2462 DEPRECATED#
+2463 DEPRECATED#
+2464 DEPRECATED#
+2465 DEPRECATED#
+2466 DEPRECATED#
+2467 DEPRECATED#
+2468 DEPRECATED#
+2469 DEPRECATED#
+2470 Non senti piu' la magia indebolirsi contro di te.#
+2471 La magia non rimbalza piu' via da te.#
+2472 DEPRECATED#
+2473 DEPRECATED#
+2474 Non sostieni la magia (rifletti magia).#
+2475 Ma rimbalza via!#
+2476 Senti rifletti magia svanire mentre
+l'ultima tua magia si prosciuga!#
+2477 Sei pervaso da potenza vampirica!#
+
+# Equip effects
+2478 Senti un senso di grande scopo.#
+2479 L'aria intorno a te profuma di fresco e dolce.#
+2480 Tutto il corpo formicola un po'.#
+2481 Il cappello sembra darti delle idee.#
+2482 Ti viene voglia di dare un pugno.#
+2483 Il cappello ti solleva il morale.#
+2484 L'interno degli stivali sembra molliccio.#
+2485 Questi stivali sono comodi!#
+2486 E' un mantello d'invisibilita'!#
+2487 Il mantello e' rigido, ma comodo.#
+2488 Il mantello ronza piano sul tuo corpo.#
+2489 Le tue dita si fanno agilissime.#
+2490 Senti la tua pelle indurirsi un po'.#
+2491 Senti un formicolio salire sulle tue spalle.#
+2492 L'amuleto sembra fresco contro il tuo collo.#
+
+# More misc text.
+2493 Non e' il momento di dormire.#
+2494 Mio il letto di sopra.#
+2495 Mio il letto di sotto.#
+2496 Non e' il momento di prediche.#
+2497 Vedi un letto.#
+
+#More character creation screen stuff.
+2498 Nome Casuale#
+
+2499 Vedi una cuccetta.#
+2500 Vedi un podio.#
+2501 Vedi un set di pistoni.#
+2502 Vedi una colonna.#
+2503 Vedi una stalagmite.#
+2504 Vedi una stalattite.#
+2505 letto#
+2506 cuccetta#
+2507 podio#
+2508 La tua magia distrugge il %s!#
+2509 Colpisci il %s!#
+2510 Il %s va in pezzi!#
+2511 Sei colpito da un dardo!#
+2512 Sei colpito da una roccia!#
+2513 Perfori l'armatura del %s!#
+2514 Perfori l'armatura di %s!#
+2515 Il colpo perfora l'armatura!#
+
+## 2516 - 2528 More effect messages
+2516 Senti che ti afferrano parte dell'essenza!#
+2517 Senti che ti tolgono una scheggia d'essenza!#
+2518 Senti qualcosa tirare la tua essenza e avvicinarsi...#
+2519 Evochi un incubo!#
+2520 La tua magia distrugge la cassa!#
+2521 Senti una tagliola scattare in lontananza.#
+2522 Senti una tagliola scattare vicino!#
+2523 Sei colpito da un'esplosione!#
+2524 Raschi il tuo %s in alcuni ingranaggi esposti del %s...#
+2525 Non riesci a trovare un'entrata dentro il %s da questa angolazione.#
+2526 Un ingranaggio del %s si sblocca!#
+2527 Gli ingranaggi del %s si bloccano e scintillano!#
+2528 Il tuo %s non ha effetto ora.#
+
+# 2529- 2542 atk hover text
+2529 pugni: #
+2530 distanza: #
+2531 lancio: #
+2532 mischia: #
+2533 %+10d ATTACCO TOTALE#
+2534 %+3d da attributo (FOR)#
+2535 %+3d da attributo (DES)#
+2536 %+3d da equip.#
+2537 %+3d da abilita'#
+2538 %+3d da arma#
+2539 %3d%% varianza da abilita'#
+2540 attrezzo:  #
+2541 bastone: #
+2542 Danno:%11d ATT#
+
+# 2543 - 2549 attacking text, misc
+2543 Il tuo colpo coglie il %s di sorpresa!#
+2544 Il tuo colpo coglie %s di sorpresa!#
+2545 Il tuo colpo aggira le difese del %s!#
+2546 Il tuo colpo aggira le difese di %s!#
+2547 Assassini il %s!#
+2548 Assassini %s!#
+2549 DEPRECATED#
+
+# 2550 - 2560 new class names
+2550 sacrestano#
+2551 ninja#
+2552 monaco#
+2553 blank#
+2554 blank#
+2555 blank#
+2556 blank#
+2557 blank#
+2558 blank#
+2559 blank#
+# 2560 - 2570 new class descriptions
+2560 DEPRECATED#
+2561 DEPRECATED#
+2562 DEPRECATED#
+2563 DEPRECATED#
+2564 DEPRECATED#
+2565 DEPRECATED#
+2566 DEPRECATED#
+2567 DEPRECATED#
+2568 DEPRECATED#
+2569 DEPRECATED#
+
+# More misc.
+2570 DEPRECATED#
+2571 DEPRECATED#
+2572 DEPRECATED#
+2573 DEPRECATED#
+2574 DEPRECATED#
+2575 DEPRECATED#
+2576 DEPRECATED#
+2577 DEPRECATED#
+2578 DEPRECATED#
+2579 DEPRECATED#
+2580 DEPRECATED#
+2581 DEPRECATED#
+2582 DEPRECATED#
+2583 DEPRECATED#
+2584 DEPRECATED#
+
+2585 DEPRECATED#
+2586 DEPRECATED#
+2587 DEPRECATED#
+2588 DEPRECATED#
+2589 Alleato %s %s#
+2590 DEPRECATED#
+2591 Non hai altro da imparare da questa magia.#
+
+2592 La fontana benedice un equipaggiamento.#
+2593 Non hai oro!#
+2594 Lasciati %d pezzi d'oro.#
+2595 Il libro magico si deteriora.#
+2596 Il libro magico si sbriciola in cenere!#
+2597 Senti la tua mente staccarsi dal tuo corpo mortale.#
+2598 DEPRECATED#
+2599 Ti senti rinfrescato!#
+
+2600 DEPRECATED#
+2601 DEPRECATED#
+2602 DEPRECATED#
+2603 DEPRECATED#
+2604 DEPRECATED#
+2605 DEPRECATED#
+2606 DEPRECATED#
+2607 DEPRECATED#
+2608 DEPRECATED#
+2609 DEPRECATED#
+2611 DEPRECATED#
+2612 DEPRECATED#
+2613 DEPRECATED#
+2614 DEPRECATED#
+
+# Orpheus and Erudyce chatter.
+2615 "Fratello, sento che qualcuno e' arrivato. Li accogliamo?"#
+2616 "No, siamo troppo presi per formalita'."#
+
+2617 "Sorella, hai invitato compagnia?"#
+2618 "No, li ha mandati la Gilda."#
+2619 "Hm."#
+
+2620 "Sorella, l'entrata della Caverna e' ancora chiusa, vero?"#
+2621 "Lo e'. Perche' lo chiedi?"#
+2622 "Lascia stare. Non e' nulla."#
+
+2623 "E' necessario il Minotauro, Fratello?"#
+2624 "No, sorella, ma mi piace lo spettacolo."#
+
+2625 "Pensi, Sorella, che fuggiranno dal Minotauro?"#
+2626 "Non importa, Fratello. Mandalo lo stesso."#
+
+2627 "Questo Minotauro e' depresso da quando Herx e' morto."#
+2628 "Mandalo via se ti da' cosi' tanto fastidio, Sorella."#
+
+# Caves chatter.
+2629 "Fratello, qualcuno avanza nelle Caverne."#
+2630 "Sei preoccupato?"#
+2631 "Mmm. No."#
+
+2632 "I Coboldi ci garantirono risultati migliori nelle Caverne."#
+2633 "Tranquillo, Fratello. C'e' ancora strada, potrebbero farcela."#
+
+2634 "Fratello, vorrei che si sbrigassero."#
+2635 "Renderebbe le cose piu' semplici, non e' vero?"#
+
+# Caves transition.
+2636 "Herx non resse il potere che trovo'. Provammo ad avvertirlo."#
+2637 "La sua morte era certa."#
+2652 "I nostri ospiti non invitati sono solo gente comune."#
+
+# Citadel chatter.
+2638 "E' tutto sbagliato. Creammo questo posto per immortali."#
+2639 "Immortali e i loro servi, Sorella."#
+2653 "Lasciali venire."#
+
+2640 "Quanto devo ancora aspettare?"#
+2641 "Occupati dei tuoi affari, Fratello. Non c'e' molto da preparare."#
+
+2642 "Avevi ragione a escludere il resto della gilda dai nostri piani qui, Fratello."#
+2643 "Menti piccole, ambizioni piccole."#
+
+# Endgame.
+2644 "Il nostro accesso al potere e' cresciuto da quando hai tolto Herx."#
+2645 "Lascia che ti ringraziamo per averci dato la sua Baronia."#
+
+# Orpheus death.
+2646 "Impossibile!!!"#
+2647 "Peste, la tua anima cancellera' l'offesa!"#
+
+# Erudyce death.
+2648 "Maledetto!!!"#
+2649 "Grosso errore, cretino. Ora di soffrire."#
+
+# Orpheus giggles.
+2650 "Ah ah ah ah ah ah aah!!"#
+# Erudyce giggles.
+2651 "Ah ah ah ah ah ah ah ah aah!"#
+
+
+# NPC Chatter. Groups of 10 lines for each NPC type
+2700 type:seq#
+2701 Il %s
+ Sei proprio un festaiolo, %s. Non sono riuscito a starti dietro!#
+2702 Il %s
+ Sei sicuro di aver riposato, %s?#
+2703 Il %s
+ Prima batti il Barone, e ora fai piu' festa di un giullare come me!#
+2704 Il %s
+ Te la prenderai comoda ora, pero', vero %s?#
+2705 Il %s
+ ...#
+
+2710 type:rand#
+2711 Il %s
+ Tutti sono tornati ai negozi, come nulla fosse.#
+2712 Il %s
+ I Negozianti di Hamlet sono piu' duri dopo il dungeon del Barone.#
+
+2720 type:rand#
+2721 Il %s
+ Come potro' ringraziarti %s? *hic!*#
+2722 Il %s
+ Ti amo, amico. Davvero, %s, ti amo. *hic!*#
+
+2730 type:seq#
+2731 %s
+ E' un segreto per tutti.#
+2732 %s
+ Questo era l'atrio della villa del Barone.#
+2733 %s
+ Rinnoviamo l'interno per il prossimo sovrano.#
+2734 %s
+ Vogliamo scordare tutto di Herx.#
+2735 %s
+ E' un segreto per tutti.#
+2736 %s
+ ...#
+
+2740 type:seq#
+2741 Il %s
+ Ho provato a entrare nelle Caverne, ma c'era una barriera.#
+2742 Il %s
+ Forse la Gilda dei Maghi ha eretto quella barriera.#
+2743 Il %s
+ Vengo da lontano, sono della Gilda dei Cacciatori.#
+2744 Il %s
+ I Cacciatori non stanno in questo quartiere.#
+2745 Il %s
+ Pare che Maghi e Cacciatori non vadano d'accordo.#
+2746 Il %s
+ I Cacciatori uccidono i cattivi. A volte Maghi.#
+2747 Il %s
+ Nessun rancore, non fare il cattivo!#
+2748 Il %s
+ ...#
+
+2750 type:rand#
+2751 Il %s
+ E' strano che io sia tentato di tornare nella miniera?#
+2752 Il %s
+ Il cielo qui fuori e' enorme. Ho paura.#
+2753 Il %s
+ Le miniere, il covo di Herx, sono oltre questo cancello.#
+2754 Il %s
+ Forse tornero' indietro solo per un po'.#
+
+2760 type:seq#
+2761 Il %s
+ La Gilda dei Maghi deve tramare qualcosa.#
+2762 Il %s
+ Le Gilde hanno troppi segreti.#
+2763 Il %s
+ Ho sentito che Merlino e la Gilda dei Maghi hanno litigato.#
+2764 Il %s
+ Scommetto che Herx e' in combutta con Orpheus ed Erudyce.#
+2765 Il %s
+ Non farmi parlare dei Cacciatori.#
+2766 Il %s
+ La Gilda dei Muratori lavora per la Chiesa.#
+2767 Il %s
+ La Chiesa ha segreti, ma aiuta anche i poveri.#
+2768 Il %s
+ La Chiesa e' una Gilda? Chiedo per te.#
+2769 Il %s
+ ...#
+
+2770 type:seq#
+2771 Il %s
+ Bentornato, %s. Spero tu sia riposato.#
+2772 Il %s
+ I maghi all'interno possono spiegare tutto.#
+2773 Il %s
+ Io? No, faccio il portiere.#
+2774 Il %s
+ Molti vanno e vengono, %s. Senza iscrizione.#
+2775 Il %s
+ Merlino veniva spesso, ma poi ha smesso.#
+2776 Il %s
+ A pensarci bene, Herx veniva regolarmente.#
+2777 Il %s
+ Herx se ne andava sempre arrabbiato ogni volta.#
+2778 Il %s
+ Vorrei aver visto la faccia di Herx al tuo arrivo...#
+2779 Il %s
+ ...#
+
+2780 type:seq#
+2781 Il %s
+ Il Barone voleva aprire la miniera nelle Caverne.#
+2782 Il %s
+ Gli Arcimaghi non permisero a Herx di scavare la'.#
+2783 Il %s
+ Herx offri' molti fondi alla Gilda dei Maghi.#
+2784 Il %s
+ Credo che Herx si aspettasse favori dagli Arcimaghi.#
+2785 Il %s
+ Alla fine Herx rinuncio' all'aiuto della Gilda.#
+2786 Il %s
+ Le cose sono andate male, ma potevano andare peggio.#
+2787 Il %s
+ ...#
+
+2790 type:seq#
+2791 Il %s
+ Merlino ci parlo' della magia trovata da Herx.#
+2792 Il %s
+ Di Merlino non si seppe piu' nulla dopo che parti' per Herx.#
+2793 Il %s
+ Ho sentito voci su una nuova lettera di Merlino, mai vista.#
+2794 Il %s
+ Sai, Merlino non e' mai stato un membro ufficiale della Gilda dei Maghi.#
+2795 Il %s
+ C'e' chi ha solo bisogno d'indipendenza. Lo rispetto.#
+2796 Il %s
+ ...#
+
+2800 type:seq#
+2801 Il %s
+ Rinchiuso Herx, gli Arcimaghi andarono alle Caverne di Cristallo.#
+2802 Il %s
+ Immagino volessero vedere di cosa si trattava.#
+2803 Il %s
+ Senza gli Arcimaghi, Herx si sarebbe fatto un esercito qui.#
+2804 Il %s
+ Non saremmo mai riusciti a capire come rinchiudere Herx.#
+2805 Il %s
+ Credo che Erudyce e Orpheus sapessero che sigillarlo non bastava.#
+2806 Il %s
+ ...#
+
+2810 type:seq#
+2811 Il %s
+ Mostri potenti hanno iniziato a uscire dalle Caverne.#
+2812 Il %s
+ La Gilda sigillo' le Caverne per non far distruggere Hamlet.#
+2813 Il %s
+ Spero che gli Arcimaghi all'interno stiano bene.#
+2814 Il %s
+ Spero che quei mostri non c'entrino con le loro ricerche.#
+2815 Il %s
+ Orpheus e' determinato. Nulla lo ferma.#
+2816 Il %s
+ A Erudyce piace influenzare le cose da dietro le quinte.#
+2817 Il %s
+ ...#
+
+2820 type:seq#
+2821 Il %s
+ Ho percepito potere dalla sfera messa sul piedistallo.#
+2822 Il %s
+ Chissa' perche' Herx non uso' quel potere per fuggire.#
+2823 Il %s
+ Ho intrappolato parte del potere della sfera di Herx.#
+2824 Il %s
+ Questo portale buca il sigillo delle Caverne col potere della sfera.#
+2825 Il %s
+ Gli Arcimaghi Orpheus ed Erudyce rimetteranno tutto a posto.#
+2826 Il %s
+ Devono aver imparato qualcosa sul potere trovato da Herx.#
+2827 Il %s
+ ...#
+
+2830 type:seq#
+2831 %s
+ Non preoccuparti %s, so chi sei.#
+2832 %s
+ Volevo vederti prima che partissi.#
+2833 %s
+ Io? Sono uno stimato membro della Gilda dei Mercanti.#
+2834 %s
+ Sono interessato solo ai piu' rari
+ artefatti del regno.              
+ In particolare, le sfere magiche che furono rubate da Herx.#
+2835 %s
+ Se per caso ne avessi recuperato
+ qualcuno, sarei disposto a cedere uno dei miei beni piu' cari.#
+2836 %s
+ Vedi, un membro di alto rango
+ della gilda come me puo' estorcere
+ a quei maghi ogni centesimo
+ con le loro preziose sfere!#
+2837 %s
+ So che hai troppo cuore per fare lo stesso tu stesso.#
+2838 %s
+ Quindi sta a te.                
+ Lasciale a me, e non diremo piu'
+ nulla sul nostro piccolo incontro.#
+2839 %s
+ ...#
+
+2850 type:rand#
+2851 %s Risposta 1.#
+
+2860 type:rand#
+2861 %s Risposta 1.#
+
+# 2900 - 2949 More effects text:
+2900 Bleah, la pozione era maledetta!#
+2901 Ti senti pesante...#
+2902 Sei piu' lento...#
+2903 C'e' un retrogusto di veleno nella tua bocca.#
+2904 L'altare dona forza e potenza!#
+2905 La tua magia non ha effetto sul %s!#
+2906 La tua magia non ha effetto su %s!#
+2907 DEPRECATED#
+2908 I tuoi pensieri non risiedono piu' in solitudine mentre avvolgi la benda.#
+2909 L'altare dona mira e rapidita'!#
+2910 L'altare dona conoscenza arcana e resistenza!#
+2911 DEPRECATED#
+
+# 2912-2916 Autosort text:
+2912 DEPRECATED#
+2913 DEPRECATED#
+2914 DEPRECATED#
+2915 DEPRECATED#
+2916 DEPRECATED#
+
+# New server flags.
+2917 DEPRECATED#
+2918 DEPRECATED#
+2919 DEPRECATED#
+2920 DEPRECATED#
+2921 DEPRECATED#
+2922 DEPRECATED#
+2923 DEPRECATED#
+2924 DEPRECATED#
+
+# 2925 - 2957 New conducts.
+2925 DEPRECATED#
+2926 DEPRECATED#
+2927 DEPRECATED#
+2928 DEPRECATED#
+2929 DEPRECATED#
+2930 DEPRECATED#
+2931 DEPRECATED#
+2932 DEPRECATED#
+2933 DEPRECATED#
+2934 DEPRECATED#
+2935 DEPRECATED#
+2936 DEPRECATED#
+
+2958 DEPRECATED#
+2959 DEPRECATED#
+2960 DEPRECATED#
+2961 DEPRECATED#
+2962 DEPRECATED#
+2963 DEPRECATED#
+2964 DEPRECATED#
+2965 DEPRECATED#
+2966 DEPRECATED#
+2967 DEPRECATED#
+2968 DEPRECATED#
+2969 Gli dei di Sokoban premiano molto le tue abilita'!#
+2970 Gli dei di Sokoban sono un po' intrattenuti.#
+2971 Gli dei di Sokoban sono stati poco impressionati.#
+2972 L'armatura e' calda contro il tuo cuore.#
+2973 L'elmo riempie la tua mente di sussurri arcani.#
+2974 Vibrazioni pulsano dalla terra attraverso i tuoi piedi.#
+2975 Il potere del mantello scorre nel tuo corpo.#
+2976 Sei riempito di sfida ultraterrena.#
+2977 DEPRECATED#
+2978 DEPRECATED#
+2979 DEPRECATED#
+2980 DEPRECATED#
+2981 DEPRECATED#
+2982 DEPRECATED#
+2983 DEPRECATED#
+2984 DEPRECATED#
+2985 DEPRECATED#
+2986 DEPRECATED#
+2987 DEPRECATED#
+2988 DEPRECATED#
+2989 DEPRECATED#
+2990 DEPRECATED#
+2991 DEPRECATED#
+2992 DEPRECATED#
+2993 DEPRECATED#
+2994 DEPRECATED#
+2995 Modo Rissoso attiva, solo pugni e lancio di pozioni permessi!#
+2996 Modo Rissoso disattivata, tutte le armi permesse.#
+2997 Strumento disabilitato in modo Rissoso!#
+2998 Il salvataggio non e' idoneo per l'Obiettivo Rissoso. Riavvia per resettare.#
+2999 Magie disabilitate in modo Rissoso!#
+3000 DEPRECATED#
+3001 DEPRECATED#
+3002 DEPRECATED#
+3003 DEPRECATED#
+3004 DEPRECATED#
+3005 DEPRECATED#
+3006 DEPRECATED#
+3007 DEPRECATED#
+3008 DEPRECATED#
+3009 DEPRECATED#
+3010 precipitato a morte.#
+3011 DEPRECATED#
+3012 DEPRECATED#
+3013 DEPRECATED#
+3014 DEPRECATED#
+3015 DEPRECATED#
+3016 DEPRECATED#
+3017 DEPRECATED#
+3018 DEPRECATED#
+3019 DEPRECATED#
+3020 DEPRECATED#
+3021 DEPRECATED#
+3022 DEPRECATED#
+3023 DEPRECATED#
+3024 DEPRECATED#
+3025 DEPRECATED#
+3026 DEPRECATED#
+3027 DEPRECATED#
+3028 DEPRECATED#
+3029 DEPRECATED#
+3030 DEPRECATED#
+3031 DEPRECATED#
+3032 DEPRECATED#
+3033 DEPRECATED#
+3034 DEPRECATED#
+3035 Non c'e' terreno sotto i tuoi piedi per piazzarlo!#
+
+3036 DEPRECATED#
+3037 DEPRECATED#
+3038 DEPRECATED#
+3039 Muovi a...#
+3040 DEPRECATED#
+3041 DEPRECATED#
+3042 DEPRECATED#
+3043 DEPRECATED#
+3044 DEPRECATED#
+3045 DEPRECATED#
+3046 DEPRECATED#
+3047 DEPRECATED#
+3048 DEPRECATED#
+3049 DEPRECATED#
+3050 DEPRECATED#
+3051 DEPRECATED#
+3052 DEPRECATED#
+3053 DEPRECATED#
+3054 DEPRECATED#
+3055 DEPRECATED#
+3056 DEPRECATED#
+3057 DEPRECATED#
+3058 DEPRECATED#
+3059 DEPRECATED#
+3060 DEPRECATED#
+3061 DEPRECATED#
+3062 DEPRECATED#
+3063 Annulla#
+3064 DEPRECATED#
+3065 DEPRECATED#
+3066 DEPRECATED#
+3067 DEPRECATED#
+3068 DEPRECATED#
+
+# Follower responses.
+3069 Terro' la posizione qui, %s.#
+3070 Restero' qui.#
+3071 %s maledetto!#
+3072 Questo ti starebbe bene, %s!#
+3073 Provero' a trovare qualcosa di meglio.#
+3074 Non me ne faccio nulla.#
+3075 Questo ci voleva!#
+3076 Oof. Sono davvero pieno ora.#
+3077 Non ci arrivo.#
+3078 C'e' qualcosa in mezzo.#
+3079 Avanzo al punto!#
+3080 Copri la ritirata, %s!#
+3081 Forse servono riparazioni.#
+3082 Nulla e' insostituibile qui!#
+3083 Si sente davvero la brezza quaggiu'.#
+3084 Non posso tradire i miei alleati cosi'.#
+3085 Devi tenerti stretti i pochi amici che hai quaggiu'.#
+3086 Hmm.#
+3087 Mm.#
+3088 Quello era un po' ammuffito.#
+3089 Non potrei mangiarne ancora.#
+3090 Non ho fame ora.#
+3091 Bleah! Cibo marcio!#
+3092 Puoi usare il comando una volta per piano.#
+3093 Armeggia con #
+3094 Nessuna interazione.#
+# Follower responses end.
+
+# Misc
+3095 DEPRECATED#
+3096 La magia colpisce il %s!#
+3097 porta#
+3098 cancello#
+3099 cassa#
+3100 Una protezione arcana tiene ferma la serratura!#
+3101 Una protezione arcana tiene la porta ben fermo!#
+3102 Una protezione arcana tiene fermo il cancello!#
+
+# Follower responses cont'd.
+3103 DEPRECATED#
+3104 DEPRECATED#
+3105 Il %s aspetta paziente.#
+3106 %s aspetta paziente.#
+3107 arma e'#
+3108 elmo e'#
+3109 cappello e'#
+3110 corazza e'#
+3111 stivali sono#
+3112 scudo e'#
+3113 guanti sono#
+3114 mantello e'#
+3115 anello e'#
+3116 amuleto e'#
+3117 equipagg. e'#
+3118 %s maledetto!#
+3119 Del %s #
+3120 Di %s #
+3121 Il %s #
+3122 %s #
+3123 fissa il %s con disprezzo.#
+3124 mangia in fretta %s.#
+3125 cede la sua arma.#
+3126 cede parte del suo equipaggiamento.#
+3127 cede il suo equipaggiamento.#
+3128 %s decide di seguirti!#
+3129 Il %s grugnisce.#
+3130 %s grugnisce.#
+3131 Il %s non puo' raggiungerlo da qui.#
+3132 %s non puo' raggiungerlo da qui.#
+3133 C'e' qualcosa sulla strada del %s.#
+3134 C'e' qualcosa sulla strada di %s.#
+3135 Scusa %s, ma non lascero' i miei ricordi.#
+
+# Misc
+3136 DEPRECATED#
+3137 Il %s e' ammaliato al tuo servizio!#
+3138 %s e' ammaliato al tuo servizio!#
+3139 Il tuo fascino ammansisce il %s!#
+3140 Il tuo fascino ammansisce %s!#
+3141 Resisti agli effetti del fascino!#
+3142 Il tuo fascino non ha effetto sul %s!#
+3143 Il fascino non ha effetto su %s!#
+3144 Un fascino ti toglie la voglia di lottare!#
+3145 La melma avvolge e consuma il %s!#
+
+3146 DEPRECATED#
+3147 DEPRECATED#
+3148 DEPRECATED#
+3149 DEPRECATED#
+3150 DEPRECATED#
+3151 DEPRECATED#
+3152 DEPRECATED#
+3153 DEPRECATED#
+3154 DEPRECATED#
+3155 DEPRECATED#
+3156 DEPRECATED#
+3157 DEPRECATED#
+3158 DEPRECATED#
+3159 DEPRECATED#
+3160 DEPRECATED#
+3161 DEPRECATED#
+3162 DEPRECATED#
+3163 DEPRECATED#
+3164 DEPRECATED#
+3165 DEPRECATED#
+3166 DEPRECATED#
+3167 DEPRECATED#
+3168 DEPRECATED#
+3169 DEPRECATED#
+
+3175 DEPRECATED#
+3176 DEPRECATED#
+3177 DEPRECATED#
+3178 DEPRECATED#
+
+3179 Gli scheletri non richiedono cibo!#
+3180 Ma aspetta! Spendi il tuo mana in nuova vita!#
+3181 Non avevi abbastanza mana per rianimarti...#
+3182 Lotti per combattere la corrente come scheletro!#
+3183 La carne brucia di dolore al contatto con l'acqua!#
+3184 Le ossa bruciano di dolore al contatto con l'acqua!#
+3185 La polimorfia svanisce e ritorni alla tua forma normale.#
+3186 Ti trasformi in un %s!#
+3187 Il %s si trasforma in un %s!#
+3188 %s si trasforma in un %s!#
+3189 Ma non ti senti diverso...#
+3190 Bevi la pozione di polimorfia...#
+3191 La polimorfia non ha effetto!#
+3192 La polimorfia e' lavata via dall'acqua!#
+3193 La pelle si screpola: la polimorfia svanisce...#
+3194 L'anima del tuo %s ritorna a te.#
+3195 L'anima di %s ritorna a te.#
+3196 Rilascia
+   soul#
+3197 Il tuo %s evocato sale di rango!#
+3198 Ma aspetta! I tuoi alleati evocati ti infondono nuova vita!#
+
+3199 DEPRECATED#
+3200 DEPRECATED#
+
+3201 Bleah! Il corpo rigetta i solidi nel tuo stomaco!#
+3202 Che nottataccia per una maledizione...#
+3203 Bleah! E' disgustoso!#
+3204 Disarmato#
+3205 %s e' stordito dal tuo colpo!#
+3206 Il %s e' stordito dal tuo colpo!#
+3207 Sei stordito dal colpo di %s!#
+3208 Sei stordito dal colpo del %s!#
+3209 DEPRECATED#
+3210 La tua lama taglia a fondo %s!#
+3211 La tua lama taglia a fondo il %s!#
+3212 La lama di %s ti taglia a fondo!#
+3213 La lama del %s ti taglia a fondo!#
+3214 %s barcolla all'indietro!#
+3215 Il %s barcolla all'indietro!#
+3216 Sei respinto!#
+3217 Non puoi rimuovere: %s.
+ E' benedetto!#
+3218 Non puoi. E' benedetto!#
+3219 Non puoi vendere: %s.
+ E' benedetto!#
+3220 Divori la scatola di
+ %s.#
+3221 Ti svegli senza idea di dove ti trovi...
+ accompagnato da un mal di testa lancinante.#
+3222 Forse una bevuta alleviera' la tensione...#
+
+3223 evocatore#
+3224 maledetto#
+3225 ipnotista#
+3226 infusore#
+3227 meccanicista#
+3228 punitore#
+3229 sciamano#
+3230 cacciatore#
+
+3231 DEPRECATED#
+3232 DEPRECATED#
+3233 DEPRECATED#
+3234 DEPRECATED#
+3235 DEPRECATED#
+3236 DEPRECATED#
+3237 DEPRECATED#
+3238 DEPRECATED#
+
+3239 Numero abilita' errato!#
+3240 Il tuo Sapere e' troppo basso per identificare
+ "%s".#
+3241 Senti la maledizione sciogliersi con la magia...#
+3242 Il sapere del tomo ti da' potere sulla maledizione!#
+3243 Fuori dal mio negozio, %s %s!#
+3244 impara la politica "nessun %s permesso" del negozio di %s.#
+3245 %d pozioni cadute dalla fontana!#
+3246 Una pozione caduta dalla fontana!#
+3247 Inizi a sudare freddo...#
+3248 Le mani iniziano a tremare...#
+3249 Senti arrivare un mal di testa...#
+3250 La tua sbornia va meglio ora.#
+3251 %s diventa il tuo compagno di bevute!#
+3252 Il %s diventa il tuo compagno di bevute!#
+3253 La salute svanisce per la maledizione!#
+3254 va a farsi una nuotata in acqua.#
+
+# Skill tooltips
+3255 DEPRECATED#
+3256 DEPRECATED#
+3257 DEPRECATED#
+3258 DEPRECATED#
+3259 DEPRECATED#
+3260 DEPRECATED#
+3261 DEPRECATED#
+3262 DEPRECATED#
+3263 DEPRECATED#
+3264 DEPRECATED#
+3265 DEPRECATED#
+3266 DEPRECATED#
+3267 DEPRECATED#
+3268 DEPRECATED#
+3269 DEPRECATED#
+
+# Additional skill tooltip text
+3270 DEPRECATED#
+3271 DEPRECATED#
+3272 DEPRECATED#
+3273 DEPRECATED#
+3274 DEPRECATED#
+3275 DEPRECATED#
+3276 DEPRECATED#
+3277 DEPRECATED#
+3278 DEPRECATED#
+3279 DEPRECATED#
+3280 DEPRECATED#
+3281 DEPRECATED#
+3282 DEPRECATED#
+3283 DEPRECATED#
+3284 DEPRECATED#
+
+3285 La Brigata ZAP e' arrivata!
+ "Arriva il minotauro! Uccidiamo anche le altre bestie immonde!"#
+3286 #
+3287 Questo %s
+ non puo' essere riparato.#
+3288 Non hai oggetti riparabili!#
+3289 DEPRECATED#
+3290 DEPRECATED#
+3291 DEPRECATED#
+3292 DEPRECATED#
+3293 DEPRECATED#
+3294 DEPRECATED#
+3295 DEPRECATED#
+3296 DEPRECATED#
+3297 DEPRECATED#
+3298 DEPRECATED#
+3299 DEPRECATED#
+3300 DEPRECATED#
+3301 DEPRECATED#
+3302 DEPRECATED#
+3303 DEPRECATED#
+3304 DEPRECATED#
+3305 DEPRECATED#
+3306 DEPRECATED#
+3307 DEPRECATED#
+3308 DEPRECATED#
+3309 DEPRECATED#
+3310 DEPRECATED#
+3311 DEPRECATED#
+3312 DEPRECATED#
+3313 DEPRECATED#
+3314 DEPRECATED#
+3315 DEPRECATED#
+3316 DEPRECATED#
+3317 DEPRECATED#
+3318 DEPRECATED#
+3319 DEPRECATED#
+3320 DEPRECATED#
+3321 DEPRECATED#
+3322 DEPRECATED#
+3323 DEPRECATED#
+3324 DEPRECATED#
+3325 DEPRECATED#
+3326 DEPRECATED#
+3327 Non puoi ammaliarare altri mostri al tuo servizio!#
+3328 DEPRECATED#
+3329 DEPRECATED#
+3330 DEPRECATED#
+3331 DEPRECATED#
+3332 Combini il %s con un %s...#
+3333 Combini la pozione non identificata con un %s...#
+3334 Combini il %s con la pozione non identificata...#
+3335 Combini le 2 pozioni non identificate...#
+3336 La fiaschetta vuota sembra ideale per metterci liquidi.#
+3337 Non hai pozioni familiari da combinare!#
+3338 DEPRECATED#
+3339 Distilla#
+3340 Alchimia#
+3341 Ferma Distill.#
+3342 Non hai piu' pozioni da mescolare!#
+3343 DEPRECATED#
+3344 DEPRECATED#
+3345 DEPRECATED#
+3346 Impari l'ingrediente base
+ alchemico %s.#
+3347 DEPRECATED#
+3348 DEPRECATED#
+3349 Impari l'ingrediente sec.
+ alchemico %s.#
+3350 sbaglia la dose.#
+3351 Recuperi un %s.#
+3352 Distillato %s.#
+3353 Imbottigliato %s.#
+3354 Di colpo ti senti molto piu' forte!#
+3355 La tua forza ritorna normale.#
+3356 La mistura si dissolve in acqua...#
+
+3357 DEPRECATED#
+3358 Ti senti energizzato?#
+3359 DEPRECATED#
+3360 DEPRECATED#
+3361 DEPRECATED#
+3362 DEPRECATED#
+3363 DEPRECATED#
+3364 DEPRECATED#
+3365 DEPRECATED#
+3366 DEPRECATED#
+3367 DEPRECATED#
+3368 DEPRECATED#
+3369 DEPRECATED#
+3370 DEPRECATED#
+
+3371 DEPRECATED#
+3372 DEPRECATED#
+3373 DEPRECATED#
+3374 DEPRECATED#
+3375 DEPRECATED#
+
+3376 DEPRECATED#
+3377 DEPRECATED#
+3378 DEPRECATED#
+3379 DEPRECATED#
+3380 DEPRECATED#
+3381 DEPRECATED#
+3382 DEPRECATED#
+3383 DEPRECATED#
+
+3384 DEPRECATED#
+3385 DEPRECATED#
+3386 DEPRECATED#
+3387 DEPRECATED#
+3388 DEPRECATED#
+3389 DEPRECATED#
+3390 DEPRECATED#
+3391 DEPRECATED#
+3392 DEPRECATED#
+3393 DEPRECATED#
+3394 DEPRECATED#
+3395 DEPRECATED#
+3396 DEPRECATED#
+3397 DEPRECATED#
+3398 DEPRECATED#
+3399 DEPRECATED#
+
+3400 Spendere vitalita' ha indebolito la magia!#
+3401 Senti gli dei di Sokoban aiutare il tuo cammino...#
+3402 DEPRECATED#
+3403 DEPRECATED#
+3404 DEPRECATED#
+3405 DEPRECATED#
+3406 DEPRECATED#
+
+3407 DEPRECATED_SPELL_NAME#
+3408 DEPRECATED_SPELL_NAME#
+3409 DEPRECATED_SPELL_NAME#
+3410 DEPRECATED_SPELL_NAME#
+3411 DEPRECATED_SPELL_NAME#
+3412 DEPRECATED_SPELL_NAME#
+3413 DEPRECATED_SPELL_NAME#
+3414 DEPRECATED_SPELL_NAME#
+3415 DEPRECATED_SPELL_NAME#
+3416 DEPRECATED_SPELL_NAME#
+
+3417 La trasformazione svanisce e torni normale.#
+3418 DEPRECATED#
+3419 Ti trasformi in un %s!#
+3420 Ma non ti senti diverso...#
+3421 DEPRECATED_SPELL_NAME#
+3422 DEPRECATED_SPELL_NAME#
+3423 Senti mancanza di cibo qui intorno.#
+3424 Il naso formicola, e senti odore di cibo!#
+3425 Il naso si contrae, ma non ci sono nuovi odori.#
+3426 %s e' spruzzato di veleno!#
+3427 Il %s e' spruzzato di veleno!#
+3428 Sei spruzzato di veleno!#
+3429 %s e' preso nella tela!#
+3430 Il %s e' preso nella tela!#
+3431 Sei preso nella tela!#
+3432 Non puoi usarlo nella tua forma attuale!#
+3433 DEPRECATED#
+3434 Il %s trema di paura!#
+3435 %s trema di paura!#
+3436 Tremi di paura!#
+3437 Scateni un ruggito primordiale!#
+3438 ...senza risposta.#
+3439 Recuperi la tua compostezza.#
+3440 DEPRECATED_SPELL_NAME#
+3441 Il tuo potere magico elementale torna normale.#
+3442 Il tuo potere magico elementale aumenta!#
+3443 Non sostieni la magia (focus elementale).#
+3444 Non puoi imparare magie come goblin!#
+3445 Non puoi imparare magie nella tua forma attuale!#
+3446 Tutte le tue abilita' in mischia migliorano!#
+3447 DEPRECATED_SPELL_NAME#
+3448 DEPRECATED_SPELL_NAME#
+3449 DEPRECATED_SPELL_NAME#
+3450 La magia attira il %s vicino!#
+3451 La magia attira %s vicino!#
+3452 Non puoi teletrasportare il tuo alleato in quest'area.#
+3453 Non c'e' spazio per il bersaglio!#
+3454 La tua frusta colpisce l'arma del %s!#
+3455 La tua frusta colpisce l'arma di %s!#
+3456 La tua frusta colpisce lo scudo del %s!#
+3457 La tua frusta colpisce lo scudo di %s!#
+3458 DEPRECATED#
+3459 Il tuo %s va in cenere!#
+3460 Non puoi studiare un libro magico equipaggiato!#
+3461 Una forza magica ti sposta!#
+3462 Ti senti disorientato un istante...#
+3463 Il %s e' tracciato da un marchio arcano!#
+3464 %s ha un marchio arcano addosso!#
+3465 Sei tracciato da un marchio arcano!#
+3466 Il tuo marchio precedente sul %s e' svanito.#
+3467 Il marchio su %s e' svanito.#
+3468 Un demone interno appare a schernirti!#
+3469 Il %s e' beffato da un demone interno!#
+3470 %s e' beffato da un demone interno!#
+3471 Non c'e' spazio per un demone interno!#
+3472 Non riesci a costringere un demone fuori dal %s!#
+3473 Non riesci a costringere un demone fuori da %s!#
+3474 HT#
+3475 La pelle si screpola: la trasformazione svanisce...#
+3476 La tua rigenerazione salute ritorna normale.#
+3477 La tua rigenerazione mana ritorna normale.#
+3478 Il %s e' avvelenato dal tuo veleno!#
+3479 %s e' avvelenato dal tuo veleno!#
+3480 La tua leadership e' troppo bassa per reclutare altri seguaci!#
+3481 La tua leadership e' bassa per reclutare %s.#
+3482 Non puoi reclutare altri seguaci!#
+3483 La caldaia e' al massimo!#
+3484 La caldaia sta generando molto calore!#
+3485 La caldaia ti tiene caldo lentamente.#
+3486 La caldaia fatica a tenere il passo.#
+3487 Consuma#
+3488 Il tuo livello e' basso per quella magia.#
+3489 DEPRECATED_SPELL_NAME#
+3490 Le vene sono calde!#
+3491 Il flusso sanguigno torna normale.#
+3492 DEPRECATED#
+3493 DEPRECATED#
+3494 Senti una trappola scattare in lontananza.#
+3495 Senti una trappola scattare vicino!#
+3496 inciampa in una trappola e muore.#
+3497 Inciampi in una %s!#
+3498 Il %s inciampa nella tua %s!#
+3499 %s inciampa nella tua %s!#
+
+# new new items (3500-3599)
+3500 DEPRECATED_ITEM_NAME#
+3501 DEPRECATED_ITEM_NAME#
+3502 DEPRECATED_ITEM_NAME#
+3503 DEPRECATED_ITEM_NAME#
+3504 DEPRECATED_ITEM_NAME#
+3505 DEPRECATED_ITEM_NAME#
+3506 DEPRECATED_ITEM_NAME#
+3507 DEPRECATED_ITEM_NAME#
+3508 DEPRECATED_ITEM_NAME#
+3509 DEPRECATED_ITEM_NAME#
+3510 DEPRECATED_ITEM_NAME#
+3511 DEPRECATED_ITEM_NAME#
+3512 DEPRECATED_ITEM_NAME#
+3513 DEPRECATED_ITEM_NAME#
+3514 DEPRECATED_ITEM_NAME#
+3515 DEPRECATED_ITEM_NAME#
+3516 DEPRECATED_ITEM_NAME#
+3517 DEPRECATED_ITEM_NAME#
+3518 DEPRECATED_ITEM_NAME#
+3519 DEPRECATED_ITEM_NAME#
+3520 DEPRECATED_ITEM_NAME#
+3521 DEPRECATED_ITEM_NAME#
+3522 DEPRECATED_ITEM_NAME#
+3523 DEPRECATED_ITEM_NAME#
+3524 DEPRECATED_ITEM_NAME#
+3525 DEPRECATED_ITEM_NAME#
+3526 DEPRECATED_ITEM_NAME#
+3527 DEPRECATED_ITEM_NAME#
+3528 DEPRECATED_ITEM_NAME#
+3529 DEPRECATED_ITEM_NAME#
+3530 DEPRECATED_ITEM_NAME#
+3531 DEPRECATED_ITEM_NAME#
+3532 DEPRECATED_ITEM_NAME#
+3533 DEPRECATED_ITEM_NAME#
+3534 DEPRECATED_ITEM_NAME#
+3535 DEPRECATED_ITEM_NAME#
+3536 DEPRECATED_ITEM_NAME#
+3537 DEPRECATED_ITEM_NAME#
+3538 DEPRECATED_ITEM_NAME#
+3539 DEPRECATED_ITEM_NAME#
+3540 DEPRECATED_ITEM_NAME#
+3541 DEPRECATED_ITEM_NAME#
+3542 DEPRECATED_ITEM_NAME#
+3543 DEPRECATED_ITEM_NAME#
+3544 DEPRECATED_ITEM_NAME#
+3545 DEPRECATED_ITEM_NAME#
+3546 DEPRECATED_ITEM_NAME#
+3547 DEPRECATED_ITEM_NAME#
+3548 DEPRECATED_ITEM_NAME#
+3549 DEPRECATED_ITEM_NAME#
+3550 DEPRECATED_ITEM_NAME#
+3551 DEPRECATED_ITEM_NAME#
+3552 DEPRECATED_ITEM_NAME#
+3553 DEPRECATED_ITEM_NAME#
+3554 DEPRECATED_ITEM_NAME#
+3555 DEPRECATED_ITEM_NAME#
+3556 DEPRECATED_ITEM_NAME#
+3557 DEPRECATED_ITEM_NAME#
+3558 DEPRECATED_ITEM_NAME#
+3559 DEPRECATED_ITEM_NAME#
+3560 DEPRECATED_ITEM_NAME#
+3561 DEPRECATED_ITEM_NAME#
+3562 DEPRECATED_ITEM_NAME#
+3563 DEPRECATED_ITEM_NAME#
+3564 DEPRECATED_ITEM_NAME#
+3565 DEPRECATED_ITEM_NAME#
+3566 DEPRECATED_ITEM_NAME#
+3567 DEPRECATED_ITEM_NAME#
+3568 DEPRECATED_ITEM_NAME#
+3569 DEPRECATED_ITEM_NAME#
+3570 DEPRECATED_ITEM_NAME#
+3571 DEPRECATED_ITEM_NAME#
+3572 DEPRECATED_ITEM_NAME#
+3573 DEPRECATED_ITEM_NAME#
+3574 DEPRECATED_ITEM_NAME#
+3575 DEPRECATED_ITEM_NAME#
+3576 DEPRECATED_ITEM_NAME#
+3577 DEPRECATED_ITEM_NAME#
+3578 DEPRECATED_ITEM_NAME#
+3579 DEPRECATED_ITEM_NAME#
+3580 DEPRECATED_ITEM_NAME#
+3581 DEPRECATED_ITEM_NAME#
+3582 DEPRECATED_ITEM_NAME#
+3583 DEPRECATED_ITEM_NAME#
+3584 DEPRECATED_ITEM_NAME#
+3585 DEPRECATED_ITEM_NAME#
+3586 DEPRECATED_ITEM_NAME#
+3587 DEPRECATED_ITEM_NAME#
+3588 DEPRECATED_ITEM_NAME#
+3589 DEPRECATED_ITEM_NAME#
+
+3600 Disarmi il %s.#
+3601 Il %s e' spazzato via!#
+3602 %s e' spazzato via!#
+3603 La tua trappola non ha effetto sul %s!#
+3604 La trappola non ha effetto su %s!#
+3605 Allenti la molla di scatto.#
+3606 I passi attenti dei tuoi alleati non la faranno scattare.#
+3607 Stringi la molla di scatto finche' puoi.#
+3608 Ogni creatura puo' farla partire!#
+3609 Inizi a stringere la molla di scatto...#
+3610 La trappola inizia ad attirare energia magica!#
+3611 Sei spazzato via!#
+3612 Sei colpito da un %s che esplode!#
+3613 Il %s e' colpito da un %s esplosivo!#
+3614 %s e' colpito da %s esplosivo!#
+3615 La trappola non teletrasporta il %s!#
+3616 La trappola non teletrasporta %s!#
+3617 Il tuo %s distrugge il %s!#
+3618 Il %s colpisce il %s!#
+3619 DEPRECATED#
+3620 DEPRECATED#
+3621 DEPRECATED#
+3622 DEPRECATED#
+3623 DEPRECATED#
+3624 DEPRECATED#
+3625 DEPRECATED#
+3626 DEPRECATED#
+3627 DEPRECATED#
+3628 DEPRECATED#
+3629 DEPRECATED#
+3630 DEPRECATED#
+3631 ritorna a terra.#
+3632 DEPRECATED#
+3633 DEPRECATED#
+3634 oggetto#
+3635 DEPRECATED#
+3636 DEPRECATED#
+3637 Il girorobot non porta altri oggetti!#
+3638 La tua Leadership non e' abbastanza alta per usare il comando precedente sul %s.#
+3639 La tua Ingegneria non e' abbastanza alta per usare il comando precedente sul %s.#
+3640 Il comando precedente non vale sul %s.#
+3641 DEPRECATED#
+3642 DEPRECATED#
+3643 torna nella scatola.#
+3644 Crea#
+3645 Recupera#
+3646 Ripara#
+3647 DEPRECATED#
+3648 Non hai abbastanza materiali per creare un %s!#
+3649 DEPRECATED#
+3650 Guarda...#
+3651 Il girorobot ha recuperato alleati persi!#
+3652 La tua Ingegneria e' troppo bassa per creare un %s!#
+3653 un rotto #
+3654 un semplice #
+3655 un complesso #
+3656 un intricato #
+3657 un artigianale #
+3658 %d rotti #
+3659 %d semplici #
+3660 %d complessi #
+3661 %d intricati #
+3662 %d artigianali #
+3663 Auto recupero...#
+3664 Non puoi recuperare %s.#
+3665 Recuperati %d %s.#
+3666 Non hai altro da imparare dal recupero.#
+3667 Non hai altro da imparare creando il %s.#
+3668 Creato %s!#
+3669 Non puoi recuperare oggetti in uso!#
+3670 Armeggia#
+3671 Il tuo girorobot rileva passi curiosi verso il tuo raganella!#
+3672 DEPRECATED#
+3673 Il tuo %s va di qualita' migliore per usare questo comando.#
+3674 DEPRECATED#
+3675 DEPRECATED#
+3676 Il %s blocca il rotore.#
+3677 Il %s torna in pattuglia.#
+3678 Serve un %s di qualita' migliore per rilevare piu' oggetti.#
+3679 La tua Ingegneria e' troppo bassa da decifrare 
+altre scoperte del girorobot.#
+3680 La tua Ingegneria e' troppo bassa da decifrare 
+scoperte del girorobot.#
+3681 Non puoi riparare oggetti in uso!#
+3682 Ripari il %s.#
+3683 Potenzi il %s.#
+3684 Potenzia#
+3685 La tua Ingegneria e' troppo bassa per potenziare il %s!#
+3686 Non hai abbastanza materiali per riparare il %s!#
+3687 Non hai abbastanza materiali per potenziare il %s!#
+3688 La tua Ingegneria e' troppo bassa per riparare il %s!#
+3689 Non hai altro da imparare sbloccando il %s.#
+3690 DEPRECATED#
+3691 DEPRECATED#
+3692 DEPRECATED#
+3693 DEPRECATED#
+3694 DEPRECATED#
+3695 DEPRECATED#
+3696 La caldaia brucia costante.#
+3697 Ma non riesce a produrre piu' calore.#
+3698 Vedi il tuo riflesso.#
+3699 La caldaia si surriscalda!#
+3700 L'acqua fredda vaporizza la caldaia!#
+3701 L'acqua bollente ti rinfresca!#
+3702 Acqua fredda inonda la caldaia!#
+3703 La lava surriscalda la tua caldaia!#
+3704 Il carburante riscalda.#
+3705 Rottami utili per lavorare i metalli.#
+3706 Frammenti che danno scintilla a un'invenzione.#
+3707 Il rottame non riesce a generare altro calore.#
+3708 La caldaia e' a secco...#
+3709 Perdi calore rapidamente!#
+3710 Gli ingranaggi si bloccano!#
+3711 DEPRECATED_SPELL_NAME#
+3712 Recuperi %d oggetti!#
+3713 La tua magia fallisce a recuperare oggetti vicini.#
+3714 I tuoi sistemi cedono...#
+3715 La magia non ha effetto!#
+3716 DEPRECATED#
+3717 DEPRECATED#
+3718 Incidi#
+3719 Ripara#
+3720 Scegli una pergamena vuota da incidere#
+3721 DEPRECATED#
+3722 DEPRECATED#
+3723 Pulisci Slot#
+3724 Inciso %s!#
+3725 Ricalchi parte del testo sbiadito...#
+3726 Scegli il libro da riparare:#
+3727 Il tuo %s e' esaurito!#
+3728 Il tuo %s si esaurisce prima 
+di finire l'incisione!#
+3729 Il tuo %s svanisce.#
+3730 Il tuo %s si carica!#
+3731 DEPRECATED#
+3732 DEPRECATED#
+3733 Il tuo colpo scivola via dal %s!#
+3734 Il colpo scivola via da %s!#
+3735 I demoni del %s sono gia' stati esorcizzati!#
+3736 I demoni di %s sono gia' stati esorcizzati!#
+3737 Il tuo contegno migliora!#
+3738 un %+2d #
+3739 La freccia da' fuoco al %s!#
+3740 La freccia da' fuoco a %s!#
+3741 Una freccia infuocata ti incendia!#
+3742 Sei respinto da una freccia volante!#
+3743 La freccia d'argento punisce il %s!#
+3744 La freccia argentea punisce %s!#
+3745 Sei punito da una freccia d'argento!#
+3746 Il tuo %s ritorna!#
+3747 Il %s e' sedato dalla freccia!#
+3748 %s e' sedato dalla freccia!#
+3749 Sei sedato da una freccia da caccia!#
+3750 La freccia da caccia si conficca nel %s!#
+3751 La freccia da caccia si conficca in %s!#
+3752 Una freccia da caccia ti trafigge la carne!#
+3753 Il sangue versato ti carica!#
+3754 Dyrnwyn punisce il %s!#
+3755 Dyrnwyn punisce %s!#
+3756 Dyrnwyn incendia il %s!#
+3757 Dyrnwyn incendia %s!#
+3758 Parashu colpisce criticamente il %s!#
+3759 Parashu colpisce criticamente %s!#
+3760 Gungnir buca l'armatura del %s!#
+3761 Gungnir buca l'armatura di %s!#
+3762 Una faretra appare di colpo davanti a te!#
+3763 un #
+3764 DEPRECATED_SPELL_NAME#
+3765 DEPRECATED_SPELL_NAME#
+3766 DEPRECATED#
+3767 Le tue ali ti sollevano dal suolo!#
+3768 DEPRECATED#
+3769 La tua raganella va ricaricata!#
+3770 Il tuo raganella si rompe!#
+
+3771 DEPRECATED#
+3772 DEPRECATED#
+3773 DEPRECATED#
+3774 DEPRECATED#
+3775 DEPRECATED#
+
+3776 DEPRECATED#
+3777 DEPRECATED#
+3778 DEPRECATED#
+3779 DEPRECATED#
+3780 DEPRECATED#
+3781 DEPRECATED#
+
+3782 DEPRECATED#
+3783 DEPRECATED#
+3784 DEPRECATED#
+3785 DEPRECATED#
+3786 DEPRECATED#
+3787 DEPRECATED#
+
+3788 DEPRECATED#
+
+3789 DEPRECATED#
+
+3790 DEPRECATED#
+
+3791 DEPRECATED#
+
+3792 DEPRECATED#
+3793 DEPRECATED#
+3794 DEPRECATED#
+3795 DEPRECATED#
+3796 DEPRECATED#
+3797 DEPRECATED#
+
+3798 DEPRECATED#
+3799 DEPRECATED#
+3800 DEPRECATED#
+3802 DEPRECATED#
+3803 DEPRECATED#
+3804 DEPRECATED#
+3806 DEPRECATED#
+3807 DEPRECATED#
+3809 DEPRECATED#
+3810 DEPRECATED#
+3811 DEPRECATED#
+
+3812 DEPRECATED#
+3813 DEPRECATED#
+3814 DEPRECATED#
+
+3815 DEPRECATED#
+3816 DEPRECATED#
+3817 DEPRECATED#
+3818 DEPRECATED#
+3819 DEPRECATED#
+3820 DEPRECATED#
+3821 DEPRECATED#
+3822 DEPRECATED#
+3823 DEPRECATED#
+3824 DEPRECATED#
+3825 DEPRECATED#
+3826 DEPRECATED#
+3827 Incubo#
+3828 DEPRECATED#
+3829 DEPRECATED#
+3830 DEPRECATED#
+3831 DEPRECATED#
+3832 DEPRECATED#
+3833 DEPRECATED#
+
+# new spell tooltips
+3834 DEPRECATED#
+3835 DEPRECATED#
+3836 DEPRECATED#
+3837 DEPRECATED#
+3838 DEPRECATED#
+3839 DEPRECATED#
+3840 DEPRECATED#
+3841 DEPRECATED#
+3842 DEPRECATED#
+3843 DEPRECATED#
+3844 DEPRECATED#
+3845 DEPRECATED#
+3846 DEPRECATED#
+3847 DEPRECATED#
+3848 DEPRECATED#
+3849 DEPRECATED#
+3850 DEPRECATED#
+3851 DEPRECATED#
+3852 DEPRECATED#
+3853 DEPRECATED#
+3854 DEPRECATED#
+3855 DEPRECATED#
+3856 DEPRECATED#
+3857 DEPRECATED#
+3858 DEPRECATED#
+3859 DEPRECATED#
+3860 DEPRECATED#
+3861 DEPRECATED#
+
+3862 etichettato #
+3863 Non puoi leggere il libro magico da cieco!#
+3864 si termina da solo.#
+3865 Il girorobot allenta la molla di scatto.#
+3866 Il girorobot stringe la molla di scatto al massimo.#
+3867 Il girorobot inizia a stringere la molla di scatto...#
+3868 Il girorobot non ha nulla da lasciare.#
+3869 Riesci a prenderti prima di cadere!#
+
+3870 Questa trappola e' gia' stata disarmata.#
+3871 Il grimaldello non disarma la trappola!#
+3872 Disabiliti con successo la trappola!#
+3873 Questa trappola e' gia' stata svuotata!#
+3874 Non puoi mangiarlo mentre lo brandisci!#
+3875 Torta sul %s!
+ *SPLAT*#
+3876 Torta su %s!
+ *SPLAT*#
+3877 Ti colpisce una torta!
+ *SPLAT*#
+3878 Il %s e' accecato!#
+3879 %s e' accecato!#
+3880 Il tuo alleato %s e' gia' ben riposato.#
+3881 L'alleato %s si sveglia riposato.#
+3882 Senti passi attratti verso il tuo raganella!#
+3883 Non puoi schierare altre macchine con la tua abilita' attuale!#
+3884 Non puoi schierare altre macchine ingegneristiche.#
+3885 DEPRECATED_SPELL_NAME#
+3886 DEPRECATED#
+3887 Non sei abbastanza abile per svuotare la trappola.#
+3888 Oh! Devo fare visita all'orefice con questo gioiello! Anche se non sono sicuro che il verde sia il mio colore.#
+3889 Hmm. Dicono che questi siano stati creati da secoli di conoscenza. Ci crederesti che gran parte dei maghi perde la testa?#
+3890 Aha! Un magnifico esemplare cremisi... seppur un po' umido. Hai fatto jogging con questo?#
+3891 %s non ne ha bisogno.#
+3892 Il %s non ne ha bisogno.#
+3893 Hm. Hai fatto bene a
+trattare con me.#
+3894 Roba locale per il mio
+nuovo cliente.#
+3895 Confido che apprezzerai
+la mia merce fine.#
+3896 #
+3897 Noti uno scomparto segreto all'interno della cassa!#
+3898 non schiva il masso infuocato in arrivo.#
+3899 non riesce a schivare il masso arcano in arrivo.#
+3900 Non puoi piazzarlo li'!#
+
+# More keybinds
+3901 DEPRECATED#
+3902 DEPRECATED#
+3903 DEPRECATED#
+3904 DEPRECATED#
+3905 DEPRECATED#
+3906 DEPRECATED#
+3907 DEPRECATED#
+3908 DEPRECATED#
+3909 DEPRECATED#
+
+3910 Togliti l'indumento prima
+di trattare!#
+3911 Rinfodera l'arma prima
+di trattare!#
+3912 Metti via l'attrezzo prima
+di trattare!#
+3913 Posa la pozione prima
+di trattare!#
+3914 Togli i gioielli prima
+di trattare!#
+3915 Posa la tua pergamena
+prima di trattare!#
+3916 Posa il pranzo prima
+di trattare!#
+3917 DEPRECATED#
+3918 DEPRECATED#
+3919 DEPRECATED#
+3920 DEPRECATED#
+3921 Modo Ranger attiva, solo armi non da mischia permesse per attaccare!#
+3922 Modo Ranger disattivata, tutte le armi permesse.#
+3923 Questa arma e' disabilitata in modo Ranger!#
+3924 Il salvataggio non e' idoneo per l'Obiettivo Ranger. Riavvia per resettare.#
+3925 Modo Ranger disabilitata per client %d.#
+3926 Modo Ranger abilitata per client %d.#
+
+3927 Sblocca l'obiettivo "Barone Osseo": usi la classe con ogni razza!#
+3928 Sblocca l'obiettivo "Barone Denti-di-fuoco": usi la classe con ogni razza!#
+3929 Sblocca l'obiettivo "Barone Bomba" per sbloccare questa classe per ogni razza!#
+3930 Sblocca l'obiettivo "Barone Belante" per sbloccare questa classe per ogni razza!#
+3931 Sblocca l'obiettivo "Barone Corazzato" per sbloccare questa classe per ogni razza!#
+3932 Sblocca l'obiettivo "Barone Cattivo": usi la classe con ogni razza!#
+3933 Sblocca l'obiettivo "Barone Palude": usi la classe con ogni razza!#
+3934 Sblocca l'obiettivo "Barone Insetto": usi la classe con ogni razza!#
+3935 DEPRECATED#
+3936 DEPRECATED#
+3937 DEPRECATED#
+3938 DEPRECATED#
+3939 DEPRECATED#
+3940 DEPRECATED#
+3941 DEPRECATED#
+3942 DEPRECATED#
+3943 DEPRECATED#
+3944 DEPRECATED#
+3945 DEPRECATED#
+3946 DEPRECATED#
+3947 DEPRECATED#
+3948 DEPRECATED#
+3950 DEPRECATED#
+3951 DEPRECATED#
+3952 DEPRECATED#
+3953 DEPRECATED#
+3954 DEPRECATED#
+3955 DEPRECATED#
+3956 DEPRECATED#
+3957 DEPRECATED#
+3958 DEPRECATED#
+3959 DEPRECATED#
+3960 DEPRECATED#
+3961 DEPRECATED#
+3962 DEPRECATED#
+3963 DEPRECATED#
+3964 DEPRECATED#
+3965 DEPRECATED#
+3966 DEPRECATED#
+3967 DEPRECATED#
+3968 DEPRECATED#
+3969 DEPRECATED#
+3970 DEPRECATED#
+3971 DEPRECATED#
+3972 DEPRECATED#
+3973 DEPRECATED#
+3974 Il masso non si sposta in quel verso.#
+3975 DEPRECATED#
+3976 DEPRECATED#
+3977 DEPRECATED#
+3978 DEPRECATED#
+3979 DEPRECATED#
+3980 DEPRECATED#
+3981 DEPRECATED#
+3982 DEPRECATED#
+3983 DEPRECATED#
+3984 DEPRECATED#
+3985 DEPRECATED#
+3986 DEPRECATED#
+3987 DEPRECATED#
+3988 DEPRECATED#
+3989 DEPRECATED#
+3990 DEPRECATED#
+3991 DEPRECATED#
+3992 DEPRECATED#
+3993 DEPRECATED#
+3994 DEPRECATED#
+3995 Non hai oggetti da purificare!#
+3996 Non hai oggetti da identificare!#
+3997 Non hai spazio nello zaino per togliere un
+ %s!#
+# World UI Tooltips
+3998 (Tieni) #
+3999 Recupera oggetto#
+4000 Raccogli oggetto#
+4001 Prendi oro#
+4002 Bevi dalla fontana#
+4003 Bevi al lavandino#
+4004 Chiudi cassa#
+4005 Apri cassa#
+4006 Recupera torcia#
+4007 Prendi torcia#
+4008 Recupera pezzo#
+4009 Prendi pezzo#
+4010 Ispeziona lapide#
+4011 seguace#
+4012 Comanda #
+4013 Commercia con #
+4014 Interagisci con #
+4015 Chiudi porta#
+4016 Apri porta#
+4017 Vedi cancello#
+4018 Spegni leva#
+4019 Attiva leva#
+4020 Ruota cristallo#
+4021 Spingi masso#
+4022 Prendi sfera#
+4023 Ispeziona#
+4024 Togli torcia#
+4025 Leggi cartello#
+4026 Disarma tagliola#
+4027 Ispeziona botola#
+4028 Esci liv. segreto#
+4029 Entra liv. segreto#
+4030 Esci dal piano#
+4031 Esci da Hamlet#
+4032 Attraversa portale#
+4033 Entra prova#
+4034 Esci prova#
+4035 Entra nel portale#
+4036 Entra in botola#
+4037 Scendi scala#
+4038 Sali scala#
+4039 Disarma #
+4040 Interagisci#
+# Follower interact text
+4041 Interagisci con...#
+4042 Attacca...#
+4043 Attacca #
+4044 leva#
+4045 trappola#
+4046 oggetto#
+4047 Nessuna interazione#
+4048 Non ti senti te stesso.#
+4049 Lancio rapido#
+4050 Afferra#
+4051 Livello %d#
+4052 Piano %d#
+4053 Chiudi#
+4054 Pagina Succ.#
+4055 Pagina Prec.#
+4056 BONUS LEGGENDA#
+4057 Nessuno#
+4058 Tutti#
+4059 %d Metallo#
+4060 %d Magia#
+4061 Grado#
+4062 Scorri su/giu'#
+4063 Scorri#
+4064 Istantaneo#
+4065 Tutti#
+# Skillsheet - Casting MP Regen for insectoid
+4066 N/A
+(Insetto)#
+# Skillsheet - Casting MP Regen for automaton
+4067 N/A
+(Automa)#
+4068 Camuffato#
+4069 APRI MAPPA#
+4070 APRI LOG#
+4071 MAPPA#
+4072 LOG#
+4073 Vedi un cartello.#
+4074 Lista Abilita'#
+# Action Prompts
+4075 Attacca#
+4076 Difendi#
+4077 Furtivo#
+4078 Lancia#
+4079 Lancia
+Libro#
+4080 Scassina#
+4081 Armeggia#
+4082 Lancia#
+4083 Spara#
+4084 Scava#
+4085 Non puoi lasciare oro qui.#
+4086 Vedi dettagli#
+4087 Nascondi dettagli#
+4088 Hai trovato %d pezzi d'oro nella cassa!#
+4089 Le chele del granchio sono velenose!#
+4090 viene fatto a pezzi dal granchio.#
+
+# Nav Prompts
+4091 Prendi Tutto#
+4092 Muovi Cursore#
+4093 Vedi Magie#
+4094 Vedi Oggetti#
+4095 Vedi Abilita'#
+4096 Prendi#
+4097 Deposita Tutto#
+4098 Non c'e' spazio nella cassa per un
+ %s!#
+4099 Presi %d oggetti dalla cassa.#
+4100 Non hai spazio nello zaino!#
+4101 Riaccendi un altro %s.#
+4102 Valuta oggetto#
+4103 Vedi dettagli#
+4104 Nascondi dettagli#
+4105 Apri Mappa#
+4106 Apri Log#
+4107 Attiva#
+4108 Lascia Oro#
+4109 Fissa Timer su HUD#
+4110 Rimuovi Timer da HUD#
+4111 Tooltip (Tieni)#
+4112 Info Livello (Tieni)#
+4113 Compra#
+4114 Vendi#
+4115 Magie#
+4116 Oggetti#
+4117 Abilita'#
+4118 Stato#
+
+# new shop GUI
+
+4119 Tuo oro:#
+4120 Ricompra#
+4121 Fine Scambio#
+4122 Ricarico Neg.:#
+4123 Penalita' Riven.:#
+4124 Merce Negozio#
+4125 I magazzini sono troppo
+pieni per altro oro!#
+4126 Dammi la sfera direttamente.
+Non serve tirare in ballo
+formalita' d'oro, ora!#
+4127 di %s#
+4128 Beni Rari#
+4129 di ???#
+
+# new tinkering
+4130 Costo:#
+4131 Rottami:#
+4132 Va prima tolto di dosso#
+4133 Guadagno Recup:#
+4134 Costo Riparazione:#
+4135 Costo Potenz.:#
+4136 Questo e' gia' del tutto riparato#
+4137 Nulla di utile da recuperare#
+4138 Impossibile da riparare#
+4139 E' gia' al massimo potenziamento#
+4140 Mancano materiali per creare#
+4141 Mancano materiali per riparare#
+4142 Mancano materiali per potenziare#
+4143 Irreparabile, da smontare#
+4144 Abilita' bassa: riparare (%d/%d)#
+4145 Abilita' bassa: potenziare (%d/%d)#
+4146 Impossibile recuperarlo mentre lo usi!#
+4147 Abilita' bassa: creare (%d/%d)#
+4148 Troppo integro da smontare#
+4149 Selez. oggetto da creare:#
+4150 Selez. oggetto da recuperare:#
+4151 Selez. oggetto da riparare: #
+4152 Il tuo Kit di Ingegneria va riparato#
+4153 Questo deve essere identificato prima#
+4154 Recupera Tutto#
+4155 [Uso ignoto]#
+4156 [Pozione Base]#
+4157 [Pozione Secondaria]#
+4158 [Nessun uso]#
+4159 Non vedi cosa stai facendo!#
+4160 [Da identificare]#
+4161 Pozione ignota#
+4162 [Nuovo mix]#
+4163 Prob. Duplicazione:#
+4164 [Esito casuale]#
+4165 [Togli per usare]#
+4166 [Copia pozione sinistra]#
+4167 Attenzione!!
+Mix instabile!#
+4168 [Ingredienti mancanti]#
+4169 Descegli Ricetta#
+4170 RICETTE#
+4171 RICETTE#
+4172 Seleziona#
+4173 Rimuovi#
+4174 Prepara#
+4175 Pulisci#
+4176 Distilla#
+4177 Decanta#
+4178 Distilla#
+4179 Nuova Ricetta!#
+4180 Uso Scoperto!#
+4181 OTTENUTO: %d/24#
+4182 Hai scoperto una ricetta alchemica
+ per un %s.#
+
+# scribing
+4183 Costo Carica:#
+4184 Scrivi#
+4185 Incidi la pergamena#
+4186 Carica rimanente insufficiente#
+4187 Scegli un'iscrizione#
+4188 Scrivi (puo' rompere la piuma)#
+4189 Scrivi (Distrugge piuma)#
+4190 Pergamena vuota mancante da incidere#
+4191 Pergamena Creata: "%s"#
+4192 Carica Piuma:#
+4193 Ordina:#
+4194 Standard#
+4195 Scoperto#
+4196 Ignoto#
+
+4197 Hai messo %d %s nella cassa.#
+4198 %3.0f%% Valutando...#
+
+4199 Progetti#
+4200 Comanda %s di...#
+4201 (Tutti) #
+4202 Ripara#
+4203 Seleziona#
+4204 Purifica#
+4205 Scegli cosa smaledire:#
+4206 Carica#
+4207 Scegli cosa ricaricare:#
+4208 Identifica#
+4209 Scegli cosa identificare:#
+4210 Effetto inutile#
+4211 Questo e' gia' del tutto carico#
+4212 Questo e' gia' identificato#
+4213 Questo e' gia' purificato#
+4214 copia di#
+4215 etichettato#
+4216 %s:#
+
+# NPC insults
+
+4217 dannato#
+4218 terribile#
+4219 plebeo#
+4220 lurido#
+4221 ignobile#
+4222 malvagio#
+4223 puzzolente#
+4224 orribile#
+4225 bestiale#
+4226 sporco#
+4227 mostruoso#
+4228 malefico#
+4229 feroce#
+4230 vile#
+4231 scellerato#
+4232 illegale#
+4233 nefasto#
+
+4234 Dannato#
+4235 Terribile#
+4236 Plebeo#
+4237 Lurido#
+4238 Ignobile#
+4239 Malvagio#
+4240 Puzzolente#
+4241 Orribile#
+4242 Bestiale#
+4243 Sporco#
+4244 Mostruoso#
+4245 Malefico#
+4246 Feroce#
+4247 Vile#
+4248 Scellerato#
+4249 Illegale#
+4250 Nefasto#
+
+4251 Richiede %d Commercio + stat CAR#
+
+# shop try to buy hidden item
+4252 Scusa, non lo vendo al primo
+che capita.#
+4253 E' riservato a un altro
+compratore, le mie scuse.#
+4254 Solo per la clientela
+piu' stimata.#
+
+# shop buy added consumables
+4255 La mia scorta personale,
+solo per te.#
+4256 Non lo vendo a chiunque,
+sai.#
+4257 Un piccolo qualcosa dalla
+mia scorta limitata.#
+4258 Vedo che ti piace il mio
+magazzino speciale.#
+4259 Lo tengo per i miei
+clienti preferiti.#
+
+4260 %d oro#
+4261 ???#
+
+# NPC greetings
+
+4262 Mai piu'.#
+4263 Ciao, %s.#
+4264 Pio!#
+4265 Sankoxa.#
+4266 *slip slop*#
+4267 *grugnito*#
+4268 *gorgoglio*#
+4269 *gorgoglio*#
+4270 *lamento*#
+4271 *sferraglia*#
+4272 *zampetta*#
+4273 Hehehe...#
+4274 *gorgoglio*#
+4275 Jib jab chip jub.#
+4276 *ringhio*#
+4277 Vuoi ballare?#
+4278 *cigolio*#
+4279 Saluti, mortale.#
+4280 Hai chiamato?#
+4281 Benvenuto all'inferno, verme.#
+4282 C'e' qualcosa che vuoi comprare?#
+4283 Kleeaku.#
+4284 *cip*#
+4285 *rombo*#
+4286 Vuoi giocare?#
+4287 Bleah!#
+4288 ...#
+4289 *stridio*#
+4290 *bzzz*#
+4291 Be-e-e-e-e.#
+4292 *ciuf ciuf*#
+4293 Ciao, verme.#
+4294 Ciao, cretino.#
+4295 *ronzio*#
+4296 *sibilio*#
+4297 *dlin*#
+4298 *boing*#
+
+4299 Tocca altare#
+4300 Il tuo tocco cade su pietra inerte.#
+4301 Altare risponde al tocco!#
+4302 Metamorfosi svanisce, torni anormale.#
+4303 Polimorfia svanisce.#
+4304 Non sei piu' nemico Gilda Mercanti.#
+4305 Ora sei nemico Gilda Mercanti
+per incitamento a violenza!#
+4306 Ora sei nemico Gilda Mercanti
+per complicita' violenza!#
+4307 Vedi altare.#
+4308 Vedi statua.#
+4309 altare#
+4310 scala#
+4311 portale#
+4312 Pozione nessun effetto.#
+4313 Alleati purificati!#
+4314 Salta inizio/fine#
+4315 Pag. Su/Giu'#
+4316 Scorri Su/Giu'#
+4317 Il tuo %s non trova atterraggio.#
+4318 Lancio Libro#
+4319 Imposs. valutare#
+4320 Pozione nessun effetto su %s!#
+4321 Pozione nessun effetto su %s!#
+4322 Incant. rimbalza su %s!#
+4323 Incant. rimbalza su %s!#
+4324 Stai bruciando!#
+4325 Hai riflesso una magia!#
+4326 Pros. interazione...#
+4327 %s Aumentato!#
+4328 Incant. Appreso!#
+4329 Contiene %d ogg. di %s.#
+4330 Contiene %d ogg. senza prop.#
+4331 Contiene %d tuoi ogg.#
+4332 Rompi la scatola!#
+4333 Filtro Aracnofobia attivato per lobby.#
+4334 Filtro Aracnofobia disattivato per lobby.#
+4335 oggetto#
+4336 muro#
+4337 Distruggi %s!#
+4338 tela#
+4339 fogliame#
+4340 ragnatela#
+4341 barricata#
+4342 Assist. Daltonismo attivato per lobby.#
+4343 Assist. Daltonismo disattivato per lobby.#
+4344 %s si frantuma in mano!#
+4345 Effetti Stato#
+4346 Nessun effetto#
+4347 Chiama#
+4348 Chiama...#
+4349 trap. masso#
+4350 trap. spine#
+4351 trap. frecce#
+4352 trap. magia#
+4353 oro#
+4354 lavandino#
+4355 fontana#
+4356 cristallo#
+4357 tomba#
+4358 masso#
+4359 entrata segr.#
+4360 uscita segr.#
+4361 uscita liv.#
+4362 trappola#
+4363 cartello#
+4364 piedistallo#
+4365 falo'#
+4366 oggetto#
+
+# New main menu strings (5000)
+
+5000 Ind.#
+5001 Vuoi vedere questo
+DLC su eShop Nintendo?#
+5002 Vuoi vedere questo
+DLC su store online?#
+5003 Si'#
+5004 No#
+5005 Ins. Chiave DLC...#
+5006 Ins. Seriale DLC#
+5007 Conf.#
+5008 Annulla#
+5009 Ok#
+5010 Verifica#
+5011 Verifica.#
+5012 Verifica..#
+5013 Verifica...#
+5014 Verifica....#
+5015 DLC Miti e Emarginati
+sbloccato!#
+5016 DLC Leggende e Paria
+sbloccato!#
+5017 Chiave non valida#
+5020 Connetto
+.#
+5021 Connetto
+..#
+5022 Connetto
+...#
+5023 Connetto
+....#
+5024 Connetto
+.....#
+5025 Attesa host...#
+5026 Salta storia#
+5027 Conf. (1)#
+5028 Conf. (2)#
+5029 Vuoi scartare
+le modifiche?#
+5030 Si',
+Scarta#
+
+5031 COMPORTAMENTO INV. AUTOMATICO#
+5032 Ordine Auto#
+
+5033 Reset
+Default#
+5034 Scarta
+& Esci#
+5035 Conf.
+& Esci#
+
+5036 Schermo %d#
+5037 Finestra#
+5038 Bordi#
+5039 Senza Bordi#
+5040 Schermo Intero#
+5041 Eliminato legame "%s".#
+5042 Off          On#
+5043 Personalizza#
+
+5044 MINIMAPPA#
+5045 Scala#
+5046 Scala mappa#
+5047 Scala mappa piu' grande o piccola.#
+5048 Scala icone#
+5049 Scala dim. icone su mappa (giocatori, alleati)#
+5050 Trasparenza#
+5051 Opacita' primo piano#
+5052 Imposta opacita' primo piano minimappa.#
+5053 Opacita' sfondo#
+5054 Imposta opacita' sfondo minimappa.#
+
+5055 MESSAGGI#
+5056 Categorie#
+5057 Messaggi lotta#
+5058 Abilita resoconto danni ricevuti o inflitti.#
+5059 Messaggi stato#
+5060 Abilita resoconto cambi di stato ed effetti passivi.#
+5061 Messaggi inventario#
+5062 Abilita messaggi di inventario e valutazione oggetti.#
+5063 Messaggi equipagg.#
+5064 Abilita resoconto cambiamenti equipaggiamento.#
+5065 Messaggi mondo#
+5066 Abilita resoconto messaggi diegetici, come dialoghi e testo.#
+5067 Chat giocatori#
+5068 Abilita chat multiplayer.#
+5069 Messaggi progressione#
+5070 Abilita messaggi progressione personaggio (es. aumenti livello).#
+5071 Messaggi interazione#
+5072 Abilita resoconto interazioni con il mondo.#
+5073 Messaggi ispezione#
+5074 Abilita ispezioni oggetti del mondo.#
+5075 Suggerimenti#
+5076 Abilita suggerimenti criptici per certi oggetti, eventi, ecc.#
+5077 Messaggi morte#
+5078 Abilita messaggi di morte per i giocatori.#
+
+5079 Tast+Mouse#
+5080 Gamepad#
+5081 Joystick#
+
+5082 ASSEGNAZIONI#
+5083 Assegnazioni#
+5084 Assegna un tasto a %s,
+o premi X per cancellare#
+5085 Assegna un tasto a %s,
+o premi Y per cancellare#
+5086 Assegna un input a %s#
+5087 Assegnando "%s".
+Il prossimo tasto premuto verra' assegnato all'azione.#
+5088 Assegnando "%s". Premi ESC per annullare o CANC per eliminare.
+Il prossimo input attivato sara' assegnato a questa azione.#
+5089 Riassegn. "%s" annullata#
+5090 Assegn. "%s" eliminata.#
+5091 Riassegn. "%s"#
+
+# Crosshair types
+
+5092 Punto#
+5093 Punto (Grande)#
+5094 Piu' (Piccolo)#
+5095 Piu' (Medio)#
+5096 Piu' (Grande)#
+5097 Croce#
+5098 Caret#
+5099 Cerchio#
+5100 Punti (3x)#
+5101 Punti (4x)#
+5102 :)#
+5103 @#
+
+# More new menu stuff
+
+5104 Opzioni Generali#
+5105 Riavvio Istantaneo su Gameover#
+5106 Riavvia il gioco rapidamente dopo la morte.#
+
+5107 Opzioni Inventario#
+5108 Oggetti nella Barra#
+5109 Riempi automaticamente la barra con oggetti raccolti.#
+5110 Ordina Inventario#
+5111 Modifica l'ordinamento automatico oggetti nell'inventario.#
+5112 Usa al Rilascio#
+5113 Attiva oggetto al rilascio del tasto Usa nell'inventario.#
+
+5114 Opzioni HUD#
+5115 Scala HUD#
+5116 Scala l'UI. (Valori consigliati: 50%, 75%, 100%)#
+5117 Scala Barra Salute Nemici#
+5118 Controlla dimensione barre salute nemici nel mondo.#
+5119 Scala Popup#
+5120 Controlla dimensione popup per oggetti, lapidi e dialoghi NPC.#
+5121 Scala Popup (Splitscreen)#
+5122 Controlla dimensione popup in splitscreen.#
+5123 Altezza Tooltip#
+5124 Regola posizione verticale tooltip oggetti nel mondo.#
+5125 Opacita' Mirino#
+5126 Regola l'opacita' del mirino.#
+5127 Tipo Mirino#
+5128 Regola l'aspetto del mirino.#
+5129 Filtro Scalatura#
+5130 Elementi UI scalati avranno bordi piu' morbidi se abilitato.#
+5131 Impost. Minimappa#
+5132 Modifica aspetto minimappa in gioco.#
+5133 Mostra Messaggi#
+5134 Modifica quali messaggi mostrare al giocatore.#
+5135 Mostra Nomi Giocatori#
+5136 Mostra il nome di ogni giocatore sopra il suo avatar.#
+
+5137 Accessibilita'#
+5138 Filtro Contenuti#
+5139 Disabilita sangue e altri contenuti espliciti nel gioco#
+5140 Modo Daltonici#
+5141 Migliora visibilita' elementi UI per daltonici.#
+5142 Sostituisce ragni giganti con crostacei ostili.#
+5143 Sostituisce ragni giganti con crostacei ostili. (Aggiorna a fine livello)#
+5144 Filtro Aracnofobia#
+5145 Scuotimento#
+5146 Attiva/disattiva rotazione camera su danno o inciampo.#
+5147 Oscillazione#
+5148 Attiva/disattiva oscillazione camera in movimento.#
+5149 Sfarfallio Luce#
+5150 Attiva/disattiva sfarfallio torce e luci nel mondo.#
+5151 Tieni Premuto per Uscite#
+5152 Attiva per richiedere pressione prolungata di "Usa" per uscite.#
+5153 Mostra HUD#
+5154 Attiva visualizzazione barre salute e stato a inventario chiuso.#
+
+5155 Modo Schermo#
+5156 Risoluzione#
+5157 Cambia la risoluzione della finestra.#
+5158 Dispositivo#
+5159 Cambia lo schermo in uso.#
+5160 Modo Finestra#
+5161 Cambia la modo di schermo.#
+5162 Sinc. Verticale#
+5163 Previene lo screen-tearing bloccando il refresh rate al display attuale.#
+5164 Opzioni Schermo#
+5165 Gamma#
+5166 Regola la luminosita' delle visuali di gioco.#
+5167 Campo Visivo#
+5168 Regola il campo visivo verticale della camera.#
+5169 Limite FPS#
+5170 Limita il frame rate della finestra di gioco. Non impostarlo piu' alto del tuo refresh rate. (Consigliato: Auto)#
+5171 Gamma Dinamica Alta (HDR)#
+5172 Aumenta il contrasto colore del mondo renderizzato con aree sia illuminate che oscurate.#
+5173 Interpolazione Camera#
+5174 Ammorbidisci la camera interpolando i movimenti su frame addizionali.#
+5175 Schermo Div. Vert.#
+5176 Per schermo diviso con due giocatori: dividi lo schermo lungo una linea verticale invece che orizzontale.#
+5177 Diviso Ritagliato#
+5178 Schermo condiviso a due giocatori: riduci ogni riquadro del 20%, per mantenere le proporzioni.#
+5179 Schermo Diviso Sfalsato#
+5180 Per schermo diviso con due giocatori: sfalsa ogni viewport cosi' che ognuno stia in un angolo dello schermo.#
+5181 Auto#
+
+5182 Uscita#
+5183 Disp. Uscita#
+5184 Dispositivo di uscita per l'audio.#
+5185 Volume#
+5186 Volume Generale#
+5187 Regola il volume di tutte le fonti sonore.#
+5188 Volume Gioco#
+5189 Regola il volume di gran parte degli effetti.#
+5190 Volume Ambiente#
+5191 Regola il volume dei sinistri suoni sotterranei.#
+5192 Volume Ambiente#
+5193 Regola il volume di acqua e lava che scorrono.#
+5194 Volume Notifiche#
+5195 Regola il volume di chiamate, messaggi chat, aumenti abilita' e notifiche livello.#
+5196 Volume Musica#
+5197 Regola il volume della colonna sonora.#
+5198 Opzioni#
+5199 Ping Minimappa#
+5200 Attiva l'abilita' di sentire i ping sulla minimappa.#
+5201 Suoni Mostro Giocatore#
+5202 Attiva i borbottii mostruosi quando giochi un personaggio non umano.#
+5203 Audio Fuori Focus#
+5204 Abilita fonti audio anche quando la finestra di gioco e' fuori focus.#
+
+5205 Schema#
+5206 - LIBERO -#
+5207 Tasti#
+5208 Giocatore #
+5209 Giocatore#
+5210 Scegli il giocatore di cui vuoi personalizzare i controlli.#
+5211 Dispositivo#
+5212 Scegli un controller per il giocatore dato.#
+5213 Profilo#
+5214 Scegli un layout di tasti default per il giocatore dato.#
+5215 Tasti#
+5216 Cambia i tasti del controller.#
+5217 Mouse & Tastiera#
+5218 Sensibilita' Mouse#
+5219 Regola quanto il movimento del mouse muove la camera.#
+5220 Tasti Barra in Inventario#
+5221 Permetti al giocatore di assegnare oggetti alla barra usando i tasti numerici.#
+5222 Inverti Mouse#
+5223 Inverti movimento su e giu' del mouse per controllare l'orientamento del giocatore.#
+5224 Mouse Fluido#
+5225 Rendi fluido il movimento del mouse su alcuni frame di input.#
+5226 Mira Assistita#
+5227 Disabilita per usare sempre il puntamento preciso sugli oggetti interagibili e rimuovere popup.#
+5228 Impost. Controller#
+5229 Moderno#
+5230 Classico#
+5231 Layout Barra#
+5232 Moderno: Layout slot 3x3 raggruppati. Classico: Layout 10 slot piatto con controlli piu' semplici.#
+5233 Sensib. Rotaz. X#
+5234 Influenza la sensibilita' orizzontale dello stick usato per girare.#
+5235 Sensib. Rotaz. Y#
+5236 Influenza la sensibilita' verticale dello stick usato per girare.#
+5237 Inverti Camera X#
+5238 Abilita per invertire controlli sinistra/destra della camera.#
+5239 Inverti Camera Y#
+5240 Abilita per invertire controlli su/giu' della camera.#
+
+5241 Generale#
+5242 Modo Streamer#
+5243 Se sei uno streamer e sai cos'e' il doxxing, attivalo assolutamente.#
+5244 La porta da usare per ospitare una lobby LAN. (Default: %d)#
+5245 LAN#
+5246 Porta#
+5247 Crossplay#
+5248 Crossplay Abilitato#
+5249 Abilita crossplay tramite Epic Online Services.#
+
+5250 Impost. Gioco#
+5251 Fame#
+5252 Quando la fame e' spenta, la rigenerazione passiva HP e' disabilitata e mangiare cura direttamente.#
+5253 Minotauro#
+5254 Attiva la capacita' del minotauro di apparire in molti livelli dopo un certo tempo.#
+5255 Trappole a Caso#
+5256 Attiva il posizionamento casuale delle trappole in ogni livello.#
+5257 Fuoco Amico#
+5258 Abilita i giocatori a ferirsi a vicenda e i loro alleati.#
+5259 Modo Hardcore#
+5260 Aumenta molto la difficolta' di tutti gli scontri.#
+5261 Modo Classica#
+5262 Attiva per far finire il gioco dopo lo scontro col Barone Herx.#
+5263 Tieni Inventario in Morte#
+5264 Quando un giocatore muore, mantiene il suo inventario quando rianimato al livello dopo.#
+5265 Vita Extra#
+5266 Inizia il gioco con un Amuleto Salva-Vita, per prevenire una morte.#
+5267 Trucchi#
+5268 Attiva l'abilita' di attivare codici trucco durante il gioco.#
+
+5269 PUNTEGGI#
+5270 CLASSIFICHE#
+5271 Qui giace
+%s
+Requiescat In Pace#
+5272 Fate Largo A
+%s
+il Trionfante!#
+5273 Inchinati a
+%s
+l'Eterno!#
+5274 Lunga Vita
+%s
+il Barone!#
+5275 Salve a
+%s
+il Barone!#
+5276 Tremate per
+%s
+il Barone!#
+5277 XP:
+Oro:
+Liv. Dungeon:#
+5278 Uccisioni:#
+5279 Tempo:
+Punti:#
+
+5280  Sfide Volontarie:#
+5281  Nessuna#
+5282 Hai barato.#
+5283 Hai giocato con mod.#
+5284 Hai giocato con amici.#
+5285 Eri hardcore.#
+5286 Hai giocato Modo Classico.#
+5287 Eri senza un soldo.#
+5288 Non hai mangiato.#
+5289 Eri vegetariano.#
+5290 Eri analfabeta.#
+5291 Non hai usato armi.#
+5292 Usato solo armi a distanza.#
+5293 Sei stato molto veloce.#
+5294 Sei stato veloce.#
+5295 Oggetti tenuti in morte.#
+5296 Avevi una vita extra.#
+5297 Eri maledetto.#
+5298 LIV %d %s %s#
+5299 %d/100
+%d
+%d#
+5300 FOR#
+5301 DES#
+5302 COS#
+5303 INT#
+5304 PER#
+5305 CAR#
+5306 Nessun punteggio.#
+5307 Scaricando punteggi...#
+5308 Locale
+Singolo#
+5309 Locale
+Multiplayer#
+5310 Mondo
+Oggi#
+5311 Mondiale
+Sempre#
+5312 Elimina Voce#
+5313 Sei sicuro di voler eliminare
+"%s"?#
+5314 Si#
+5315 No#
+5316 Scegli il punteggio
+da eliminare#
+5317 OK#
+
+5318 OBIETTIVI#
+5319 Sbloccati %d / %d obiettivi (%d%%)#
+5320 Completa sfide opzionali in gioco
+per divertimento e gloria#
+5321 Obiettivi nascosti#
+5322 Obiettivo nascosto#
+5323 %d obiettivi aggiuntivi rimangono...#
+5324 %d obiettivo aggiuntivo rimane...#
+5325 Sbloccato %s#
+5326 Sbloccato#
+5327 Bloccato#
+
+5328 Messaggi#
+5329 Chat#
+5330 Digita messaggio...#
+5331 *** %s e' scaduto ***#
+5332 *** %s e' stato espulso ***#
+5333 *** %s ha lasciato il gioco ***#
+5334 *** ping = %4d ms ***#
+5335 La lobby e' stata chiusa
+dall'host.#
+5336 *** %s ha lasciato il gioco ***#
+5337 Sei stato espulso
+dalla lobby.#
+5338 In lobby...
+
+%ds#
+5339 In lobby...
+
+%ds.#
+5340 In lobby...
+
+%ds..#
+5341 In lobby...
+
+%ds...#
+5342 Lobby non raggiungibile.#
+5343 Ingresso fallito.
+Serve il Crossplay.#
+5344 Non puoi entrare.
+Codice non valido.#
+5345 Host non risolto:
+%s#
+5346 Fallita apertura socket UDP.#
+5347 Fallito ingresso lobby.#
+
+5348 Barbaro#
+5349 Guerriero#
+5350 Guaritore#
+5351 Ladro#
+5352 Vagabondo#
+5353 Chierico#
+5354 Mercante#
+5355 Mago#
+5356 Arcanista#
+5357 Giullare#
+5358 Sagrestano#
+5359 Ninja#
+5360 Monaco#
+5361 Evocatore#
+5362 Maledetto#
+5363 Ipnotista#
+5364 Birraio#
+5365 Meccanicista#
+5366 Punitore#
+5367 Sciamano#
+5368 Cacciatore#
+
+5369 Umano#
+5370 Scheletro#
+5371 Vampiro#
+5372 Succube#
+5373 Uomo Capra#
+5374 Automa#
+5375 Incubo#
+5376 Goblin#
+5377 Insettoide#
+
+5378 Disabilita Fame#
+5379 No Minotauri
+a Caso#
+5380 Abilita Amuleto
+Salva-Vita#
+5381 Tieni Oggetti a Morte#
+5382 Niente Trappole a Caso#
+5383 Disabilita Fuoco Amico#
+5384 Abilita Finali
+Classici#
+5385 Attiva Modo
+Hardcore#
+5386 Abilita Trucchi#
+
+5387 OBIETTIVI DISATTIVI
+(MODDATO)#
+5388 OBIETTIVI DISATTIVI
+(LOBBY MODDATA)#
+5389 OBIETTIVI DISABILITATI#
+5390 OBIETTIVI ABILITATI#
+
+5391 IMPOST. LOBBY#
+5392 Flag Gioco#
+5393 Solo Invito#
+5394 Solo Amici#
+5395 Lobby Aperta#
+6018 Numero
+Giocatori#
+5396 Espellera' %s
+e %s!#
+5397 Espellera' %s.
+Sei sicuro?#
+5398 OK#
+5399 Indietro#
+5400 Si#
+5401 No#
+5402 Espelli#
+5403 Sei sicuro di voler
+espellere %s?#
+
+5404 SELEZIONE RAZZA#
+5405 Landguard#
+5406 Northborn#
+5407 Firebrand#
+5408 Hardbred#
+5409 Highwatch#
+5410 Gloomforge#
+5411 Pyrebloom#
+5412 Snakestone#
+5413 Windclan#
+5414 Warblood#
+5415 Millbound#
+5416 Sunstalk#
+5417 Claymount#
+5418 Stormward#
+5419 Tradefell#
+5420 Nighthill#
+5421 Baytower#
+5422 Whetsong#
+5423 Niente abilita'
+razziali#
+5424 Nascondi
+Razza#
+5425 Mostra
+Razza#
+
+5426 SELEZIONE CLASSE#
+5427 PV:
+PM:#
+5428 Sopravv.:
+Complex.:#
+5429 Nascondi Info#
+5430 Mostra Info#
+5431 *** Attendi %d secondi prima di suggerire un'altra classe. ***#
+5432 %s: Ci serve un %s.#
+
+5433 NOME:#
+5434 Digita nome per Giocatore %d#
+5435 Vedi Impost. Gioco#
+5436 *** Premi [LB] per suggerire una classe per il gruppo ***#
+5437 *** Premi [L] per suggerire una classe per il gruppo ***#
+5438 *** Premi [L1] per suggerire una classe per il gruppo ***#
+5439 *** Premi [L1] per suggerire una classe per il gruppo ***#
+5440 Pronto#
+5441 BLOCCATO#
+5442 Iscrizioni
+chiuse#
+5443 GIOCATORE %d#
+5444 Premi Start#
+5445 Connetti Controller#
+5446 Attendi#
+5447 INVITA#
+5448 Clicca per Invito#
+5449 APERTO#
+5450 In attesa di
+giocatori#
+5451 *** %s si e' unito al gioco ***#
+5452 Pronto!#
+5453 Non Pronto#
+5454 Sei sicuro di voler lasciare
+questa lobby?#
+5455 Si#
+5456 No#
+5457 Dai un nome pubblico a questa lobby.#
+5458 Lobby Locale#
+5459 Lobby Wireless#
+5460 Lobby LAN#
+5461 Lobby Online (Epic)#
+5462 Lobby Online (Steam)#
+5463 Lobby Online#
+5464 Indirizzo LAN#
+5465 Codice stanza#
+5466 Lobby wireless aperta con successo.#
+5467 Server LAN ospitato con successo.#
+5468 Lobby ospitata via Steam.#
+5469 Lobby ospitata via Epic Online.#
+5470 Unito alla lobby wireless con successo.#
+5471 Unito al server LAN con successo.#
+5472 Unito alla lobby Steam con successo.#
+5473 Unito alla lobby Epic Online con successo.#
+5474 Premi A sul controller per il Giocatore %d,
+ o clicca qui per mouse e tastiera#
+5475 Premi A su un controller per attivarlo ora,
+ o clicca qui per usare solo mouse e tastiera#
+5476 ASSEGNA CONTROLLER#
+5477 P%d#
+
+5478 Lobby privata#
+5479 [MODDATO]#
+5480 Impossibile unirsi.
+Lobby moddata.#
+5481 Impossibile unirsi.
+Lobby bloccata.#
+5482 OK#
+5483 Richiesta lista lobby...#
+5484 Annulla#
+5485 BROWSER LOBBY ONLINE#
+5486 Filtri#
+5487 Mostra non unibili#
+5488 Mostra solo amici#
+5489 Obiettivi abilitati#
+5490 Trucchi attivi#
+5491 Fuoco amico abilitato#
+5492 Minotauri abilitati#
+5493 Fame abilitata#
+5494 Trappole a caso attive#
+5495 Modo hardcore#
+5496 Modo classica#
+5497 Tieni oggetti a morte#
+5498 +1 Vita#
+
+5500 Trucchi#
+5501 Ferisci alleati#
+5502 Minotauri#
+5503 Fame#
+5504 Trappole#
+5505 Hardcore#
+5506 Classica#
+5507 Mantieni ogg.#
+5508 +1 Vita#
+5509 Nessuno#
+5510 Nome:#
+5511 Flag:#
+5512 Info Lobby#
+5513 ONLINE#
+5514 Epic Online non raggiungibile.
+Gioco online non disponibile.#
+5515 OK#
+5516 WIRELESS#
+5517 LAN#
+5518 Digita un indirizzo IP a cui unirti.#
+5519 Digita il codice di una lobby a cui vuoi connetterti.#
+5520 Digita l'IP...#
+5521 Digita il codice...#
+5522 Connetti#
+5523 Annulla#
+5524 Codice
+Lobby#
+5525 Digita
+l'IP#
+5526 Scegli prima una lobby.#
+5527 Entra Lobby#
+5528  Nome Lobby#
+5529  Nome Lobby (%d nascoste)#
+5530  Giocatori#
+5531  Versione#
+5532  Ping#
+5533 Impost. Filtro#
+5534 Crossplay#
+
+5535 TUTORIAL#
+5536 Affronta 10 sfide che insegnano e testano le tue abilita'
+di avventuriero, preparandoti per il dungeon.#
+5537 Prova#
+5538   Miglior 
+Tempo#
+5539 Hub#
+5540  La Sala delle Prove#
+5541  Prova 1: Basi del Dungeon e Mischia#
+5542  Prova 2: Archi, Frecce e Armi da Lancio#
+5543  Prova 3: Trappole Dungeon, Aculei e Massi#
+5544  Prova 4: Cibo, Valutazione e Maledizioni#
+5545  Prova 5: Magia, Libri Magici e Lancio#
+5546  Prova 6: Furtivita' e Attacchi Furtivi#
+5547  Prova 7: Reclutamento Seguaci e Comandi#
+5548  Prova 8: Pozioni e Alchimia#
+5549  Prova 9: Ingegneria#
+5550  Prova 10: Mercanti e Negozi#
+5551  Tempo Totale#
+5552 Azzera
+Progressi#
+5553 Sei sicuro di voler resettare
+i tuoi tempi migliori?#
+5554 Si#
+5555 No#
+5556 Entra Livello#
+5557 Scegli prima un livello.#
+5558 OK#
+5559 GIOCA#
+5560 TUTORIAL#
+5561  
+CONTINUA#
+5562  
+NUOVO#
+5563 Creando lobby Epic...#
+5564 Fallita creazione lobby Epic.#
+5565 Lobby Epic non creata.
+
+Riprova piu' tardi.#
+5566 Creando lobby Steam...#
+5567 Fallita creazione lobby Steam.#
+5568 Impossibile ospitare lobby:
+Gioco online non disponibile.#
+5569 Vuoi ospitare via Epic
+Online per il crossplay?#
+5570 Socket UDP non aperto
+sulla porta %hu.#
+
+5571 Gioca singolo o con 2-%d
+giocatori in schermo diviso#
+5572 Ospita 2-%d giocatori
+via wireless#
+5573 Ospita 2-%d giocatori
+via LAN#
+5574 Ospita 2-%d giocatori
+via internet#
+5575 Ospita 2-%d giocatori
+via internet (off)#
+5576 Entra in multiplayer#
+5577 NUOVO EROE#
+5578 Avventura Locale#
+5579 Ospita Party
+Wireless#
+5580 Ospita Party LAN#
+5581 Ospita Party Online#
+5582 Browser Lobby#
+
+5583 Barony e' un gioco impegnativo.
+Vuoi giocare un tutorial?#
+5584 Si#
+5585 No#
+5586 Puoi trovare i Tutorial
+nel menu Gioca.#
+5587 OK#
+5588 Sei sicuro di voler eliminare
+il salvataggio "%s"?"#
+5589 Attenzione: salvataggio moddato!
+Nessuna mod caricata.
+
+Continuare puo' rovinare i dati.
+
+Vuoi davvero caricare
+il salvataggio "%s"?#
+5590 Attenzione: Questo salvataggio non e' moddato!
+%d mod sono ora caricate.
+
+Continuare potrebbe invalidare gli obiettivi.
+
+Sei sicuro di voler caricare
+il salvataggio "%s"?#
+5591 Annulla#
+5592 Sei sicuro di voler caricare
+il salvataggio "%s"?#
+5593 G%d
+L%d#
+5594 Liv%d#
+5595 Nessun salvataggio compatibile.#
+5596 Giocatore Singolo#
+5597 Host Online %dp (p1)#
+5598 Client Online %dp (p%d)#
+5599 Host Locale %dp (p1)#
+5600 Client Locale %dp (p%d)#
+5601 Sch. Diviso %dp#
+5602 CONTINUA AVVENTURA#
+5603 Partite Locali#
+5604 Partite Rete#
+5605 Elimina Salv.#
+5606 Scegli prima 
+un salvataggio 
+da eliminare.#
+5607 OK#
+5608 Scendi#
+5609 Scegli prima 
+un salvataggio 
+da caricare.#
+
+5610 ARCHIVI AVVENTURA#
+5611 OBIETTIVI#
+5612 COMPENDIO#
+5613 PUNTEGGI#
+5614 CLASSIFICHE#
+5615 INTRODUZIONE STORIA#
+5616 CREDITI#
+5617 TORNA AL MENU#
+
+5618 Generale#
+5619 Video#
+5620 Audio#
+5621 Controlli#
+5622 Online#
+5623 Gioco#
+5624 IMPOSTAZIONI#
+5625 Reset
+Default#
+5626 Scarta
+& Esci#
+5627 Vuoi davvero scartare
+le modifiche?#
+5628 Si,
+Scarta#
+5629 Annulla#
+5630 Applica
+& Esci#
+5631 Riavvia Barony perche' alcune
+impostazioni siano attive.#
+5632 OK#
+
+5633 Sei sicuro di voler morire?
+Non c'e' ritorno da questo.#
+5634 Termina Vita#
+5635 Annulla#
+5636 Vuoi abbandonare?
+Questo giocatore sara' perso.#
+5637 OK#
+5638 Annulla#
+5639 Vuoi davvero ricominciare?
+Questa avventura sara' persa.#
+5640 Sei sicuro di voler ricominciare
+la prova attuale?#
+5641 Ricomincia#
+5642 Annulla#
+5643 Sei sicuro di voler tornare
+alla Sala delle Prove?#
+5644 Vuoi davvero azzerare
+la Sala delle Prove?#
+5645 OK#
+5646 Annulla#
+5647 Tutti i progressi prima del
+livello attuale sono salvati.#
+5648 Sei sicuro di voler tornare
+al menu principale?#
+5649 Esci al Menu#
+5650 Annulla#
+
+# quit messages
+
+5700 Vuoi andartene, eh?
+Allora vai e non tornare!#
+5701 Bene cavolo#
+5702 Mai!#
+5703 I gobwin cattivelli
+ti han fatto la bua?#
+5704 Si#
+5705 No#
+5706 Cancella i tuoi piani.
+Aspettero'.#
+5707 Buona fortuna#
+5708 Certo#
+5709 Non uccideresti il lich comunque.#
+5710 Hai ragione#
+5711 Ah si?#
+5712 Rosicone!
+Fatti bravo!#
+5713 Sono collera#
+5714 OK#
+5715 Gli gnomi ridono di te!
+Davvero vuoi accettarlo?#
+5716 Uccidimi#
+5717 Mai!#
+5718 Non andare ora! C'e' una
+trappola masso dietro l'angolo!#
+5719 Uccidimi#
+5720 Oh grazie#
+5721 Lo diro' ai tuoi
+genitori: parolaccia!#
+5722 Cacca#
+5723 Per favore
+ no#
+5724 Non andartene!
+C'e' altro tesoro da rubare!#
+5725 Non mi importa#
+5726 Altro 
+ bottino!#
+5727 Sii felice che non posso
+evocarlo nella vita vera.#
+5728 Peccato#
+5729 Punto 
+ preso#
+5730 Vai a lasciare una recensione acida?#
+5731 ... si#
+5732 Mai!#
+5733 Me ne andrei anch'io.
+Questo gioco sembra Minecraft.#
+5734 lol#
+5735 Ahi#
+5736 OK, vedo come stanno le cose.
+Vedi se sono ancora qui domani.#
+5737 Qualunque 
+ cosa#
+5738 Ti amo!#
+5739 Non uscire ora, stavi per
+vincere la prossima run.#
+5740 Non mentire#
+5741 Davvero?#
+5742 Un pappamolle
+mollerebbe adesso.#
+5743 Tempo di 
+ pappamolle#
+5744 Non lo sono!#
+5745 Un avventuriero e' preso
+e serve il tuo aiuto!#
+5746 Chissene#
+5747 Lo faro'!#
+5748 Chi molla dice cosa?#
+5749 Cosa?#
+5750 Non oggi#
+5751 Non uscirai.
+Stai solo bluffando.#
+5752 Punta#
+5753 Mi hai preso.#
+5754 Di' un'altra cosa e
+ti caccio da questo gioco.#
+5755 Cosa#
+5756 ...#
+
+5757 Lo schermo sembra ok?
+%llu...#
+5758 Si#
+5759 No#
+
+5760 Premi Start#
+5761 TORNA AL GIOCO#
+5762 ASSEGNA CONTROLLER#
+5763 COMPENDIO#
+5764 OBIETTIVI#
+5765 IMPOSTAZIONI#
+5766 TERMINA VITA#
+5767 ABBANDONA#
+5768 RIAVVIA GIOCO#
+5769 RIAVVIA PROVA#
+5770 TORNA ALL'HUB PROVE#
+5771 MENU PRINCIPALE#
+5772 ESCI AL DESKTOP#
+5773 GIOCA#
+5774 GIOCA GIOCO#
+5775 GIOCA CON MOD#
+5776 SCARICA MOD#
+5777 ARCHIVI AVVENTURA#
+5778 IMPOSTAZIONI#
+5779 EDITOR#
+5780 ESCI#
+
+5781 OBIETTIVI DISABILITATI (LOBBY MODDATA)#
+5782 OBIETTIVI DISABILITATI (MODDATO)#
+5783 OBIETTIVI OFF (LOBBY GIA' MODDATA)#
+5784 OBIETTIVI DISABILITATI#
+5785 OBIETTIVI ABILITATI#
+
+5786 Giocatori online: ... #
+5787 Giocatori online: %d #
+
+5788 La connessione di rete al gioco e' stata persa.#
+5789 La connessione di rete al gioco e' stata persa.
+
+Per favore ristabilisci la connessione e riprova piu' tardi.#
+5790 La connessione di rete al gioco e' persa.
+
+Tutti i progressi fino al livello dungeon attuale sono salvati.
+
+Per favore ristabilisci la connessione e riprova piu' tardi.#
+5791 La connessione di rete
+e' stata persa.#
+
+5792 Sei morto.#
+5793 Il tuo gruppo e' annientato.#
+5794 Sconosciuto#
+5795 Mostro#
+5796 Oggetto#
+5797 Tradimento#
+5798 Tentata Rapina#
+5799 Intrusione#
+5800 Trappola Frecce#
+5801 Tagliola#
+5802 Trappola Punte#
+5803 Trappola Magica#
+5804 Trappola Bomba#
+5805 Masso#
+5806 Lava#
+5807 Acqua Bollente#
+5808 Invocazione#
+5809 Fame#
+5810 Veleno#
+5811 Emorragia#
+5812 Bruciatura#
+5813 Strangolamento#
+5814 Pozione Buffa#
+5815 Baratro#
+5816 Fuoco Spento#
+5817 Fontana#
+5818 Lavandino#
+5819 Alchimia#
+
+5820 Ti conoscevamo poco.#
+5821 Riposa In Pace.#
+5822 Ci mancherai.#
+5823 Alla prossima.#
+5824 Ora a riposo.#
+5825 Non piangete per me.#
+5826 Passato al ricordo.#
+5827 In Amorosa Memoria.#
+5828 Dormono nella memoria.#
+5829 Andato ma non dimenticato.#
+5830 Ucciso da: #
+
+5831 Impara dal fallimento
+nel finire la prova!#
+5832 Verrai rianimato se il tuo
+gruppo raggiunge il livello dopo.#
+5833 Sei in posizione (%d)
+nei punteggi locali!#
+5834 Non sei entrato
+nei punteggi locali.#
+
+5835 Chiudi#
+5836 Torna all'Hub#
+5837 Esci al Menu#
+5838 Riavvia#
+5839 OK#
+
+5840 Congratulazioni, hai finito il primo tutorial!
+
+Ora sei nella Sala delle Prove,
+altre 9 prove sono pronte a insegnarti e testarti.
+
+Esplora la Sala delle Prove o torna al menu
+principale e inizia la tua avventura.#
+5841 Esplora
+Sala Prove#
+5842 Torna al
+Menu#
+5843 Riconnetti il controller per Giocatore #
+5844 Riconnetti il controller.#
+5845 RICONNETTI CONTROLLER#
+
+5846 Il Crossplay permette di ospitare e entrare
+in lobby via Epic Games, Inc.
+
+Cliccando Accetta, accetti di condividere info
+pubbliche del profilo Steam con Epic Games, Inc.
+per abilitare il crossplay.#
+
+5847 Vuoi collegare il dispositivo a un account online
+di Epic Games, Inc. per giocare online?
+
+Con Accetta, accetti di condividere info
+sulla tua console Nintendo con Epic Games, Inc.
+per abilitare il gioco online.#
+
+5848 Il gioco online permette di ospitare e entrare
+in lobby via Epic Games, Inc.
+
+Cliccando Accetta, accetti di condividere info
+sul tuo dispositivo con Epic Games, Inc. per
+abilitare il gioco online.#
+
+5849 Accetta#
+5850 Vedi
+Privacy Policy#
+5851 Rifiuta#
+
+5852 Scegli almeno 1 mod da caricare.#
+5853 OK#
+5854 Scarica Mod#
+5855 Carica Mod#
+5856 Ordine Carico: #
+5857 Aggiorna Mod#
+5858 Steam Workshop#
+5859 Recupero iscrizioni...#
+5860 Annulla#
+5861 Recupero oggetti...#
+5862 Nessun oggetto Workshop.#
+5863 Carico cartelle mod locali...#
+5864 Nessuna cartella trovata in /mods/.#
+5865 MOD#
+5866 Mod
+Locali#
+5867 Steam
+Workshop#
+5868 Mie Mod
+Workshop#
+5869 Vuoi uscire da questo menu?
+Le mod attive saranno scaricate.#
+5870 Si#
+5871 No#
+5872 
+Mod Attive:
+#
+5873 Mod Locali:
+Workshop:
+Totale:#
+5874 OBIETTIVI
+DISABILITATI#
+5875 OBIETTIVI
+ABILITATI#
+5876 Nota: non tutti i file moddati
+sono verificabili prima
+dell'avvio per gli Obiettivi.#
+5877 Chiudi#
+5878 Avvia
+Con Mod#
+5879 Nuova Mod
+Workshop#
+5880 Sfoglia
+Workshop#
+5881 Apri
+Workshop#
+5882 Sfoglia mod create dalla comunita' e 'sottoscrivi' per
+scaricare mod da usare.
+
+Sottoscrivere mentre Barony gira puo' richiedere
+la chiusura del gioco perche' Steam scarichi.
+
+Versione gioco attuale: #
+5883 Le tue mod workshop
+ora si ricaricano.#
+5884 OK#
+5885 Annulla#
+5886 Crea Mod
+Vuota#
+5887 Creera' una nuova cartella mod dentro
+/mods/ di Barony con struttura vuota
+e preview.png default.#
+5888 Digita un nome per la cartella#
+5889 Conferma#
+5890 Annulla#
+5891 Errore: nome cartella
+ vuoto.#
+5892 Nuova cartella: '%s'
+creata con successo!#
+5893 Errore: cartella esistente
+'%s'#
+5894 Errore: cartella non scritta
+'%s'#
+5895 Titolo#
+5896 Descrizione#
+5897 AGGIORNA MOD WORKSHOP#
+5898 NUOVA MOD WORKSHOP#
+5899 Carica una cartella dentro /mods/ per la tua mod.
+File e tag si cambiano in questo menu dopo.#
+5900 Un aggiornamento cambia la versione taggata.
+Nuova cartella o nuovi tag sono opzionali.#
+5901 Cartella:#
+5902 Nessuna cartella#
+5903 Scegli...#
+5904 Errore: la cartella
+padre non e' mods.#
+5905 Errore: cartella non aperta:#
+5906 Titolo:#
+5907 Modifica...#
+5908 Si puo' modificare dopo, piu' lungo,
+nella pagina Steam Workshop.#
+5909 Digita un titolo per l'oggetto#
+5910 Conferma#
+5911 Annulla#
+5912 Per oggetti esistenti, visita
+la pagina Workshop.#
+5913 Descrizione:#
+5914 Digita una descrizione#
+5915 Per oggetti esistenti, visita
+la pagina Workshop.#
+5916 Tag:#
+5917 Gestisci
+Workshop#
+5918 Puoi vedere e modificare gran parte della tua mod
+direttamente sulla pagina Workshop: descrizioni piu'
+lunghe con HTML, visibilita' pubblica o screenshot
+nel carosello.
+
+Per cambiare l'immagine preview o i file moddati,
+usa la finestra di upload qui nel gioco.#
+5919 Apri
+Workshop#
+5920 Le tue mod workshop
+ora si ricaricano.#
+5921 Invia
+Update#
+5922 Invia Nuova
+Mod Workshop#
+5923 Nessun nuovo file:
+Solo tag/versione modificati.#
+5924 Nuovi file caricati e
+tag/versione modificati.#
+5925 Procedi#
+5926 Annulla#
+5927 Inizio invio#
+5928 Modifica oggetto esistente#
+5929 Creo oggetto#
+5930 In attesa di update handle#
+5931 Titolo#
+5932 Descrizione#
+5933 Impostazione tag#
+5934 Preparo contenuti#
+5935 Nota: No preview.png image found#
+5936 Primo upload.#
+5937 Aggiornato.#
+5938 Carico i contenuti, puo'
+volerci un po'.#
+5939 Tempo scaduto in upload,
+riprova 1/3...#
+5940 Tempo scaduto in upload,
+riprova 2/3...#
+5941 Tempo scaduto in upload,
+riprova 3/3...#
+5942 Tempo scaduto in upload,
+riprova piu' tardi.#
+5943 Contenuti caricati con successo!#
+5944 Errore ignoto#
+5945 In attesa#
+5946 Errore: Non loggato.#
+5947 Errore: nessuna cartella
+scelta da caricare.#
+5948 Errore: cartella
+contenuti non letta.#
+5949 Inizio invio#
+5950 Un
+attimo#
+5951 Vedi Oggetto#
+5952 Ripeti
+Upload#
+5953 Codice errore: #
+5954 DIFFICOLTA' CUSTOM#
+5955 Nessun oggetto Workshop.#
+
+5956 Equipaggia#
+5957 Lascia#
+5958 MAGIE#
+5959 Cassa#
+5960 Svuota#
+5961 Livello Abilita':#
+5962 Stat Associata:#
+5963 Attacca#
+5964 Furtivo#
+5965 Lancia Magia#
+5966 Mappa#
+5967 Log#
+5968 SCHEDA PG#
+5969 ORO#
+
+5970 Attacca#
+5971 Usa#
+5972 Lancia Magia#
+5973 Difendi#
+5974 Furtivo#
+5975 Stato Personaggio#
+5976 Pausa Gioco#
+5977 Lista Magie#
+5978 Scheda Abilita'#
+5979 Auto-Ordina Inv.#
+5980 Comanda NPC#
+5981 Mostra Comandi NPC#
+5982 Cicla NPC#
+5983 Apri Mappa#
+5984 Apri Log#
+5985 Minimappa On/Off#
+5986 Barra Sin.#
+5987 Barra Destra#
+5988 Barra Su / Scegli#
+5989 Barra Giu' / Annulla#
+5990 Tooltip Interaz. +#
+5991 Tooltip Interaz. -#
+5992 Espandi Tooltip Inventario#
+5993 Giro Rapido#
+5994 Chat#
+5995 Muovi Avanti#
+5996 Muovi Sinistra#
+5997 Muovi Indietro#
+5998 Muovi Destra#
+5999 Gira Sinistra#
+6000 Gira Destra#
+6001 Guarda Su#
+6002 Guarda Giu'#
+6003 Screenshot#
+6004 Slot Barra 1#
+6005 Slot Barra 2#
+6006 Slot Barra 3#
+6007 Slot Barra 4#
+6008 Slot Barra 5#
+6009 Slot Barra 6#
+6010 Slot Barra 7#
+6011 Slot Barra 8#
+6012 Slot Barra 9#
+6013 Slot Barra 10#
+
+6014 Standard#
+6015 Esperto#
+6016 Classico#
+6017 Minimo#
+#6018 was missed earlier, so it is used.
+
+6019 Popola Barra#
+6020 Precarica File Musica#
+6021 Il precarico migliora la resa audio ma usa piu' memoria. (Attivo al prossimo avvio)#
+6022 Temi Festivi#
+6023 Contenuti Festivi#
+6024 Attiva contenuti a tema festivo a piacimento. Bah, humbug!#
+6025 Crediti#
+6026 Mostra#
+6027 Vedi crediti per contenuti festivi.#
+6028 Pag.
+Succ#
+6029 Chiudi#
+
+# Scarony Barony Credits:
+
+6030 caves00 - Among Us by Myuu
+caves01 - Fatal Shrine by Myuu
+caves02 - Tormented Souls by Myuu
+citadel00 - Evil Returns by Myuu
+citadel01 - Friday the 13th by Myuu
+citadel02 - October 31st by Myuu#
+
+6031 endgame - The Order's Theme by Myuu
+herxboss - Soul Rail by Myuu
+intermission - Echo by Myuu
+intro - Ghost Town by Myuu
+intro01 - Countdown by Myuu
+intro02 - Untold Secrets by Myuu#
+
+6032 labyrinth00 - Final Showdown by Myuu
+labyrinth01 - Living in the Dark by Myuu
+labyrinth02 - Silent Turmoil by Myuu
+library - Countdown by Myuu
+mines00 - Look Out by Myuu
+mines01 - Haunted House by Myuu#
+
+6033 mines02 - Nebula by Myuu
+mines03 - Strange Vision by Myuu
+mines04 - The Crypt by Myuu
+minetown - Haunted By Screams by Myuu
+minotaur00 - Run! by Myuu
+minotaur01 - Cornered by Myuu#
+
+6034 ruins00 - You're Next by Myuu
+ruins01 - Into the Depths by Myuu
+ruins02 - The Backrooms by Myuu
+sanctum - Metamorphosis by Myuu
+shop - Carnival Freaks by Myuu
+swamp00 - Poltergeist by Myuu#
+
+6035 swamp01 - Abyss by Myuu
+swamp02 - Danger by Myuu
+swamp03 - Growing Shadows
+temple - Extinction by Myuu#
+
+# Merry Barony credits:
+
+6036 caves00 - Sleigh Bells by Myuu
+caves01 - Deck the Halls by Myuu
+caves02 - Snow Wonders by Myuu
+citadel00 - Jingle Bells by Myuu
+citadel01 - Underneath the Christmas Tree by Myuu
+citadel02 - God Rest Ye Merry Gentlemen by Myuu#
+
+6037 endgame - Disintegrating by Myuu
+escape - Deck the Halls by Myuu
+hell00 - Deck the Halls by Myuu
+hell01 - Santa's Tricks by Myuu
+hell02 - Winter Trouble by Myuu
+herxboss - Krampus is Here by Myuu#
+
+6038 intermission - Disintegrating by Myuu
+introduction - Disintegrating by Myuu
+labyrinth00 - Ice Land (Part 1) by Myuu
+labyrinth01 - Holiday Macabre by Myuu
+labyrinth02 - Disintegrating by Myuu
+library - Santa's Tricks by Myuu#
+
+6039 mines00 - Sleigh Bells by Myuu
+mines01 - God Rest Ye Merry Gentlemen by Myuu
+mines02 - Silent Night by Myuu
+mines03 - Carol of the Bells by Myuu
+mines04 - Angels We Have Heard on High by Myuu
+minetown - Underneath the Christmas Tree by Myuu#
+
+6040 minotaur00 - Krampus is Here by Myuu
+minotaur01 - Deck the Halls by Myuu
+ruins00 - Ice Land (Part 2) by Myuu
+ruins01 - Winter Trouble by Myuu
+ruins02 - Snow Wonders by Myuu
+sanctum - Krampus is Here by Myuu#
+
+6041 shop - Sleigh Bells by Myuu
+swamp00 - Jingle Bells by Myuu
+swamp01 - Rudolph the Red Nosed Reindeer by Myuu
+swamp02 - Dance of the Sugar Plum Fairy by Myuu
+swamp03 - What Child is This by Myuu
+temple - Santa's Tricks by Myuu#
+
+6042 underworld00 - Ice Land (Part 1) by Myuu
+underworld01 - Deck the Halls by Myuu
+underworld02 - Winter Trouble by Myuu
+intro - God Rest Ye Merry Gentlemen by NaturesEye#
+
+6043 Nessuna festivita' attiva.#
+
+6044 Chiama#
+6045 Spingi oggetto#
+6046 Rilassati#
+6047 Infesta#
+6048 Spingi#
+6049 Vedi Ruota#
+6050 OSSERVA#
+6051 NASCI FANTASMA#
+6052 Il tuo gruppo e' stato annientato...#
+6053 MODIFICA REGOLE#
+6054 SEED CUSTOM#
+6055 Digita nome seed...#
+6056 Nessuno#
+6057 Qui giace
+%s
+Morte da: %s#
+6058 Modo Senza Soldi attiva, raccolta oro disabilitata!#
+6059 Modo Senza Soldi disattivata, raccolta oro abilitata.#
+6060 Il salvataggio non e' idoneo per l'Obiettivo Senza Soldi. Riavvia per resettare.#
+6061 Classifiche globali irraggiungibili.
+Riprova piu' tardi.#
+6062 Top 100#
+6063 Vicino a me#
+6064 Vittorie#
+6065 Sconfitte#
+6066 Top Punteggi#
+6067 Migliori Tempi#
+6068 Solo#
+6069 Co-op#
+6070 Umani#
+6071 Mostri#
+6072 Normale#
+6073 Hardcore#
+6074 Usa
+Filtro#
+6075 Cittadella#
+6076 Classico#
+6077 Inferno#
+6078 Filtri Classifica#
+6079 Filtri
+Classifica#
+6080 Piano#
+6081 Il mimic si spalanca!#
+6082 Aspetta! E' un mimic!#
+6083 Chiudi il mimic!#
+6084 Il mimic evita il passe-partout!#
+6085 Il mimic mangia il tuo %s!#
+6086 Il %s ti avvelena!#
+6087 Ehi! Quel %s ha rubato il %s!#
+6088 Ma gli occhiali ti proteggono!#
+6089 I tuoi occhiali ti proteggono dall'esplosione!#
+6090 Gli occhiali? Nulla!#
+6091 *tosse*#
+6092 Il cappello e' soffocante!#
+6093 ATT#
+6094 CA#
+6095 POT#
+6096 RES#
+6097 RIG#
+6098 PES#
+6099 Errore: salvataggio "%s" non caricato.
+Codice errore: %d
+
+DLC richiesto non verificato
+per questo salvataggio.
+
+Controlla il DLC e riavvia
+il gioco per riprovare.#
+6100 Impossibile verificare il DLC
+per caricare il salvataggio.#
+6101 Hai completato la taglia per %d oro!#
+6102 Hai fallito il bersaglio della taglia.#
+6103 Modif. Effetti:#
+6104 Il colpo coglie il %s di sorpresa!#
+6105 Il colpo coglie %s di sorpresa!#
+6106 / 100 XP#
+6107 XP#
+6108 Non hai ancora voci in
+questa classifica
+per trovare punteggi vicini.#
+6109 Nota: la sfida finisce presto!
+Finisci prima della scadenza
+per entrare in classifica!#
+6110 Sfida
+Un Colpo#
+6111 Sfida
+Libera#
+6112 Sfida
+Evento#
+6113 Controllo connettivita'#
+6114 Sfide non caricate.
+Riprova piu' tardi.#
+6115 Sfida non caricata.
+Riprova piu' tardi.#
+6116 Aggiornamento evento in corso.
+Riprova tra qualche minuto.#
+6117 Sfide attualmente
+non disponibili.#
+6118 Evento
+Succ.:#
+6119 SEED#
+6120 Una chance per la classifica!
+Solo in locale.#
+6121 Dungeon settimanali!
+Per solo e multiplayer.#
+6122 Eventi varieta' ogni weekend!
+Per solo e multiplayer.#
+6123 Salvataggi diversi.
+LID non combacia.#
+6124 La lobby non ospita
+la sfida selezionata.#
+6125 Hai gia' inviato un tentativo
+per questa sfida!
+
+Puoi rigiocare questa sfida, sebbene il tuo
+grado in classifica non cambiera'.
+
+Vuoi ancora rigiocare questa sfida?#
+6126 DLC Myths & Outcasts richiesto 
+per rigiocare questa sfida!
+
+
+#
+6127 DLC Legends & Pariahs richiesto
+per rigiocare questa sfida!
+
+
+#
+6128 Classifiche Aggiornate!#
+6129 Impossibile unirsi.
+Sfida scelta non
+corrisponde all'host.#
+6130 Impossibile unirsi.
+Unirsi a sfide non
+e' supportato.#
+6131 I Seed richiedono di scaricare
+le mod prima di iniziare.#
+6132 La lobby richiede di
+scaricare le mod.#
+6133 Il salvataggio richiede di
+scaricare prima le mod.#
+6134 
+ Nuovo grado nelle
+ classifiche %s!#
+6135 Cambiare classe non
+permesso in questa sfida!#
+6136 Cambiare razza non
+permesso in questa sfida!#
+6137 OBIETTIVI DISATTIVI
+(EVENTO SFIDA)#
+6138 OBIETTIVI DISABILITATI (EVENTO SFIDA)#
+6139 Evento Sfida!#
+# Audio speaker mode settings
+6140 Configurazione Uscita#
+6141 Default#
+6142 Grezzo#
+6143 Mono#
+6144 Stereo#
+6145 Quad#
+6146 Audio Surround#
+6147 Surround 5.1#
+6148 Surround 7.1#
+6149 Surround 7.1.4#
+6150 La configurazione altoparlanti.#
+6151 Nessun punteggio con filtro attuale.
+Prova filtri diversi
+per vedere piu' risultati.#
+6152 fallisce la sfida.#
+6153 Sfida#
+6154 Progressi Sfida#
+6155 Uccisioni Gruppo#
+6156 Sfida Completa!#
+6157 Arredamento Distrutto#
+6158 Dettagli:#
+6159 Razza:#
+6160 Classe:#
+6161 Tutti#
+6162 Modo Gioco:#
+6163 Evento Attivo:#
+6164 Abilita':#
+6165 Fate Largo A
+%s
+il Breaker!#
+6166 Tremate per
+%s
+l'Assassino!#
+6167 Uscire qui non conta per
+il tuo tentativo Colpo-Solo.#
+6168 Uscire ora chiude questa run e
+la invia come punteggio Solo.#
+6169 Nuovi Seed Disponibili!#
+6170 Visita il menu Seed
+per partecipare.#
+6171 Sblocca l'Obiettivo:
+"%s"
+per giocare questa combo.#
+6172 
+Magia: %d (%s)#
+6173 Piano Dungeon:#
+6174 Abitanti#
+6175 Oggetti#
+6176 Magia#
+6177 Mondo#
+6178 Codice#
+6179 VOCE PREC: #
+6180 VOCE SUCC: #
+6181 %d di %d#
+6182 CONTENUTI#
+6183 Nuova Voce!#
+6184 Obiettivi#
+6185 RECORD#
+6186 TABELLA RICETTE#
+6187 CONSIGLI USO#
+6188 DETTAGLI#
+6189 STAT#
+6190 LIV #
+6191 EFFICACIA TIPO DANNO:#
+6192 ABILITA':#
+6193 INVENTARIO:#
+6194 PUNTI SAPERE LIBERI#
+6195 ORDINA ALFABETICO#
+6196 NASCONDI IGNOTI#
+6197 ATT:#
+6198 POT:#
+6199 PV:#
+6200 CA:#
+6201 VEL:#
+6202 UMANOIDE#
+6203 UOMOBESTIA#
+6204 BESTIA#
+6205 NON-MORTO#
+6206 DEMONIACO#
+6207 COSTRUTTO#
+6208 ELEMENTALE#
+6209 PUNTI#
+6210 COMPLETAM. TOTALE#
+6211 RICERCA#
+6212 INSEGNE NEGOZI#
+# breakables
+6213 giara#
+6214 cesto#
+6215 scrigno#
+6216 gabbia#
+6217 urna#
+6218 sacco#
+6219 sarcofago#
+6220 vaso#
+6221 carretto#
+6222 bancale#
+6223 cassa#
+6224 tenda#
+6225 reliquiario#
+6226 bulbo#
+6227 vergine di ferro#
+6228 carriola#
+6229 cristallo#
+6230 armadietto#
+6231 capsula#
+6232 barile#
+6233 ceppo#
+6234 Un %s salta fuori dal %s!#
+6235 Sei sbalzato indietro da un torrente!#
+6236 Sei spruzzato di grasso!#
+6237 Sei spruzzato di magma!#
+6238 %s e' spruzzato di magma ardente!#
+6239 Il %s e' spruzzato di magma ardente!#
+6240 %s e' spruzzato di melma corrosiva!#
+6241 Il %s e' spruzzato di melma corrosiva!#
+6242 Sei spruzzato di melma corrosiva!#
+6243 %s e' spruzzato di grasso!#
+6244 Il %s e' spruzzato di grasso!#
+6245 Le mani diventano scivolose!#
+6246 Il tuo scudo scivola tra le dita!#
+6247 PRIMA I BLOCCATI#
+6248 Esce un %s!#
+6249 Mancato!#
+6250 STAT (HARDCORE)#
+6251 Apri Compendio#
+6252 Un pipistrello si desta!#
+6253 Alcuni %s saltano fuori dal %s!#
+6254 e' prosciugato da un pipistrello.#
+6255 viene maltrattato da un bugbear.#
+6256 bugbear#
+6257 bugbears#
+6258 colpisce#
+6259 *grugnito*#
+6260 Vedi un altare di Dedalo.#
+6261 Altare di Dedalo#
+6262 Tocca altare di Dedalo#
+6263 Ti ferisci attaccando il %s!#
+6264 Ti ferisci attaccando %s!#
+6265 Gli alleati degli gnomi tremano!#
+6266 Mancano Punti Sapere.
+Sblocca Obiettivi per averne!#
+6267 L'uscita e' rivelata!#
+6268 Tiri la corda...#
+6269 campana#
+6270 campana#
+6271 Suona campana#
+6272 Qualcosa era incastrato nella campana!#
+6273 La campana e' rotta!#
+6274 Ma non succede nulla.#
+6275 La campana precipita giu'!#
+6276 Sei colpito da una campana cadente!#
+6277 prende la campanata.#
+6278 Campana#
+6279 Il battaglio si stacca!#
+6280 Il rintocco rinvigorisce il %s!#
+6281 forza#
+6282 resistenza#
+6283 agilita'#
+6284 mentalita'#
+6285 Il minotauro arriva, corri!#
+6286 Hai schivato un attacco!#
+6287 Schivi un %s!#
+6288 La tua resistenza torna normale.#
+6289 La tua agilita' torna normale.#
+6290 La tua mentalita' torna normale.#
+6291 freccia volante#
+6292 dardo volante#
+6293 roccia volante#
+6294 Schivi un %s volante!#
+6295 magia#
+6296 proiettile#
+6297 La corda prende fuoco!#
+6298 Il rintocco ti rinfresca!#
+6299 Lobby: Aperta#
+6300 Lobby: Solo Amici#
+6301 Lobby: Solo Invito#
+6302 gnomo ladro#
+6303 capo ladro#
+6304 Incanta Arma#
+6305 Incanta Corazza#
+6306 Scegli oggetto da incantare:#
+6307 Questo %s
+ non puo' essere incantato.#
+6308 Il tuo %s perde benedizione.#
+6309 Sei investito da un torrente!#
+6310 Vel. Rotaz. Rapida#
+6311 Regola la velocita' della Rotazione Rapida.#
+6312 INDIETRO#
+6313 VISO#
+6314 COLLO#
+6315 ANELLO#
+6316 Riscatta#
+6317 Gia' Riscattato#
+6318 Niente da Ritirare#
+6319 CAMBIA A:
+#
+6320 ATTUALE: #
+6321 OGGETTI#
+6322 RAZZA#
+6323 CLASSE#
+6324 SELEZIONE OGGETTI ASSIST#
+6325 SELEZIONE RAZZA#
+6326 SELEZIONE CLASSE#
+6327 CAMBIANDO A: #
+6328 Assistenza:#
+6329 Penalita' Punti:#
+6330 Obiettivi:#
+6331 ATTIVO#
+6332 DISATTIVO#
+6333 Scelta classe azzerata
+per la razza scelta.#
+6334 Cambio Personaggio#
+6335 Modifiche applicate
+al prossimo avvio.#
+6336 %s ha cambiato personaggio per la prossima partita.
+(%s %s)#
+6337 Invio al server...#
+6338 Classe invalida!#
+6339 Prendi fino a quattro doni per
+agevolare l'avventura.
+
+Ogni punto Assistenza abbassa
+il punteggio finale del gruppo.#
+6340 OGG. ASSIST#
+6341 Hai usato l'Assist. (%d Pti)#
+6342 Oggetti Assist#
+6343 Consente di ritirare oggetti dall'altare Assist del primo piano per tarare la difficolta'.#
+6344 Attiva Oggetti Assist#
+6345 Oggetti Assist attivi#
+6346 Oggetti Assist disattivi#
+6347 Prendi fino a quattro doni per
+agevolare l'avventura.
+
+Gli Oggetti Assist sono disattivi
+nelle Impostazioni Gioco. Attiva
+l'opzione per usarli.
+
+#
+6348 Prendi fino a quattro doni per
+agevolare l'avventura.
+
+Gli Oggetti Assist sono disattivi
+nelle Impostazioni Gioco. Chiedi
+all'Host di attivare l'opzione.
+
+#
+6349 Richiedi Ogg. Assist#
+6350 Vedi Impost. Gioco#
+6351 L'altare e' gia' usato da qualcun altro.#
+6352 Vedi un altare Assist.#
+6353 Altare Assist#
+6354 Usa altare Assist#
+6355 Personaggio cambiato per la prossima partita.
+(%s %s)#
+6356 Prendi %d punti Assistenza dall'altare.#
+6357 %s prende %d punti Assistenza dall'altare Assist.#
+6358 driade#
+6359 miconide#
+6360 salamandra#
+6361 gremlin#
+6362 driadi#
+6363 miconidi#
+6364 salamandre#
+6365 gremlin#
+6366 colpisce#
+6367 colpisce#
+6368 colpisce#
+6369 colpisce#
+6370 *sospira*#
+6371 *gracida*#
+6372 Salve, campione.#
+6373 Parrat soo skeba da.#
+6374 Azzeri la serratura %s.#
+6375 Attivi la serratura %s.#
+6376 La chiave %s e' incastrata!#
+6377 La serratura %s e' gia' in uso.#
+6378 Attivi la serratura con il tuo %s.#
+6379 Non hai la chiave per la serratura %s.#
+6380 Quel pulsante e' gia' premuto.#
+6381 Premi il pulsante.#
+6382 Colpisci il pulsante!#
+# lock types
+6383 pietra#
+6384 spirito#
+6385 bronzo#
+6386 ferro#
+6387 argento#
+6388 oro#
+6389 cristallo#
+6390 macchina#
+6391 chiave#
+6392 serratura#
+6393 pulsante#
+6394 Vedi serratura %s.#
+6395 Vedi serratura %s con chiave.#
+6396 Vedi un pulsante.#
+6397 Usa chiave %s #
+6398 #
+6399 Azzera serr. %s#
+6400 Attiva serr. %s#
+6401 Premi pulsante#
+6402 (hai %d)#
+6403 La serratura del portone e' altrove!#
+6404 Apri il portone.#
+6405 Chiudi il portone.#
+6406 Il portone si blocca chiudendosi!#
+6407 Il portone e' bloccato!#
+6408 Blocchi il portone!#
+6409 Vedi un portone.#
+6410 La magia distrugge il portone!#
+6411 Apri il portone!#
+6412 Colpisci il portone!#
+6413 Il portone si spalanca!#
+6414 portone#
+6415 Sblocchi il portone.#
+6416 Blocchi il portone.#
+6417 Non riesci a sbloccare il portone.#
+6418 Questo portone e' gia' sbloccato.#
+6419 Una protezione arcana blocca il portone!#
+6420 Chiudi portone#
+6421 Apri portone#
+6422 Non hai l'abilita' per forzare la serr. %s!#
+6423 C'e' gia' una chiave %s in questa serratura.#
+6424 La serratura %s non si forza!#
+6425 Il passe-partout non entra!#
+6426 Il %s attiva la serr. %s!#
+6427 Il %s azzera la serr. %s.#
+6428 Non forzi la serratura %s.#
+6429 La serratura %s non si azzera coi grimaldelli.#
+6430 La serratura %s e' gia' stata forzata.#
+6431 L'effetto del canto non si estende oltre!#
+6432 Il colpo perfora l'armatura del %s!#
+6433 Il colpo perfora l'armatura di %s!#
+6434 Il %s para il tuo colpo!#
+6435 %s para il tuo colpo!#
+6436 Pari il colpo del %s!#
+6437 Pari il colpo di %s!#
+6438 Microfono#
+6439 Microfono usato per la chat vocale.#
+6440 Voce#
+6441 Sensibilita'#
+6442 Regola il volume dopo la normalizzazione.#
+6443 Ascolto Ingresso#
+6444 Ascolta il tuo ingresso basato su impostazioni in/out. Livelli monitorati mostrati a destra.#
+6445 Volume Voce#
+6446 Regola volume chat vocale in entrata.#
+6447 Premi e Parla#
+6448 Tieni premuto il tasto Chat Vocale per parlare. Se disabilitato, il tasto attiva/disattiva la trasmissione.#
+6449 Voce attivata.#
+6450 Ingresso vocale spento.#
+6451 Chat Vocale#
+6452 Invia Chat Vocale#
+6453 Attiva/disattiva invio voce. Ricevi Chat Vocale deve essere attivo per l'uso.#
+6454 Ricevi Chat Vocale#
+6455 Attiva/disattiva ricezione voce.#
+6456 Muto#
+6457 Livelli Voce#
+6458 Distanza Voce Aumentata#
+6459 La chat vocale ricevuta e' da piu' lontano. Disabilita per aumentare l'effetto prossimita'.#
+6460 Normalizza Volume Ingresso#
+6461 Aumenta volume segnali deboli, valori alti aumentano rumore di fondo. 0% disabilita.#
+6462 Input Puro#
+6463 Modificato#
+
+6464 Parata!#
+6465 La protezione blocca un attacco!#
+6466 Il %s blocca la tua magia!#
+6467 %s blocca la tua magia!#
+6468 Il %s para il tuo attacco!#
+6469 %s para il tuo attacco!#
+6470 La protezione blocca una magia!#
+6471 La protezione blocca un %s in volo!#
+6472 La protezione blocca un %s!#
+6473 Proteggi il corpo dai danni fisici!#
+6474 Proteggi lo spirito dalle magie nocive!#
+6475 Ti proteggi da attacchi fisici e magici!#
+6476 Le tue giunture si fanno agili e sciolte.#
+6477 I tuoi muscoli gonfiano di potenza.#
+6478 La tua mente si desta di saggio consiglio.#
+6479 Il corpo si tempra e si irrobustisce.#
+6480 La magia cerca un bersaglio d'ira sacra!#
+6481 Individui un alleato!#
+6482 Divini la posizione di un santuario vicino.#
+6483 I pericoli vicini ti sono rivelati!#
+6484 I pericoli vicini ti sono rivelati!#
+6485 La posizione dei tesori vicini ti appare in mente...#
+6486 Benedici il cibo che ti sostiene.#
+6487 Cerchi un'anima errante in cerca di penitenza.#
+6488 Implori provvidenza dai luoghi piu' umili.#
+6489 Chiami anime volenterose alla tua impresa!#
+6490 La protezione ti salva dal masso!#
+6491 La protezione ti salva dalla campana!#
+6492 La protezione ti salva dalle punte!#
+6493 Proteggi il corpo dalle trappole infide.#
+6494 Forze divine ti guidano verso il tesoro!#
+6495 Un nemico ti viene rivelato!#
+6496 Richiami la magia senza bersaglio.#
+6497 Comandi un sacro esorcismo!#
+6498 La magia non ha bersaglio!#
+6499 Lancia magia...#
+6500 Lancia magia su #
+6501 Annulla#
+6502 Il tuo sangue e' protetto dalle impurita'!#
+6503 La tua magia (%s) e' interrotta!#
+6504 Non sostieni la magia (%s).#
+6505 La difesa dalle impurita' svanisce...#
+6506 Il tuo sangue freme di nobile scopo!#
+6507 Il tuo sangue torna normale...#
+6508 I tuoi attacchi splendono di luce sacra!#
+6509 La luce sacra lascia i tuoi attacchi...#
+6510 Il tuo colpo castiga il %s!#
+6511 Il tuo colpo castiga %s!#
+6512 Muta Strumento#
+6513 Scegli lo strumento da mutare:#
+6514 Questo %s
+ non si puo' mutare.#
+6515 Il tuo %s diventa
+ %s!#
+6516 Il %s cresce di forza!#
+6517 Il %s rinsecchisce!#
+6518 La tua maledizione indebolisce il %s!#
+6519 Il %s e' confuso dalla magia!#
+6520 Il tuo focus magico migliora!#
+6521 Le tue armi grondano veleno!#
+6522 La maledizione umilia il %s!#
+6523 La tua volonta' schiaccia il %s.#
+6524 Liberi un torrente di grasso scivoloso!#
+6525 Liberi un'onda di pura energia magica!#
+6526 %s e' indebolito!#
+6527 Il %s e' indebolito!#
+6528 Ti senti debole!#
+6529 Il veleno magico evapora dalle tue armi.#
+6530 Il tuo focus magico torna normale.#
+6531 Il %s ti avvelena!#
+6532 %s ti avvelena!#
+6533 Il %s e' avvelenato!#
+6534 %s e' avvelenato!#
+6535 L'amuleto si scalda sul tuo collo.#
+6536 Ti senti unto!#
+6537 Il %s e' vincolato al tuo comando!#
+6538 Costo Oro:#
+6539 Oro insufficiente#
+6540 Oro insufficiente!#
+6541 Scegli l'arma da trasmutare:#
+6542 Scegli l'oggetto da trasmutare:#
+6543 Scegli la gemma da trasmutare:#
+6544 Trasmuta In:#
+6545 Metallurgia#
+6546 Geomanzia#
+6547 Crea Chiave#
+6548 Crea Gemma#
+6549 Potenzia Arma#
+6550 Rimodella Arma#
+6551 Muta Frecce#
+6552 Mana non basta#
+6553 Trasmutato %s con
+ %s.#
+6554 Trasmutati %dG
+ con %s.#
+6555 Costo Mana:#
+6556 Cambia Focus#
+6557 Risvegli il vuoto!#
+6558 La magia non ha effetto a forziere aperto.#
+6559 Fermo! E' un mimic del vuoto!#
+6560 Scegli l'oggetto da inviare al vuoto:#
+6561 Invia al Vuoto#
+6562 %s inviato
+ nel vuoto.#
+6563 Questo non appartiene al vuoto#
+6564 Questo %s
+ non appartiene al vuoto.#
+6565 Il vuoto e' gia' aperto da qualcun altro.#
+6566 Il vuoto non accetta altri oggetti.#
+6567 Il mimic inghiotte il %s!#
+6568 teschio revenant#
+6569 minimimic#
+6570 teschi revenant#
+6571 minimimic#
+6572 colpisce#
+6573 morde#
+6574 *tintinna*#
+6575 *cigola*#
+6576 Maledici la carne del %s!#
+6577 Evochi un %s animato!#
+6578 Non c'e' spazio per evocare!#
+6579 arma spirito#
+6580 posseduto adorcizzato#
+6581 elementale fuoco#
+6582 ologramma#
+6583 falena#
+6584 folletto terra#
+6585 papera#
+6586 monster_unused_6#
+6587 monster_unused_7#
+6588 monster_unused_8#
+6589 posseduti adorcizzati#
+6590 elementali fuoco#
+6591 ologrammi#
+6592 falene#
+6593 folletti terra#
+6594 papere#
+6595 monster_unused_6s#
+6596 monster_unused_7s#
+6597 monster_unused_8s#
+6598 colpisce#
+6599 colpisce#
+6600 colpisce#
+6601 colpisce#
+6602 colpisce#
+6603 colpisce#
+6604 colpisce#
+6605 colpisce#
+6606 colpisce#
+6607 ...#
+6608 ...#
+6609 ...#
+6610 ...#
+6611 ...#
+6612 *qua qua!*#
+6613 ...#
+6614 ...#
+6615 ...#
+6616 Adorcizza#
+6617 Scegli l'arma da evocare:#
+6618 Questo %s
+ non si adorcizza.#
+6619 torna a terra.#
+6620 svanisce!#
+6621 Il tuo %s 
+ torna a terra.#
+6622 Oro insufficiente!#
+6623 Il %s e' torpido!#
+6624 %s e' torpido!#
+6625 Sei intorpidito!#
+6626 muore per dolore tardivo.#
+6627 Ti senti inarrestabile!#
+6628 Il dolore torna nel corpo!#
+6629 La gravita' delle ferite ti travolge!#
+6630 Il %s non raggiunge nessun alleato!#
+6631 %s non raggiunge nessun alleato!#
+6632 Il %s perde il coraggio!#
+6633 Il %s vaga in cerca di un alleato!#
+6634 %s vaga in cerca di un alleato!#
+6635 Il %s non raggiunge nessun nemico!#
+6636 %s non raggiunge nessun nemico!#
+6637 Il %s si fa coraggio!#
+6638 Il %s vaga in cerca di un nemico!#
+6639 %s vaga in cerca di un nemico!#
+6640 Il %s e' il capro espiatorio!#
+6641 Sei il capro espiatorio!#
+6642 Le tue spore appassiscono...#
+6643 Ti ricopri di sacche di spore gonfie!#
+6644 Il %s lascia cadere l'arma!#
+6645 %s lascia cadere l'arma!#
+6646 Il %s perde l'equipaggiamento!#
+6647 %s perde l'equipaggiamento!#
+6648 Il tuo cibo torna normale.#
+6649 Le tue provviste tornano normali.#
+6650 Implori che il tuo cibo si moltiplichi...#
+6651 Implori che le provviste si moltiplichino...#
+6652 Grande Abbondanza preserva il tuo %s!#
+6653 Abbondanza preserva il tuo %s!#
+6654 La magia protegge il %s dai danni!#
+6655 Copri l'equipaggiamento con una barriera!#
+6656 La barriera protettiva svanisce dall'equipaggiamento.#
+6657 La tua magia non ha preservato il %s!#
+6658 Questa trappola e' gia' sabotata.#
+6659 Sabotti la trappola!#
+6660 Investi il %s!#
+6661 Investi %s!#
+6662 Dalla trappola escono dei rottami!#
+6663 Il corpo si fa nebbia!#
+6664 Il corpo si rimaterializza.#
+6665 Il mana non regge la forma di nebbia!#
+6666 La forma di nebbia ti protegge!#
+6667 Crei un ologramma a tua immagine!#
+6668 svanisce nel nulla.#
+6669 prende paura da un teschio revenant.#
+6670 e' derubato da un minimimic.#
+6671 e' incenerito da un elementale fuoco.#
+6672 cade per mano invisibile di un'arma adorcizzata.#
+6673 esplode!#
+6674 Evochi un %s!#
+6675 Non riesci a evocare un %s!#
+6676 Impugni gia' un %s!#
+6677 Al %s scheggi il %s!#
+6678 A %s scheggi il %s!#
+6679 Al %s rompi il %s!#
+6680 A %s rompi il %s!#
+6681 Il tuo carico si alleggerisce!#
+6682 Senti di nuovo il peso dell'equipaggiamento.#
+6683 Tocchi gli oggetti con energia invisibile...#
+6684 La presa sugli oggetti vicini svanisce.#
+6685 Leghi le armi da lancio con magia invisibile!#
+6686 Le tue armi da lancio tornano normali.#
+6687 Il tuo %s torna da te!#
+6688 Deturpi il %s!#
+6689 Hai disturbato un %s!#
+6690 La tua porta arcana e' chiusa.#
+6691 La porta arcana svanisce.#
+6692 Non c'e' spazio per la porta arcana!#
+6693 varco#
+6694 Incanti il varco!#
+6695 Crei un portale!#
+6696 Attraversi il portale.#
+6697 Hai forgiato %d %s!#
+6698 finisce tarlato.#
+6699 Gli oggetti in mano secondaria hanno forza difensiva!#
+6700 Gli oggetti in mano secondaria riflettono la magia!#
+6701 SCELTA OGG. ASSIST#
+6702 SCELTA CLASSE#
+6703 SCELTA RAZZA#
+6704 Il %s piroetta!#
+6705 %s piroetta!#
+6706 Il %s e' frastornato!#
+6707 %s e' frastornato!#
+6708 Vandalizza#
+6709 Profana#
+6710 Santifica#
+6711 Benedici#
+6712 Purifica#
+6713 Scegli lo strumento da evocare:#
+6714 Scegli cosa vandalizzare:#
+6715 Scegli cosa profanare:#
+6716 Scegli l'acqua da benedire:#
+6717 Scegli cosa santificare:#
+6718 Scegli cosa purificare:#
+6719 Questo %s
+ non si puo' vandalizzare.#
+6720 Questo %s
+ non si puo' profanare.#
+6721 Questo %s
+ non si puo' benedire.#
+6722 Questo %s
+ non si puo' santificare.#
+6723 Questo %s
+ non si puo' purificare.#
+6724 Vandalizzati %dG con
+ %s.#
+6725 Il tuo %s sembra piu' buono.#
+6726 Non si benedice oltre#
+6727 Sei gia' sotto gli effetti di %s.#
+6728 Attingi energia da un pozzo di magia...#
+6729 Il rito potenzia la tua prossima magia...#
+6730 Ti avvolge un manto di fiamme!#
+6731 Sei circondato da fiamme protettive!#
+6732 Il manto di fiamme incendia il %s!#
+6733 Il manto di fiamme incendia %s!#
+6734 Un manto di fiamme ti incendia!#
+6735 Ti prepari ad assorbire magia ostile!#
+6736 Non c'e' un soffitto stabile per la magia!#
+6737 e' lapidato da un folletto terra.#
+6738 e' soffocato da una driade.#
+6739 e' vandalizzato da un gremlin.#
+6740 e' funghito da un miconide.#
+6741 scopre quanto e' spietata una salamandra.#
+6742 %s subisce un seme radicante!#
+6743 Il %s subisce un seme radicante!#
+6744 Subisci un seme radicante!#
+6745 %s subisce un seme velenoso!#
+6746 Il %s subisce un seme velenoso!#
+6747 Subisci un seme velenoso!#
+6748 Non c'e' terreno per completare la magia!#
+6749 fungo#
+6750 Non c'e' spazio per completare la magia!#
+6751 Smetti di luccicare.#
+6752 Sei coperto di polvere luccicante!#
+6753 e' funghito da un fungo.#
+6754 Fungo#
+6755 L'aria si riempie di nebbia fitta.#
+6756 Una forza telecinetica ti trascina!#
+6757 Sei preso in un vortice!#
+6758 Sei sbattuto a terra!#
+6759 Foglie#
+6760 diventa polvere al vento.#
+6761 %s e' coperto di polvere luccicante!#
+6762 Il %s e' coperto di polvere luccicante!#
+6763 Sei irretito!#
+6764 Il %s e' irretito!#
+6765 %s e' irretito!#
+6766 Il %s ignora le bolas!#
+6767 %s ignora le bolas!#
+6768 [servono 4 razioni]#
+6769 Combini il %s con del %s...#
+6770 Sciogli il %s e lo raccogli con un %s...#
+6771 Creato %s.#
+6772 [no apriscatole]#
+6773 Cuoci#
+6774 [carburante scarso]#
+6775 arbusto#
+6776 baule#
+6777 rastrelliera#
+6778 Serve il DLC Deserters & Disciples
+per rigiocare questa sfida!
+
+
+#
+6779 Gnomo#
+6780 Gremlin#
+6781 Driade#
+6782 Miconide#
+6783 Salamandra#
+6784 bardo#
+6785 guastatore#
+6786 erede#
+6787 eremita#
+6788 paladino#
+# main menu capitalized
+6789 Bardo#
+6790 Guastatore#
+6791 Erede#
+6792 Eremita#
+6793 Paladino#
+6794 Non hai fogliame per lanciare la magia!#
+6795 Sei coperto di spine!#
+6796 Sei coperto di liane lama!#
+6797 Le spine si ritraggono.#
+6798 Le liane lama si sfaldano.#
+6799 Ti ancori con micelio saldo!#
+6800 Ti pianti con radici robuste!#
+6801 Ti liberi dal micelio.#
+6802 Ti liberi dalle radici.#
+6803 torna polvere.#
+6804 Serve piu' abilita' %s#
+6805 Serve piu' abilita'#
+6806 trova il suo riposo finale.#
+6807 scheletro revenant#
+6808 Comandi un %s dai defunti!#
+6809 Sfasci la struttura del %s!#
+6810 Sfasci la struttura di %s!#
+6811 L'armatura scheggiata ti ferisce!#
+6812 L' armatura in frantumi ti ferisce molto!#
+6813 Il mana non ha richiamato il tuo %s!#
+6814 Non riesci ad aprire un varco in questo muro.#
+6815 Il %s prende vita!#
+6816 credenza#
+6817 cassetto#
+6818 candelabro#
+
+6826 Sei benedetto con la pace!#
+6827 Sei benedetto con la giustizia!#
+6828 Sei benedetto con la provvidenza!#
+6829 Sei benedetto con la purezza!#
+6830 Sei benedetto col santuario!#
+6831 Scorda#
+6832 Sacrifica una magia per ricarica:#
+6833 Ricarica#
+6834 Ricarica#
+6835 Conferma Scorda (%d)#
+6836 Dimentichi la magia %s.#
+6837 Questo %s
+ non serve a ricaricare.#
+6838 Il tuo %s 
+ e' gia' del tutto carico!#
+6839 Il tuo %s e' scarico!#
+6840 L'icona blocca i nemici in stasi!#
+6841 L'icona radica i nemici sul posto!#
+6842 Filtro Magie:
+%s#
+6843 Invoca#
+6844 Suona#
+6845 Richiami la tua luce precedente.#
+6846 Zona Morta Movimento#
+6847 Regola la zona morta della levetta usata per muovere il personaggio.#
+6848 Zona Morta Camera#
+6849 Regola la zona morta della levetta usata per ruotare la camera.#
+6850 tavola di %s#
+6851 tavole di %s#
+6852 Il %s si deteriora e cade in cenere!#
+6853 non sopravvive all'impatto.#
+6854 Velocita'#
+6855 Risorse insufficienti#
+6856 La magia non assorbe altra energia!#
+6857 La tua magia assorbe il colpo!#
+6858 La magia assorbita aumenta i tuoi danni!#
+6859 Il manto di fiamme cade in cenere.#
+6860 Il tuo manto di fiamme ruggisce!#
+6861 La pergamena esplode in un manto di fuoco!#
+6862 Ti protegge una bolla magica!#
+6863 La tua bolla magica svanisce.#
+6864 La guardia sul tuo corpo svanisce.#
+6865 La guardia sul tuo spirito svanisce.#
+6866 La guardia divina svanisce.#
+6867 L'amuleto brilla di rosso tenue.#
+6868 Non hai altro da imparare commerciando con lui.#
+6869 La papera scivola fuori dallo zaino!#
+6870 Musica Strumenti in Sottofondo#
+6871 Fa continuare la musica dello strumento mentre i suoi effetti sono attivi ma non lo stai suonando.#
+6872 Musica Strumenti in Primo Piano#
+6873 Descrizione Musica Strumenti in Primo Piano#
+6874 Proietti il tuo spirito lontano!#
+6875 Il tuo spirito torna nel corpo.#
+6876 La proiezione spirituale svanisce...#
+6877 Profilo#
+6878 Qua!#
+6879 Torna#
+6880 Tasti Barra Cambiano Selezione#
+6881 Permette allo slot evidenziato della barra di cambiare quando usi i tasti dei singoli slot.#
+6882 Il marcio ti rinvigorisce!#
+6883 Ti liberi del fogliame in fiamme!#
+6884 Fai germogliare un arbusto!#
+6885 Fai spuntare un fungo!#
+6886 Il tuo vandalismo ti carica!#
+6887 Scegli il risultato:#
+6888 Conferma#
+6889 Togli#
+6890 %s cresce di forza!#
+6891 Il %s non puo' crescere oltre!#
+6892 %s non puo' crescere oltre!#
+6893 %s rinsecchisce!#
+6894 Il %s non puo' rimpicciolire oltre!#
+6895 %s non puo' rimpicciolire oltre!#
+6896 Ti senti ingrandito!#
+6897 Ti senti ridotto!#
+6898 La tua statura torna normale.#
+6899 Non riesci a scrutare altri alleati.#
+6900 %s perde il coraggio!#
+6901 %s si fa coraggio!#
+6902 %s e' vincolato al tuo comando!#
+6903 %s fa da capro espiatorio!#
+6904 Maledici la carne di %s!#
+6905 Nega la vitalita' del %s!#
+6906 Nega la vitalita' di %s!#
+6907 Ti negano la vitalita'!#
+6908 La tua magia ora non ha effetto!#
+6909 Il potere magico di %s cala!#
+6910 Il potere magico del %s cala!#
+6911 Il tuo potere magico cala!#
+6912 Improvvisamente ti senti alto!#
+6913 Improvvisamente ti senti basso!#
+6914 Noti un improvviso cambio d'aspetto!#
+6915 Calderone#
+6916 Le fiamme spente accrescono il tuo fervore!#
+6917 L'armatura impervia svanisce.#
+6918 Ardi di puro splendore!#
+6919 Le tue scaglie si fanno pietra impervia!#
+6920 La tua temperanza torna normale.#
+6921 Il tuo splendore si stabilizza.#
+6922 Non puoi caricare oltre il tuo simbolo!#
+6923 Non puoi caricare oltre la tua icona!#
+6924 Il tuo fogliame prospera di nutrimento!#
+6925 Il fogliame cresce!#
+6926 La preghiera su %s cessa.#
+6927 La preghiera sul %s cessa.#
+6928 Il %s riceve una preghiera di cura!#
+6929 %s riceve una preghiera di cura!#
+6930 Preghi per la cura!#
+6931 La preghiera cessa.#
+6932 Ricevi una preghiera di cura!#
+6933 La tua preghiera e' interrotta!#
+6934 La difesa del sangue cura il veleno!#
+6935 La difesa del sangue ferma l'emorragia!#
+6936 Non riesci a scrutare alleati.#
+6937 Non riesci a scrutare trappole vicine.#
+6938 Non riesci a scrutare altre trappole vicine.#
+6939 Non riesci a scrutare tesori vicini.#
+6940 Non riesci a scrutare altri tesori vicini.#
+6941 Non sei giudicato degno di un'altra offerta.#
+6942 La tua richiesta di provvidenza resta muta.#
+6943 Scopri un dono della divina provvidenza!#
+6944 Il tuo alleato %s scopre un dono di provvidenza!#
+6945 L'alleato di %s, %s, scopre un dono divino!#
+6946 Non rilevi altri mostri nei paraggi.#
+6947 Non rilevi mostri nei paraggi.#
+6948 Non localizzi altri mostri nei paraggi.#
+6949 Non localizzi mostri nei paraggi.#
+6950 Il %s e' castigato con precisione divina!#
+6951 %s e' castigato con precisione divina!#
+6952 Copri l'area con un sigillo divino!#
+6953 Copri l'area con un santuario divino!#
+6954 Il %s e' comprato al tuo servizio!#
+6955 %s e' comprato al tuo servizio!#
+6956 (%02d:%02d%) Valutando...#
+6957 (%02d:%02d%) %3.0f%% Valutando...#
+6958 Sabotti la struttura del %s!#
+6959 Sabotti la struttura di %s!#
+6960 Il passe-partout e' danneggiato.#
+6961 Il passe-partout e' rotto.#
+6962 Il tuo potere non domina altre creature.#
+6963 Lo scarabeo ti maledice con debolezza!#
+6964 Lo scarabeo ti maledice con grave debolezza!#
+6965 N/D#
+6966 La tua influenza non basta a vincolare il %s!#
+6967 La tua influenza non basta a vincolare %s!#
+6968 Il %s rifiuta altri vincoli!#
+6969 %s rifiuta altri vincoli!#
+6970 non e' riuscito a lasciare l'equipaggiamento.#
+6971 La tua bolla magica si rafforza!#
+6972 La bolla magica ha raggiunto il limite dei tuoi poteri.#
+6973 Parte del tuo oro e' svanita!#
+6974 calderone#
+6975 Il calderone e' gia' usato da qualcun altro.#
+6976 Vedi un calderone.#
+6977 Usa calderone#
+6978 Officina#
+6979 Usa officina#
+6980 Vedi un'officina.#
+6981 officina#
+6982 L'officina e' gia' usata da qualcun altro.#
+6983 Cassetta#
+6984 Usa cassetta#
+6985 Vedi una cassetta.#
+6986 cassetta#
+6987 La cassetta e' gia' usata da qualcun altro.#
+6988 Ritira#
+6989 DLC Deserters and Disciples
+sbloccato!#
+6990 Una palla di sbobba ti acceca!
+ *SPLAT*#
+6991 Gnam! Cibo marcio!#
+6992 I tuoi oggetti ignoti sono piu' valutati!#
+6993 Modificatore Uso Alternativo#
+6994 Lancio Rapido da Barra#
+6995 Se attivo, le magie attivati dalla barra vengono lanciati subito.#
+6996 Limite Eventi Mouse#
+6997 Limita gli eventi di movimento del mouse per fotogramma per evitare bruschi scatti di camera.#
+6998 Illimitato#
+
+7999 END#

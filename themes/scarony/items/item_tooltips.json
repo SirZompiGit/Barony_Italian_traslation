@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"adjectives": {
+		"food_status": {
+			"broken": "Con Lametta",
+			"decrepit": "Scaduto",
+			"worn": "Rantio",
+			"serviceable": "Poco Rantio",
+			"excellent": "Fresco"
+		}
+	}
+}

@@ -1,0 +1,2739 @@
+{
+	"version": 1,
+	"items": {
+		"wooden_shield": {
+			"name_identified": "scudo legno",
+			"name_unidentified": "scudo legno"
+		},
+		"quarterstaff": {
+			"name_identified": "bastone ferrato",
+			"name_unidentified": "bastone ferrato"
+		},
+		"bronze_sword": {
+			"name_identified": "spada bronzo",
+			"name_unidentified": "spada bronzo"
+		},
+		"bronze_mace": {
+			"name_identified": "mazza bronzo",
+			"name_unidentified": "mazza bronzo"
+		},
+		"bronze_axe": {
+			"name_identified": "ascia bronzo",
+			"name_unidentified": "ascia bronzo"
+		},
+		"bronze_shield": {
+			"name_identified": "scudo bronzo",
+			"name_unidentified": "scudo bronzo"
+		},
+		"sling": {
+			"name_identified": "fionda",
+			"name_unidentified": "fionda"
+		},
+		"iron_spear": {
+			"name_identified": "lancia ferro",
+			"name_unidentified": "lancia ferro"
+		},
+		"iron_sword": {
+			"name_identified": "spada ferro",
+			"name_unidentified": "spada ferro"
+		},
+		"iron_mace": {
+			"name_identified": "mazza ferro",
+			"name_unidentified": "mazza ferro"
+		},
+		"iron_axe": {
+			"name_identified": "ascia ferro",
+			"name_unidentified": "ascia ferro"
+		},
+		"iron_shield": {
+			"name_identified": "scudo ferro",
+			"name_unidentified": "scudo ferro"
+		},
+		"shortbow": {
+			"name_identified": "arco corto",
+			"name_unidentified": "arco corto"
+		},
+		"steel_halberd": {
+			"name_identified": "alabarda acciaio",
+			"name_unidentified": "alabarda acciaio"
+		},
+		"steel_sword": {
+			"name_identified": "spada acciaio",
+			"name_unidentified": "spada acciaio"
+		},
+		"steel_mace": {
+			"name_identified": "mazza acciaio",
+			"name_unidentified": "mazza acciaio"
+		},
+		"steel_axe": {
+			"name_identified": "ascia acciaio",
+			"name_unidentified": "ascia acciaio"
+		},
+		"steel_shield": {
+			"name_identified": "scudo acciaio",
+			"name_unidentified": "scudo acciaio"
+		},
+		"steel_shield_resistance": {
+			"name_identified": "scudo acciaio resistenza magica",
+			"name_unidentified": "scudo acciaio"
+		},
+		"crossbow": {
+			"name_identified": "balestra",
+			"name_unidentified": "balestra"
+		},
+		"gloves": {
+			"name_identified": "guanti pelle",
+			"name_unidentified": "guanti"
+		},
+		"gloves_dexterity": {
+			"name_identified": "guanti pelle destrezza",
+			"name_unidentified": "guanti"
+		},
+		"bracers": {
+			"name_identified": "bracciali ferro",
+			"name_unidentified": "bracciali"
+		},
+		"bracers_constitution": {
+			"name_identified": "bracciali ferro costituzione",
+			"name_unidentified": "bracciali"
+		},
+		"gauntlets": {
+			"name_identified": "guanti acciaio",
+			"name_unidentified": "guanti"
+		},
+		"gauntlets_strength": {
+			"name_identified": "guanti acciaio forza",
+			"name_unidentified": "guanti"
+		},
+		"cloak": {
+			"name_identified": "mantello",
+			"name_unidentified": "mantello"
+		},
+		"cloak_magicreflection": {
+			"name_identified": "mantello riflessione magica",
+			"name_unidentified": "mantello"
+		},
+		"cloak_invisibility": {
+			"name_identified": "mantello invisibilita'",
+			"name_unidentified": "mantello"
+		},
+		"cloak_protection": {
+			"name_identified": "mantello protezione",
+			"name_unidentified": "mantello"
+		},
+		"leather_boots": {
+			"name_identified": "stivali pelle",
+			"name_unidentified": "stivali pelle"
+		},
+		"leather_boots_speed": {
+			"name_identified": "stivali pelle velocita'",
+			"name_unidentified": "stivali pelle"
+		},
+		"iron_boots": {
+			"name_identified": "stivali ferro",
+			"name_unidentified": "stivali ferro"
+		},
+		"iron_boots_waterwalking": {
+			"name_identified": "stivali ferro camminare sull'acqua",
+			"name_unidentified": "stivali ferro"
+		},
+		"steel_boots": {
+			"name_identified": "stivali acciaio",
+			"name_unidentified": "stivali acciaio"
+		},
+		"steel_boots_levitation": {
+			"name_identified": "stivali acciaio levitazione",
+			"name_unidentified": "stivali acciaio"
+		},
+		"steel_boots_feather": {
+			"name_identified": "stivali acciaio piuma",
+			"name_unidentified": "stivali acciaio"
+		},
+		"leather_breastpiece": {
+			"name_identified": "corazza pelle",
+			"name_unidentified": "corazza pelle"
+		},
+		"iron_breastpiece": {
+			"name_identified": "corazza ferro",
+			"name_unidentified": "corazza ferro"
+		},
+		"steel_breastpiece": {
+			"name_identified": "corazza acciaio",
+			"name_unidentified": "corazza acciaio"
+		},
+		"hat_phrygian": {
+			"name_identified": "cappello frigio",
+			"name_unidentified": "cappello frigio"
+		},
+		"hat_hood": {
+			"name_identified": "cappuccio",
+			"name_unidentified": "cappuccio"
+		},
+		"hat_wizard": {
+			"name_identified": "cappello mago",
+			"name_unidentified": "cappello mago"
+		},
+		"hat_jester": {
+			"name_identified": "cappello giullare",
+			"name_unidentified": "cappello giullare"
+		},
+		"leather_helm": {
+			"name_identified": "elmo pelle",
+			"name_unidentified": "elmo pelle"
+		},
+		"iron_helm": {
+			"name_identified": "elmo ferro",
+			"name_unidentified": "elmo ferro"
+		},
+		"steel_helm": {
+			"name_identified": "elmo acciaio",
+			"name_unidentified": "elmo acciaio"
+		},
+		"amulet_sexchange": {
+			"name_identified": "amuleto cambio sesso",
+			"name_unidentified": "amuleto"
+		},
+		"amulet_lifesaving": {
+			"name_identified": "amuleto salva vita",
+			"name_unidentified": "amuleto"
+		},
+		"amulet_waterbreathing": {
+			"name_identified": "amuleto nuoto olimpionico",
+			"name_unidentified": "amuleto"
+		},
+		"amulet_magicreflection": {
+			"name_identified": "amuleto riflessione magica",
+			"name_unidentified": "amuleto"
+		},
+		"amulet_strangulation": {
+			"name_identified": "amuleto strangolamento",
+			"name_unidentified": "amuleto"
+		},
+		"amulet_poisonresistance": {
+			"name_identified": "amuleto resistenza al veleno",
+			"name_unidentified": "amuleto"
+		},
+		"potion_water": {
+			"name_identified": "bottiglia acqua",
+			"name_unidentified": "pozione"
+		},
+		"potion_booze": {
+			"name_identified": "bottiglia alcol",
+			"name_unidentified": "pozione"
+		},
+		"potion_juice": {
+			"name_identified": "bottiglia succo",
+			"name_unidentified": "pozione"
+		},
+		"potion_sickness": {
+			"name_identified": "pozione malattia",
+			"name_unidentified": "pozione"
+		},
+		"potion_confusion": {
+			"name_identified": "pozione confusione",
+			"name_unidentified": "pozione"
+		},
+		"potion_extrahealing": {
+			"name_identified": "pozione cura extra",
+			"name_unidentified": "pozione"
+		},
+		"potion_healing": {
+			"name_identified": "pozione cura",
+			"name_unidentified": "pozione"
+		},
+		"potion_cureailment": {
+			"name_identified": "pozione cura malattia",
+			"name_unidentified": "pozione"
+		},
+		"potion_blindness": {
+			"name_identified": "pozione cecita'",
+			"name_unidentified": "pozione"
+		},
+		"potion_restoremagic": {
+			"name_identified": "pozione ripristina magia",
+			"name_unidentified": "pozione"
+		},
+		"potion_invisibility": {
+			"name_identified": "pozione invisibilita'",
+			"name_unidentified": "pozione"
+		},
+		"potion_levitation": {
+			"name_identified": "pozione levitazione",
+			"name_unidentified": "pozione"
+		},
+		"potion_speed": {
+			"name_identified": "pozione velocita'",
+			"name_unidentified": "pozione"
+		},
+		"potion_acid": {
+			"name_identified": "pozione acida",
+			"name_unidentified": "pozione"
+		},
+		"potion_paralysis": {
+			"name_identified": "pozione paralisi",
+			"name_unidentified": "pozione"
+		},
+		"scroll_mail": {
+			"name_identified": "lettera",
+			"name_unidentified": "pergamena timbrata"
+		},
+		"scroll_identify": {
+			"name_identified": "pergamena identifica",
+			"name_unidentified": "pergamena"
+		},
+		"scroll_light": {
+			"name_identified": "pergamena luce",
+			"name_unidentified": "pergamena"
+		},
+		"scroll_blank": {
+			"name_identified": "pergamena bianca",
+			"name_unidentified": "pergamena"
+		},
+		"scroll_enchantweapon": {
+			"name_identified": "pergamena incanta arma",
+			"name_unidentified": "pergamena"
+		},
+		"scroll_enchantarmor": {
+			"name_identified": "pergamena incanta armatura",
+			"name_unidentified": "pergamena"
+		},
+		"scroll_removecurse": {
+			"name_identified": "pergamena smaledice",
+			"name_unidentified": "pergamena"
+		},
+		"scroll_fire": {
+			"name_identified": "pergamena fuoco",
+			"name_unidentified": "pergamena"
+		},
+		"scroll_food": {
+			"name_identified": "pergamena cibo",
+			"name_unidentified": "pergamena"
+		},
+		"scroll_magicmapping": {
+			"name_identified": "pergamena mappatura magica",
+			"name_unidentified": "pergamena"
+		},
+		"scroll_repair": {
+			"name_identified": "pergamena ripara",
+			"name_unidentified": "pergamena"
+		},
+		"scroll_destroyarmor": {
+			"name_identified": "pergamena distruggi armatura",
+			"name_unidentified": "pergamena"
+		},
+		"scroll_teleportation": {
+			"name_identified": "pergamena teletrasporto",
+			"name_unidentified": "pergamena"
+		},
+		"scroll_summon": {
+			"name_identified": "pergamena evocazione",
+			"name_unidentified": "pergamena"
+		},
+		"magicstaff_light": {
+			"name_identified": "bastone luce",
+			"name_unidentified": "bastone magico"
+		},
+		"magicstaff_digging": {
+			"name_identified": "bastone scavo",
+			"name_unidentified": "bastone magico"
+		},
+		"magicstaff_locking": {
+			"name_identified": "bastone chiusura",
+			"name_unidentified": "bastone magico"
+		},
+		"magicstaff_magicmissile": {
+			"name_identified": "bastone dardo incantato",
+			"name_unidentified": "bastone magico"
+		},
+		"magicstaff_opening": {
+			"name_identified": "bastone apertura",
+			"name_unidentified": "bastone magico"
+		},
+		"magicstaff_slow": {
+			"name_identified": "bastone lentezza",
+			"name_unidentified": "bastone magico"
+		},
+		"magicstaff_cold": {
+			"name_identified": "bastone freddo",
+			"name_unidentified": "bastone magico"
+		},
+		"magicstaff_fire": {
+			"name_identified": "bastone fuoco",
+			"name_unidentified": "bastone magico"
+		},
+		"magicstaff_lightning": {
+			"name_identified": "bastone fulmine",
+			"name_unidentified": "bastone magico"
+		},
+		"magicstaff_sleep": {
+			"name_identified": "bastone sonno",
+			"name_unidentified": "bastone magico"
+		},
+		"ring_adornment": {
+			"name_identified": "anello ornamento",
+			"name_unidentified": "anello"
+		},
+		"ring_slowdigestion": {
+			"name_identified": "anello lenta digestione",
+			"name_unidentified": "anello"
+		},
+		"ring_protection": {
+			"name_identified": "anello protezione",
+			"name_unidentified": "anello"
+		},
+		"ring_warning": {
+			"name_identified": "anello avvertimento",
+			"name_unidentified": "anello"
+		},
+		"ring_strength": {
+			"name_identified": "anello forza",
+			"name_unidentified": "anello"
+		},
+		"ring_constitution": {
+			"name_identified": "anello costituzione",
+			"name_unidentified": "anello"
+		},
+		"ring_invisibility": {
+			"name_identified": "anello invisibilita'",
+			"name_unidentified": "anello"
+		},
+		"ring_magicresistance": {
+			"name_identified": "anello resistenza magica",
+			"name_unidentified": "anello"
+		},
+		"ring_conflict": {
+			"name_identified": "anello conflitto",
+			"name_unidentified": "anello"
+		},
+		"ring_levitation": {
+			"name_identified": "anello levitazione",
+			"name_unidentified": "anello"
+		},
+		"ring_regeneration": {
+			"name_identified": "anello rigenerazione",
+			"name_unidentified": "anello"
+		},
+		"ring_teleportation": {
+			"name_identified": "anello teletrasporto",
+			"name_unidentified": "anello"
+		},
+		"spellbook_forcebolt": {
+			"name_identified": "libro impattaforza",
+			"name_unidentified": "libro"
+		},
+		"spellbook_magicmissile": {
+			"name_identified": "libro dardo incantato",
+			"name_unidentified": "libro"
+		},
+		"spellbook_cold": {
+			"name_identified": "libro freddo",
+			"name_unidentified": "libro"
+		},
+		"spellbook_fireball": {
+			"name_identified": "libro palla fuoco",
+			"name_unidentified": "libro"
+		},
+		"spellbook_light": {
+			"name_identified": "libro luce",
+			"name_unidentified": "libro"
+		},
+		"spellbook_removecurse": {
+			"name_identified": "libro rimuovi maledizione",
+			"name_unidentified": "libro"
+		},
+		"spellbook_lightning": {
+			"name_identified": "libro fulmine",
+			"name_unidentified": "libro"
+		},
+		"spellbook_identify": {
+			"name_identified": "libro identificazione",
+			"name_unidentified": "libro"
+		},
+		"spellbook_magicmapping": {
+			"name_identified": "libro mappatura magica",
+			"name_unidentified": "libro"
+		},
+		"spellbook_sleep": {
+			"name_identified": "libro sonno",
+			"name_unidentified": "libro"
+		},
+		"spellbook_confuse": {
+			"name_identified": "libro confusione",
+			"name_unidentified": "libro"
+		},
+		"spellbook_slow": {
+			"name_identified": "libro lentezza",
+			"name_unidentified": "libro"
+		},
+		"spellbook_opening": {
+			"name_identified": "libro apertura",
+			"name_unidentified": "libro"
+		},
+		"spellbook_locking": {
+			"name_identified": "libro chiusura",
+			"name_unidentified": "libro"
+		},
+		"spellbook_levitation": {
+			"name_identified": "libro levitazione",
+			"name_unidentified": "libro"
+		},
+		"spellbook_invisibility": {
+			"name_identified": "libro invisibilita'",
+			"name_unidentified": "libro"
+		},
+		"spellbook_teleportation": {
+			"name_identified": "libro teletrasporto",
+			"name_unidentified": "libro"
+		},
+		"spellbook_healing": {
+			"name_identified": "libro cura",
+			"name_unidentified": "libro"
+		},
+		"spellbook_extrahealing": {
+			"name_identified": "libro cura extra",
+			"name_unidentified": "libro"
+		},
+		"spellbook_cureailment": {
+			"name_identified": "libro cura malattia",
+			"name_unidentified": "libro"
+		},
+		"spellbook_dig": {
+			"name_identified": "libro scavo",
+			"name_unidentified": "libro"
+		},
+		"gem_rock": {
+			"name_identified": "roccia",
+			"name_unidentified": "roccia"
+		},
+		"gem_luck": {
+			"name_identified": "pietrafortuna",
+			"name_unidentified": "roccia"
+		},
+		"gem_garnet": {
+			"name_identified": "granato",
+			"name_unidentified": "gemma"
+		},
+		"gem_ruby": {
+			"name_identified": "rubino",
+			"name_unidentified": "gemma"
+		},
+		"gem_jacinth": {
+			"name_identified": "giacinto",
+			"name_unidentified": "gemma"
+		},
+		"gem_amber": {
+			"name_identified": "ambra",
+			"name_unidentified": "gemma"
+		},
+		"gem_citrine": {
+			"name_identified": "citrino",
+			"name_unidentified": "gemma"
+		},
+		"gem_jade": {
+			"name_identified": "giada",
+			"name_unidentified": "gemma"
+		},
+		"gem_emerald": {
+			"name_identified": "smeraldo",
+			"name_unidentified": "gemma"
+		},
+		"gem_sapphire": {
+			"name_identified": "zaffiro",
+			"name_unidentified": "gemma"
+		},
+		"gem_aquamarine": {
+			"name_identified": "acquamarina",
+			"name_unidentified": "gemma"
+		},
+		"gem_amethyst": {
+			"name_identified": "ametista",
+			"name_unidentified": "gemma"
+		},
+		"gem_fluorite": {
+			"name_identified": "fluorite",
+			"name_unidentified": "gemma"
+		},
+		"gem_opal": {
+			"name_identified": "opale",
+			"name_unidentified": "gemma"
+		},
+		"gem_diamond": {
+			"name_identified": "diamante",
+			"name_unidentified": "gemma"
+		},
+		"gem_jetstone": {
+			"name_identified": "giaietto",
+			"name_unidentified": "gemma"
+		},
+		"gem_obsidian": {
+			"name_identified": "ossidiana",
+			"name_unidentified": "gemma"
+		},
+		"gem_glass": {
+			"name_identified": "pezzo vetro inutile",
+			"name_unidentified": "gemma"
+		},
+		"tool_pickaxe": {
+			"name_identified": "piccone",
+			"name_unidentified": "piccone"
+		},
+		"tool_tinopener": {
+			"name_identified": "apriscatole",
+			"name_unidentified": "apriscatole"
+		},
+		"tool_mirror": {
+			"name_identified": "specchio",
+			"name_unidentified": "specchio"
+		},
+		"tool_lockpick": {
+			"name_identified": "grimaldello",
+			"name_unidentified": "grimaldello"
+		},
+		"tool_skeletonkey": {
+			"name_identified": "passe-partout",
+			"name_unidentified": "passe-partout"
+		},
+		"tool_torch": {
+			"name_identified": "torcia",
+			"name_unidentified": "torcia"
+		},
+		"tool_lantern": {
+			"name_identified": "lanterna",
+			"name_unidentified": "lanterna"
+		},
+		"tool_blindfold": {
+			"name_identified": "benda",
+			"name_unidentified": "benda"
+		},
+		"tool_towel": {
+			"name_identified": "asciugamano",
+			"name_unidentified": "asciugamano"
+		},
+		"tool_glasses": {
+			"name_identified": "paio occhiali",
+			"name_unidentified": "paio occhiali"
+		},
+		"tool_beartrap": {
+			"name_identified": "tagliola",
+			"name_unidentified": "tagliola"
+		},
+		"food_bread": {
+			"name_identified": "pane",
+			"name_unidentified": "pane"
+		},
+		"food_creampie": {
+			"name_identified": "torta crema",
+			"name_unidentified": "torta crema"
+		},
+		"food_cheese": {
+			"name_identified": "formaggio",
+			"name_unidentified": "formaggio"
+		},
+		"food_apple": {
+			"name_identified": "mela",
+			"name_unidentified": "mela"
+		},
+		"food_meat": {
+			"name_identified": "carne",
+			"name_unidentified": "carne"
+		},
+		"food_fish": {
+			"name_identified": "pesce",
+			"name_unidentified": "pesce"
+		},
+		"food_tin": {
+			"name_identified": "latta",
+			"name_unidentified": "latta"
+		},
+		"readable_book": {
+			"name_identified": "libro",
+			"name_unidentified": "libro leggibile"
+		},
+		"spell_item": {
+			"name_identified": "magia",
+			"name_unidentified": "magia"
+		},
+		"artifact_sword": {
+			"name_identified": "Dyrnwyn",
+			"name_unidentified": "spada magica"
+		},
+		"artifact_mace": {
+			"name_identified": "Sharur",
+			"name_unidentified": "mazza magica"
+		},
+		"artifact_spear": {
+			"name_identified": "Gungnir",
+			"name_unidentified": "lancia magica"
+		},
+		"artifact_axe": {
+			"name_identified": "Parashu",
+			"name_unidentified": "ascia magica"
+		},
+		"artifact_bow": {
+			"name_identified": "Khryselakatos",
+			"name_unidentified": "arco magico"
+		},
+		"artifact_breastpiece": {
+			"name_identified": "Maglia Drago",
+			"name_unidentified": "corazza artefatto"
+		},
+		"artifact_helm": {
+			"name_identified": "Casco Sfinge",
+			"name_unidentified": "elmo artefatto"
+		},
+		"artifact_boots": {
+			"name_identified": "Calzari Oracolo",
+			"name_unidentified": "stivali artefatto"
+		},
+		"artifact_cloak": {
+			"name_identified": "Veste Spettro",
+			"name_unidentified": "mantello artefatto"
+		},
+		"artifact_gloves": {
+			"name_identified": "Bracciale Genio",
+			"name_unidentified": "guanti artefatto"
+		},
+		"crystal_breastpiece": {
+			"name_identified": "corazza cristallo",
+			"name_unidentified": "corazza cristallo"
+		},
+		"crystal_helm": {
+			"name_identified": "elmo cristallo",
+			"name_unidentified": "elmo cristallo"
+		},
+		"crystal_boots": {
+			"name_identified": "stivali cristallo",
+			"name_unidentified": "stivali cristallo"
+		},
+		"crystal_shield": {
+			"name_identified": "scudo cristallo",
+			"name_unidentified": "scudo cristallo"
+		},
+		"crystal_gloves": {
+			"name_identified": "guanti cristallo",
+			"name_unidentified": "guanti cristallo"
+		},
+		"vampire_doublet": {
+			"name_identified": "farsetto vampiro",
+			"name_unidentified": "farsetto"
+		},
+		"wizard_doublet": {
+			"name_identified": "farsetto mago",
+			"name_unidentified": "farsetto"
+		},
+		"healer_doublet": {
+			"name_identified": "farsetto guaritore",
+			"name_unidentified": "farsetto"
+		},
+		"mirror_shield": {
+			"name_identified": "scudo specchio",
+			"name_unidentified": "scudo specchio"
+		},
+		"brass_knuckles": {
+			"name_identified": "tirapugni ottone",
+			"name_unidentified": "tirapugni"
+		},
+		"iron_knuckles": {
+			"name_identified": "tirapugni ferro",
+			"name_unidentified": "tirapugni"
+		},
+		"spiked_gauntlets": {
+			"name_identified": "guanti chiodati",
+			"name_unidentified": "tirapugni"
+		},
+		"food_tomalley": {
+			"name_identified": "tomalley",
+			"name_unidentified": "tomalley"
+		},
+		"tool_crystalshard": {
+			"name_identified": "scheggia crist.",
+			"name_unidentified": "scheggia crist."
+		},
+		"crystal_sword": {
+			"name_identified": "spada cristallo",
+			"name_unidentified": "spada cristallo"
+		},
+		"crystal_spear": {
+			"name_identified": "lancia cristallo",
+			"name_unidentified": "lancia cristallo"
+		},
+		"crystal_battleaxe": {
+			"name_identified": "ascia cristallo",
+			"name_unidentified": "ascia cristallo"
+		},
+		"crystal_mace": {
+			"name_identified": "mazza cristallo",
+			"name_unidentified": "mazza cristallo"
+		},
+		"bronze_tomahawk": {
+			"name_identified": "tomahawk bronzo",
+			"name_unidentified": "tomahawk bronzo"
+		},
+		"iron_dagger": {
+			"name_identified": "pugnale ferro",
+			"name_unidentified": "pugnale ferro"
+		},
+		"steel_chakram": {
+			"name_identified": "chakram acciaio",
+			"name_unidentified": "chakram acciaio"
+		},
+		"crystal_shuriken": {
+			"name_identified": "shuriken cristallo",
+			"name_unidentified": "shuriken cristallo"
+		},
+		"cloak_black": {
+			"name_identified": "mantello nero",
+			"name_unidentified": "mantello nero"
+		},
+		"magicstaff_stoneblood": {
+			"name_identified": "bastone sangue pietra",
+			"name_unidentified": "bastone magico"
+		},
+		"magicstaff_bleed": {
+			"name_identified": "bastone salasso",
+			"name_unidentified": "bastone magico"
+		},
+		"magicstaff_summon": {
+			"name_identified": "bastone evoca scheletro",
+			"name_unidentified": "bastone magico"
+		},
+		"tool_blindfold_focus": {
+			"name_identified": "benda azione libera",
+			"name_unidentified": "benda"
+		},
+		"tool_blindfold_telepathy": {
+			"name_identified": "benda telepatia",
+			"name_unidentified": "benda"
+		},
+		"spellbook_summon": {
+			"name_identified": "libro evoca scheletro",
+			"name_unidentified": "libro"
+		},
+		"spellbook_stoneblood": {
+			"name_identified": "libro sangue pietra",
+			"name_unidentified": "libro"
+		},
+		"spellbook_bleed": {
+			"name_identified": "libro salasso",
+			"name_unidentified": "libro"
+		},
+		"spellbook_reflect_magic": {
+			"name_identified": "libro rifletti magia",
+			"name_unidentified": "libro"
+		},
+		"spellbook_acid_spray": {
+			"name_identified": "libro spruzzo acido",
+			"name_unidentified": "libro"
+		},
+		"spellbook_steal_weapon": {
+			"name_identified": "libro ruba arma",
+			"name_unidentified": "libro"
+		},
+		"spellbook_drain_soul": {
+			"name_identified": "libro prosciuga anima",
+			"name_unidentified": "libro"
+		},
+		"spellbook_vampiric_aura": {
+			"name_identified": "libro aura vampirica",
+			"name_unidentified": "libro"
+		},
+		"spellbook_charm": {
+			"name_identified": "libro ammaliamento mostro",
+			"name_unidentified": "libro"
+		},
+		"potion_empty": {
+			"name_identified": "bottiglia vuota",
+			"name_unidentified": "bottiglia vuota"
+		},
+		"artifact_orb_blue": {
+			"name_identified": "sfera mistica blu",
+			"name_unidentified": "sfera mistica blu"
+		},
+		"artifact_orb_red": {
+			"name_identified": "sfera mistica rossa",
+			"name_unidentified": "sfera mistica rossa"
+		},
+		"artifact_orb_purple": {
+			"name_identified": "sfera mistica viola",
+			"name_unidentified": "sfera mistica viola"
+		},
+		"artifact_orb_green": {
+			"name_identified": "sfera mistica verde",
+			"name_unidentified": "sfera mistica verde"
+		},
+		"tunic": {
+			"name_identified": "tunica",
+			"name_unidentified": "tunica"
+		},
+		"hat_fez": {
+			"name_identified": "fez",
+			"name_unidentified": "fez"
+		},
+		"magicstaff_charm": {
+			"name_identified": "bastone ammaliamento mostro",
+			"name_unidentified": "bastone magico"
+		},
+		"potion_polymorph": {
+			"name_identified": "pozione polimorfia",
+			"name_unidentified": "pozione"
+		},
+		"food_blood": {
+			"name_identified": "fiala sangue",
+			"name_unidentified": "pozione"
+		},
+		"cloak_backpack": {
+			"name_identified": "zaino",
+			"name_unidentified": "zaino"
+		},
+		"tool_alembic": {
+			"name_identified": "alambicco",
+			"name_unidentified": "alambicco"
+		},
+		"potion_firestorm": {
+			"name_identified": "pozione tempesta fuoco",
+			"name_unidentified": "pozione instabile"
+		},
+		"potion_icestorm": {
+			"name_identified": "pozione bufera gelo",
+			"name_unidentified": "pozione"
+		},
+		"potion_thunderstorm": {
+			"name_identified": "pozione tempesta fulmini",
+			"name_unidentified": "pozione instabile"
+		},
+		"potion_strength": {
+			"name_identified": "pozione forza",
+			"name_unidentified": "pozione"
+		},
+		"suede_boots": {
+			"name_identified": "stivali suede",
+			"name_unidentified": "stivali suede"
+		},
+		"suede_gloves": {
+			"name_identified": "guanti suede",
+			"name_unidentified": "guanti suede"
+		},
+		"cloak_silver": {
+			"name_identified": "mantello argento",
+			"name_unidentified": "mantello argento"
+		},
+		"hat_hood_silver": {
+			"name_identified": "cappuccio argento",
+			"name_unidentified": "cappuccio argento"
+		},
+		"hat_hood_red": {
+			"name_identified": "cappuccio rosso",
+			"name_unidentified": "cappuccio rosso"
+		},
+		"silver_doublet": {
+			"name_identified": "farsetto argento",
+			"name_unidentified": "farsetto argento"
+		},
+		"spellbook_revert_form": {
+			"name_identified": "libro ripristina forma",
+			"name_unidentified": "libro"
+		},
+		"spellbook_rat_form": {
+			"name_identified": "libro forma ratto",
+			"name_unidentified": "libro"
+		},
+		"spellbook_spider_form": {
+			"name_identified": "libro forma artropode",
+			"name_unidentified": "libro"
+		},
+		"spellbook_troll_form": {
+			"name_identified": "libro forma troll",
+			"name_unidentified": "libro"
+		},
+		"spellbook_imp_form": {
+			"name_identified": "libro forma imp",
+			"name_unidentified": "libro"
+		},
+		"spellbook_spray_web": {
+			"name_identified": "libro spruzzo ragnatela",
+			"name_unidentified": "libro"
+		},
+		"spellbook_poison": {
+			"name_identified": "libro veleno",
+			"name_unidentified": "libro"
+		},
+		"spellbook_speed": {
+			"name_identified": "libro velocita'",
+			"name_unidentified": "libro"
+		},
+		"spellbook_fear": {
+			"name_identified": "libro paura",
+			"name_unidentified": "libro"
+		},
+		"spellbook_strike": {
+			"name_identified": "libro colpo potente",
+			"name_unidentified": "libro"
+		},
+		"spellbook_detect_food": {
+			"name_identified": "libro individua cibo",
+			"name_unidentified": "libro"
+		},
+		"spellbook_weakness": {
+			"name_identified": "libro debolezza",
+			"name_unidentified": "libro"
+		},
+		"mask_shaman": {
+			"name_identified": "maschera sciamano",
+			"name_unidentified": "maschera sciamano"
+		},
+		"spellbook_amplify_magic": {
+			"name_identified": "libro focus elementale",
+			"name_unidentified": "libro"
+		},
+		"spellbook_shadow_tag": {
+			"name_identified": "libro marchio arcano",
+			"name_unidentified": "libro"
+		},
+		"spellbook_telepull": {
+			"name_identified": "libro teletrasporta altro",
+			"name_unidentified": "libro"
+		},
+		"spellbook_demon_illu": {
+			"name_identified": "libro demone interiore",
+			"name_unidentified": "libro"
+		},
+		"spellbook_trolls_blood": {
+			"name_identified": "libro sangue troll",
+			"name_unidentified": "libro"
+		},
+		"spellbook_salvage": {
+			"name_identified": "libro recupero",
+			"name_unidentified": "libro"
+		},
+		"tool_whip": {
+			"name_identified": "frusta",
+			"name_unidentified": "frusta"
+		},
+		"spellbook_flutter": {
+			"name_identified": "libro svolazzare",
+			"name_unidentified": "libro"
+		},
+		"spellbook_dash": {
+			"name_identified": "libro scatto",
+			"name_unidentified": "libro"
+		},
+		"spellbook_self_polymorph": {
+			"name_identified": "libro polimorfia",
+			"name_unidentified": "libro"
+		},
+		"spellbook_9": {
+			"name_identified": "libro 9",
+			"name_unidentified": "libro"
+		},
+		"spellbook_10": {
+			"name_identified": "libro 10",
+			"name_unidentified": "libro"
+		},
+		"magicstaff_poison": {
+			"name_identified": "bastone veleno",
+			"name_unidentified": "bastone magico"
+		},
+		"tool_metal_scrap": {
+			"name_identified": "rottame metallo",
+			"name_unidentified": "rottame metallo"
+		},
+		"tool_magic_scrap": {
+			"name_identified": "rottame magico",
+			"name_unidentified": "rottame"
+		},
+		"tool_tinkering_kit": {
+			"name_identified": "kit ingegneria",
+			"name_unidentified": "kit ingegneria"
+		},
+		"tool_sentrybot": {
+			"name_identified": "bot sentinella",
+			"name_unidentified": "bot sentinella"
+		},
+		"tool_detonated_charge": {
+			"name_identified": "detonatore",
+			"name_unidentified": "detonatore"
+		},
+		"tool_fire_bomb": {
+			"name_identified": "trappola fuoco",
+			"name_unidentified": "trappola fuoco"
+		},
+		"tool_sleep_bomb": {
+			"name_identified": "trappola sonno",
+			"name_unidentified": "trappola"
+		},
+		"tool_freeze_bomb": {
+			"name_identified": "trappola gelo",
+			"name_unidentified": "trappola gelo"
+		},
+		"tool_teleport_bomb": {
+			"name_identified": "trappola teletrasporto",
+			"name_unidentified": "trappola"
+		},
+		"tool_gyrobot": {
+			"name_identified": "gyrobot",
+			"name_unidentified": "gyrobot"
+		},
+		"tool_spellbot": {
+			"name_identified": "spellbot",
+			"name_unidentified": "spellbot"
+		},
+		"tool_decoy": {
+			"name_identified": "esca sonora",
+			"name_unidentified": "esca sonora"
+		},
+		"tool_dummybot": {
+			"name_identified": "fantocciobot",
+			"name_unidentified": "fantocciobot"
+		},
+		"machinist_apron": {
+			"name_identified": "grembiule pelle",
+			"name_unidentified": "grembiule"
+		},
+		"enchanted_feather": {
+			"name_identified": "piuma incantata",
+			"name_unidentified": "piuma"
+		},
+		"punisher_hood": {
+			"name_identified": "cappuccio boia",
+			"name_unidentified": "cappuccio"
+		},
+		"scroll_charging": {
+			"name_identified": "pergamena ricarica",
+			"name_unidentified": "pergamena"
+		},
+		"quiver_silver": {
+			"name_identified": "faretra argento",
+			"name_unidentified": "faretra"
+		},
+		"quiver_pierce": {
+			"name_identified": "faretra perforanti",
+			"name_unidentified": "faretra"
+		},
+		"quiver_lightweight": {
+			"name_identified": "faretra rapide",
+			"name_unidentified": "faretra"
+		},
+		"quiver_fire": {
+			"name_identified": "faretra fuoco",
+			"name_unidentified": "faretra"
+		},
+		"quiver_heavy": {
+			"name_identified": "faretra a molla",
+			"name_unidentified": "faretra"
+		},
+		"quiver_crystal": {
+			"name_identified": "faretra cristallo",
+			"name_unidentified": "faretra"
+		},
+		"quiver_hunting": {
+			"name_identified": "faretra da caccia",
+			"name_unidentified": "faretra"
+		},
+		"longbow": {
+			"name_identified": "arco lungo",
+			"name_unidentified": "arco lungo"
+		},
+		"compound_bow": {
+			"name_identified": "arco composito",
+			"name_unidentified": "arco composito"
+		},
+		"heavy_crossbow": {
+			"name_identified": "arbalestra",
+			"name_unidentified": "arbalestra"
+		},
+		"boomerang": {
+			"name_identified": "boomerang",
+			"name_unidentified": "boomerang"
+		},
+		"scroll_conjurearrow": {
+			"name_identified": "pergamena evoca freccia",
+			"name_unidentified": "pergamena"
+		},
+		"monocle": {
+			"name_identified": "monocolo",
+			"name_unidentified": "monocolo"
+		},
+		"tool_player_loot_bag": {
+			"name_identified": "scatola morte",
+			"name_unidentified": "scatola morte"
+		},
+		"mask_bandit": {
+			"name_identified": "maschera bandito",
+			"name_unidentified": "maschera bandito"
+		},
+		"mask_eyepatch": {
+			"name_identified": "benda occhio",
+			"name_unidentified": "benda occhio"
+		},
+		"mask_masquerade": {
+			"name_identified": "maschera ballo",
+			"name_unidentified": "maschera ballo"
+		},
+		"mask_mouth_rose": {
+			"name_identified": "rosa",
+			"name_unidentified": "rosa"
+		},
+		"mask_golden": {
+			"name_identified": "maschera oro",
+			"name_unidentified": "maschera oro"
+		},
+		"mask_spooky": {
+			"name_identified": "maschera horror",
+			"name_unidentified": "maschera horror"
+		},
+		"mask_tech_goggles": {
+			"name_identified": "occhiali tech",
+			"name_unidentified": "occhiali tech"
+		},
+		"mask_hazard_goggles": {
+			"name_identified": "occhiali sicurezza",
+			"name_unidentified": "occhiali sicurezza"
+		},
+		"mask_phantom": {
+			"name_identified": "maschera fantasma",
+			"name_unidentified": "maschera fantasma"
+		},
+		"mask_pipe": {
+			"name_identified": "pipa",
+			"name_unidentified": "pipa"
+		},
+		"mask_grass_sprig": {
+			"name_identified": "rametto erba dolce",
+			"name_unidentified": "rametto erba dolce"
+		},
+		"mask_plague": {
+			"name_identified": "maschera peste",
+			"name_unidentified": "maschera peste"
+		},
+		"mask_mouthknife": {
+			"name_identified": "coltello denti",
+			"name_unidentified": "coltello denti"
+		},
+		"hat_silken_bow": {
+			"name_identified": "fiocco seta",
+			"name_unidentified": "fiocco seta"
+		},
+		"hat_plumed_cap": {
+			"name_identified": "cappello piume",
+			"name_unidentified": "cappello piume"
+		},
+		"hat_bycocket": {
+			"name_identified": "bycocket",
+			"name_unidentified": "bycocket"
+		},
+		"hat_tophat": {
+			"name_identified": "cilindro",
+			"name_unidentified": "cilindro"
+		},
+		"hat_bandana": {
+			"name_identified": "bandana",
+			"name_unidentified": "bandana"
+		},
+		"hat_circlet": {
+			"name_identified": "cerchietto",
+			"name_unidentified": "cerchietto"
+		},
+		"hat_crown": {
+			"name_identified": "corona",
+			"name_unidentified": "corona"
+		},
+		"hat_laurels": {
+			"name_identified": "alloro",
+			"name_unidentified": "alloro"
+		},
+		"hat_turban": {
+			"name_identified": "turbante",
+			"name_unidentified": "turbante"
+		},
+		"hat_crowned_helm": {
+			"name_identified": "elmo coronato",
+			"name_unidentified": "elmo coronato"
+		},
+		"hat_warm": {
+			"name_identified": "cappello caldo",
+			"name_unidentified": "cappello caldo"
+		},
+		"hat_wolf_hood": {
+			"name_identified": "cappuccio lupo",
+			"name_unidentified": "cappuccio lupo"
+		},
+		"hat_bear_hood": {
+			"name_identified": "cappuccio orso",
+			"name_unidentified": "cappuccio orso"
+		},
+		"hat_stag_hood": {
+			"name_identified": "cappuccio cervo",
+			"name_unidentified": "cappuccio cervo"
+		},
+		"hat_bunny_hood": {
+			"name_identified": "cappuccio coniglietto",
+			"name_unidentified": "cappuccio coniglietto"
+		},
+		"hat_bountyhunter": {
+			"name_identified": "cappello cacciataglie",
+			"name_unidentified": "cappello cacciataglie"
+		},
+		"hat_miter": {
+			"name_identified": "mitra sacerdotale",
+			"name_unidentified": "mitra sacerdotale"
+		},
+		"hat_headdress": {
+			"name_identified": "copricapo magus",
+			"name_unidentified": "copricapo magus"
+		},
+		"hat_chef": {
+			"name_identified": "tocco da chef",
+			"name_unidentified": "tocco da chef"
+		},
+		"helm_mining": {
+			"name_identified": "elmetto minatore",
+			"name_unidentified": "elmetto minatore"
+		},
+		"mask_steel_visor": {
+			"name_identified": "visiera acciaio",
+			"name_unidentified": "visiera acciaio"
+		},
+		"mask_crystal_visor": {
+			"name_identified": "visiera cristallo",
+			"name_unidentified": "visiera cristallo"
+		},
+		"mask_artifact_visor": {
+			"name_identified": "Velo Valchiria",
+			"name_unidentified": "visiera artefatto"
+		},
+		"hat_circlet_wisdom": {
+			"name_identified": "cerchietto saggezza",
+			"name_unidentified": "cerchietto"
+		},
+		"hat_hood_apprentice": {
+			"name_identified": "cappuccio apprendista",
+			"name_unidentified": "cappuccio"
+		},
+		"hat_hood_assassin": {
+			"name_identified": "cappuccio assassino",
+			"name_unidentified": "cappuccio"
+		},
+		"hat_hood_whispers": {
+			"name_identified": "cappuccio sussurri",
+			"name_unidentified": "cappuccio"
+		},
+		"ring_resolve": {
+			"name_identified": "anello risolutezza",
+			"name_unidentified": "anello"
+		},
+		"cloak_guardian": {
+			"name_identified": "mantello guardiano",
+			"name_unidentified": "mantello"
+		},
+		"mask_marigold": {
+			"name_identified": "calendula",
+			"name_unidentified": "calendula"
+		},
+		"key_stone": {
+			"name_identified": "chiave pietra",
+			"name_unidentified": "chiave pietra"
+		},
+		"key_bone": {
+			"name_identified": "chiave spirito",
+			"name_unidentified": "chiave spirito"
+		},
+		"key_bronze": {
+			"name_identified": "chiave bronzo",
+			"name_unidentified": "chiave bronzo"
+		},
+		"key_iron": {
+			"name_identified": "chiave ferro",
+			"name_unidentified": "chiave ferro"
+		},
+		"key_silver": {
+			"name_identified": "chiave argento",
+			"name_unidentified": "chiave argento"
+		},
+		"key_gold": {
+			"name_identified": "chiave oro",
+			"name_unidentified": "chiave oro"
+		},
+		"key_crystal": {
+			"name_identified": "chiave cristallo",
+			"name_unidentified": "chiave cristallo"
+		},
+		"key_machine": {
+			"name_identified": "chiave macchina",
+			"name_unidentified": "chiave macchina"
+		},
+		"tool_foci_fire": {
+			"name_identified": "focus fiamme",
+			"name_unidentified": "focus"
+		},
+		"instrument_flute": {
+			"name_identified": "flauto",
+			"name_unidentified": "flauto"
+		},
+		"instrument_lyre": {
+			"name_identified": "lira",
+			"name_unidentified": "lira"
+		},
+		"instrument_drum": {
+			"name_identified": "tamburo",
+			"name_unidentified": "tamburo"
+		},
+		"instrument_lute": {
+			"name_identified": "liuto",
+			"name_unidentified": "liuto"
+		},
+		"instrument_horn": {
+			"name_identified": "corno",
+			"name_unidentified": "corno"
+		},
+		"rapier": {
+			"name_identified": "stocco",
+			"name_unidentified": "stocco"
+		},
+		"amulet_burningresist": {
+			"name_identified": "amuleto resiste fuoco",
+			"name_unidentified": "amuleto"
+		},
+		"grease_ball": {
+			"name_identified": "palla grasso",
+			"name_unidentified": "palla grasso"
+		},
+		"branch_staff": {
+			"name_identified": "bastone ramo",
+			"name_unidentified": "bastone ramo"
+		},
+		"branch_bow": {
+			"name_identified": "arco ramo",
+			"name_unidentified": "arco ramo"
+		},
+		"branch_bow_infected": {
+			"name_identified": "arco ramo infetto",
+			"name_unidentified": "arco ramo infetto"
+		},
+		"dust_ball": {
+			"name_identified": "palla polvere",
+			"name_unidentified": "palla polvere"
+		},
+		"bolas": {
+			"name_identified": "bolas",
+			"name_unidentified": "bolas"
+		},
+		"steel_flail": {
+			"name_identified": "flagello acciaio",
+			"name_unidentified": "flagello acciaio"
+		},
+		"food_ration": {
+			"name_identified": "razione",
+			"name_unidentified": "razione"
+		},
+		"food_ration_spicy": {
+			"name_identified": "razione piccante",
+			"name_unidentified": "razione"
+		},
+		"food_ration_sour": {
+			"name_identified": "razione aspra",
+			"name_unidentified": "razione"
+		},
+		"food_ration_bitter": {
+			"name_identified": "razione amara",
+			"name_unidentified": "razione"
+		},
+		"food_ration_hearty": {
+			"name_identified": "razione ricca",
+			"name_unidentified": "razione"
+		},
+		"food_ration_herbal": {
+			"name_identified": "razione alle erbe",
+			"name_unidentified": "razione"
+		},
+		"food_ration_sweet": {
+			"name_identified": "razione dolce",
+			"name_unidentified": "razione"
+		},
+		"slop_ball": {
+			"name_identified": "palla sbobba",
+			"name_unidentified": "palla sbobba"
+		},
+		"tool_frying_pan": {
+			"name_identified": "padella",
+			"name_unidentified": "padella"
+		},
+		"cleat_boots": {
+			"name_identified": "scarpini",
+			"name_unidentified": "scarpini"
+		},
+		"bandit_breastpiece": {
+			"name_identified": "cuoio bandito",
+			"name_unidentified": "cuoio bandito"
+		},
+		"tunic_blouse": {
+			"name_identified": "blusa",
+			"name_unidentified": "blusa"
+		},
+		"bone_breastpiece": {
+			"name_identified": "corazza osso",
+			"name_unidentified": "corazza osso"
+		},
+		"blackiron_breastpiece": {
+			"name_identified": "corazza ferronero",
+			"name_unidentified": "corazza ferronero"
+		},
+		"silver_breastpiece": {
+			"name_identified": "corazza argento",
+			"name_unidentified": "corazza argento"
+		},
+		"iron_pauldrons": {
+			"name_identified": "spallacci ferro",
+			"name_unidentified": "spallacci ferro"
+		},
+		"quilted_gambeson": {
+			"name_identified": "gambeson",
+			"name_unidentified": "gambeson"
+		},
+		"robe_cultist": {
+			"name_identified": "veste cultista",
+			"name_unidentified": "veste cultista"
+		},
+		"robe_healer": {
+			"name_identified": "veste guaritore",
+			"name_unidentified": "veste guaritore"
+		},
+		"robe_monk": {
+			"name_identified": "veste monaco",
+			"name_unidentified": "veste monaco"
+		},
+		"robe_wizard": {
+			"name_identified": "veste mago",
+			"name_unidentified": "veste mago"
+		},
+		"shawl": {
+			"name_identified": "scialle",
+			"name_unidentified": "scialle"
+		},
+		"chain_hauberk": {
+			"name_identified": "usbergo maglia",
+			"name_unidentified": "usbergo maglia"
+		},
+		"bone_bracers": {
+			"name_identified": "bracciali osso",
+			"name_unidentified": "bracciali osso"
+		},
+		"blackiron_gauntlets": {
+			"name_identified": "guanti ferronero",
+			"name_unidentified": "guanti ferronero"
+		},
+		"silver_gauntlets": {
+			"name_identified": "guanti argento",
+			"name_unidentified": "guanti argento"
+		},
+		"quilted_gloves": {
+			"name_identified": "guanti imbottiti",
+			"name_unidentified": "guanti imbottiti"
+		},
+		"chain_gloves": {
+			"name_identified": "guanti maglia",
+			"name_unidentified": "guanti maglia"
+		},
+		"bone_boots": {
+			"name_identified": "stivali osso",
+			"name_unidentified": "stivali osso"
+		},
+		"blackiron_boots": {
+			"name_identified": "stivali ferronero",
+			"name_unidentified": "stivali ferronero"
+		},
+		"silver_boots": {
+			"name_identified": "stivali argento",
+			"name_unidentified": "stivali argento"
+		},
+		"quilted_boots": {
+			"name_identified": "stivali imbottiti",
+			"name_unidentified": "stivali imbottiti"
+		},
+		"loafers": {
+			"name_identified": "mocassini",
+			"name_unidentified": "mocassini"
+		},
+		"chain_boots": {
+			"name_identified": "stivali maglia",
+			"name_unidentified": "stivali maglia"
+		},
+		"scutum": {
+			"name_identified": "scutum",
+			"name_unidentified": "scutum"
+		},
+		"bone_shield": {
+			"name_identified": "scudo osso",
+			"name_unidentified": "scudo osso"
+		},
+		"blackiron_shield": {
+			"name_identified": "scudo ferronero",
+			"name_unidentified": "scudo ferronero"
+		},
+		"silver_shield": {
+			"name_identified": "scudo argento",
+			"name_unidentified": "scudo argento"
+		},
+		"cloak_dendrite": {
+			"name_identified": "mantello dendrite",
+			"name_unidentified": "mantello dendrite"
+		},
+		"bone_helm": {
+			"name_identified": "elmo osso",
+			"name_unidentified": "elmo osso"
+		},
+		"blackiron_helm": {
+			"name_identified": "elmo ferronero",
+			"name_unidentified": "elmo ferronero"
+		},
+		"silver_helm": {
+			"name_identified": "elmo argento",
+			"name_unidentified": "elmo argento"
+		},
+		"hat_felt": {
+			"name_identified": "cappello feltro",
+			"name_unidentified": "cappello feltro"
+		},
+		"quilted_cap": {
+			"name_identified": "cuffia imbottita",
+			"name_unidentified": "cuffia imbottita"
+		},
+		"hood_teal": {
+			"name_identified": "cappuccio ottanio",
+			"name_unidentified": "cappuccio ottanio"
+		},
+		"chain_coif": {
+			"name_identified": "camaglio",
+			"name_unidentified": "camaglio"
+		},
+		"food_shroom": {
+			"name_identified": "fetta fungo",
+			"name_unidentified": "fetta fungo"
+		},
+		"food_nut": {
+			"name_identified": "noce",
+			"name_unidentified": "noce"
+		},
+		"tool_foci_snow": {
+			"name_identified": "focus neve",
+			"name_unidentified": "focus"
+		},
+		"tool_foci_needles": {
+			"name_identified": "focus aghi",
+			"name_unidentified": "focus"
+		},
+		"tool_foci_arcs": {
+			"name_identified": "focus archi",
+			"name_unidentified": "focus"
+		},
+		"tool_foci_sand": {
+			"name_identified": "focus sabbia",
+			"name_unidentified": "focus"
+		},
+		"tool_foci_dark_life": {
+			"name_identified": "icona ruba vita",
+			"name_unidentified": "icona"
+		},
+		"tool_foci_dark_rift": {
+			"name_identified": "icona squarcio",
+			"name_unidentified": "icona"
+		},
+		"tool_foci_dark_silence": {
+			"name_identified": "icona silenzio",
+			"name_unidentified": "icona"
+		},
+		"tool_foci_dark_vengeance": {
+			"name_identified": "icona vendetta",
+			"name_unidentified": "icona"
+		},
+		"tool_foci_dark_suppress": {
+			"name_identified": "icona soppressione",
+			"name_unidentified": "icona"
+		},
+		"tool_foci_light_peace": {
+			"name_identified": "simbolo pace",
+			"name_unidentified": "simbolo"
+		},
+		"tool_foci_light_justice": {
+			"name_identified": "simbolo giustizia",
+			"name_unidentified": "simbolo"
+		},
+		"tool_foci_light_providence": {
+			"name_identified": "simbolo provvidenza",
+			"name_unidentified": "simbolo"
+		},
+		"tool_foci_light_purity": {
+			"name_identified": "simbolo purezza",
+			"name_unidentified": "simbolo"
+		},
+		"tool_foci_light_sanctuary": {
+			"name_identified": "simbolo santuario",
+			"name_unidentified": "simbolo"
+		},
+		"magicstaff_scepter": {
+			"name_identified": "scettro arconte",
+			"name_unidentified": "scettro"
+		},
+		"tome_sorcery": {
+			"name_identified": "tavola",
+			"name_unidentified": "tavola"
+		},
+		"tome_mysticism": {
+			"name_identified": "tavola",
+			"name_unidentified": "tavola"
+		},
+		"tome_thaumaturgy": {
+			"name_identified": "tavola",
+			"name_unidentified": "tavola"
+		},
+		"hat_circlet_sorcery": {
+			"name_identified": "cerchietto stregoneria",
+			"name_unidentified": "cerchietto"
+		},
+		"hat_circlet_thaumaturgy": {
+			"name_identified": "cerchietto taumaturgia",
+			"name_unidentified": "cerchietto"
+		},
+		"tool_duck": {
+			"name_identified": "papera",
+			"name_unidentified": "papera"
+		},
+		"shillelagh_mace": {
+			"name_identified": "randello",
+			"name_unidentified": "randello"
+		},
+		"claymore_sword": {
+			"name_identified": "claymore",
+			"name_unidentified": "claymore"
+		},
+		"anelace_sword": {
+			"name_identified": "anelace",
+			"name_unidentified": "anelace"
+		},
+		"lance_spear": {
+			"name_identified": "lancione",
+			"name_unidentified": "lancione"
+		},
+		"steel_falshion": {
+			"name_identified": "falcione acciaio",
+			"name_unidentified": "falcione acciaio"
+		},
+		"steel_greataxe": {
+			"name_identified": "scure acciaio",
+			"name_unidentified": "scure acciaio"
+		},
+		"blackiron_axe": {
+			"name_identified": "ascia ferronero",
+			"name_unidentified": "ascia ferronero"
+		},
+		"blackiron_crossbow": {
+			"name_identified": "balestra ferronero",
+			"name_unidentified": "balestra ferronero"
+		},
+		"blackiron_dart": {
+			"name_identified": "dardo ferronero",
+			"name_unidentified": "dardo ferronero"
+		},
+		"blackiron_mace": {
+			"name_identified": "mazza ferronero",
+			"name_unidentified": "mazza ferronero"
+		},
+		"blackiron_sword": {
+			"name_identified": "spada ferronero",
+			"name_unidentified": "spada ferronero"
+		},
+		"blackiron_trident": {
+			"name_identified": "tridente ferronero",
+			"name_unidentified": "tridente ferronero"
+		},
+		"bone_axe": {
+			"name_identified": "ascia osso",
+			"name_unidentified": "ascia osso"
+		},
+		"bone_mace": {
+			"name_identified": "mazza osso",
+			"name_unidentified": "mazza osso"
+		},
+		"bone_shortbow": {
+			"name_identified": "arco corto osso",
+			"name_unidentified": "arco corto osso"
+		},
+		"bone_spear": {
+			"name_identified": "lancia osso",
+			"name_unidentified": "lancia osso"
+		},
+		"bone_sword": {
+			"name_identified": "spada osso",
+			"name_unidentified": "spada osso"
+		},
+		"bone_throwing": {
+			"name_identified": "osso",
+			"name_unidentified": "osso"
+		},
+		"silver_axe": {
+			"name_identified": "ascia argento",
+			"name_unidentified": "ascia argento"
+		},
+		"silver_glaive": {
+			"name_identified": "giavarina argento",
+			"name_unidentified": "giavarina argento"
+		},
+		"silver_mace": {
+			"name_identified": "mazza argento",
+			"name_unidentified": "mazza argento"
+		},
+		"silver_plumbata": {
+			"name_identified": "plumbata argento",
+			"name_unidentified": "plumbata argento"
+		},
+		"silver_sword": {
+			"name_identified": "spada argento",
+			"name_unidentified": "spada argento"
+		},
+		"quiver_bone": {
+			"name_identified": "faretra osso",
+			"name_unidentified": "faretra"
+		},
+		"quiver_blackiron": {
+			"name_identified": "faretra ferronero",
+			"name_unidentified": "faretra"
+		},
+		"gem_jewel": {
+			"name_identified": "gemma",
+			"name_unidentified": "gemma"
+		},
+		"spellbook_meteor": {
+			"name_identified": "libro meteora",
+			"name_unidentified": "libro"
+		},
+		"spellbook_ice_wave": {
+			"name_identified": "libro onda gelida",
+			"name_unidentified": "libro"
+		},
+		"spellbook_guard_body": {
+			"name_identified": "libro guardia corpo",
+			"name_unidentified": "libro"
+		},
+		"spellbook_guard_spirit": {
+			"name_identified": "libro guardia spirito",
+			"name_unidentified": "libro"
+		},
+		"spellbook_divine_guard": {
+			"name_identified": "libro guardia divina",
+			"name_unidentified": "libro"
+		},
+		"spellbook_prof_nimbleness": {
+			"name_identified": "libro agilita'",
+			"name_unidentified": "libro"
+		},
+		"spellbook_prof_greater_might": {
+			"name_identified": "libro gran forza",
+			"name_unidentified": "libro"
+		},
+		"spellbook_prof_counsel": {
+			"name_identified": "libro consiglio",
+			"name_unidentified": "libro"
+		},
+		"spellbook_prof_sturdiness": {
+			"name_identified": "libro robustezza",
+			"name_unidentified": "libro"
+		},
+		"spellbook_bless_food": {
+			"name_identified": "libro pasti benedetti",
+			"name_unidentified": "libro"
+		},
+		"spellbook_pinpoint": {
+			"name_identified": "libro localizza",
+			"name_unidentified": "libro"
+		},
+		"spellbook_donation": {
+			"name_identified": "libro offerta",
+			"name_unidentified": "libro"
+		},
+		"spellbook_scry_allies": {
+			"name_identified": "libro scruta alleati",
+			"name_unidentified": "libro"
+		},
+		"spellbook_scry_traps": {
+			"name_identified": "libro scruta trappole",
+			"name_unidentified": "libro"
+		},
+		"spellbook_scry_treasures": {
+			"name_identified": "libro scruta tesori",
+			"name_unidentified": "libro"
+		},
+		"spellbook_detect_enemy": {
+			"name_identified": "libro rileva nemico",
+			"name_unidentified": "libro"
+		},
+		"spellbook_turn_undead": {
+			"name_identified": "libro esorcizza",
+			"name_unidentified": "libro"
+		},
+		"spellbook_heal_other": {
+			"name_identified": "libro cura altri min.",
+			"name_unidentified": "libro"
+		},
+		"spellbook_blood_ward": {
+			"name_identified": "libro difesa sangue",
+			"name_unidentified": "libro"
+		},
+		"spellbook_divine_zeal": {
+			"name_identified": "libro zelo divino",
+			"name_unidentified": "libro"
+		},
+		"spellbook_maximise": {
+			"name_identified": "libro ingrandi",
+			"name_unidentified": "libro"
+		},
+		"spellbook_minimise": {
+			"name_identified": "libro riduci",
+			"name_unidentified": "libro"
+		},
+		"spellbook_incoherence": {
+			"name_identified": "libro incoerenza",
+			"name_unidentified": "libro"
+		},
+		"spellbook_overcharge": {
+			"name_identified": "libro sovraccarico",
+			"name_unidentified": "libro"
+		},
+		"spellbook_envenom_weapon": {
+			"name_identified": "libro arma avvelenata",
+			"name_unidentified": "libro"
+		},
+		"spellbook_psychic_spear": {
+			"name_identified": "libro lancia psichica",
+			"name_unidentified": "libro"
+		},
+		"spellbook_defy_flesh": {
+			"name_identified": "libro sfida carne",
+			"name_unidentified": "libro"
+		},
+		"spellbook_grease_spray": {
+			"name_identified": "libro getto grasso",
+			"name_unidentified": "libro"
+		},
+		"spellbook_blood_waves": {
+			"name_identified": "libro onde sangue",
+			"name_unidentified": "libro"
+		},
+		"spellbook_command": {
+			"name_identified": "libro vincola",
+			"name_unidentified": "libro"
+		},
+		"spellbook_metallurgy": {
+			"name_identified": "libro metallurgia",
+			"name_unidentified": "libro"
+		},
+		"spellbook_forge_key": {
+			"name_identified": "libro crea chiave",
+			"name_unidentified": "libro"
+		},
+		"spellbook_reshape_weapon": {
+			"name_identified": "libro rimodella arma",
+			"name_unidentified": "libro"
+		},
+		"spellbook_alter_arrow": {
+			"name_identified": "libro muta frecce",
+			"name_unidentified": "libro"
+		},
+		"spellbook_void_chest": {
+			"name_identified": "libro forziere vuoto",
+			"name_unidentified": "libro"
+		},
+		"spellbook_lead_bolt": {
+			"name_identified": "libro dardo piombo",
+			"name_unidentified": "libro"
+		},
+		"spellbook_numbing_bolt": {
+			"name_identified": "libro dardo torpore",
+			"name_unidentified": "libro"
+		},
+		"spellbook_curse_flesh": {
+			"name_identified": "libro maledici carne",
+			"name_unidentified": "libro"
+		},
+		"spellbook_cowardice": {
+			"name_identified": "libro vilta'",
+			"name_unidentified": "libro"
+		},
+		"spellbook_seek_ally": {
+			"name_identified": "libro cerca alleato",
+			"name_unidentified": "libro"
+		},
+		"spellbook_deep_shade": {
+			"name_identified": "libro ombra fonda",
+			"name_unidentified": "libro"
+		},
+		"spellbook_spirit_weapon": {
+			"name_identified": "libro arma spirito",
+			"name_unidentified": "libro"
+		},
+		"spellbook_spores": {
+			"name_identified": "libro spore",
+			"name_unidentified": "libro"
+		},
+		"spellbook_windgate": {
+			"name_identified": "libro ventoporta",
+			"name_unidentified": "libro"
+		},
+		"spellbook_telekinesis": {
+			"name_identified": "libro telecinesi",
+			"name_unidentified": "libro"
+		},
+		"spellbook_disarm": {
+			"name_identified": "libro disarma",
+			"name_unidentified": "libro"
+		},
+		"spellbook_abundance": {
+			"name_identified": "libro abbondanza",
+			"name_unidentified": "libro"
+		},
+		"spellbook_preserve": {
+			"name_identified": "libro preserva",
+			"name_unidentified": "libro"
+		},
+		"spellbook_sabotage": {
+			"name_identified": "libro sabotaggio",
+			"name_unidentified": "libro"
+		},
+		"spellbook_mist_form": {
+			"name_identified": "libro forma nebbia",
+			"name_unidentified": "libro"
+		},
+		"spellbook_force_shield": {
+			"name_identified": "libro difesa cinetica",
+			"name_unidentified": "libro"
+		},
+		"spellbook_splinter_gear": {
+			"name_identified": "libro scheggia armatura",
+			"name_unidentified": "libro"
+		},
+		"spellbook_attract_items": {
+			"name_identified": "libro attira oggetti",
+			"name_unidentified": "libro"
+		},
+		"spellbook_absorb_magic": {
+			"name_identified": "libro assorbi magia",
+			"name_unidentified": "libro"
+		},
+		"spellbook_tunnel": {
+			"name_identified": "libro portale",
+			"name_unidentified": "libro"
+		},
+		"spellbook_null_area": {
+			"name_identified": "libro zona nulla",
+			"name_unidentified": "libro"
+		},
+		"spellbook_fire_sprite": {
+			"name_identified": "libro evoca folletto fuoco",
+			"name_unidentified": "libro"
+		},
+		"spellbook_spin": {
+			"name_identified": "libro piroetta",
+			"name_unidentified": "libro"
+		},
+		"spellbook_cleanse_food": {
+			"name_identified": "libro purifica cibo",
+			"name_unidentified": "libro"
+		},
+		"spellbook_flame_cloak": {
+			"name_identified": "libro manto fiamme",
+			"name_unidentified": "libro"
+		},
+		"spellbook_lightning_bolt": {
+			"name_identified": "libro fulmine",
+			"name_unidentified": "libro"
+		},
+		"spellbook_disrupt_earth": {
+			"name_identified": "libro sconvolgi terra",
+			"name_unidentified": "libro"
+		},
+		"spellbook_fire_wall": {
+			"name_identified": "libro muro fuoco",
+			"name_unidentified": "libro"
+		},
+		"spellbook_slam": {
+			"name_identified": "libro solleva",
+			"name_unidentified": "libro"
+		},
+		"spellbook_ignite": {
+			"name_identified": "libro incendia",
+			"name_unidentified": "libro"
+		},
+		"spellbook_shatter_objects": {
+			"name_identified": "libro frantuma oggetti",
+			"name_unidentified": "libro"
+		},
+		"spellbook_kinetic_field": {
+			"name_identified": "libro campo cinetico",
+			"name_unidentified": "libro"
+		},
+		"spellbook_thorns": {
+			"name_identified": "libro spine",
+			"name_unidentified": "libro"
+		},
+		"spellbook_magicians_armor": {
+			"name_identified": "libro bolla del mago",
+			"name_unidentified": "libro"
+		},
+		"spellbook_heal_minor": {
+			"name_identified": "libro cura minore",
+			"name_unidentified": "libro"
+		},
+		"spellbook_sigil": {
+			"name_identified": "libro sigillo sacro",
+			"name_unidentified": "libro"
+		},
+		"spellbook_sanctuary": {
+			"name_identified": "libro fortezza divina",
+			"name_unidentified": "libro"
+		},
+		"spellbook_holy_beam": {
+			"name_identified": "libro raggio sacro",
+			"name_unidentified": "libro"
+		},
+		"spellbook_dominate": {
+			"name_identified": "libro domina",
+			"name_unidentified": "libro"
+		}
+	},
+	"spell_names": {
+		"spell_forcebolt": {
+			"name": "Impattaforza"
+		},
+		"spell_magicmissile": {
+			"name": "Dardo Incantato"
+		},
+		"spell_cold": {
+			"name": "Freddo"
+		},
+		"spell_fireball": {
+			"name": "Palla Fuoco"
+		},
+		"spell_lightning": {
+			"name": "Fulmine"
+		},
+		"spell_removecurse": {
+			"name": "Smaledici"
+		},
+		"spell_light": {
+			"name": "Luce"
+		},
+		"spell_identify": {
+			"name": "Identifica"
+		},
+		"spell_magicmapping": {
+			"name": "Mappatura Magica"
+		},
+		"spell_sleep": {
+			"name": "Sonno"
+		},
+		"spell_confuse": {
+			"name": "Confusione"
+		},
+		"spell_slow": {
+			"name": "Lentezza"
+		},
+		"spell_opening": {
+			"name": "Apertura"
+		},
+		"spell_locking": {
+			"name": "Chiusura"
+		},
+		"spell_levitation": {
+			"name": "Levitazione"
+		},
+		"spell_invisibility": {
+			"name": "Invisibilita'"
+		},
+		"spell_teleportation": {
+			"name": "Teletrasporto"
+		},
+		"spell_healing": {
+			"name": "Cura"
+		},
+		"spell_extrahealing": {
+			"name": "Cura Extra"
+		},
+		"spell_cureailment": {
+			"name": "Cura Malattia"
+		},
+		"spell_dig": {
+			"name": "Scavo"
+		},
+		"spell_summon": {
+			"name": "Evoca Scheletro"
+		},
+		"spell_stoneblood": {
+			"name": "Sangue Pietra"
+		},
+		"spell_bleed": {
+			"name": "Salasso"
+		},
+		"spell_dominate": {
+			"name": "Domina"
+		},
+		"spell_reflect_magic": {
+			"name": "Rifletti Magia"
+		},
+		"spell_acid_spray": {
+			"name": "Spruzzo Acido"
+		},
+		"spell_steal_weapon": {
+			"name": "Ruba Arma"
+		},
+		"spell_drain_soul": {
+			"name": "Ruba Anima"
+		},
+		"spell_vampiric_aura": {
+			"name": "Aura Vampirica"
+		},
+		"spell_charm": {
+			"name": "Ammalia Mostro"
+		},
+		"spell_revert_form": {
+			"name": "Torna Forma"
+		},
+		"spell_rat_form": {
+			"name": "Forma Ratto"
+		},
+		"spell_spider_form": {
+			"name": "Forma Artropode"
+		},
+		"spell_troll_form": {
+			"name": "Forma di Troll"
+		},
+		"spell_imp_form": {
+			"name": "Forma di Imp"
+		},
+		"spell_spray_web": {
+			"name": "Getto Tela"
+		},
+		"spell_poison": {
+			"name": "Veleno"
+		},
+		"spell_speed": {
+			"name": "Velocita'"
+		},
+		"spell_fear": {
+			"name": "Paura"
+		},
+		"spell_strike": {
+			"name": "Colpo Potente"
+		},
+		"spell_detect_food": {
+			"name": "Individua Cibo"
+		},
+		"spell_weakness": {
+			"name": "Debolezza"
+		},
+		"spell_amplify_magic": {
+			"name": "Focus Elementale"
+		},
+		"spell_shadow_tag": {
+			"name": "Marchio Arcano"
+		},
+		"spell_telepull": {
+			"name": "Teletrasporta"
+		},
+		"spell_demon_illu": {
+			"name": "Demone Interno"
+		},
+		"spell_trolls_blood": {
+			"name": "Sangue di Troll"
+		},
+		"spell_salvage": {
+			"name": "Recupero"
+		},
+		"spell_flutter": {
+			"name": "Svolazzare"
+		},
+		"spell_dash": {
+			"name": "Scatto"
+		},
+		"spell_self_polymorph": {
+			"name": "Polimorfia"
+		},
+		"spell_crab_form": {
+			"name": "Forma Artropode"
+		},
+		"spell_crab_web": {
+			"name": "Getto Tela"
+		},
+		"spell_ghost_bolt": {
+			"name": "Dardo Spettro"
+		},
+		"spell_slime_acid": {
+			"name": "Spruzzo Melma (Acido)"
+		},
+		"spell_slime_water": {
+			"name": "Spruzzo Melma (Acqua)"
+		},
+		"spell_slime_fire": {
+			"name": "Spruzzo Melma (Magma)"
+		},
+		"spell_slime_tar": {
+			"name": "Getto Melma (Catrame)"
+		},
+		"spell_slime_metal": {
+			"name": "Spruzzo Melma (Metallo)"
+		},
+		"spell_foci_fire": {
+			"name": "Focus Fiamme"
+		},
+		"spell_foci_snow": {
+			"name": "Focus Neve"
+		},
+		"spell_foci_needles": {
+			"name": "Focus Aghi"
+		},
+		"spell_foci_arcs": {
+			"name": "Focus Archi"
+		},
+		"spell_foci_sandblast": {
+			"name": "Focus Sabbia"
+		},
+		"spell_meteor": {
+			"name": "Meteora"
+		},
+		"spell_flames": {
+			"name": "Fiamme"
+		},
+		"spell_ice_wave": {
+			"name": "Onda Gelida"
+		},
+		"spell_earth_elemental": {
+			"name": "Evoca Folletto"
+		},
+		"spell_bless_food": {
+			"name": "Pasti Benedetti"
+		},
+		"spell_shrub": {
+			"name": "Germoglia"
+		},
+		"spell_conjure_food": {
+			"name": "Evoca Cibo"
+		},
+		"spell_guard_body": {
+			"name": "Guardia Corpo"
+		},
+		"spell_guard_spirit": {
+			"name": "Guardia Spirito"
+		},
+		"spell_divine_guard": {
+			"name": "Guardia Divina"
+		},
+		"spell_prof_nimbleness": {
+			"name": "Agilita'"
+		},
+		"spell_prof_greater_might": {
+			"name": "Gran Forza"
+		},
+		"spell_prof_counsel": {
+			"name": "Consiglio"
+		},
+		"spell_prof_sturdiness": {
+			"name": "Robustezza"
+		},
+		"spell_pinpoint": {
+			"name": "Localizza"
+		},
+		"spell_donation": {
+			"name": "Offerta"
+		},
+		"spell_scry_allies": {
+			"name": "Scruta Alleati"
+		},
+		"spell_scry_shrines": {
+			"name": "Scruta Altari"
+		},
+		"spell_scry_traps": {
+			"name": "Vedi Trappole"
+		},
+		"spell_scry_treasures": {
+			"name": "Scruta Tesori"
+		},
+		"spell_penance": {
+			"name": "Penitenza"
+		},
+		"spell_call_allies": {
+			"name": "Chiama Alleati"
+		},
+		"spell_sacred_path": {
+			"name": "Via Sacra"
+		},
+		"spell_manifest_destiny": {
+			"name": "Destino Manifesto"
+		},
+		"spell_detect_enemy": {
+			"name": "Rileva Nemico"
+		},
+		"spell_detect_enemies": {
+			"name": "Rileva Nemici"
+		},
+		"spell_turn_undead": {
+			"name": "Esorcizza"
+		},
+		"spell_heal_other": {
+			"name": "Cura Altri Min."
+		},
+		"spell_blood_ward": {
+			"name": "Difesa Sangue"
+		},
+		"spell_true_blood": {
+			"name": "Sangue Vero"
+		},
+		"spell_divine_zeal": {
+			"name": "Zelo Divino"
+		},
+		"spell_alter_instrument": {
+			"name": "Muta Strumento"
+		},
+		"spell_maximise": {
+			"name": "Ingrandi"
+		},
+		"spell_minimise": {
+			"name": "Riduci"
+		},
+		"spell_jump": {
+			"name": "Salto"
+		},
+		"spell_incoherence": {
+			"name": "Incoerenza"
+		},
+		"spell_overcharge": {
+			"name": "Sovraccarico"
+		},
+		"spell_envenom_weapon": {
+			"name": "Arma Avvelenata"
+		},
+		"spell_psychic_spear": {
+			"name": "Lancia Psichica"
+		},
+		"spell_defy_flesh": {
+			"name": "Sfida Carne"
+		},
+		"spell_grease_spray": {
+			"name": "Getto Grasso"
+		},
+		"spell_blood_waves": {
+			"name": "Onde Sangue"
+		},
+		"spell_booby_trap": {
+			"name": "Trappola"
+		},
+		"spell_command": {
+			"name": "Vincola"
+		},
+		"spell_metallurgy": {
+			"name": "Metallurgia"
+		},
+		"spell_geomancy": {
+			"name": "Geomanzia"
+		},
+		"spell_forge_key": {
+			"name": "Crea Chiave"
+		},
+		"spell_forge_jewel": {
+			"name": "Crea Gemma"
+		},
+		"spell_enhance_weapon": {
+			"name": "Potenzia Arma"
+		},
+		"spell_reshape_weapon": {
+			"name": "Rimodella Arma"
+		},
+		"spell_alter_arrow": {
+			"name": "Muta Frecce"
+		},
+		"spell_void_chest": {
+			"name": "Forziere Vuoto"
+		},
+		"spell_puncture_void": {
+			"name": "Buca il Vuoto"
+		},
+		"spell_lead_bolt": {
+			"name": "Dardo Piombo"
+		},
+		"spell_mercury_bolt": {
+			"name": "Dardo Mercurio"
+		},
+		"spell_numbing_bolt": {
+			"name": "Dardo Torpore"
+		},
+		"spell_delay_pain": {
+			"name": "Ritarda Dolore"
+		},
+		"spell_curse_flesh": {
+			"name": "Maledici Carne"
+		},
+		"spell_revenant_curse": {
+			"name": "Marchio Revenant"
+		},
+		"spell_cowardice": {
+			"name": "Vilta'"
+		},
+		"spell_courage": {
+			"name": "Coraggio"
+		},
+		"spell_seek_ally": {
+			"name": "Cerca Alleato"
+		},
+		"spell_seek_foe": {
+			"name": "Cerca Nemico"
+		},
+		"spell_deep_shade": {
+			"name": "Ombra Fonda"
+		},
+		"spell_shade_bolt": {
+			"name": "Dardo d'Ombra"
+		},
+		"spell_spirit_weapon": {
+			"name": "Arma Spirito"
+		},
+		"spell_adorcism": {
+			"name": "Adorcismo"
+		},
+		"spell_taboo": {
+			"name": "Capro"
+		},
+		"spell_wonderlight": {
+			"name": "Luce Mirabile"
+		},
+		"spell_spores": {
+			"name": "Spore"
+		},
+		"spell_spore_bomb": {
+			"name": "Bomba Spore"
+		},
+		"spell_windgate": {
+			"name": "Ventoporta"
+		},
+		"spell_vortex": {
+			"name": "Vortice"
+		},
+		"spell_telekinesis": {
+			"name": "Telecinesi"
+		},
+		"spell_kinetic_push": {
+			"name": "Spinta Cinetica"
+		},
+		"spell_disarm": {
+			"name": "Disarma"
+		},
+		"spell_strip": {
+			"name": "Spoglia"
+		},
+		"spell_abundance": {
+			"name": "Abbondanza"
+		},
+		"spell_greater_abundance": {
+			"name": "Grande Abbondanza"
+		},
+		"spell_preserve": {
+			"name": "Preserva"
+		},
+		"spell_restore": {
+			"name": "Ripristina"
+		},
+		"spell_sabotage": {
+			"name": "Sabotaggio"
+		},
+		"spell_harvest_trap": {
+			"name": "Miete Trappola"
+		},
+		"spell_mist_form": {
+			"name": "Forma Nebbia"
+		},
+		"spell_hologram": {
+			"name": "Ologramma"
+		},
+		"spell_force_shield": {
+			"name": "Difesa Cinetica"
+		},
+		"spell_reflector": {
+			"name": "Riflettore"
+		},
+		"spell_splinter_gear": {
+			"name": "Scheggia Armatura"
+		},
+		"spell_lighten_load": {
+			"name": "Alleggerisci"
+		},
+		"spell_attract_items": {
+			"name": "Attira Oggetti"
+		},
+		"spell_return_items": {
+			"name": "Torna Oggetti"
+		},
+		"spell_absorb_magic": {
+			"name": "Assorbi Magia"
+		},
+		"spell_seize_magic": {
+			"name": "Afferra Magia"
+		},
+		"spell_deface": {
+			"name": "Deturpa"
+		},
+		"spell_sunder_monument": {
+			"name": "Spezza Monumento"
+		},
+		"spell_demesne_door": {
+			"name": "Porta Arcana"
+		},
+		"spell_tunnel": {
+			"name": "Portale"
+		},
+		"spell_null_area": {
+			"name": "Zona Nulla"
+		},
+		"spell_sphere_silence": {
+			"name": "Sfera Silenzio"
+		},
+		"spell_forge_metal_scrap": {
+			"name": "Forgia Metallo"
+		},
+		"spell_forge_magic_scrap": {
+			"name": "Forgia Magia"
+		},
+		"spell_fire_sprite": {
+			"name": "Evoca Folletto Fuoco"
+		},
+		"spell_flame_elemental": {
+			"name": "Elementale Fuoco"
+		},
+		"spell_spin": {
+			"name": "Piroetta"
+		},
+		"spell_dizzy": {
+			"name": "Vertigine"
+		},
+		"spell_vandalise": {
+			"name": "Vandalizza"
+		},
+		"spell_desecrate": {
+			"name": "Profana"
+		},
+		"spell_sanctify": {
+			"name": "Santifica"
+		},
+		"spell_sanctify_water": {
+			"name": "Santifica Acqua"
+		},
+		"spell_cleanse_food": {
+			"name": "Purifica Cibo"
+		},
+		"spell_adorcise_instrument": {
+			"name": "Adorcizza Strumento"
+		},
+		"spell_flame_cloak": {
+			"name": "Manto Fiamme"
+		},
+		"spell_critical_spell": {
+			"name": "Magia Critica"
+		},
+		"spell_magic_well": {
+			"name": "Pozzo Magico"
+		},
+		"spell_flame_shield": {
+			"name": "Scudo Fiamme"
+		},
+		"spell_lightning_bolt": {
+			"name": "Fulmine"
+		},
+		"spell_disrupt_earth": {
+			"name": "Sconvolgi Terra"
+		},
+		"spell_earth_spines": {
+			"name": "Spine Terra"
+		},
+		"spell_lightning_nexus": {
+			"name": "Nexus Fulmini"
+		},
+		"spell_fire_wall": {
+			"name": "Muro Fuoco"
+		},
+		"spell_lift": {
+			"name": "Solleva"
+		},
+		"spell_slam": {
+			"name": "Solleva"
+		},
+		"spell_ignite": {
+			"name": "Incendia"
+		},
+		"spell_shatter_objects": {
+			"name": "Frantuma Oggetti"
+		},
+		"spell_kinetic_field": {
+			"name": "Campo Cinetico"
+		},
+		"spell_ice_block": {
+			"name": "Blocco Gelo"
+		},
+		"spell_meteor_shower": {
+			"name": "Pioggia Meteore"
+		},
+		"spell_chronomic_field": {
+			"name": "Campo Cronomico"
+		},
+		"spell_eternals_gaze": {
+			"name": "Sguardo Eterni"
+		},
+		"spell_shatter_earth": {
+			"name": "Frantuma Terra"
+		},
+		"spell_roots": {
+			"name": "Radici"
+		},
+		"spell_mushroom": {
+			"name": "Germoglia"
+		},
+		"spell_mycelium": {
+			"name": "Micelio"
+		},
+		"spell_mycelium_spores": {
+			"name": "Spore Micelio"
+		},
+		"spell_heal_pulse": {
+			"name": "Onda Curativa"
+		},
+		"spell_thorns": {
+			"name": "Spine"
+		},
+		"spell_bladevines": {
+			"name": "Liane Lama"
+		},
+		"spell_bastion_mushroom": {
+			"name": "Bastione"
+		},
+		"spell_bastion_roots": {
+			"name": "Bastione"
+		},
+		"spell_magicians_armor": {
+			"name": "Bolla del Mago"
+		},
+		"spell_project_spirit": {
+			"name": "Proietta Spirito"
+		},
+		"spell_breathe_fire": {
+			"name": "Soffio Fuoco"
+		},
+		"spell_heal_minor": {
+			"name": "Cura Minore"
+		},
+		"spell_holy_fire": {
+			"name": "Fuoco Sacro"
+		},
+		"spell_sigil": {
+			"name": "Sigillo Sacro"
+		},
+		"spell_sanctuary": {
+			"name": "Fortezza Divina"
+		},
+		"spell_holy_beam": {
+			"name": "Raggio Sacro"
+		}
+	}
+}

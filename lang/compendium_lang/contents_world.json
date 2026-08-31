@@ -1,0 +1,376 @@
+{
+	"version": 1,
+	"contents": [
+		{
+			"    ARREDAMENTO": "-"
+		},
+		{
+			"CANCELLO": "portcullis"
+		},
+		{
+			"LEVA": "lever"
+		},
+		{
+			"PULSANTE": "button"
+		},
+		{
+			"SERRATURE A MURO": "wall locks"
+		},
+		{
+			"PORTA": "door"
+		},
+		{
+			"ACQUA TORBIDA": "murky water"
+		},
+		{
+			"LAVA": "lava"
+		},
+		{
+			"POZZI": "pits"
+		},
+		{
+			"CONTENITORI": "containers"
+		},
+		{
+			"BARRIERE FRANGIBILI": "breakable barriers"
+		},
+		{
+			"    LUOGHI": "-"
+		},
+		{
+			"INGRESSO MINIERA": "minehead"
+		},
+		{
+			"SALA DELLE PROVE": "hall of trials"
+		},
+		{
+			"BASTIONE DEL LICH": "herx lair"
+		},
+		{
+			"IL TRONO FUSO": "molten throne"
+		},
+		{
+			"HAMLET": "hamlet"
+		},
+		{
+			"PIANO DI TRANSIZIONE": "transition floor"
+		},
+		{
+			"SANTUARIO CITTADELLA": "citadel sanctum"
+		},
+		{
+			"    DUNGEON": "-"
+		},
+		{
+			"MINIERE": "mines"
+		},
+		{
+			"PALUDI": "swamps"
+		},
+		{
+			"LABIRINTO": "labyrinth"
+		},
+		{
+			"OLTRETOMBA": "underworld"
+		},
+		{
+			"ROVINE": "ruins"
+		},
+		{
+			"INFERNO": "hell"
+		},
+		{
+			"CAVERNE DI CRISTALLO": "crystal caves"
+		},
+		{
+			"CITTADELLA ARCANA": "arcane citadel"
+		},
+		{
+			"    POSTAZIONI": "-"
+		},
+		{
+			"NEGOZIO": "shop"
+		},
+		{
+			"LAVANDINO": "sink"
+		},
+		{
+			"CALDERONE": "cauldron"
+		},
+		{
+			"OFFICINA": "workbench"
+		},
+		{
+			"FONTANA": "fountain"
+		},
+		{
+			"FORZIERE": "chest"
+		},
+		{
+			"LAPIDE": "gravestone"
+		},
+		{
+			"ALTARE ASSIST": "assist shrine"
+		},
+		{
+			"SANTUARIO DI DAEDALUS": "daedalus"
+		},
+		{
+			"OBELISCO": "obelisk"
+		},
+		{
+			"CAMPANA": "bell"
+		},
+		{
+			"    TRAPPOLE": "-"
+		},
+		{
+			"TRAPPOLA A MASSO": "boulder trap"
+		},
+		{
+			"TRAPPOLA A FRECCIA": "arrow trap"
+		},
+		{
+			"TRAPPOLA A SPUNTONI": "spike trap"
+		},
+		{
+			"TRAPPOLA MAGICA": "magic trap"
+		},
+		{
+			"TRAPPOLA EVOCAZIONE": "summoning trap"
+		},
+		{
+			"MASSO DI ZOLFO": "brimstone boulder"
+		},
+		{
+			"MASSO ARCANO": "arcane boulder"
+		},
+		{
+			"TRAPPOLA A SOFFITTO": "ceiling trap"
+		},
+		{
+			"    LUOGHI SEGRETI": "-"
+		},
+		{
+			"MINIERE GNOMESCHE": "gnomish mines"
+		},
+		{
+			"MINETOWN": "minetown"
+		},
+		{
+			"TEMPIO": "temple"
+		},
+		{
+			"CASTELLO INFESTATO": "haunted castle"
+		},
+		{
+			"SOKOBAN": "sokoban"
+		},
+		{
+			"LABIRINTO MINOTAURO": "minotaur maze"
+		},
+		{
+			"BIBLIOTECA MISTICA": "mystic library"
+		},
+		{
+			"TANA DELLA COCCATRICE": "cockatrice lair"
+		},
+		{
+			"CASTELLO DI BRAM": "brams castle"
+		},
+		{
+			"    STORIA DELLE GILDE": "-"
+		},
+		{
+			"GILDA DEI MERCANTI": "merchants guild"
+		},
+		{
+			"GILDA DEI MAGHI": "magicians guild"
+		},
+		{
+			"GILDA DEI CACCIATORI": "hunters guild"
+		},
+		{
+			"LA CHIESA": "the church"
+		},
+		{
+			"GILDA DEI MURATORI": "masons guild"
+		}
+	],
+	"contents_alphabetical": [
+		{
+			"MASSO ARCANO": "arcane boulder"
+		},
+		{
+			"CITTADELLA ARCANA": "arcane citadel"
+		},
+		{
+			"TRAPPOLA A FRECCIA": "arrow trap"
+		},
+		{
+			"ALTARE ASSIST": "assist shrine"
+		},
+		{
+			"CAMPANA": "bell"
+		},
+		{
+			"TRAPPOLA A MASSO": "boulder trap"
+		},
+		{
+			"CASTELLO DI BRAM": "brams castle"
+		},
+		{
+			"BARRIERE FRANGIBILI": "breakable barriers"
+		},
+		{
+			"MASSO DI ZOLFO": "brimstone boulder"
+		},
+		{
+			"PULSANTE": "button"
+		},
+		{
+			"CALDERONE": "cauldron"
+		},
+		{
+			"TRAPPOLA A SOFFITTO": "ceiling trap"
+		},
+		{
+			"FORZIERE": "chest"
+		},
+		{
+			"SANTUARIO CITTADELLA": "citadel sanctum"
+		},
+		{
+			"TANA DELLA COCCATRICE": "cockatrice lair"
+		},
+		{
+			"CONTENITORI": "containers"
+		},
+		{
+			"CAVERNE DI CRISTALLO": "crystal caves"
+		},
+		{
+			"SANTUARIO DI DAEDALUS": "daedalus"
+		},
+		{
+			"PORTA": "door"
+		},
+		{
+			"FONTANA": "fountain"
+		},
+		{
+			"CANCELLO": "portcullis"
+		},
+		{
+			"MINIERE GNOMESCHE": "gnomish mines"
+		},
+		{
+			"LAPIDE": "gravestone"
+		},
+		{
+			"SALA DELLE PROVE": "hall of trials"
+		},
+		{
+			"HAMLET": "hamlet"
+		},
+		{
+			"CASTELLO INFESTATO": "haunted castle"
+		},
+		{
+			"INFERNO": "hell"
+		},
+		{
+			"GILDA DEI CACCIATORI": "hunters guild"
+		},
+		{
+			"LABIRINTO": "labyrinth"
+		},
+		{
+			"LAVA": "lava"
+		},
+		{
+			"LEVA": "lever"
+		},
+		{
+			"BASTIONE DEL LICH": "herx lair"
+		},
+		{
+			"TRAPPOLA MAGICA": "magic trap"
+		},
+		{
+			"GILDA DEI MAGHI": "magicians guild"
+		},
+		{
+			"GILDA DEI MURATORI": "masons guild"
+		},
+		{
+			"GILDA DEI MERCANTI": "merchants guild"
+		},
+		{
+			"INGRESSO MINIERA": "minehead"
+		},
+		{
+			"MINIERE": "mines"
+		},
+		{
+			"MINETOWN": "minetown"
+		},
+		{
+			"LABIRINTO MINOTAURO": "minotaur maze"
+		},
+		{
+			"ACQUA TORBIDA": "murky water"
+		},
+		{
+			"BIBLIOTECA MISTICA": "mystic library"
+		},
+		{
+			"OBELISCO": "obelisk"
+		},
+		{
+			"POZZI": "pits"
+		},
+		{
+			"ROVINE": "ruins"
+		},
+		{
+			"NEGOZIO": "shop"
+		},
+		{
+			"LAVANDINO": "sink"
+		},
+		{
+			"SOKOBAN": "sokoban"
+		},
+		{
+			"TRAPPOLA A SPUNTONI": "spike trap"
+		},
+		{
+			"TRAPPOLA EVOCAZIONE": "summoning trap"
+		},
+		{
+			"PALUDI": "swamps"
+		},
+		{
+			"TEMPIO": "temple"
+		},
+		{
+			"LA CHIESA": "the church"
+		},
+		{
+			"IL TRONO FUSO": "molten throne"
+		},
+		{
+			"PIANO DI TRANSIZIONE": "transition floor"
+		},
+		{
+			"OLTRETOMBA": "underworld"
+		},
+		{
+			"SERRATURE A MURO": "wall locks"
+		},
+		{
+			"OFFICINA": "cauldron"
+		}
+	]
+}

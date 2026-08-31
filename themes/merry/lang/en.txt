@@ -1,0 +1,400 @@
+# English language file
+# all entries must contain a string number, followed by a space, followed by a string, ended by a pound character
+# lines beginning with pound character are a comment
+# blank lines are ignored
+
+98 pupazzo di neve#
+103 elfo#
+110 aiutante di Babbo Natale#
+119 pupazzi di neve#
+124 elfi#
+131 aiutanti di Babbo Natale#
+158 Lampo#
+159 Cupido#
+160 Cometa#
+161 Fulmine#
+162 Ballerina#
+163 Tuono#
+164 Kringle#
+165 Babbo Natale#
+166 Claus#
+167 Sanctus#
+168 Papa Noel#
+169 Tamburino#
+170 Niklaus#
+171 Nicholas#
+172 Nicolas#
+173 Schianto#
+174 Rudolph#
+175 Jack#
+176 Santa#
+177 San Nicola#
+178 Nicolo#
+179 Nikola#
+180 Frosty#
+181 Scrooge#
+182 Ebenezer#
+183 Yul#
+194 Buone Feste!#
+195 Oh oh oh!
+40 Buon Natale!#
+196 Buone Vacanze!#
+197 Sei stato cattivo
+43 quest'anno?#
+198 Meglio di una calza
+45 piena di carbone!#
+199 Ricordati di mandare
+47 un biglietto di "Grazie"!#
+200 E' meglio dare
+49 che ricevere.#
+201 Quell'oggetto mi ha fatto
+51  pensare a te.#
+202 Un ottimo scambio di regali!#
+203 Oh oh oh! No no no.#
+204 Non vuoi essere
+55 sulla mia lista dei cattivi!#
+205 Ti serve una calza
+57 piena d'oro!#
+206 Un regalo generoso!#
+207 Non dovevi disturbarti!#
+208 Sei troppo gentile!#
+209 Conosco un bravo bambino
+62 che vuole questo.#
+210 Conosco una brava bambina
+64 che vuole questo.#
+211 I bambini chiedono
+66 sempre quelli.#
+212 Non e' la stagione per quello.#
+213 Preferirei del budino.#
+214 Non e' sulla mia lista, spiacente.#
+216 A Natale, tutte le
+71 strade portano a casa.#
+
+217 Il Natale ci sara' sempre
+74 finche' staremo cuore
+75 a cuore e mano nella mano.#
+
+218 Una gioia condivisa e' una gioia
+78 raddoppiata.#
+
+219 Il ricordo, come una
+81 candela, brucia piu' luminoso
+82 a Natale.#
+
+220 Natale e' fare un
+85 pochino extra per qualcuno.#
+
+221 Natale e' la stagione
+88 per accendere il fuoco della
+89 ospitalita'.#
+
+222 Possano i tuoi giorni essere
+92 allegri e luminosi!#
+
+223 E' la stagione
+95 del dare!#
+
+224 Il Natale agita una bacchetta
+98 magica su questo mondo,
+99 ed ecco, tutto e'
+100 piu' morbido e piu' bello.#
+
+225 Non e' quanto
+103 diamo, ma quanto amore
+104 mettiamo nel dare.#
+
+226 E' il momento piu'
+107 meraviglioso
+108 dell'anno!#
+
+227 Il Natale non e' solo un
+111 giorno, e' uno stato d'animo.#
+
+228 Il Natale e' una stagione
+114 non solo di gioia,
+115 ma di riflessione.#
+
+229 Il mondo e' diventato
+118 stanco attraverso gli anni,
+119 ma a Natale
+120 e' giovane.#
+
+230 Chi non ha il Natale
+123 nel suo cuore non lo trovera'
+124 mai sotto un albero.#
+
+231 La gioia di illuminare
+127 altre vite diventa per
+128 noi la magia delle
+129 feste.#
+
+232 Dovrei scrivere una filosofia
+132 dei giocattoli, mostrando che
+133 nient'altro nella vita deve
+134 essere preso sul serio.#
+
+233 Forse la migliore decorazione
+137 Natalizia e' essere
+138 avvolti nei sorrisi.#
+
+234 Baby fa freddo fuori.#
+
+235 E' la stagione per essere allegri!#
+255 Vedi una torcia decorata.#
+262 Vedi una fontana decorata.#
+266 Vedi una scatola regalo.#
+267 Vedi una saracinesca decorata.#
+270 Vedi una palla di neve gigante.#
+271 Vedi un albero di Natale.#
+373 Inventario Scatola Regalo#
+374 Preso %s dalla scatola regalo.#
+400 L'incantesimo blocca la scatola regalo!#
+404 L'incantesimo sblocca la scatola regalo!#
+405 Il tuo incantesimo distrugge la palla di neve gigante!#
+455 Sei colpito da una palla di neve gigante!#
+456 Non hai la forza per spostare la palla di neve gigante.#
+459 La scatola regalo si apre!#
+460 Chiudi la scatola regalo!#
+461 Qualcuno ha chiuso la scatola regalo!#
+462 La scatola regalo e' chiusa a chiave!#
+463 Metti il %s nella scatola regalo.#
+
+# headstone messages
+
+485 C'e' un biglietto nell'albero:
+165   "Credo... Credo...
+166   e' sciocco, ma credo."#
+
+486 C'e' un biglietto nell'albero:
+169   "Una buona coscienza e' un
+170   Natale continuo."#
+
+487 C'e' un biglietto nell'albero:
+173   "Doni di tempo e amore sono
+174   sicuramente gli ingredienti base
+175   di un Natale veramente felice"#
+
+488 C'e' un biglietto nell'albero:
+178   "Un miracolo di Natale e' quando
+179   la tua famiglia non entra in
+180   una singola discussione tutto il giorno."#
+
+489 C'e' un biglietto nell'albero:
+183   "E se il Natale non venisse
+184   da un negozio. E se
+185   significasse un po' di piu'?"#
+
+490 C'e' un biglietto nell'albero:
+188   "A Natale, dici
+189   la verita'"#
+
+491 C'e' un biglietto nell'albero:
+192   "Nessun uomo e' un fallito
+193   se ha amici."#
+
+492 C'e' un biglietto nell'albero:
+196   "Nessuno dovrebbe essere solo
+197   a Natale."#
+
+493 C'e' un biglietto nell'albero:
+200   "Il Natale e' obbligatorio, come
+201   un temporale, e lo attraversiamo
+202   tutti insieme."#
+
+494 C'e' un biglietto nell'albero:
+205   "Deve esserci almeno un
+206   giorno dell'anno per ricordarci
+207   che siamo qui per qualcos'altro
+208   oltre noi stessi."#
+
+495 C'e' un biglietto nell'albero:
+211   "Rifletti sulle tue benedizioni
+212   presenti -- di cui ogni uomo
+213   ne ha molte -- non sulle tue sfortune
+214   passate, di cui tutti
+215   gli uomini ne hanno alcune."#
+
+496 C'e' un biglietto nell'albero:
+218   "Thumpity thump thump,
+219   thumpity thump thump,
+220   guarda Frosty andare!"#
+
+497 C'e' un biglietto nell'albero:
+223   "Vischio. E' spesso
+224   infestato dai nargilli."#
+
+498 C'e' un biglietto nell'albero:
+227   "La ragione principale per cui Babbo Natale
+228   e' cosi' allegro e' perche' sa dove
+229   abitano tutte le cattive ragazze."#
+
+499 C'e' un biglietto nell'albero:
+232   "E' un bel tempo
+233   per un giro in slitta
+234   insieme a te."#
+
+500 C'e' un biglietto nell'albero:
+237   "Dolci campane d'argento,
+238   tutte sembrano dire,
+239   ding-dong, m'kay."#
+
+501 C'e' un biglietto nell'albero:
+242   "Lui ama me, io amo te.
+243   Pertanto, variamente,
+244   lui ama te."#
+
+502 Un pupazzo di neve emerge dall'albero!#
+540 "Lo sapevi?"
+248 "Gli aiuti di Babbo Natale non pagano nulla per gemme non identificate."
+249 "E' vero!"#
+563 "Lo sapevi?"
+251 "Elfi e troll sono migliori amici."
+252 "E' vero!"#
+564 "Lo sapevi?"
+254 "Babbo Natale e' davvero un genio magico!"
+255 "E' vero!"#
+568 "Lo sapevi?"
+257 "Le scatole regalo rotte non danno molti oggetti."
+258 "E' vero!"#
+663 Distruggi la palla di neve gigante!#
+667 Colpisci la scatola regalo!#
+671 La scatola regalo e' ridotta in pezzi!#
+675 scatola regalo#
+716 Senti il debole scricchiolio di palle di neve giganti.#
+1003 %+2d dell'anno scorso #
+1004 un %+2d avanzato #
+1005 un %+2d riciclato #
+1029 %d %+2d dell'anno scorso #
+1030 %d %+2d avanzati #
+1031 %d %+2d riciclati #
+1055 dell'anno scorso #
+1056 un avanzato #
+1057 un riciclato #
+1081 %d dell'anno scorso #
+1082 %d avanzati #
+1083 %d riciclati #
+1097 Sblocchi la scatola regalo.#
+1098 Blocchi la scatola regalo.#
+1102 Non riesci a sbloccare la scatola regalo.#
+1105 Questa scatola regalo e' gia' sbloccata.#
+1505 non riesce a schivare la palla di neve in arrivo.#
+1521 viene cancellato dalla lista dei cattivi da un elfo.#
+1527 viene aggiunto alla lista dei cattivi di Babbo Natale.#
+1969 Prendi Tutto dalla Scatola Regalo#
+
+2366 Il piedistallo sembra richiedere una sorta di elemento festivo.#
+2367 L'elemento sfida la tua presa e non puo' essere recuperato!#
+2368 Posizioni l'elemento festivo nel ricettacolo...#
+2370 L'elemento festivo inizia a fluttuare!#
+2377 Vedi un elemento festivo seduto sopra un piedistallo.#
+2520 Il tuo incantesimo distrugge la scatola regalo!#
+
+2712 Il %s
+293  Gli Aiutanti di Babbo Natale sono piu' tosti dopo essere sopravvissuti alla prigione del Barone.#
+2821 Il %s
+295  Ho percepito potere dall'ornamento quando l'hai messo su quel piedistallo.#
+2823 Il %s
+297  Sono stato in grado di intrappolare parte del potere che l'ornamento di Herx ha rilasciato.#
+2824 Il %s
+299  Questo portale perfora il sigillo per le Grotte usando il potere dell'ornamento.#
+2834 %s
+301  Mi interessano solo gli artefatti piu' rari
+302  della terra.              
+303  In particolare, gli elementi festivi che sono stati rubati da Herx.#
+2836 %s
+305  Vedi, un membro della gilda di alto rango
+306  come me puo' estorcere a quei maghi 
+307  ogni centesimo che possiedono con i loro 
+308  preziosi elementi festivi!#
+3088 Quello era dell'anno scorso!#
+3099 scatola regalo#
+3243 Sei sulla mia lista dei cattivi, %s %s!#
+3244 scopre che tutti i %s sono sulla lista dei cattivi di %s.#
+3317 Blocca porte e scatole regalo#
+3897 Noti uno scomparto nascosto dentro la scatola regalo!#
+3974 La palla di neve gigante non puo' essere spostata in quel modo.#
+4004 Chiudi scatola regalo#
+4005 Apri scatola regalo#
+4010 Ispeziona albero di Natale#
+4021 Spingi palla di neve#
+4022 Prendi elemento festivo#
+4088 Hai trovato %d pezzi d'oro nella scatola regalo!#
+4098 Non c'e' piu' spazio nella scatola regalo per un
+323  %s!#
+4099 Preso %d oggetti dalla scatola regalo.#
+4126 Dammi l'elemento direttamente.
+326 Non c'e' bisogno di coinvolgere
+327 formalita' d'oro, ora!#
+4197 Metti %d %s nella scatola regalo.#
+
+# NPC insults
+
+4217 cattivo#
+4218 non gentile#
+4219 disobbediente#
+4220 avido#
+4221 scortese#
+4222 cattivone#
+4223 maleducato#
+4224 disordinato#
+4225 irresponsabile#
+4226 impertinente#
+4227 sprecone#
+4228 egoista#
+4229 bugiardo#
+4230 ladro#
+4231 impenitente#
+4232 piantagrane#
+4233 spione#
+
+4234 Cattivo#
+4235 Non gentile#
+4236 Disobbediente#
+4237 Avido#
+4238 Scortese#
+4239 Cattivone#
+4240 Maleducato#
+4241 Disordinato#
+4242 Irresponsabile#
+4243 Impertinente#
+4244 Sprecone#
+4245 Egoista#
+4246 Bugiardo#
+4247 Ladro#
+4248 Impenitente#
+4249 Piantagrane#
+4250 Spione#
+
+# shop try to buy hidden item
+4252 Spiacente, quelli sono per
+370  bambini Extra-Buoni.#
+4253 Oh no, quello e' per
+372  un altro bambino.#
+4254 Forse se sei
+374  piu' buono l'anno prossimo!#
+
+# shop buy added consumables
+4255 Sei sulla mia lista
+378  Extra-Buoni!#
+4256 Quello e' indirizzato
+380  a te!#
+4257 Fatto apposta per te
+382  nel mio laboratorio.#
+4258 Dalle tasche segrete
+384  del mio sacco!#
+4259 Ne tengo alcuni di quelli nella
+386 mia slitta, giusto in caso.#
+4304 Non sei piu' un nemico degli Aiutanti di Babbo Natale.#
+4305 Ora sei considerato un nemico degli Aiutanti di Babbo Natale
+389 per incitamento alla violenza!#
+4306 Ora sei considerato un nemico degli Aiutanti di Babbo Natale
+391 per complicita' nella violenza!#
+4349 trappola palla di neve#
+4357 albero di natale#
+4358 palla di neve gigante#
+5120 Controlla dimensione dei popup nel mondo per oggetti, alberi di natale e dialoghi NPC.#
+5122 Controlla dimensione dei popup nel mondo per oggetti, alberi di natale e dialoghi NPC in splitscreen.#
+5715 Gli elfi stanno ridendo di te!
+398 Vuoi davvero accettarlo?#
+5805 Palla di Neve Gigante#
+5959 Scatola Regalo#

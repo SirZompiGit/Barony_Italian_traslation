@@ -1,0 +1,160 @@
+{
+	"version": 1,
+	"contents": [
+		{
+			"    OGGETTI MAGICI": "-"
+		},
+		{
+			"BASTONI MAGICI": "magicstaffs"
+		},
+		{
+			"SCETTRO": "scepter"
+		},
+		{
+			"FOCUS ARCANI": "source_foci"
+		},
+		{
+			"SIMBOLI SACRI": "holy_symbols"
+		},
+		{
+			"ICONE OSCURE": "dark_icons"
+		},
+		{
+			"STRUMENTI MUSICALI": "instruments"
+		},
+		{
+			"ANELLI INCANTATI": "enchanted rings"
+		},
+		{
+			"AMULETI INCANTATI": "enchanted amulets"
+		},
+		{
+			"GEMME": "jewels"
+		},
+		{
+			"    ARCANI": "-"
+		},
+		{
+			"PERGAMENE": "scrolls"
+		},
+		{
+			"PIUMA INCANTATA": "enchanted feather"
+		},
+		{
+			"    STREGONERIA": "-"
+		},
+		{
+			"EVOCAZIONE": "evocation"
+		},
+		{
+			"CONTRAVVENZIONE": "contravention"
+		},
+		{
+			"CINESI": "kinesis"
+		},
+		{
+			"TEMULTURGIA": "temulturgy"
+		},
+		{
+			"    TAUMATURGIA": "-"
+		},
+		{
+			"BENEDIZIONI": "blessings"
+		},
+		{
+			"DIVINAZIONI": "divinations"
+		},
+		{
+			"PRODIGI": "miraculous feats"
+		},
+		{
+			"MEDITAZIONI": "meditations"
+		},
+		{
+			"    MISTICISMO": "-"
+		},
+		{
+			"SARCOMANZIA": "sarkomancy"
+		},
+		{
+			"PSIANIMUS": "psianimus"
+		},
+		{
+			"DAIMONIA": "daimonia"
+		},
+		{
+			"IMPETURIA": "impeturia"
+		}
+	],
+	"contents_alphabetical": [
+		{
+			"SCETTRO": "scepter"
+		},
+		{
+			"BENEDIZIONI": "blessings"
+		},
+		{
+			"CONTRAVVENZIONE": "contravention"
+		},
+		{
+			"DAIMONIA": "daimonia"
+		},
+		{
+			"ICONE OSCURE": "dark_icons"
+		},
+		{
+			"DIVINAZIONI": "divinations"
+		},
+		{
+			"AMULETI INCANTATI": "enchanted amulets"
+		},
+		{
+			"PIUMA INCANTATA": "enchanted feather"
+		},
+		{
+			"ANELLI INCANTATI": "enchanted rings"
+		},
+		{
+			"EVOCAZIONE": "evocation"
+		},
+		{
+			"SIMBOLI SACRI": "holy_symbols"
+		},
+		{
+			"IMPETURIA": "impeturia"
+		},
+		{
+			"GEMME": "jewels"
+		},
+		{
+			"CINESI": "kinesis"
+		},
+		{
+			"BASTONI MAGICI": "magicstaffs"
+		},
+		{
+			"MEDITAZIONI": "meditations"
+		},
+		{
+			"PRODIGI": "miraculous feats"
+		},
+		{
+			"STRUMENTI MUSICALI": "instruments"
+		},
+		{
+			"PSIANIMUS": "psianimus"
+		},
+		{
+			"SARCOMANZIA": "sarkomancy"
+		},
+		{
+			"PERGAMENE": "scrolls"
+		},
+		{
+			"FOCUS ARCANI": "source_foci"
+		},
+		{
+			"TEMULTURGIA": "temulturgy"
+		}
+	]
+}
