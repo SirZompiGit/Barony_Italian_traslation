@@ -1,0 +1,1376 @@
+{
+	"version": 1,
+	"descriptions": {
+		"human": {
+			"title": "Umano",
+			"text_line_highlights": {
+				"traits_lines": [
+					1
+				],
+				"benefit_lines": [
+					5,
+					8
+				]
+			},
+			"line_spacing": [
+				4
+			],
+			"traits_active_if_polymorphed_out_of": [],
+			"traits_active_if_polymorphed_into": [
+				2,
+				3
+			],
+			"left_align": [
+				"",
+				"Tratti",
+				"- Nuoto piu' veloce",
+				"- Bene accetto dai negozianti",
+				"",
+				"Resistenze",
+				"Nessuna",
+				"",
+				"Amichevole con",
+				"Umani, Automi"
+			],
+			"right_align": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Debolezze",
+				"Nessuna"
+			]
+		},
+		"skeleton": {
+			"title": "Scheletro",
+			"text_line_highlights": {
+				"traits_lines": [
+					1
+				],
+				"benefit_lines": [
+					10,
+					16
+				]
+			},
+			"traits_active_if_polymorphed_out_of": [
+				5
+			],
+			"traits_active_if_polymorphed_into": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"line_spacing": [
+				4
+			],
+			"left_align": [
+				"",
+				"Tratti",
+				"- Non soffre fame ne' inedia",
+				"- Rigenerazione HP e MP",
+				"    ridotta del 75%",
+				"- Auto-Resurrezione per 75MP",
+				"- Immune al Bruciore",
+				"- Immune allo Strangolamento",
+				"- Velocita' nuoto -50%",
+				"",
+				"Resistenze",
+				"- Spade",
+				"- A Distanza",
+				"- Asce",
+				"- Magia",
+				"",
+				"Amichevole con",
+				"- Ghoul, Automi"
+			],
+			"right_align": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Debolezze",
+				"- Mazze",
+				"- Armi in Asta",
+				"- Punizione"
+			]
+		},
+		"vampire": {
+			"title": "Vampiro",
+			"text_line_highlights": {
+				"traits_lines": [
+					3
+				],
+				"benefit_lines": [
+					1,
+					12,
+					18
+				]
+			},
+			"line_spacing": [
+				20,
+				0,
+				2,
+				0,
+				-2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				-12,
+				0,
+				0,
+				0,
+				0,
+				0,
+				-12,
+				2,
+				0
+			],
+			"traits_active_if_polymorphed_out_of": [
+				8,
+				9,
+				10
+			],
+			"traits_active_if_polymorphed_into": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"left_align": [
+				"",
+				"Magie Innate",
+				"- Salasso, Levitazione",
+				"Tratti",
+				"- Usa HP se senza MP per",
+				"    lanciare e mantenere magie",
+				"- Puo' sostenere la fame",
+				"    solo con Fiale di Sangue",
+				"- Uccisioni danno Fiale",
+				"- Salasso / Assassinio",
+				"    danno Fiale di Sangue",
+				"",
+				"Resistenze",
+				"- Spade",
+				"- A Distanza",
+				"- Asce",
+				"- Magia",
+				"",
+				"Amichevole con",
+				"- Vampiri, Automi"
+			],
+			"right_align": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Debolezze",
+				"- Mazze",
+				"- Armi in Asta",
+				"- Acqua",
+				"- Punizione",
+				"",
+				"",
+				""
+			]
+		},
+		"succubus": {
+			"title": "Succube",
+			"text_line_highlights": {
+				"traits_lines": [
+					3
+				],
+				"benefit_lines": [
+					1,
+					12,
+					16
+				]
+			},
+			"line_spacing": [
+				4,
+				0,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				-4,
+				0,
+				0,
+				0,
+				-8,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"traits_active_if_polymorphed_out_of": [],
+			"traits_active_if_polymorphed_into": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"left_align": [
+				"",
+				"Magie Innate",
+				"- Teletrasporto, Polimorfia",
+				"Tratti",
+				"- Equip. maledetto puo' ess.",
+				"    rimosso; da' bonus",
+				"- Equip. benedetto non e'",
+				"    rimovibile; da' bonus",
+				"- +MP da Strangolamento",
+				"- Puo' reclutare Ubriachi/",
+				"    Umani Confusi",
+				"",
+				"Resistenze",
+				"- Magia",
+				"- Armi in Asta",
+				"",
+				"Amichevole con",
+				"- Succubi, Incubi,",
+				"    Automi"
+			],
+			"right_align": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Debolezze",
+				"- Spade",
+				"- Punizione",
+				"",
+				"",
+				"",
+				""
+			]
+		},
+		"goatman": {
+			"title": "Caprone",
+			"text_line_highlights": {
+				"traits_lines": [
+					1
+				],
+				"benefit_lines": [
+					11,
+					16
+				]
+			},
+			"line_spacing": [
+				4,
+				0,
+				0,
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				4,
+				0,
+				0,
+				0,
+				0,
+				2,
+				0,
+				0
+			],
+			"traits_active_if_polymorphed_out_of": [
+				2,
+				3,
+				9,
+				10
+			],
+			"traits_active_if_polymorphed_into": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"left_align": [
+				"",
+				"Tratti",
+				"- Afflitto da Alcolismo,",
+				"    causa Postumi Sbronza",
+				"- +FOR/COS/Resist. Danni/",
+				"    Azione Libera se Ubriaco",
+				"- Recluta compagni Ubriachi",
+				"- Mangia Latine senza Apriscat.",
+				"- Immune a effetto Unto",
+				"- Puo' trovare pozioni bonus",
+				"    usando fontane",
+				"Resistenze",
+				"- Spade",
+				"",
+				"",
+				"",
+				"Amichevole con",
+				"- Caproni, Automi"
+			],
+			"right_align": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Debolezze",
+				"- Armi in Asta",
+				"- Asce",
+				"- A Distanza",
+				"- Magia"
+			]
+		},
+		"automaton": {
+			"title": "Automa",
+			"text_line_highlights": {
+				"traits_lines": [
+					3
+				],
+				"benefit_lines": [
+					1,
+					12,
+					16
+				]
+			},
+			"line_spacing": [
+				4,
+				0,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				6,
+				0,
+				0,
+				0,
+				-2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"traits_active_if_polymorphed_out_of": [],
+			"traits_active_if_polymorphed_into": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"left_align": [
+				"",
+				"Magie Innate",
+				"- Recupero",
+				"Tratti",
+				"- Richiede Calore (CL) per",
+				"    vivere e lanciare magie",
+				"- Rigenera CL con caldaia",
+				"    calda con gemme e carta",
+				"- Rimuove oggetti maledetti",
+				"- Immune al Bruciore",
+				"- +20 a Riparaz. Meccanica",
+				"- Benvenuto dai Mercanti",
+				"Resistenze",
+				"- A Distanza",
+				"- Mani nude",
+				"",
+				"Amichevole con",
+				"- Automi, Umani"
+			],
+			"right_align": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Debolezze",
+				"- Asce",
+				"- Mazze",
+				"- Magia"
+			]
+		},
+		"incubus": {
+			"title": "Incubo",
+			"text_line_highlights": {
+				"traits_lines": [
+					3
+				],
+				"benefit_lines": [
+					1,
+					10,
+					15
+				]
+			},
+			"line_spacing": [
+				4,
+				0,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"traits_active_if_polymorphed_out_of": [],
+			"traits_active_if_polymorphed_into": [
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"left_align": [
+				"",
+				"Magie Innate",
+				"- Teletrasp., Marchio Arcano",
+				"Tratti",
+				"- Equip. maledetto puo' ess.",
+				"    rimosso; da' bonus",
+				"- Equip. benedetto non e'",
+				"    rimovibile; da' bonus",
+				"- +MP da Strangolamento",
+				"",
+				"Resistenze",
+				"- Magia",
+				"- Armi in Asta",
+				"",
+				"",
+				"Amichevole con",
+				"- Succubi, Incubi,",
+				"    Automi"
+			],
+			"right_align": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Debolezze",
+				"- A Distanza",
+				"- Spade",
+				"- Punizione"
+			]
+		},
+		"goblin": {
+			"title": "Goblin",
+			"text_line_highlights": {
+				"traits_lines": [
+					1
+				],
+				"benefit_lines": [
+					9,
+					14
+				]
+			},
+			"line_spacing": [
+				4
+			],
+			"traits_active_if_polymorphed_out_of": [
+				7
+			],
+			"traits_active_if_polymorphed_into": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"left_align": [
+				"",
+				"Tratti",
+				"- Equip. indossato ha meno",
+				"    prob. di degradare",
+				"- Alzare skill Armi Mischia",
+				"    alza tutte loro",
+				"- Skill Arma aumentano lente",
+				"- Non puo' memoriz. magie",
+				"",
+				"Resistenze",
+				"- Spade",
+				"- Mani nude",
+				"",
+				"",
+				"Amichevole con",
+				"- Goblin, Automi"
+			],
+			"right_align": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Debolezze",
+				"- Asce",
+				"- Armi in Asta",
+				"- A Distanza"
+			]
+		},
+		"insectoid": {
+			"title": "Insettoide",
+			"text_line_highlights": {
+				"traits_lines": [
+					3
+				],
+				"benefit_lines": [
+					1,
+					11,
+					15
+				]
+			},
+			"line_spacing": [
+				4,
+				0,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				-8,
+				0,
+				0,
+				0,
+				8
+			],
+			"traits_active_if_polymorphed_out_of": [
+				4,
+				5,
+				6,
+				7
+			],
+			"traits_active_if_polymorphed_into": [
+				8,
+				9
+			],
+			"left_align": [
+				"",
+				"Magie Innate",
+				"- Svolazzo, Scatto, Getto Acido",
+				"Tratti",
+				"- Richiede Energia (EN) per",
+				"    vivere e lanciare magie",
+				"- Guadagna EN consumando",
+				"    cibo e liquidi dolci",
+				"- Immune a Veleno",
+				"- Immune a cibo marcio",
+				"",
+				"Resistenze",
+				"- Mazze",
+				"- Mani nude",
+				"",
+				"Amichevole con",
+				"- Insettoidi, Scarabei",
+				"    Scorpioni, Automi"
+			],
+			"right_align": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Debolezze",
+				"- Asce",
+				"- Armi in Asta",
+				"- A Distanza",
+				"",
+				""
+			]
+		},
+		"rat": {
+			"title": "Ratto",
+			"text_line_highlights": {
+				"traits_lines": [
+					1
+				],
+				"benefit_lines": [
+					6,
+					14
+				]
+			},
+			"line_spacing": [
+				4
+			],
+			"traits_active_if_polymorphed_out_of": [],
+			"traits_active_if_polymorphed_into": [
+				2,
+				3,
+				4
+			],
+			"left_align": [
+				"",
+				"Tratti",
+				"- Piu' probabilita' di",
+				"    ott. DES/INT a liv. su",
+				"- Immune a cibo marcio",
+				"",
+				"Resistenze",
+				"- Asce",
+				"- Armi in Asta",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Amichevole con",
+				"- Ratti, Automi"
+			],
+			"right_align": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Debolezze",
+				"- Mani nude",
+				"- A Distanza",
+				"- Spade",
+				"- Mazze"
+			]
+		},
+		"spider": {
+			"title": "Ragno",
+			"text_line_highlights": {
+				"traits_lines": [
+					1
+				],
+				"benefit_lines": [
+					6,
+					14
+				]
+			},
+			"line_spacing": [
+				4
+			],
+			"traits_active_if_polymorphed_out_of": [],
+			"traits_active_if_polymorphed_into": [
+				2,
+				3,
+				4
+			],
+			"left_align": [
+				"",
+				"Tratti",
+				"- Piu' probabilita' di",
+				"    ott. PER/COS a liv. su",
+				"- Immune a cibo marcio",
+				"",
+				"Resistenze",
+				"- Nessuna",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Amichevole con",
+				"- Ragni, Scarabei, Scorpioni,",
+				"    Automi"
+			],
+			"right_align": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Debolezze",
+				"- Asce"
+			]
+		},
+		"crab": {
+			"title": "Granchio",
+			"text_line_highlights": {
+				"traits_lines": [
+					1
+				],
+				"benefit_lines": [
+					6,
+					14
+				]
+			},
+			"line_spacing": [
+				4
+			],
+			"traits_active_if_polymorphed_out_of": [],
+			"traits_active_if_polymorphed_into": [
+				2,
+				3,
+				4
+			],
+			"left_align": [
+				"",
+				"Tratti",
+				"- Piu' probabilita' di",
+				"    ott. PER/COS a liv. su",
+				"- Immune a cibo marcio",
+				"",
+				"Resistenze",
+				"- Nessuna",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Amichevole con",
+				"- Granchi, Scarabei, Scorpioni,",
+				"    Automi"
+			],
+			"right_align": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Debolezze",
+				"- Asce"
+			]
+		},
+		"troll": {
+			"title": "Troll",
+			"text_line_highlights": {
+				"traits_lines": [
+					1
+				],
+				"benefit_lines": [
+					6,
+					12
+				]
+			},
+			"line_spacing": [
+				4
+			],
+			"traits_active_if_polymorphed_out_of": [],
+			"traits_active_if_polymorphed_into": [
+				2,
+				3,
+				4
+			],
+			"left_align": [
+				"",
+				"Tratti",
+				"- Piu' probabilita' di",
+				"    ott. FOR/COS a liv. su",
+				"- Immune a cibo marcio",
+				"",
+				"Resistenze",
+				"- Mazze",
+				"- Armi in Asta",
+				"- Mani nude",
+				"- A Distanza",
+				"",
+				"Amichevole con",
+				"- Troll, Automi"
+			],
+			"right_align": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Debolezze",
+				"- Spade",
+				"- Asce"
+			]
+		},
+		"imp": {
+			"title": "Imp",
+			"text_line_highlights": {
+				"traits_lines": [
+					1
+				],
+				"benefit_lines": [
+					7,
+					11
+				]
+			},
+			"line_spacing": [
+				4
+			],
+			"traits_active_if_polymorphed_out_of": [],
+			"traits_active_if_polymorphed_into": [
+				2,
+				3,
+				4,
+				5
+			],
+			"left_align": [
+				"",
+				"Tratti",
+				"- Piu' probabilita' di",
+				"    ott. INT/DES a liv. su",
+				"- Levitazione",
+				"- Immune a cibo marcio",
+				"",
+				"Resistenze",
+				"- Asce",
+				"",
+				"",
+				"Amichevole con",
+				"- Imp, Automi"
+			],
+			"right_align": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Debolezze",
+				"- Magia",
+				"- Spade"
+			]
+		},
+		"dryad": {
+			"title": "Driade",
+			"text_line_highlights": {
+				"traits_lines": [
+					3
+				],
+				"benefit_lines": [
+					1,
+					13,
+					18
+				]
+			},
+			"line_spacing": [
+				22,
+				0,
+				2,
+				0,
+				-2,
+				-2,
+				0,
+				-2,
+				-2,
+				0,
+				0,
+				0,
+				-12,
+				0,
+				0,
+				0,
+				0,
+				-8,
+				0,
+				0
+			],
+			"traits_active_if_polymorphed_out_of": [],
+			"traits_active_if_polymorphed_into": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"left_align": [
+				"",
+				"Magie Innate",
+				"- Germoglia, Spine",
+				"Tratti",
+				"- Fa fogliame salendo di LIV",
+				"    senza copricapo,",
+				"    da' +PWR, +RGN MP",
+				"- +% Crescita bevendo",
+				"    acqua; forma corta da'",
+				"    +% e +5% evasione",
+				"- -20% crescita CAR",
+				"- Bene accetto dai negozianti",
+				"",
+				"Resistenze",
+				"- A Distanza",
+				"- Mani nude",
+				"- Armi in Asta",
+				"",
+				"Amichevole con",
+				"- Driadi; Umani (Neutrale)"
+			],
+			"right_align": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Debolezze",
+				"- Fuoco",
+				"- Asce",
+				"- Spade",
+				"- Magia",
+				"",
+				""
+			]
+		},
+		"myconid": {
+			"title": "Miconide",
+			"text_line_highlights": {
+				"traits_lines": [
+					3
+				],
+				"benefit_lines": [
+					1,
+					14,
+					18
+				]
+			},
+			"line_spacing": [
+				22,
+				0,
+				2,
+				0,
+				-2,
+				-2,
+				0,
+				-2,
+				-2,
+				0,
+				0,
+				0,
+				-12,
+				0,
+				0,
+				0,
+				-8
+			],
+			"traits_active_if_polymorphed_out_of": [],
+			"traits_active_if_polymorphed_into": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				12
+			],
+			"left_align": [
+				"",
+				"Magie Innate",
+				"- Germoglia, Spore",
+				"Tratti",
+				"- Fa fogliame salendo di LIV",
+				"    senza copricapo,",
+				"    da' difesa fisica",
+				"- +MP e +% Crescita da",
+				"    cibo marcio; forma corta",
+				"    aumenta la %",
+				"- Immune all'indigestione",
+				"- -20% crescita DES",
+				"- Bene accetto dai negozianti",
+				"",
+				"Resistenze",
+				"- Mazze",
+				"- Magia",
+				"",
+				"Amichevole con",
+				"- Miconidi; Umani (Neutrale)"
+			],
+			"right_align": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Debolezze",
+				"- Spade",
+				"- Asce",
+				"",
+				"",
+				""
+			]
+		},
+		"salamander": {
+			"title": "Salamandra",
+			"text_line_highlights": {
+				"traits_lines": [
+					3
+				],
+				"benefit_lines": [
+					1,
+					14,
+					19
+				]
+			},
+			"line_spacing": [
+				52,
+				-2,
+				0,
+				-2,
+				-2,
+				0,
+				0,
+				-2,
+				-2,
+				-2,
+				-2,
+				0,
+				0,
+				-16,
+				-2,
+				-2,
+				-2,
+				-10,
+				-4,
+				-2
+			],
+			"traits_active_if_polymorphed_out_of": [
+				4,
+				5,
+				6,
+				10,
+				11
+			],
+			"traits_active_if_polymorphed_into": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"left_align": [
+				"",
+				"Magie Innate",
+				"- Soffio di Fuoco",
+				"Tratti",
+				"- Usa il Fervore (FR) per",
+				"    le magie, rigenera al 50%",
+				"- Guadagnare XP aumenta FR",
+				"- Va in Forma Radiante col",
+				"    Soffio di Fuoco al 75% FR",
+				"- Forma di Pietra al 25% FR",
+				"- CAR migliora Forme e FR",
+				"- +35% fame",
+				"- Bene accetto dai negozianti",
+				"",
+				"Resistenze",
+				"- Spade",
+				"- Mani nude",
+				"- Fuoco",
+				"",
+				"Amichevole con",
+				"- Salamandre;",
+				"    Umani (Neutrale)"
+			],
+			"right_align": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Debolezze",
+				"- Armi in Asta",
+				"- A Distanza",
+				"",
+				"",
+				"",
+				"",
+				""
+			]
+		},
+		"gremlin": {
+			"title": "Gremlin",
+			"text_line_highlights": {
+				"traits_lines": [
+					3
+				],
+				"benefit_lines": [
+					1,
+					11,
+					18
+				]
+			},
+			"line_spacing": [
+				20,
+				0,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				-12,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				-12
+			],
+			"traits_active_if_polymorphed_out_of": [],
+			"traits_active_if_polymorphed_into": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"left_align": [
+				"",
+				"Magie Innate",
+				"- Deturpa",
+				"Tratti",
+				"- Bravo a rompere oggetti",
+				"    che danno VEL, RGN MP, DAN",
+				"    piu' ne rompi",
+				"- Evasivo se Scivoloso",
+				"- Vista Furtiva migliore",
+				"- -20% crescita COS",
+				"",
+				"Resistenze",
+				"- Armi in Asta",
+				"- Magia",
+				"- A Distanza",
+				"- Mani nude",
+				"- Mazze",
+				"",
+				"Amichevole con",
+				"- Gremlin; Goblin (Neutrale)"
+			],
+			"right_align": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Debolezze",
+				"- Spade",
+				"- Asce",
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			]
+		},
+		"gnome": {
+			"title": "Gnomo",
+			"text_line_highlights": {
+				"traits_lines": [
+					3
+				],
+				"benefit_lines": [
+					1,
+					13,
+					17
+				]
+			},
+			"line_spacing": [
+				4,
+				0,
+				4,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				-8,
+				0,
+				0,
+				0
+			],
+			"traits_active_if_polymorphed_out_of": [],
+			"traits_active_if_polymorphed_into": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			],
+			"left_align": [
+				"",
+				"Magie Innate",
+				"- Crea Gemma",
+				"Tratti",
+				"- Sente l'oro (da Cieco)",
+				"- Piu' oro dai contenitori",
+				"- Piu' RGN MP accumulando",
+				"    oro",
+				"- Combattimento col Piccone",
+				"- -20% crescita FRZ",
+				"- Recluta con gemme create",
+				"- Bene accetto dai negozianti",
+				"",
+				"Resistenze",
+				"- Armi in Asta",
+				"- Spade",
+				"",
+				"Neutrale con",
+				"- Umani, Troll"
+			],
+			"right_align": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"",
+				"Debolezze",
+				"- Magia",
+				"- A Distanza",
+				"",
+				"",
+				""
+			]
+		}
+	}
+}

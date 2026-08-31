@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"press_a_to_advance": true,
+	"text": [
+		"*3Attraverso il portale, una magia debole ti trascina via dalla Cittadella.\n",
+		"I tuoi piedi fluttuano sopra il pavimento mentre trema violentemente.\n",
+		"Tubi e pistoni crollano in un frastuono ovattato...\n^",
+		"*1Stringi gli occhi, fiducioso che il portale ti portera' in salvo.\n^",
+		"*2Sembra che tu abbia ottenuto cio' per cui sei venuto, anche se non come previsto.\n",
+		"Il potere non puo' essere semplicemente posseduto... deve essere usato.\n^",
+		"Gli anni seguenti non sono facili per il mondo di superficie. Alla fine, imparano\n",
+		"che la gioia e la gloria si trovano nella forza.\n^",
+		"*1Distruggi coloro che ti si oppongono. Alla fine, anche gli umani portano il tuo stendardo.\n",
+		"*2Puo' qualche impero sfidare cio' che hai costruito? I profeti insegnano che lo\n",
+		"spirito umano e' piu' forte di tutto. Temi che quel potere sia reale...\n^",
+		"*1Potere che sai che sara' sempre in attesa."
+	],
+	"images": [
+		"images/ui/Main Menus/Story/black.png",
+		"images/ui/Main Menus/Story/white.png",
+		"images/ui/Main Menus/Story/PowerWaiting.png",
+		"images/ui/Main Menus/Story/intro3.png",
+		"images/ui/Main Menus/Story/EvilThrone.png",
+		"images/ui/Main Menus/Story/PowerWaiting.png"
+	]
+}

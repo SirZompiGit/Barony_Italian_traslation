@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"press_a_to_advance": true,
+	"text": [
+		"*3Attraverso il portale, una magia debole ti trascina via dalla Cittadella.\n",
+		"I tuoi piedi fluttuano sopra il pavimento mentre trema violentemente.\n",
+		"Tubi e pistoni crollano in un frastuono ovattato...\n^",
+		"*1Cerchi di scacciare il terrore e chiudi gli occhi.\n^",
+		"*3Appari improvvisamente, nella Gilda dei Maghi ci sono un mago e un vescovo.\n",
+		"Le loro facce sono confuse, ma attendono la tua reazione con paziente meraviglia.\n",
+		"Sono le stesse persone che hanno ucciso la tua specie cosi' di recente?\n^",
+		"*3Sebbene instabile all'inizio, i tuoi popoli costruiscono un'alleanza di pace.\n",
+		"Attraverso il tuo esempio, insettoidi, umani, uomini capra e goblin abbracciano il coraggio\n",
+		"invece della paura. Il commercio prospera ad Hamlet mentre la gente frena la brama di potere.\n^",
+		"*2Prendi posto a corte e vieni presto incoronato nuovo Barone. Giuri di mantenere\n",
+		"segreto il potere dei lich e di impedire a chiunque di cercare di nuovo quel potere.\n^",
+		"*1Potere che sai che sara' sempre in attesa."
+	],
+	"images": [
+		"*images/ui/Main Menus/Story/black.png",
+		"*images/ui/Main Menus/Story/white.png",
+		"*images/ui/Main Menus/Story/HeroRescued.png",
+		"*images/ui/Main Menus/Story/intro1.png",
+		"*images/ui/Main Menus/Story/throne.png",
+		"*images/ui/Main Menus/Story/PowerWaiting.png"
+	]
+}

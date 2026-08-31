@@ -1,0 +1,30 @@
+
+	Attributi del Personaggio
+
+	Del Capo Gilda Slovinick
+
+	
+
+	Poiche' i test di salute e carattere dei nuovi candidati sono diventati una priorita' sulla scia del Disastro di Summerset che ha rovinato la celebrazione delle vacanze di tutti la scorsa stagione, mi sono preso l'incarico di creare un nuovo codice di giudizio, organizzato lungo sei assi separati, per giudicare le qualita' di ogni particolare persona.
+
+	Sia noto che per ognuna di queste scale, la base con cui tutti i gradi sono giudicati sara' 0, che rappresenta la massima media di tutti nella gilda; e che un numero positivo indichera' un grado piu' alto della media tra i suoi pari, mentre un numero negativo denotera' la questione opposta.
+
+	Ora agli attributi stessi:
+
+	Forza (STR): Una scala per rappresentare la possanza di una persona. Persone di forza superiore colpiscono piu' forte e possono trasportare piu' equipaggiamento senza essere affaticate.
+
+	Destrezza (DEX): Una scala per rappresentare la velocita' e l'agilita' di una persona. Persone di destrezza superiore possono sia muoversi piu' velocemente che essere piu' sicure nei loro colpi, mentre sono anche piu' capaci con armi a distanza.
+
+	Costituzione (CON): Una scala per rappresentare la tempra di una persona. Persone di costituzione superiore sopportano dolori e difficolta' meglio di quelli con la minore, e possono anche essere piu' veloci a recuperare da malanni. (Nota dell'editore: la ricerca moderna puo' smentire quest'ultima misura, poiche' abbiamo trovato che il veleno dei ragni giganti si risolve entro 10 secondi in quasi tutti i casi.)
+
+	Intelligenza (INT): Una scala per rappresentare l'ingegno di una persona. Persone di intelligenza superiore possono dedurre ed eseguire i nostri metodi mistici e magici meglio di quelli con una minore intelligenza. Una mente forte e' anche piu' connessa alle energie magiche, permettendo potere magico e rigenerazione piu' forti.
+
+	Percezione (PER): Una scala per rappresentare il potere dei sensi di una persona. Persone di percezione superiore possono perforare le ombre della notte meglio di quelli con percezione minore, e i loro sensi affinati forniscono maggiore acuita' con compiti molto precisi nel tiro e nella meccanica.
+
+	Carisma (CHR): Una scala per rappresentare il fascino di una persona. Persone di carisma superiore possono avere migliore fortuna nella coercizione degli altri, particolarmente nel commercio e nel campo di battaglia. Gli alleati rispondono alla chiamata di un leader carismatico piu' rapidamente.
+
+	Possa la Gilda dei Maghi usare questa guida finche' futuri capi gilda la riterranno non necessaria.
+
+	~ Capo Gilda Slovinick
+
+	6/16/158

@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"press_a_to_advance": true,
+	"text": [
+		"*2Fendendo ogni demone sul tuo cammino, salti attraverso il\n",
+		"portale.^ Nessuna entita', mortale o immortale, puo' sfidare il tuo potere.\n^",
+		"*2Improvvisamente, ti ritrovi stanco in un infinito salone bianco punteggiato\n",
+		"di enormi pilastri che si estendono piu' in alto di quanto tu possa vedere.\n",
+		"*2L'odore del sangue e' forte nel tuo respiro mentre aspetti teso il tuo\n",
+		"prossimo nemico. Tuttavia, sei snervato quando una voce rimbomba:\n^",
+		"*3\"Abbiamo assistito alla tua forza e brama di potere. Non eri atteso qui.\n",
+		"Siamo tuttavia impressionati dalla tua ferocia e concentrazione. Ti chiediamo di considerare questa\n",
+		"proposta, potente...\"\n^",
+		"*3Mentre la voce ti parla, scopri di essere tentato dalle sue parole. Parla\n",
+		"di un potere piu' grande di Herx e Baphomet. Sostiene di essere piu' grande di\n",
+		"te stesso. La prospettiva di un concorrente non sara' tollerata...\n^",
+		"*2Senza preavviso, ti ritrovi trasportato in un'abitazione umana ad Hamlet.\n",
+		"Ma i suoi abitanti sono troppo ubriachi per notarlo mentre scivoli nel retro.\n^",
+		"*1Una botola conduce a una fogna, oltre la quale percepisci una grande magia che ti chiama..."
+	],
+	"images": [
+		"*images/ui/Main Menus/Story/black.png",
+		"*images/ui/Main Menus/Story/white.png",
+		"*images/ui/Main Menus/Story/NoEternals.png",
+		"*images/ui/Main Menus/Story/Eternals.png",
+		"*images/ui/Main Menus/Story/white.png",
+		"*images/ui/Main Menus/Story/MagiciansGuild.png",
+		"*images/ui/Main Menus/Story/black.png"
+	]
+}
